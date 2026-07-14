@@ -1,4 +1,4 @@
-name: BJJ Price Tracker
+name: .github/workflows/price-tracker.yml
 
 on:
   schedule:
