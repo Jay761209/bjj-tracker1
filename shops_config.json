@@ -1,0 +1,77 @@
+{
+  "_lees_dit": "Shops met 'shopify' zijn geverifieerd of hebben een sterke Shopify-indicatie. Verifieer nieuwe shops door <url>/products.json in je browser te openen -- zie je JSON-data, dan werkt het.",
+  "shops": [
+    {
+      "name": "BJJ Fightgear",
+      "platform": "shopify",
+      "base_url": "https://bjjfightgear.com",
+      "_verified": true
+    },
+    {
+      "name": "StockBJJ",
+      "platform": "shopify",
+      "base_url": "https://www.stockbjj.com",
+      "_verified": true
+    },
+    {
+      "name": "Fightstyle.nl",
+      "platform": "shopify",
+      "base_url": "https://fightstyle.nl",
+      "_verified": false
+    },
+    {
+      "name": "Progress Jiu Jitsu Europe",
+      "platform": "shopify",
+      "base_url": "https://www.progressjj-europe.com",
+      "_verified": false
+    },
+    {
+      "name": "Gold BJJ",
+      "platform": "shopify",
+      "base_url": "https://goldbjj.com",
+      "_verified": false
+    },
+    {
+      "name": "Rebelz",
+      "platform": "shopify",
+      "base_url": "https://rebelz.eu",
+      "_verified": false
+    },
+    {
+      "name": "Kingz Europe",
+      "platform": "shopify",
+      "base_url": "https://kingzeurope.com",
+      "_verified": false
+    },
+    {
+      "name": "Braus Fight Europe",
+      "platform": "shopify",
+      "base_url": "https://eu.brausfight.com",
+      "_verified": false
+    },
+    {
+      "name": "Fuji Sports",
+      "platform": "shopify",
+      "base_url": "https://fujisports.com",
+      "_verified": false
+    },
+    {
+      "name": "Kickboxing-shop.nl",
+      "platform": "html",
+      "base_url": "https://kickboxing-shop.nl",
+      "_verified": false,
+      "_note": "Geen Shopify-indicatie gezien -- parser moet nog gebouwd worden in fetch_html_shop()"
+    },
+    {
+      "name": "OLB Sports",
+      "platform": "html",
+      "base_url": "https://olbsports.nl",
+      "_verified": false,
+      "_note": "Geen Shopify-indicatie gezien -- parser moet nog gebouwd worden in fetch_html_shop()"
+    }
+  ],
+  "keywords": [
+    "gi", "kimono", "rashguard", "rash guard", "belt", "band",
+    "spats", "fight short", "shorts", "no-gi", "nogi"
+  ]
+}
