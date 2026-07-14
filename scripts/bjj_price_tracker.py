@@ -1,4 +1,3 @@
-scripts/bjj_price_tracker.py
 #!/usr/bin/env python3
 """
 BJJ Price Tracker
