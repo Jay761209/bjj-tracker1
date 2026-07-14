@@ -1,3 +1,4 @@
+scripts/shops_config.json
 {
   "_lees_dit": "Shops met 'shopify' zijn geverifieerd of hebben een sterke Shopify-indicatie. Verifieer nieuwe shops door <url>/products.json in je browser te openen -- zie je JSON-data, dan werkt het.",
   "shops": [
