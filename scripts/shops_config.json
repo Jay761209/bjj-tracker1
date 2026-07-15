@@ -57,17 +57,17 @@
     },
     {
       "name": "Kickboxing-shop.nl",
-      "platform": "html",
+      "platform": "shopify",
       "base_url": "https://kickboxing-shop.nl",
-      "_verified": false,
-      "_note": "Geen Shopify-indicatie gezien -- parser moet nog gebouwd worden in fetch_html_shop()"
+      "_verified": true,
+      "_note": "Bleek toch Shopify te zijn (eerder onterecht als 'html' gemarkeerd)"
     },
     {
       "name": "OLB Sports",
-      "platform": "html",
+      "platform": "woocommerce",
       "base_url": "https://olbsports.nl",
       "_verified": false,
-      "_note": "Geen Shopify-indicatie gezien -- parser moet nog gebouwd worden in fetch_html_shop()"
+      "_note": "WordPress/WooCommerce -- gebruikt de publieke Store API. Test na uploaden of dit werkt (check de Actions-logs)."
     }
   ],
   "keywords": [
