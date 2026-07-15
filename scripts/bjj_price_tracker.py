@@ -90,6 +90,83 @@ def fetch_shopify_shop(shop):
     return products
 
 
+def fetch_woocommerce_shop(shop):
+    """Fetch producten via de publieke WooCommerce Store API.
+
+    Deze API (/wp-json/wc/store/v1/products) wordt gebruikt door de
+    moderne WooCommerce cart/checkout-blocks en is meestal publiek
+    toegankelijk zonder authenticatie. Werkt niet als de shop deze API
+    heeft uitgeschakeld of een oudere WooCommerce-versie gebruikt.
+    """
+    base_url = shop["base_url"].rstrip("/")
+    products = []
+    page = 1
+
+    while True:
+        url = f"{base_url}/wp-json/wc/store/v1/products?per_page=100&page={page}"
+        try:
+            resp = requests.get(url, headers=HEADERS, timeout=20)
+            resp.raise_for_status()
+        except requests.RequestException as e:
+            print(f"  [WARN] Kon {url} niet ophalen: {e}", file=sys.stderr)
+            break
+
+        try:
+            batch = resp.json()
+        except ValueError:
+            print(f"  [WARN] Geen geldige JSON van {url} -- API mogelijk uitgeschakeld", file=sys.stderr)
+            break
+
+        if not isinstance(batch, list) or not batch:
+            break
+
+        for product in batch:
+            name = product.get("name", "")
+            # WooCommerce Store API heeft geen apart merk-veld; benader
+            # het merk met het eerste woord van de producttitel.
+            brand = name.split(" ")[0] if name else ""
+            prices = product.get("prices", {})
+            minor_unit = int(prices.get("currency_minor_unit", 2))
+            price_raw = prices.get("price") or prices.get("regular_price") or "0"
+            try:
+                price = float(price_raw) / (10 ** minor_unit)
+            except (TypeError, ValueError):
+                price = 0.0
+
+            in_stock = product.get("is_in_stock", True)
+            permalink = product.get("permalink", base_url)
+            variations = product.get("variations", [])
+
+            if variations:
+                for v in variations:
+                    attrs = v.get("attributes", [])
+                    size = ", ".join(a.get("value", "") for a in attrs) or "Diverse opties"
+                    products.append({
+                        "shop": shop["name"],
+                        "brand": brand,
+                        "product": name,
+                        "size": size,
+                        "price": price,
+                        "in_stock": in_stock,
+                        "url": permalink,
+                    })
+            else:
+                products.append({
+                    "shop": shop["name"],
+                    "brand": brand,
+                    "product": name,
+                    "size": "One Size",
+                    "price": price,
+                    "in_stock": in_stock,
+                    "url": permalink,
+                })
+
+        page += 1
+        time.sleep(0.5)
+
+    return products
+
+
 def fetch_html_shop(shop):
     """Placeholder voor niet-Shopify shops.
 
@@ -107,6 +184,8 @@ def fetch_shop(shop):
     print(f"Ophalen: {shop['name']} ({shop['base_url']}) ...")
     if shop["platform"] == "shopify":
         return fetch_shopify_shop(shop)
+    elif shop["platform"] == "woocommerce":
+        return fetch_woocommerce_shop(shop)
     elif shop["platform"] == "html":
         return fetch_html_shop(shop)
     else:
@@ -213,6 +292,13 @@ def main():
 
     old_snapshot = load_json(SNAPSHOT_PATH, [])
     drops, increases, new_products = compare_snapshots(old_snapshot, all_products)
+
+    # Verrijk elk product met de vorige prijs, zodat de website
+    # prijsdalingen kan tonen zonder de hele geschiedenis te hoeven laden.
+    old_by_key = {make_key(i): i for i in old_snapshot}
+    for item in all_products:
+        old = old_by_key.get(make_key(item))
+        item["previous_price"] = old["price"] if old else None
 
     # Sla nieuwe snapshot op
     with open(SNAPSHOT_PATH, "w", encoding="utf-8") as f:
