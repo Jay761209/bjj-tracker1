@@ -1,4 +1,4 @@
-name: .github/workflows/price-tracker.yml
+name: BJJ Price Tracker
 
 on:
   schedule:
@@ -31,10 +31,13 @@ jobs:
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
         run: python scripts/bjj_price_tracker.py
 
+      - name: Copy data for GitHub Pages
+        run: cp data/latest_snapshot.json docs/latest_snapshot.json
+
       - name: Commit updated data
         run: |
           git config user.name "bjj-price-tracker-bot"
           git config user.email "actions@github.com"
-          git add data/
+          git add data/ docs/
           git diff --quiet --cached || git commit -m "Dagelijkse prijsupdate $(date +'%Y-%m-%d')"
           git push
