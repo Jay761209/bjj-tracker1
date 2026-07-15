@@ -65,6 +65,9 @@
   a { color: var(--accent); text-decoration: none; }
   a:hover { text-decoration: underline; }
   .price { font-weight: 600; text-align: right; }
+  .price-drop { color: var(--green); }
+  .old-price { text-decoration: line-through; color: var(--text-secondary); font-weight: 400; font-size: 11px; margin-right: 4px; }
+  .drop-badge { display: inline-block; background: rgba(62,207,142,0.15); color: var(--green); font-size: 11px; font-weight: 600; padding: 1px 6px; border-radius: 6px; margin-left: 6px; }
   .out-of-stock { opacity: 0.45; }
   .table-wrap { max-height: 70vh; overflow-y: auto; border-radius: 10px; }
   .updated { font-size: 12px; color: var(--text-secondary); margin-top: 16px; }
@@ -101,6 +104,7 @@ function renderDashboard(data) {
   const avg = data.length ? (data.reduce((s, d) => s + d.price, 0) / data.length) : 0;
   const min = data.length ? Math.min(...data.map(d => d.price)) : 0;
   const inStock = data.filter(d => d.in_stock).length;
+  const dropsCount = data.filter(d => d.previous_price != null && d.price < d.previous_price).length;
 
   contentEl.innerHTML = `
     <div class="stats">
@@ -108,7 +112,7 @@ function renderDashboard(data) {
       <div class="stat-card"><div class="stat-label">Shops</div><div class="stat-value">${shops.length}</div></div>
       <div class="stat-card"><div class="stat-label">Gemiddelde prijs</div><div class="stat-value">&euro;${avg.toFixed(2)}</div></div>
       <div class="stat-card"><div class="stat-label">Goedkoopste</div><div class="stat-value">&euro;${min.toFixed(2)}</div></div>
-      <div class="stat-card"><div class="stat-label">Op voorraad</div><div class="stat-value">${inStock.toLocaleString('nl-NL')}</div></div>
+      <div class="stat-card"><div class="stat-label" style="color: var(--green);">Prijsdalingen</div><div class="stat-value" style="color: var(--green);">${dropsCount}</div></div>
     </div>
 
     <div class="controls">
@@ -121,6 +125,7 @@ function renderDashboard(data) {
         <option value="price-asc">Prijs laag-hoog</option>
         <option value="price-desc">Prijs hoog-laag</option>
         <option value="brand">Merk A-Z</option>
+        <option value="drops">Grootste prijsdalingen eerst</option>
       </select>
     </div>
 
@@ -155,18 +160,29 @@ function renderDashboard(data) {
     if (sortMode === 'price-asc') rows.sort((a, b) => a.price - b.price);
     else if (sortMode === 'price-desc') rows.sort((a, b) => b.price - a.price);
     else if (sortMode === 'brand') rows.sort((a, b) => a.brand.localeCompare(b.brand));
+    else if (sortMode === 'drops') {
+      rows = rows.filter(d => d.previous_price != null && d.price < d.previous_price);
+      rows.sort((a, b) => (a.price - a.previous_price) - (b.price - b.previous_price));
+    }
 
     rows = rows.slice(0, 500); // performance: toon max 500 rijen tegelijk
 
-    document.getElementById('table-body').innerHTML = rows.map(d => `
+    document.getElementById('table-body').innerHTML = rows.map(d => {
+      const isDrop = d.previous_price != null && d.price < d.previous_price;
+      const pctOff = isDrop ? Math.round((1 - d.price / d.previous_price) * 100) : 0;
+      const priceCell = isDrop
+        ? `<span class="old-price">&euro;${d.previous_price.toFixed(2)}</span><span class="price-drop">&euro;${d.price.toFixed(2)}</span><span class="drop-badge">-${pctOff}%</span>`
+        : `&euro;${d.price.toFixed(2)}`;
+      return `
       <tr class="${!d.in_stock ? 'out-of-stock' : ''}">
         <td>${escapeHtml(d.brand)}</td>
         <td><a href="${d.url}" target="_blank" rel="noopener">${escapeHtml(d.product)}</a></td>
         <td>${escapeHtml(d.size)}</td>
         <td>${escapeHtml(d.shop)}</td>
-        <td class="price">&euro;${d.price.toFixed(2)}</td>
+        <td class="price">${priceCell}</td>
       </tr>
-    `).join('') || '<tr><td colspan="5" style="text-align:center; padding: 24px;">Geen resultaten</td></tr>';
+    `;
+    }).join('') || '<tr><td colspan="5" style="text-align:center; padding: 24px;">Geen resultaten</td></tr>';
   }
 
   function escapeHtml(str) {
