@@ -32,7 +32,9 @@ jobs:
         run: python scripts/bjj_price_tracker.py
 
       - name: Copy data for GitHub Pages
-        run: cp data/latest_snapshot.json docs/latest_snapshot.json
+        run: |
+          cp data/latest_snapshot.json docs/latest_snapshot.json
+          cp data/price_history.json docs/price_history.json
 
       - name: Commit updated data
         run: |
