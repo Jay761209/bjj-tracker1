@@ -3095,7 +3095,7 @@
     "product": "Ground Force Aero Shorts - Black",
     "size": "M",
     "price": 49.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://bjjfightgear.com/products/aero-shorts-black",
     "previous_price": 49.0
   },
@@ -5405,7 +5405,7 @@
     "product": "Ground Game FC Armbar Rashguard  short sleeve",
     "size": "XL",
     "price": 48.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://bjjfightgear.com/products/ground-game-fc-armbar-rashguard-short-sleeve",
     "previous_price": 48.0
   },
@@ -15765,7 +15765,7 @@
     "product": "Defense Soap 3 Bar Soap Set",
     "size": "Default Title",
     "price": 19.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/defense-soap-3-bar-soap-set",
     "previous_price": 19.95
   },
@@ -24235,7 +24235,7 @@
     "product": "Vintage Futebol Shorts",
     "size": "S",
     "price": 55.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/vintage-futebol-shorts",
     "previous_price": 55.0
   },
@@ -24265,7 +24265,7 @@
     "product": "Vintage Futebol Shorts",
     "size": "XL",
     "price": 55.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/vintage-futebol-shorts",
     "previous_price": 55.0
   },
@@ -27925,7 +27925,7 @@
     "product": "V2 Rashguard Try Hard Kyubi Purple",
     "size": "XS",
     "price": 42.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-purple",
     "previous_price": 42.0
   },
@@ -34475,7 +34475,7 @@
     "product": "Viper Rashguard",
     "size": "M",
     "price": 50.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/viper-rashguard",
     "previous_price": 50.0
   },
@@ -42635,7 +42635,7 @@
     "product": "Kingz- Kore Shorts V2- Negro",
     "size": "L",
     "price": 42.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kingz-kore-shorts-v2-negro",
     "previous_price": 42.0
   },
@@ -60675,7 +60675,7 @@
     "product": "Athena Kickboks Broekje Zwart",
     "size": "XS",
     "price": 49.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fightstyle.nl/products/athena-kickboks-broekje-zwart",
     "previous_price": 49.95
   },
@@ -77785,7 +77785,7 @@
     "product": "Hayabusa Binnenhandschoenen Quick Gel Wraps",
     "size": "M",
     "price": 19.16,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fightstyle.nl/products/hayabusa-binnenhandschoenen-quick-gel-wraps",
     "previous_price": 19.16
   },
@@ -77795,7 +77795,7 @@
     "product": "Hayabusa Binnenhandschoenen Quick Gel Wraps",
     "size": "L",
     "price": 19.16,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fightstyle.nl/products/hayabusa-binnenhandschoenen-quick-gel-wraps",
     "previous_price": 19.16
   },
@@ -85645,7 +85645,7 @@
     "product": "Balance Series Ink Gi",
     "size": "A2",
     "price": 110.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/balance-series-ink-gi",
     "previous_price": 110.0
   },
@@ -98085,7 +98085,7 @@
     "product": "The Academy Gi - Blue (with FREE Whitebelt)",
     "size": "A2L",
     "price": 80.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/the-academy-gi-blue-with-free-whitebelt",
     "previous_price": 80.0
   },
@@ -100098,1126 +100098,6 @@
     "in_stock": true,
     "url": "https://goldbjj.com/products/la-ciudad-kids-rash-guard",
     "previous_price": 49.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XS / White / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XS / White / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XS / Blue / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XS / Blue / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XS / Purple / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XS / Purple / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XS / Brown / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XS / Brown / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XS / Black / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XS / Black / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XS / Red / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XS / Red / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XS / Gold / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XS / Gold / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "S / White / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "S / White / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "S / Blue / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "S / Blue / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "S / Purple / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "S / Purple / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "S / Brown / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "S / Brown / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "S / Black / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "S / Black / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "S / Red / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "S / Red / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "S / Gold / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "S / Gold / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "M / White / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "M / White / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "M / Blue / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "M / Blue / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "M / Purple / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "M / Purple / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "M / Brown / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "M / Brown / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "M / Black / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "M / Black / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "M / Red / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "M / Red / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "M / Gold / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "M / Gold / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "L / White / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "L / White / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "L / Blue / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "L / Blue / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "L / Purple / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "L / Purple / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "L / Brown / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "L / Brown / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "L / Black / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "L / Black / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "L / Red / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "L / Red / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "L / Gold / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "L / Gold / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XL / White / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XL / White / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XL / Blue / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XL / Blue / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XL / Purple / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XL / Purple / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XL / Brown / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XL / Brown / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XL / Black / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XL / Black / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XL / Red / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XL / Red / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XL / Gold / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XL / Gold / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXL / White / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXL / White / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXL / Blue / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXL / Blue / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXL / Purple / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXL / Purple / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXL / Brown / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXL / Brown / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXL / Black / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXL / Black / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXL / Red / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXL / Red / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXL / Gold / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXL / Gold / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXL / White / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXL / White / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXL / Blue / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXL / Blue / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXL / Purple / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXL / Purple / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXL / Brown / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXL / Brown / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXL / Black / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXL / Black / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXL / Red / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXL / Red / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXL / Gold / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXL / Gold / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXXL / White / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXXL / White / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXXL / Blue / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXXL / Blue / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXXL / Purple / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXXL / Purple / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXXL / Brown / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXXL / Brown / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXXL / Black / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXXL / Black / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXXL / Red / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXXL / Red / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXXL / Gold / Short Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Gold Hygiene Bundle",
-    "size": "XXXXL / Gold / Long Sleeve",
-    "price": 63.97,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/gold-hygiene-bundle",
-    "previous_price": 63.97
   },
   {
     "shop": "Gold BJJ",
@@ -109405,7 +108285,7 @@
     "product": "Arena Oversized Tee",
     "size": "L",
     "price": 49.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arena-oversized-tee",
     "previous_price": 49.99
   },
@@ -130415,7 +129295,7 @@
     "product": "Kore Womens Grappling Spats - Black",
     "size": "L",
     "price": 30.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-kore-womens-grappling-spats",
     "previous_price": 30.0
   },
@@ -132705,7 +131585,7 @@
     "product": "Kingz Player Special Men's Hoodie",
     "size": "L / Black",
     "price": 70.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/tainan-dalpra-player-special-hoodie",
     "previous_price": 70.0
   },
@@ -144755,7 +143635,7 @@
     "product": "Kingz The ONE V2 Men's BJJ Gi - White",
     "size": "A2L / White",
     "price": 105.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-the-one-v2-jiu-jitsu-gi",
     "previous_price": 105.0
   },
@@ -147185,7 +146065,7 @@
     "product": "Terra Womens Rashguard - Soil Edition",
     "size": "L",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/terra-womens-rashguard-soil-edition",
     "previous_price": 40.0
   },
@@ -156005,7 +154885,7 @@
     "product": "DNA BJJ Gi",
     "size": "Mid Blue / A3L",
     "price": 190.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/dna-jiu-jitsu-gi",
     "previous_price": 190.0
   },
@@ -160305,7 +159185,7 @@
     "product": "Karate White Belt",
     "size": "5",
     "price": 14.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/karate-white-belt",
     "previous_price": 14.95
   },
@@ -161585,7 +160465,7 @@
     "product": "FUJI Varsity 1969 Shirt Heather Grey",
     "size": "XL",
     "price": 29.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/retro-jiu-jitsu-shirt-heather-grey",
     "previous_price": 29.95
   },
@@ -202765,7 +201645,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "0",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -202775,7 +201655,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "1",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -202785,7 +201665,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "1.5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -202795,7 +201675,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "2",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -202805,7 +201685,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "2.5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -202815,7 +201695,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "3",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -202825,7 +201705,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "3.5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -202835,7 +201715,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "4",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -202845,7 +201725,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "4.5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -202855,7 +201735,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -202865,7 +201745,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "5.5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -202875,7 +201755,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "6",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -202885,7 +201765,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "0",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -202895,7 +201775,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "1",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -202905,7 +201785,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "1.5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -202915,7 +201795,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "2",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -202925,7 +201805,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "2.5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -202935,7 +201815,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "3",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -202945,7 +201825,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "3.5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -202955,7 +201835,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "4",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -202965,7 +201845,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "4.5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -202975,7 +201855,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -202985,7 +201865,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "5.5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -202995,7 +201875,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "6",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -212215,7 +211095,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C3 / Yellow",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -227095,7 +225975,7 @@
     "product": "Judo White Belt",
     "size": "5",
     "price": 14.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/judo-white-belt",
     "previous_price": 14.95
   },
@@ -228455,7 +227335,7 @@
     "product": "SBG Super Lite Kids Gi",
     "size": "C00 / White",
     "price": 145.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/sbg-super-lite-competition-kids-gi",
     "previous_price": 145.0
   },
@@ -235905,7 +234785,7 @@
     "product": "Flow Classic Thai Scheenbeschermers - Zwart",
     "size": "XL",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/flow-thai-scheenbeschermers-zwart",
     "previous_price": 99.99
   },
@@ -246795,7 +245675,7 @@
     "product": "Hayabusa S4 Bokshandschoenen - Echt Leer - Wit",
     "size": "16 oz",
     "price": 99.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-s4-bokshandschoenen-echt-leer-wit",
     "previous_price": 99.99
   },
@@ -248195,7 +247075,7 @@
     "product": "Hayabusa T3 Striking Scheenbeschermers - Zwart",
     "size": "L",
     "price": 149.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-striking-scheenbeschermers-zwart",
     "previous_price": 149.0
   },
@@ -248235,7 +247115,7 @@
     "product": "Hayabusa T3 Striking Scheenbeschermers - Wit / Goud",
     "size": "L",
     "price": 149.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-striking-scheenbeschermers-wit-goud",
     "previous_price": 149.0
   },
@@ -252095,7 +250975,7 @@
     "product": "Primo Muay Thai Shorts - Hologram Series - Valor Grey - Donkergrijs",
     "size": "XXL",
     "price": 68.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/primo-muay-thai-shorts-hologram-series-valor-grey-donkergrijs",
     "previous_price": 68.95
   },
@@ -256925,7 +255805,7 @@
     "product": "Hayabusa Perfect Stretch Handwraps - Geel - 4,5 meter",
     "size": "Default Title",
     "price": 17.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-perfect-stretch-handwraps-geel-4-5-meter",
     "previous_price": 17.99
   },
@@ -256935,7 +255815,7 @@
     "product": "Hayabusa Perfect Stretch Handwraps - Oranje - 4,5 meter",
     "size": "Default Title",
     "price": 17.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-perfect-stretch-handwraps-oranje-4-5-meter",
     "previous_price": 17.99
   },
@@ -258014,16 +256894,6 @@
     "brand": "Hayabusa",
     "product": "Hayabusa Quick Gel Hand Wraps Black",
     "size": "m",
-    "price": 23.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/hayabusa-quick-gel-hand-wraps-black/",
-    "previous_price": 23.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Hayabusa",
-    "product": "Hayabusa Quick Gel Hand Wraps Black",
-    "size": "l",
     "price": 23.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-quick-gel-hand-wraps-black/",
@@ -267213,16 +266083,6 @@
     "shop": "OLB Sports",
     "brand": "Venum",
     "product": "Venum X Mike Tyson Tiger Sleeveless Hoodie Deep Black/Intense Red",
-    "size": "s",
-    "price": 79.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-x-mike-tyson-tiger-sleeveless-hoodie-deep-black-intense-red/",
-    "previous_price": 79.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum X Mike Tyson Tiger Sleeveless Hoodie Deep Black/Intense Red",
     "size": "xl",
     "price": 79.95,
     "in_stock": true,
@@ -272163,16 +271023,6 @@
     "shop": "OLB Sports",
     "brand": "King",
     "product": "King Pro Boxing kickboksbroek Bangkok 3 White",
-    "size": "l",
-    "price": 42.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/king-pro-boxing-kickboksbroek-bangkok-3-white/",
-    "previous_price": 42.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "King",
-    "product": "King Pro Boxing kickboksbroek Bangkok 3 White",
     "size": "xl",
     "price": 42.95,
     "in_stock": true,
@@ -272187,16 +271037,6 @@
     "price": 42.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-kickboksbroek-bangkok-3-white/",
-    "previous_price": 42.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "King",
-    "product": "King Pro Boxing kickboksbroek Bangkok 2 Blue",
-    "size": "l",
-    "price": 42.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/king-pro-boxing-kickboksbroek-bangkok-2-blue/",
     "previous_price": 42.95
   },
   {
@@ -282391,16 +281231,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "XXL",
-    "product": "XXL Nutrition Pro 85 Protein Aardbei 5kg",
-    "size": "One Size",
-    "price": 149.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/xxl-nutrition-pro-85-protein-aardbei-5kg/",
-    "previous_price": 149.99
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "1916",
     "product": "1916 Fight Gear Hoofdkap Leer Vintage Bruin",
     "size": "m",
@@ -284212,32 +283042,12 @@
   {
     "shop": "OLB Sports",
     "brand": "XXL",
-    "product": "XXL Nutrition Multivit",
-    "size": "One Size",
-    "price": 16.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/xxl-nutrition-multivit/",
-    "previous_price": 16.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "XXL",
     "product": "XXL Nutrition Magnesium",
     "size": "One Size",
     "price": 11.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-magnesium/",
     "previous_price": 11.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "XXL",
-    "product": "XXL Nutrition Omega 3",
-    "size": "One Size",
-    "price": 9.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/xxl-nutrition-omega-3/",
-    "previous_price": 9.99
   },
   {
     "shop": "OLB Sports",
