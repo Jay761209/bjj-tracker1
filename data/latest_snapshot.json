@@ -1695,7 +1695,7 @@
     "product": "Takumi Musashi Shorts",
     "size": "L",
     "price": 50.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/takumi-musashi-shorts",
     "previous_price": 50.0
   },
@@ -4045,7 +4045,7 @@
     "product": "Fuji Sports SEKAI 3.0 BJJ Gi White Navy",
     "size": "A3H",
     "price": 169.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/sekai-3-0-bjj-gi-white-navy",
     "previous_price": 169.95
   },
@@ -8225,7 +8225,7 @@
     "product": "Fuji Sports XTR Men Shorts",
     "size": "40 / Black",
     "price": 59.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/fuji-sports-xtr-men-shorts",
     "previous_price": 59.95
   },
@@ -23535,7 +23535,7 @@
     "product": "No Days Off Zip Up Hoodie",
     "size": "XL",
     "price": 55.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/no-days-off-zip-up-hoodie",
     "previous_price": 55.0
   },
@@ -29075,7 +29075,7 @@
     "product": "Rashguard Kingz Ranked Performance V3 Short Sleeve - Morado",
     "size": "S",
     "price": 50.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-kingz-ranked-performance-v3-short-sleeve-morado",
     "previous_price": 50.0
   },
@@ -31255,7 +31255,7 @@
     "product": "Kingz MI-K Roots Gi- Blanco",
     "size": "A3",
     "price": 160.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kingz-mi-k-roots-gi-blanco",
     "previous_price": 160.0
   },
@@ -32885,7 +32885,7 @@
     "product": "Competition Finger Tape",
     "size": "Pack de 3",
     "price": 14.9,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/competition-finger-tape",
     "previous_price": 14.9
   },
@@ -40075,7 +40075,7 @@
     "product": "Kimono BJJ (Gi) Kingz Kore Youth 2.0. Negro con cinturón blanco",
     "size": "M000",
     "price": 70.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-kingz-kore-youth-2-0-negro-con-cinturon-blanco",
     "previous_price": 70.0
   },
@@ -48125,7 +48125,7 @@
     "product": "Cinturones Tatami Adult BJJ Rank- Negro",
     "size": "A3 / Negro",
     "price": 19.9,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-tatami-adult-bjj-rank-negro",
     "previous_price": 19.9
   },
@@ -81031,6 +81031,486 @@
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhau Yuedong Clothing",
+    "product": "PRG Pacer Shorts - Black",
+    "size": "XS",
+    "price": 46.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-racer-shorts-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhau Yuedong Clothing",
+    "product": "PRG Pacer Shorts - Black",
+    "size": "Small",
+    "price": 46.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-racer-shorts-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhau Yuedong Clothing",
+    "product": "PRG Pacer Shorts - Black",
+    "size": "Medium",
+    "price": 46.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-racer-shorts-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhau Yuedong Clothing",
+    "product": "PRG Pacer Shorts - Black",
+    "size": "Large",
+    "price": 46.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-racer-shorts-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhau Yuedong Clothing",
+    "product": "PRG Pacer Shorts - Black",
+    "size": "XL",
+    "price": 46.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-racer-shorts-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhau Yuedong Clothing",
+    "product": "PRG Pacer Shorts - Black",
+    "size": "XXL",
+    "price": 46.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-racer-shorts-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhou Yuedong Clothing",
+    "product": "PRG Sempre Tech Jacket - Black",
+    "size": "XS",
+    "price": 70.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-tech-jacket-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhou Yuedong Clothing",
+    "product": "PRG Sempre Tech Jacket - Black",
+    "size": "Small",
+    "price": 70.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-tech-jacket-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhou Yuedong Clothing",
+    "product": "PRG Sempre Tech Jacket - Black",
+    "size": "Medium",
+    "price": 70.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-tech-jacket-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhou Yuedong Clothing",
+    "product": "PRG Sempre Tech Jacket - Black",
+    "size": "Large",
+    "price": 70.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-tech-jacket-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhou Yuedong Clothing",
+    "product": "PRG Sempre Tech Jacket - Black",
+    "size": "XL",
+    "price": 70.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-tech-jacket-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhou Yuedong Clothing",
+    "product": "PRG Sempre Tech Jacket - Black",
+    "size": "XXL",
+    "price": 70.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-tech-jacket-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu",
+    "product": "PRG Sempre Hoodie - Black",
+    "size": "XS",
+    "price": 60.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-hoodie-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu",
+    "product": "PRG Sempre Hoodie - Black",
+    "size": "Small",
+    "price": 60.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-hoodie-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu",
+    "product": "PRG Sempre Hoodie - Black",
+    "size": "Medium",
+    "price": 60.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-hoodie-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu",
+    "product": "PRG Sempre Hoodie - Black",
+    "size": "Large",
+    "price": 60.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-hoodie-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu",
+    "product": "PRG Sempre Hoodie - Black",
+    "size": "XL",
+    "price": 60.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-hoodie-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu",
+    "product": "PRG Sempre Hoodie - Black",
+    "size": "XXL",
+    "price": 60.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-hoodie-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu",
+    "product": "PRG Sempre Tee - Black",
+    "size": "XS",
+    "price": 35.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu",
+    "product": "PRG Sempre Tee - Black",
+    "size": "Small",
+    "price": 35.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu",
+    "product": "PRG Sempre Tee - Black",
+    "size": "Medium",
+    "price": 35.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu",
+    "product": "PRG Sempre Tee - Black",
+    "size": "Large",
+    "price": 35.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu",
+    "product": "PRG Sempre Tee - Black",
+    "size": "XL",
+    "price": 35.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu",
+    "product": "PRG Sempre Tee - Black",
+    "size": "XXL",
+    "price": 35.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhou Yuedong Clothing",
+    "product": "PRG Sempre Technical Tee - Black",
+    "size": "XS",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhou Yuedong Clothing",
+    "product": "PRG Sempre Technical Tee - Black",
+    "size": "Small",
+    "price": 40.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhou Yuedong Clothing",
+    "product": "PRG Sempre Technical Tee - Black",
+    "size": "Medium",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhou Yuedong Clothing",
+    "product": "PRG Sempre Technical Tee - Black",
+    "size": "Large",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhou Yuedong Clothing",
+    "product": "PRG Sempre Technical Tee - Black",
+    "size": "XL",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhou Yuedong Clothing",
+    "product": "PRG Sempre Technical Tee - Black",
+    "size": "XXL",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhou Yuedong Clothing",
+    "product": "PRG Sempre Technical Shorts - Black",
+    "size": "XS",
+    "price": 46.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-shorts-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhou Yuedong Clothing",
+    "product": "PRG Sempre Technical Shorts - Black",
+    "size": "Small",
+    "price": 46.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-shorts-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhou Yuedong Clothing",
+    "product": "PRG Sempre Technical Shorts - Black",
+    "size": "Medium",
+    "price": 46.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-shorts-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhou Yuedong Clothing",
+    "product": "PRG Sempre Technical Shorts - Black",
+    "size": "Large",
+    "price": 46.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-shorts-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhou Yuedong Clothing",
+    "product": "PRG Sempre Technical Shorts - Black",
+    "size": "XL",
+    "price": 46.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-shorts-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhou Yuedong Clothing",
+    "product": "PRG Sempre Technical Shorts - Black",
+    "size": "XXL",
+    "price": 46.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-shorts-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhau Yuedong Clothing",
+    "product": "PRG Eclipse Tech Tee - Black",
+    "size": "XS",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-eclipse-tech-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhau Yuedong Clothing",
+    "product": "PRG Eclipse Tech Tee - Black",
+    "size": "Small",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-eclipse-tech-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhau Yuedong Clothing",
+    "product": "PRG Eclipse Tech Tee - Black",
+    "size": "Medium",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-eclipse-tech-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhau Yuedong Clothing",
+    "product": "PRG Eclipse Tech Tee - Black",
+    "size": "Large",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-eclipse-tech-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhau Yuedong Clothing",
+    "product": "PRG Eclipse Tech Tee - Black",
+    "size": "XL",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-eclipse-tech-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhau Yuedong Clothing",
+    "product": "PRG Eclipse Tech Tee - Black",
+    "size": "XXL",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-eclipse-tech-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhau Yuedong Clothing",
+    "product": "PRG Eclipse Jacket - Black",
+    "size": "XS",
+    "price": 70.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-eclipse-jacket-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhau Yuedong Clothing",
+    "product": "PRG Eclipse Jacket - Black",
+    "size": "Small",
+    "price": 70.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-eclipse-jacket-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhau Yuedong Clothing",
+    "product": "PRG Eclipse Jacket - Black",
+    "size": "Medium",
+    "price": 70.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-eclipse-jacket-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhau Yuedong Clothing",
+    "product": "PRG Eclipse Jacket - Black",
+    "size": "Large",
+    "price": 70.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-eclipse-jacket-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhau Yuedong Clothing",
+    "product": "PRG Eclipse Jacket - Black",
+    "size": "XL",
+    "price": 70.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-eclipse-jacket-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Guangzhau Yuedong Clothing",
+    "product": "PRG Eclipse Jacket - Black",
+    "size": "XXL",
+    "price": 70.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/prg-eclipse-jacket-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
     "brand": "Brothers Group",
     "product": "Gridiron 1996 Rashguard",
     "size": "XS",
@@ -81805,7 +82285,7 @@
     "product": "Athlete Rashguard - Black",
     "size": "Large",
     "price": 45.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/athlete-rashguard-black",
     "previous_price": 45.0
   },
@@ -82765,7 +83245,7 @@
     "product": "Groove Rashguard",
     "size": "Small",
     "price": 45.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/groove-rashguard",
     "previous_price": 45.0
   },
@@ -82965,7 +83445,7 @@
     "product": "Apex Hybrid Shorts",
     "size": "Large",
     "price": 50.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/apex-hybrid-shorts",
     "previous_price": 50.0
   },
@@ -83655,7 +84135,7 @@
     "product": "Balance Series Ink Hybrid Shorts",
     "size": "XL",
     "price": 52.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/balance-series-ink-hybrid-shorts",
     "previous_price": 52.0
   },
@@ -84015,7 +84495,7 @@
     "product": "NSNP Metal Board Shorts",
     "size": "Large",
     "price": 46.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/nsnp-metal-board-shorts",
     "previous_price": 46.0
   },
@@ -86555,7 +87035,7 @@
     "product": "Balance Series Ink Rolling Tee",
     "size": "Large",
     "price": 32.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/balance-series-ink-rolling-tee",
     "previous_price": 32.0
   },
@@ -86565,7 +87045,7 @@
     "product": "Balance Series Ink Rolling Tee",
     "size": "XL",
     "price": 32.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/balance-series-ink-rolling-tee",
     "previous_price": 32.0
   },
@@ -89145,7 +89625,7 @@
     "product": "NSNP Kids Board Shorts - Black",
     "size": "Large",
     "price": 15.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/nsnp-kids-board-shorts-black",
     "previous_price": 15.0
   },
@@ -92045,7 +92525,7 @@
     "product": "Academy + Hybrid Shorts - Black/White",
     "size": "Large",
     "price": 23.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-hybrid-shorts-black-white",
     "previous_price": 23.0
   },
@@ -93245,7 +93725,7 @@
     "product": "Academy Spats - Black",
     "size": "XS",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-spats-black",
     "previous_price": 40.0
   },
@@ -93255,7 +93735,7 @@
     "product": "Academy Spats - Black",
     "size": "Small",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-spats-black",
     "previous_price": 40.0
   },
@@ -93265,7 +93745,7 @@
     "product": "Academy Spats - Black",
     "size": "Medium",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-spats-black",
     "previous_price": 40.0
   },
@@ -93275,7 +93755,7 @@
     "product": "Academy Spats - Black",
     "size": "Large",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-spats-black",
     "previous_price": 40.0
   },
@@ -93285,7 +93765,7 @@
     "product": "Academy Spats - Black",
     "size": "XL",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-spats-black",
     "previous_price": 40.0
   },
@@ -93295,7 +93775,7 @@
     "product": "Academy Spats - Black",
     "size": "XXL",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-spats-black",
     "previous_price": 40.0
   },
@@ -93885,7 +94365,7 @@
     "product": "Academy Rashguard - Petroleum",
     "size": "XL",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-rashguard-petroleum-grey",
     "previous_price": 40.0
   },
@@ -94155,7 +94635,7 @@
     "product": "The Academy Gi - Petroleum (with FREE Whitebelt)",
     "size": "A1",
     "price": 80.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/the-academy-gi-grey-with-free-whitebelt-a0",
     "previous_price": 80.0
   },
@@ -94775,7 +95255,7 @@
     "product": "Academy Rashguard - Navy",
     "size": "Large",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-rashguard-navy",
     "previous_price": 40.0
   },
@@ -96495,7 +96975,7 @@
     "product": "Vasco Board Shorts - Black",
     "size": "Large",
     "price": 45.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/vasco-board-shorts-black",
     "previous_price": 45.0
   },
@@ -98545,7 +99025,7 @@
     "product": "Progress BJJ Belt 24/25",
     "size": "A1 / White",
     "price": 6.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/progress-bjj-belt",
     "previous_price": 6.0
   },
@@ -98815,7 +99295,7 @@
     "product": "Academy Rashguard - Black",
     "size": "Medium",
     "price": 40.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/academy-rashguard",
     "previous_price": 40.0
   },
@@ -98885,7 +99365,7 @@
     "product": "Academy Board Shorts - Black",
     "size": "Large",
     "price": 40.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/academy-board-shorts",
     "previous_price": 40.0
   },
@@ -103895,7 +104375,7 @@
     "product": "Riot Tee",
     "size": "XL",
     "price": 34.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/riot-tee",
     "previous_price": 34.99
   },
@@ -127935,7 +128415,7 @@
     "product": "Kingz Kore V2 Men's Tee",
     "size": "Black / L",
     "price": 30.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-v2-tee",
     "previous_price": 30.0
   },
@@ -144325,7 +144805,7 @@
     "product": "Kingz Ultralight 2.0 Men's BJJ Gi - Black",
     "size": "A2L / Black",
     "price": 140.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/ultralight-2-0-jiu-jitsu-gi-black",
     "previous_price": 140.0
   },
@@ -150475,7 +150955,7 @@
     "product": "Kingz Casual Rip Stop Men's Gi Pants - Military Green",
     "size": "A2L / Military Green",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-casual-rip-stop-gi-pant",
     "previous_price": 60.0
   },
@@ -157255,7 +157735,7 @@
     "product": "Pedro Sauer Official Jiu Jitsu Belt Purple",
     "size": "A2",
     "price": 16.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/pedro-sauer-official-jiu-jitsu-belt-purple",
     "previous_price": 16.0
   },
@@ -157295,7 +157775,7 @@
     "product": "Pedro Sauer Official Jiu Jitsu Belt Royal Blue",
     "size": "A1",
     "price": 16.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/pedro-sauer-official-jiu-jitsu-belt-royal-blue",
     "previous_price": 16.0
   },
@@ -157305,7 +157785,7 @@
     "product": "Pedro Sauer Official Jiu Jitsu Belt Royal Blue",
     "size": "A2",
     "price": 16.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/pedro-sauer-official-jiu-jitsu-belt-royal-blue",
     "previous_price": 16.0
   },
@@ -157315,7 +157795,7 @@
     "product": "Pedro Sauer Official Jiu Jitsu Belt Royal Blue",
     "size": "A3",
     "price": 16.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/pedro-sauer-official-jiu-jitsu-belt-royal-blue",
     "previous_price": 16.0
   },
@@ -159255,7 +159735,7 @@
     "product": "Premier Martial Arts Womens Gi",
     "size": "W1 / White",
     "price": 43.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-womens-gi",
     "previous_price": 43.0
   },
@@ -159285,7 +159765,7 @@
     "product": "Premier Martial Arts Womens Gi",
     "size": "W2 / White",
     "price": 43.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-womens-gi",
     "previous_price": 43.0
   },
@@ -159305,7 +159785,7 @@
     "product": "Premier Martial Arts Womens Gi",
     "size": "W2 / Black",
     "price": 43.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-womens-gi",
     "previous_price": 43.0
   },
@@ -159315,7 +159795,7 @@
     "product": "Premier Martial Arts Womens Gi",
     "size": "W3 / White",
     "price": 43.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-womens-gi",
     "previous_price": 43.0
   },
@@ -159365,7 +159845,7 @@
     "product": "Premier Martial Arts Kids Gi",
     "size": "C00 / Black",
     "price": 26.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-kids-gi",
     "previous_price": 26.0
   },
@@ -159375,7 +159855,7 @@
     "product": "Premier Martial Arts Kids Gi",
     "size": "C0 / White",
     "price": 26.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-kids-gi",
     "previous_price": 26.0
   },
@@ -159385,7 +159865,7 @@
     "product": "Premier Martial Arts Kids Gi",
     "size": "C0 / Blue",
     "price": 26.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-kids-gi",
     "previous_price": 26.0
   },
@@ -159405,7 +159885,7 @@
     "product": "Premier Martial Arts Kids Gi",
     "size": "C1 / White",
     "price": 26.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-kids-gi",
     "previous_price": 26.0
   },
@@ -159415,7 +159895,7 @@
     "product": "Premier Martial Arts Kids Gi",
     "size": "C1 / Blue",
     "price": 26.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-kids-gi",
     "previous_price": 26.0
   },
@@ -159425,7 +159905,7 @@
     "product": "Premier Martial Arts Kids Gi",
     "size": "C1 / Black",
     "price": 26.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-kids-gi",
     "previous_price": 26.0
   },
@@ -159435,7 +159915,7 @@
     "product": "Premier Martial Arts Kids Gi",
     "size": "C2 / White",
     "price": 26.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-kids-gi",
     "previous_price": 26.0
   },
@@ -159465,7 +159945,7 @@
     "product": "Premier Martial Arts Kids Gi",
     "size": "C3 / White",
     "price": 26.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-kids-gi",
     "previous_price": 26.0
   },
@@ -159475,7 +159955,7 @@
     "product": "Premier Martial Arts Kids Gi",
     "size": "C3 / Blue",
     "price": 26.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-kids-gi",
     "previous_price": 26.0
   },
@@ -159495,7 +159975,7 @@
     "product": "Premier Martial Arts Gi",
     "size": "A0 / White",
     "price": 43.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-gi",
     "previous_price": 43.0
   },
@@ -159505,7 +159985,7 @@
     "product": "Premier Martial Arts Gi",
     "size": "A0 / Blue",
     "price": 43.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-gi",
     "previous_price": 43.0
   },
@@ -159525,7 +160005,7 @@
     "product": "Premier Martial Arts Gi",
     "size": "A1 / White",
     "price": 43.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-gi",
     "previous_price": 43.0
   },
@@ -159555,7 +160035,7 @@
     "product": "Premier Martial Arts Gi",
     "size": "A2 / White",
     "price": 43.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-gi",
     "previous_price": 43.0
   },
@@ -159575,7 +160055,7 @@
     "product": "Premier Martial Arts Gi",
     "size": "A2 / Black",
     "price": 43.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-gi",
     "previous_price": 43.0
   },
@@ -159585,7 +160065,7 @@
     "product": "Premier Martial Arts Gi",
     "size": "A2L / White",
     "price": 43.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-gi",
     "previous_price": 43.0
   },
@@ -159645,7 +160125,7 @@
     "product": "Premier Martial Arts Gi",
     "size": "A3 / White",
     "price": 43.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-gi",
     "previous_price": 43.0
   },
@@ -159665,7 +160145,7 @@
     "product": "Premier Martial Arts Gi",
     "size": "A3 / Black",
     "price": 43.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-gi",
     "previous_price": 43.0
   },
@@ -159705,7 +160185,7 @@
     "product": "Premier Martial Arts Gi",
     "size": "A3H / White",
     "price": 43.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-gi",
     "previous_price": 43.0
   },
@@ -159715,7 +160195,7 @@
     "product": "Premier Martial Arts Gi",
     "size": "A3H / Blue",
     "price": 43.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-gi",
     "previous_price": 43.0
   },
@@ -159725,7 +160205,7 @@
     "product": "Premier Martial Arts Gi",
     "size": "A3H / Black",
     "price": 43.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-gi",
     "previous_price": 43.0
   },
@@ -159735,7 +160215,7 @@
     "product": "Premier Martial Arts Gi",
     "size": "A4 / White",
     "price": 43.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-gi",
     "previous_price": 43.0
   },
@@ -159755,7 +160235,7 @@
     "product": "Premier Martial Arts Gi",
     "size": "A4 / Black",
     "price": 43.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-gi",
     "previous_price": 43.0
   },
@@ -159765,7 +160245,7 @@
     "product": "Premier Martial Arts Gi",
     "size": "A5 / White",
     "price": 43.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-gi",
     "previous_price": 43.0
   },
@@ -159785,7 +160265,7 @@
     "product": "Premier Martial Arts Gi",
     "size": "A5 / Black",
     "price": 43.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/premier-martial-arts-2020-gi",
     "previous_price": 43.0
   },
@@ -159795,7 +160275,7 @@
     "product": "CKO Trainer T-Shirt Black",
     "size": "XS",
     "price": 25.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/cko-trainer-t-shirt",
     "previous_price": 25.0
   },
@@ -159855,7 +160335,7 @@
     "product": "CKO Black Longsleeve T-Shirt [FINAL SALE]",
     "size": "XS",
     "price": 27.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/cko-black-longsleeve-t-shirt",
     "previous_price": 27.0
   },
@@ -160365,7 +160845,7 @@
     "product": "We Defy Patch",
     "size": "Default Title",
     "price": 42.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/we-defy-patch",
     "previous_price": 42.95
   },
@@ -164255,7 +164735,7 @@
     "product": "Alliance Flex Lite Shorts Black",
     "size": "34",
     "price": 58.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/alliance-flex-lite-shorts-black",
     "previous_price": 58.0
   },
@@ -164265,7 +164745,7 @@
     "product": "Alliance Flex Lite Shorts Black",
     "size": "36",
     "price": 58.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/alliance-flex-lite-shorts-black",
     "previous_price": 58.0
   },
@@ -167525,7 +168005,7 @@
     "product": "SEKAI 3.0 BJJ Gi Blue Yellow",
     "size": "A3H",
     "price": 179.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/sekai-3-0-bjj-gi-blue-yellow",
     "previous_price": 179.95
   },
@@ -168185,7 +168665,7 @@
     "product": "We Defy Retro Star Light Olive T-Shirt Green",
     "size": "XS",
     "price": 30.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-retro-star-light-olive-t-shirt-green",
     "previous_price": 30.0
   },
@@ -168195,7 +168675,7 @@
     "product": "We Defy Retro Star Light Olive T-Shirt Green",
     "size": "S",
     "price": 30.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-retro-star-light-olive-t-shirt-green",
     "previous_price": 30.0
   },
@@ -168225,7 +168705,7 @@
     "product": "We Defy Retro Star Light Olive T-Shirt Green",
     "size": "XL",
     "price": 30.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-retro-star-light-olive-t-shirt-green",
     "previous_price": 30.0
   },
@@ -168235,7 +168715,7 @@
     "product": "We Defy Retro Star Light Olive T-Shirt Green",
     "size": "2XL",
     "price": 30.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-retro-star-light-olive-t-shirt-green",
     "previous_price": 30.0
   },
@@ -168255,7 +168735,7 @@
     "product": "We Defy Retro Star Cardinal T-Shirt Red",
     "size": "XS",
     "price": 30.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-retro-star-cardinal-t-shirt-red",
     "previous_price": 30.0
   },
@@ -168265,7 +168745,7 @@
     "product": "We Defy Retro Star Cardinal T-Shirt Red",
     "size": "S",
     "price": 30.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-retro-star-cardinal-t-shirt-red",
     "previous_price": 30.0
   },
@@ -168285,7 +168765,7 @@
     "product": "We Defy Retro Star Cardinal T-Shirt Red",
     "size": "L",
     "price": 30.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-retro-star-cardinal-t-shirt-red",
     "previous_price": 30.0
   },
@@ -168295,7 +168775,7 @@
     "product": "We Defy Retro Star Cardinal T-Shirt Red",
     "size": "XL",
     "price": 30.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-retro-star-cardinal-t-shirt-red",
     "previous_price": 30.0
   },
@@ -168305,7 +168785,7 @@
     "product": "We Defy Retro Star Cardinal T-Shirt Red",
     "size": "2XL",
     "price": 30.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-retro-star-cardinal-t-shirt-red",
     "previous_price": 30.0
   },
@@ -171155,7 +171635,7 @@
     "product": "We Defy Athleisure Shorts Black",
     "size": "S",
     "price": 54.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-athleisure-shorts-black",
     "previous_price": 54.0
   },
@@ -171185,7 +171665,7 @@
     "product": "We Defy Athleisure Shorts Black",
     "size": "XL",
     "price": 54.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-athleisure-shorts-black",
     "previous_price": 54.0
   },
@@ -171195,7 +171675,7 @@
     "product": "We Defy Athleisure Shorts Black",
     "size": "2XL",
     "price": 54.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-athleisure-shorts-black",
     "previous_price": 54.0
   },
@@ -171255,7 +171735,7 @@
     "product": "We Defy Athleisure Jogger Black",
     "size": "XS",
     "price": 64.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-athleisure-jogger-grey",
     "previous_price": 64.0
   },
@@ -171265,7 +171745,7 @@
     "product": "We Defy Athleisure Jogger Black",
     "size": "S",
     "price": 64.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-athleisure-jogger-grey",
     "previous_price": 64.0
   },
@@ -171305,7 +171785,7 @@
     "product": "We Defy Athleisure Jogger Black",
     "size": "2XL",
     "price": 64.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-athleisure-jogger-grey",
     "previous_price": 64.0
   },
@@ -172385,7 +172865,7 @@
     "product": "Wave Crewneck Men's Sweatshirt Black",
     "size": "S",
     "price": 54.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/wave-crewneck-sweatshirt",
     "previous_price": 54.95
   },
@@ -174485,7 +174965,7 @@
     "product": "Linear Lockdown Lightweight Shorts Black/Red",
     "size": "40",
     "price": 19.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/linear-lockdown-lightweight-shorts-black-red",
     "previous_price": 19.95
   },
@@ -174495,7 +174975,7 @@
     "product": "Linear Lockdown Lightweight Shorts Black/Red",
     "size": "42",
     "price": 19.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/linear-lockdown-lightweight-shorts-black-red",
     "previous_price": 19.95
   },
@@ -181005,7 +181485,7 @@
     "product": "Mizuno Olympic Judo Gi White",
     "size": "2.5",
     "price": 269.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/mizuno-olympic-judo-gi-white",
     "previous_price": 269.95
   },
@@ -195175,7 +195655,7 @@
     "product": "Mizuno IJF Approved Japan Deluxe Black Belt",
     "size": "4.5",
     "price": 89.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/mizuno-ijf-approved-japan-deluxe-black-belt",
     "previous_price": 89.95
   },
@@ -197835,7 +198315,7 @@
     "product": "FUJI x Alliance Standard BJJ Gi Black",
     "size": "A1",
     "price": 152.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/fuji-x-alliance-standard-bjj-gi-black",
     "previous_price": 152.0
   },
@@ -199515,7 +199995,7 @@
     "product": "Oni vs. Anaconda Short Sleeve Rashguard Black",
     "size": "XL",
     "price": 59.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/oni-vs-anaconda-short-sleeve-rashguard-black",
     "previous_price": 59.95
   },
@@ -202435,7 +202915,7 @@
     "product": "Tapout Technical Lightweight Shorts Black",
     "size": "40",
     "price": 19.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/tapout-technical-lightweight-shorts-black",
     "previous_price": 19.95
   },
@@ -210425,7 +210905,7 @@
     "product": "Royce Gracie \"Gracie Army\" T-Shirt",
     "size": "XS",
     "price": 23.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-gracie-army-t-shirt",
     "previous_price": 23.0
   },
@@ -210745,7 +211225,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C00 / Orange/White",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -210755,7 +211235,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C00 / Orange/Yellow",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -210765,7 +211245,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C00 / Orange",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -210775,7 +211255,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C00 / Green/White",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -210785,7 +211265,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C00 / Green/Yellow",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -210795,7 +211275,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C00 / Green/Orange",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -210805,7 +211285,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C00 / Green",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -210845,7 +211325,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C0 / Orange/Yellow",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -210855,7 +211335,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C0 / Orange",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -210865,7 +211345,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C0 / Green/White",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -210875,7 +211355,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C0 / Green/Yellow",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -210885,7 +211365,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C0 / Green/Orange",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -210895,7 +211375,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C0 / Green",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -210945,7 +211425,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C1 / Orange",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -210955,7 +211435,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C1 / Green/White",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -210965,7 +211445,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C1 / Green/Yellow",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -210975,7 +211455,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C1 / Green/Orange",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -210985,7 +211465,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C1 / Green",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -211055,7 +211535,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C2 / Green/Yellow",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -211065,7 +211545,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C2 / Green/Orange",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -211075,7 +211555,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C2 / Green",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -211135,7 +211615,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C3 / Green/White",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -211145,7 +211625,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C3 / Green/Yellow",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -211155,7 +211635,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C3 / Green/Orange",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -211165,7 +211645,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C3 / Green",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -211185,7 +211665,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "A1 / Orange/Yellow",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -211315,7 +211795,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "A3 / Orange/White",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -212055,7 +212535,7 @@
     "product": "Renzo Gracie Classic Ranked T-shirt",
     "size": "S",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/renzo-gracie-classic-ranked-t-shirt",
     "previous_price": 20.0
   },
@@ -212095,7 +212575,7 @@
     "product": "Renzo Gracie Classic Ranked T-shirt",
     "size": "2XL",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/renzo-gracie-classic-ranked-t-shirt",
     "previous_price": 20.0
   },
@@ -213575,7 +214055,7 @@
     "product": "Lifestyle Shorts Grey",
     "size": "28",
     "price": 19.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/lifestyle-shorts-grey",
     "previous_price": 19.95
   },
@@ -213615,7 +214095,7 @@
     "product": "Lifestyle Shorts Grey",
     "size": "36",
     "price": 19.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/lifestyle-shorts-grey",
     "previous_price": 19.95
   },
@@ -213635,7 +214115,7 @@
     "product": "Lifestyle Shorts Grey",
     "size": "40",
     "price": 19.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/lifestyle-shorts-grey",
     "previous_price": 19.95
   },
@@ -213645,7 +214125,7 @@
     "product": "Lifestyle Shorts Grey",
     "size": "42",
     "price": 19.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/lifestyle-shorts-grey",
     "previous_price": 19.95
   },
@@ -213665,7 +214145,7 @@
     "product": "Lifestyle Shorts Grey",
     "size": "48",
     "price": 19.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/lifestyle-shorts-grey",
     "previous_price": 19.95
   },
@@ -226295,7 +226775,7 @@
     "product": "Mizuno Hayato Judo Gi",
     "size": "4",
     "price": 99.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/mizuno-hayato-single-weave-55001",
     "previous_price": 99.95
   },
@@ -240195,7 +240675,7 @@
     "product": "Danger Evolution Black Wrist Bokshandschoenen - Semi Leer - Neon Roze/Zwart",
     "size": "12 oz",
     "price": 44.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/danger-evolution-black-wrist-bokshandschoenen-semi-leer-rozezwart",
     "previous_price": 44.95
   },
@@ -241395,7 +241875,7 @@
     "product": "Fairtex - TST51 - Fight Team T-Shirt - Zwart - opdruk Wit/Rood",
     "size": "S",
     "price": 24.9,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fight-team-t-shirt-zwart-opdruk-wit-rood",
     "previous_price": 24.9
   },
@@ -253835,7 +254315,7 @@
     "product": "Twins Special SGL 7 Scheenbeschermers - Zwart",
     "size": "M",
     "price": 132.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-zwart",
     "previous_price": 132.0
   },
@@ -260193,16 +260673,6 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Gear Strike Short Black/Gold",
-    "size": "xl",
-    "price": 49.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-strike-short-black-gold/",
-    "previous_price": 49.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Gear Strike Short Black/Gold",
     "size": "xxl",
     "price": 49.95,
     "in_stock": true,
@@ -260223,27 +260693,7 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Gear Strike Short Black/Black",
-    "size": "s",
-    "price": 49.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-strike-short-black-black/",
-    "previous_price": 49.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Gear Strike Short Black/Black",
     "size": "m",
-    "price": 49.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-strike-short-black-black/",
-    "previous_price": 49.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Gear Strike Short Black/Black",
-    "size": "xl",
     "price": 49.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-strike-short-black-black/",
@@ -261928,16 +262378,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-velcro-scheenbeschermers/",
     "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Adidas",
-    "product": "Adidas Bokshandschoenen Combat 50 Black/Black",
-    "size": "12oz",
-    "price": 39.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/adidas-bokshandschoenen-combat-50-black-black/",
-    "previous_price": 39.99
   },
   {
     "shop": "OLB Sports",
