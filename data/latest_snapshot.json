@@ -3095,7 +3095,7 @@
     "product": "Ground Force Aero Shorts - Black",
     "size": "M",
     "price": 49.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/aero-shorts-black",
     "previous_price": 49.0
   },
@@ -10725,7 +10725,7 @@
     "product": "Ground Force Waves Rashguard",
     "size": "S",
     "price": 21.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/waves-rashguard",
     "previous_price": 21.5
   },
@@ -15582,12 +15582,72 @@
   {
     "shop": "BJJ Fightgear",
     "brand": "Ground Force",
-    "product": "Ground Force Basic Lightweight Shorts",
+    "product": "Ground Force Lightweight Shorts",
     "size": "XS",
-    "price": 34.5,
+    "price": 49.0,
     "in_stock": true,
     "url": "https://bjjfightgear.com/products/ground-force-basic-lightweight-shorts",
-    "previous_price": 34.5
+    "previous_price": null
+  },
+  {
+    "shop": "BJJ Fightgear",
+    "brand": "Ground Force",
+    "product": "Ground Force Lightweight Shorts",
+    "size": "S",
+    "price": 49.0,
+    "in_stock": false,
+    "url": "https://bjjfightgear.com/products/ground-force-basic-lightweight-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "BJJ Fightgear",
+    "brand": "Ground Force",
+    "product": "Ground Force Lightweight Shorts",
+    "size": "M",
+    "price": 49.0,
+    "in_stock": false,
+    "url": "https://bjjfightgear.com/products/ground-force-basic-lightweight-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "BJJ Fightgear",
+    "brand": "Ground Force",
+    "product": "Ground Force Lightweight Shorts",
+    "size": "L",
+    "price": 49.0,
+    "in_stock": false,
+    "url": "https://bjjfightgear.com/products/ground-force-basic-lightweight-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "BJJ Fightgear",
+    "brand": "Ground Force",
+    "product": "Ground Force Lightweight Shorts",
+    "size": "XL",
+    "price": 49.0,
+    "in_stock": false,
+    "url": "https://bjjfightgear.com/products/ground-force-basic-lightweight-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "BJJ Fightgear",
+    "brand": "Ground Force",
+    "product": "Ground Force Lightweight Shorts",
+    "size": "XXL",
+    "price": 49.0,
+    "in_stock": false,
+    "url": "https://bjjfightgear.com/products/ground-force-basic-lightweight-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "BJJ Fightgear",
+    "brand": "Ground Force",
+    "product": "Ground Force Lightweight Shorts",
+    "size": "XXXL",
+    "price": 49.0,
+    "in_stock": false,
+    "url": "https://bjjfightgear.com/products/ground-force-basic-lightweight-shorts",
+    "previous_price": null
   },
   {
     "shop": "BJJ Fightgear",
@@ -16495,7 +16555,7 @@
     "product": "Ground Force Rank Rashguard Short Sleeve",
     "size": "L / White",
     "price": 47.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-rank-rashguard-short-sleeve",
     "previous_price": 47.0
   },
@@ -16635,7 +16695,7 @@
     "product": "Ground Force Rank Rashguard Short Sleeve",
     "size": "XXL / Black",
     "price": 47.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-rank-rashguard-short-sleeve",
     "previous_price": 47.0
   },
@@ -33945,7 +34005,7 @@
     "product": "Cinturones Kingz lite comp- Azul",
     "size": "A1 / Azul",
     "price": 19.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-kingz-mega-light-competition-azul-copia",
     "previous_price": 19.0
   },
@@ -79475,7 +79535,7 @@
     "product": "Fightstyle Waszak Bandages",
     "size": "Default Title",
     "price": 1.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fightstyle.nl/products/fightstyle-waszak-voor-bandage-handig",
     "previous_price": 1.95
   },
@@ -81031,13 +81091,463 @@
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Women's Legend Bag - No Gi Player",
+    "size": "XS",
+    "price": 50.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/womens-legend-bag-no-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Women's Legend Bag - No Gi Player",
+    "size": "Small",
+    "price": 50.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/womens-legend-bag-no-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Women's Legend Bag - No Gi Player",
+    "size": "Medium",
+    "price": 50.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/womens-legend-bag-no-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Women's Legend Bag - No Gi Player",
+    "size": "Large",
+    "price": 50.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/womens-legend-bag-no-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Women's Legend Bag - No Gi Player",
+    "size": "XL",
+    "price": 50.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/womens-legend-bag-no-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Women's Legend Bag - No Gi Player",
+    "size": "XXL",
+    "price": 50.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/womens-legend-bag-no-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - Adult Apparel",
+    "size": "XS",
+    "price": 50.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-adult-apparel",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - Adult Apparel",
+    "size": "Small",
+    "price": 50.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-adult-apparel",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - Adult Apparel",
+    "size": "Medium",
+    "price": 50.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-adult-apparel",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - Adult Apparel",
+    "size": "Large",
+    "price": 50.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-adult-apparel",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - Adult Apparel",
+    "size": "XL",
+    "price": 50.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-adult-apparel",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - Adult Apparel",
+    "size": "XXL",
+    "price": 50.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-adult-apparel",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Kids Legend Bag - No Gi Player",
+    "size": "XS",
+    "price": 25.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/kids-legend-bag-no-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Kids Legend Bag - No Gi Player",
+    "size": "Small",
+    "price": 25.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/kids-legend-bag-no-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Kids Legend Bag - No Gi Player",
+    "size": "Medium",
+    "price": 25.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/kids-legend-bag-no-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Kids Legend Bag - No Gi Player",
+    "size": "Large",
+    "price": 25.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/kids-legend-bag-no-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Kids Legend Bag - No Gi Player",
+    "size": "XL",
+    "price": 25.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/kids-legend-bag-no-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Kids Legend Bag - No Gi Player",
+    "size": "XXL",
+    "price": 25.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/kids-legend-bag-no-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Kids Legend Bag - Gi Player",
+    "size": "M0000",
+    "price": 25.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/kids-legend-bag-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Kids Legend Bag - Gi Player",
+    "size": "M000",
+    "price": 25.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/kids-legend-bag-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Kids Legend Bag - Gi Player",
+    "size": "M00",
+    "price": 25.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/kids-legend-bag-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Kids Legend Bag - Gi Player",
+    "size": "M0",
+    "price": 25.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/kids-legend-bag-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Kids Legend Bag - Gi Player",
+    "size": "M1",
+    "price": 25.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/kids-legend-bag-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Kids Legend Bag - Gi Player",
+    "size": "M2",
+    "price": 25.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/kids-legend-bag-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Kids Legend Bag - Gi Player",
+    "size": "M3",
+    "price": 25.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/kids-legend-bag-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Kids Legend Bag - Gi Player",
+    "size": "M4",
+    "price": 25.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/kids-legend-bag-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - No Gi Player",
+    "size": "XS",
+    "price": 50.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-no-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - No Gi Player",
+    "size": "Small",
+    "price": 50.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-no-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - No Gi Player",
+    "size": "Medium",
+    "price": 50.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-no-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - No Gi Player",
+    "size": "Large",
+    "price": 50.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-no-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - No Gi Player",
+    "size": "XL",
+    "price": 50.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-no-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - No Gi Player",
+    "size": "XXL",
+    "price": 50.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-no-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - Gi Player",
+    "size": "A0",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - Gi Player",
+    "size": "A1",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - Gi Player",
+    "size": "A1L",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - Gi Player",
+    "size": "A2",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - Gi Player",
+    "size": "A2L",
+    "price": 40.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - Gi Player",
+    "size": "A3",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - Gi Player",
+    "size": "A3L",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - Gi Player",
+    "size": "A4",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - Gi Player",
+    "size": "A5",
+    "price": 40.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - Gi Player",
+    "size": "F1",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - Gi Player",
+    "size": "F2",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - Gi Player",
+    "size": "F3",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Progress Jiu Jitsu UK",
+    "product": "Legend Bag - Gi Player",
+    "size": "F4",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/legend-bag-gi-player",
+    "previous_price": null
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
     "brand": "Guangzhau Yuedong Clothing",
     "product": "PRG Pacer Shorts - Black",
     "size": "XS",
     "price": 46.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-racer-shorts-black",
-    "previous_price": null
+    "previous_price": 46.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81047,7 +81557,7 @@
     "price": 46.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-racer-shorts-black",
-    "previous_price": null
+    "previous_price": 46.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81057,7 +81567,7 @@
     "price": 46.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-racer-shorts-black",
-    "previous_price": null
+    "previous_price": 46.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81067,7 +81577,7 @@
     "price": 46.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-racer-shorts-black",
-    "previous_price": null
+    "previous_price": 46.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81077,7 +81587,7 @@
     "price": 46.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-racer-shorts-black",
-    "previous_price": null
+    "previous_price": 46.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81087,7 +81597,7 @@
     "price": 46.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-racer-shorts-black",
-    "previous_price": null
+    "previous_price": 46.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81097,7 +81607,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-tech-jacket-black",
-    "previous_price": null
+    "previous_price": 70.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81107,7 +81617,7 @@
     "price": 70.0,
     "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-tech-jacket-black",
-    "previous_price": null
+    "previous_price": 70.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81117,7 +81627,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-tech-jacket-black",
-    "previous_price": null
+    "previous_price": 70.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81127,7 +81637,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-tech-jacket-black",
-    "previous_price": null
+    "previous_price": 70.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81137,7 +81647,7 @@
     "price": 70.0,
     "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-tech-jacket-black",
-    "previous_price": null
+    "previous_price": 70.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81147,7 +81657,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-tech-jacket-black",
-    "previous_price": null
+    "previous_price": 70.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81157,7 +81667,7 @@
     "price": 60.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-hoodie-black",
-    "previous_price": null
+    "previous_price": 60.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81167,7 +81677,7 @@
     "price": 60.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-hoodie-black",
-    "previous_price": null
+    "previous_price": 60.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81177,7 +81687,7 @@
     "price": 60.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-hoodie-black",
-    "previous_price": null
+    "previous_price": 60.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81187,7 +81697,7 @@
     "price": 60.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-hoodie-black",
-    "previous_price": null
+    "previous_price": 60.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81197,7 +81707,7 @@
     "price": 60.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-hoodie-black",
-    "previous_price": null
+    "previous_price": 60.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81207,7 +81717,7 @@
     "price": 60.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-hoodie-black",
-    "previous_price": null
+    "previous_price": 60.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81217,7 +81727,7 @@
     "price": 35.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-tee-black",
-    "previous_price": null
+    "previous_price": 35.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81227,7 +81737,7 @@
     "price": 35.0,
     "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-tee-black",
-    "previous_price": null
+    "previous_price": 35.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81235,9 +81745,9 @@
     "product": "PRG Sempre Tee - Black",
     "size": "Medium",
     "price": 35.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-tee-black",
-    "previous_price": null
+    "previous_price": 35.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81247,7 +81757,7 @@
     "price": 35.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-tee-black",
-    "previous_price": null
+    "previous_price": 35.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81257,7 +81767,7 @@
     "price": 35.0,
     "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-tee-black",
-    "previous_price": null
+    "previous_price": 35.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81267,7 +81777,7 @@
     "price": 35.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-tee-black",
-    "previous_price": null
+    "previous_price": 35.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81277,7 +81787,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-tee-black",
-    "previous_price": null
+    "previous_price": 40.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81287,7 +81797,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-tee-black",
-    "previous_price": null
+    "previous_price": 40.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81295,9 +81805,9 @@
     "product": "PRG Sempre Technical Tee - Black",
     "size": "Medium",
     "price": 40.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-tee-black",
-    "previous_price": null
+    "previous_price": 40.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81307,7 +81817,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-tee-black",
-    "previous_price": null
+    "previous_price": 40.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81317,7 +81827,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-tee-black",
-    "previous_price": null
+    "previous_price": 40.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81327,7 +81837,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-tee-black",
-    "previous_price": null
+    "previous_price": 40.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81337,7 +81847,7 @@
     "price": 46.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-shorts-black",
-    "previous_price": null
+    "previous_price": 46.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81347,7 +81857,7 @@
     "price": 46.0,
     "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-shorts-black",
-    "previous_price": null
+    "previous_price": 46.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81357,7 +81867,7 @@
     "price": 46.0,
     "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-shorts-black",
-    "previous_price": null
+    "previous_price": 46.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81365,9 +81875,9 @@
     "product": "PRG Sempre Technical Shorts - Black",
     "size": "Large",
     "price": 46.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-shorts-black",
-    "previous_price": null
+    "previous_price": 46.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81377,7 +81887,7 @@
     "price": 46.0,
     "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-shorts-black",
-    "previous_price": null
+    "previous_price": 46.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81387,7 +81897,7 @@
     "price": 46.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-sempre-technical-shorts-black",
-    "previous_price": null
+    "previous_price": 46.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81397,7 +81907,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-eclipse-tech-tee-black",
-    "previous_price": null
+    "previous_price": 40.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81407,7 +81917,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-eclipse-tech-tee-black",
-    "previous_price": null
+    "previous_price": 40.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81417,7 +81927,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-eclipse-tech-tee-black",
-    "previous_price": null
+    "previous_price": 40.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81427,7 +81937,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-eclipse-tech-tee-black",
-    "previous_price": null
+    "previous_price": 40.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81437,7 +81947,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-eclipse-tech-tee-black",
-    "previous_price": null
+    "previous_price": 40.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81447,7 +81957,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-eclipse-tech-tee-black",
-    "previous_price": null
+    "previous_price": 40.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81457,7 +81967,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-eclipse-jacket-black",
-    "previous_price": null
+    "previous_price": 70.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81467,7 +81977,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-eclipse-jacket-black",
-    "previous_price": null
+    "previous_price": 70.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81477,7 +81987,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-eclipse-jacket-black",
-    "previous_price": null
+    "previous_price": 70.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81487,7 +81997,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-eclipse-jacket-black",
-    "previous_price": null
+    "previous_price": 70.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81497,7 +82007,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-eclipse-jacket-black",
-    "previous_price": null
+    "previous_price": 70.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81507,7 +82017,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/prg-eclipse-jacket-black",
-    "previous_price": null
+    "previous_price": 70.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -84135,7 +84645,7 @@
     "product": "Balance Series Ink Hybrid Shorts",
     "size": "XL",
     "price": 52.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/balance-series-ink-hybrid-shorts",
     "previous_price": 52.0
   },
@@ -86285,7 +86795,7 @@
     "product": "Balance Series Ink Rashguard",
     "size": "Medium",
     "price": 48.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/balance-series-ink-rashguard",
     "previous_price": 48.0
   },
@@ -87215,7 +87725,7 @@
     "product": "Believe Limited Edition Gi - Black",
     "size": "A1",
     "price": 150.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/checkmat-believe-limited-edition-gi-black",
     "previous_price": 150.0
   },
@@ -92525,16 +93035,6 @@
     "product": "Academy + Hybrid Shorts - Black/White",
     "size": "Large",
     "price": 23.0,
-    "in_stock": true,
-    "url": "https://www.progressjj-europe.com/products/academy-hybrid-shorts-black-white",
-    "previous_price": 23.0
-  },
-  {
-    "shop": "Progress Jiu Jitsu Europe",
-    "brand": "Brothers Group",
-    "product": "Academy + Hybrid Shorts - Black/White",
-    "size": "XL",
-    "price": 23.0,
     "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/academy-hybrid-shorts-black-white",
     "previous_price": 23.0
@@ -92543,6 +93043,16 @@
     "shop": "Progress Jiu Jitsu Europe",
     "brand": "Brothers Group",
     "product": "Academy + Hybrid Shorts - Black/White",
+    "size": "XL",
+    "price": 23.0,
+    "in_stock": false,
+    "url": "https://www.progressjj-europe.com/products/academy-hybrid-shorts-black-white",
+    "previous_price": 23.0
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Brothers Group",
+    "product": "Academy + Hybrid Shorts - Black/White",
     "size": "XXL",
     "price": 23.0,
     "in_stock": false,
@@ -92925,7 +93435,7 @@
     "product": "Ranked Rashguard 2026 - White/Black",
     "size": "Small",
     "price": 23.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/ranked-rashguard-2026-white-black",
     "previous_price": 23.0
   },
@@ -94365,7 +94875,7 @@
     "product": "Academy Rashguard - Petroleum",
     "size": "XL",
     "price": 40.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/academy-rashguard-petroleum-grey",
     "previous_price": 40.0
   },
@@ -126115,7 +126625,7 @@
     "product": "Calavera Gold Weave Gi",
     "size": "A3L / White",
     "price": 159.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/calavera-gold-weave-gi",
     "previous_price": 159.99
   },
@@ -130182,36 +130692,6 @@
   {
     "shop": "Kingz Europe",
     "brand": "Kingz",
-    "product": "Kingz Convertible Backpack 2.0",
-    "size": "Black",
-    "price": 90.0,
-    "in_stock": false,
-    "url": "https://kingzeurope.com/products/kingz-convertible-training-bag",
-    "previous_price": 90.0
-  },
-  {
-    "shop": "Kingz Europe",
-    "brand": "Kingz",
-    "product": "Kingz Convertible Backpack 2.0",
-    "size": "Black XL",
-    "price": 100.0,
-    "in_stock": false,
-    "url": "https://kingzeurope.com/products/kingz-convertible-training-bag",
-    "previous_price": 100.0
-  },
-  {
-    "shop": "Kingz Europe",
-    "brand": "Kingz",
-    "product": "Kingz Convertible Backpack 2.0",
-    "size": "Military Green",
-    "price": 90.0,
-    "in_stock": false,
-    "url": "https://kingzeurope.com/products/kingz-convertible-training-bag",
-    "previous_price": 90.0
-  },
-  {
-    "shop": "Kingz Europe",
-    "brand": "Kingz",
     "product": "Comp 450 V6 Womens Gi - White",
     "size": "F0 / White",
     "price": 90.0,
@@ -130765,7 +131245,7 @@
     "product": "Kingz Trooper Men's Rashguard - Maroon",
     "size": "M / Maroom",
     "price": 50.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/trooper-rashguard-maroon",
     "previous_price": 50.0
   },
@@ -160945,7 +161425,7 @@
     "product": "FUJI Varsity 1969 Shirt Heather Grey",
     "size": "XL",
     "price": 29.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/retro-jiu-jitsu-shirt-heather-grey",
     "previous_price": 29.95
   },
@@ -161805,7 +162285,7 @@
     "product": "Womens Baseline 2.0 Slim Fit BJJ Gi Black Mint",
     "size": "W3",
     "price": 99.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/womens-baseline-2-0-slim-fit-bjj-gi-black-mint",
     "previous_price": 99.95
   },
@@ -165995,7 +166475,7 @@
     "product": "Japanese Street Art Shirt Black",
     "size": "M",
     "price": 29.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/japanese-street-art-shirt-black",
     "previous_price": 29.95
   },
@@ -170645,7 +171125,7 @@
     "product": "Renzo Gracie Essential T-Shirt Cool Blue",
     "size": "XS",
     "price": 35.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/renzo-gracie-essential-t-shirt-cool-blue",
     "previous_price": 35.0
   },
@@ -177615,7 +178095,7 @@
     "product": "Mizuno Yusho Comp Judo Gi White",
     "size": "1",
     "price": 189.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/mizuno-yusho-comp-2015-ijf-approved-gi",
     "previous_price": 189.95
   },
@@ -178895,7 +179375,7 @@
     "product": "Royce Gracie Classic T-Shirt 2.0 Navy",
     "size": "L",
     "price": 32.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-classic-t-shirt-2-0-navy",
     "previous_price": 32.0
   },
@@ -183725,7 +184205,7 @@
     "product": "Rilion Gracie Competition BJJ Gi White",
     "size": "A5",
     "price": 205.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/rilion-gracie-competition-bjj-gi-white",
     "previous_price": 205.0
   },
@@ -184755,7 +185235,7 @@
     "product": "Royce Gracie Academy Flex Lite Rashguard",
     "size": "S",
     "price": 62.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/royce-gracie-academy-flex-lite-rashguard",
     "previous_price": 62.95
   },
@@ -184765,7 +185245,7 @@
     "product": "Royce Gracie Academy Flex Lite Rashguard",
     "size": "M",
     "price": 62.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/royce-gracie-academy-flex-lite-rashguard",
     "previous_price": 62.95
   },
@@ -198225,7 +198705,7 @@
     "product": "Womens All Around Blossom BJJ Gi Black",
     "size": "W4",
     "price": 119.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/womens-all-around-blossom-bjj-gi-black",
     "previous_price": 119.95
   },
@@ -198315,7 +198795,7 @@
     "product": "FUJI x Alliance Standard BJJ Gi Black",
     "size": "A1",
     "price": 152.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/fuji-x-alliance-standard-bjj-gi-black",
     "previous_price": 152.0
   },
@@ -236235,7 +236715,7 @@
     "product": "Fairtex FGV18 Super Sparring MMA Handschoenen - Zwart / Blauw",
     "size": "L",
     "price": 89.9,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/faitex-fgv18-super-sparring-mma-gloves-zwart-blauw",
     "previous_price": 89.9
   },
@@ -238245,7 +238725,7 @@
     "product": "Primo Emblem 2.0 Semi Leather Bokshandschoenen - Paars",
     "size": "12 oz",
     "price": 114.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/primo-emblem-2-0-semi-leather-bokshandschoenen-paars",
     "previous_price": 114.95
   },
@@ -247295,7 +247775,7 @@
     "product": "Hayabusa T3 LX Bokshandschoenen - Vintage",
     "size": "16 oz",
     "price": 229.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-lx-bokshandschoenen-vintage",
     "previous_price": 229.0
   },
@@ -250245,7 +250725,7 @@
     "product": "Sanabul Essential 7 oz MMA Hybride Sparringhandschoenen - Zwart",
     "size": "L/XL",
     "price": 37.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/sanabul-essential-7-oz-mma-hybride-sparringhandschoenen-zwart",
     "previous_price": 37.95
   },
@@ -251345,7 +251825,7 @@
     "product": "Primo Muay Thai Shorts - Super Nylon - Black Panther II - Zwart",
     "size": "XL",
     "price": 59.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/primo-muay-thai-shorts-free-flow-series-black-panther-zwart",
     "previous_price": 59.95
   },
@@ -253095,7 +253575,7 @@
     "product": "Danger Supermax Scheenbeschermers - Grey Edition - Echt Leer - Grijs",
     "size": "M",
     "price": 70.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/danger-supermax-scheenbeschermers-grey-edition-leer-grijs",
     "previous_price": 70.0
   },
@@ -256345,7 +256825,7 @@
     "product": "Hayabusa PTS3 Micro Focus Mitts - Zwart",
     "size": "Default Title",
     "price": 84.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pts3-micro-focus-mitts-zwart",
     "previous_price": 84.99
   },
@@ -262782,16 +263262,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Adidas",
-    "product": "Adidas Binnenhandschoenen Speed Padded  black/black",
-    "size": "xl",
-    "price": 14.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/adidas-binnenhandschoenen-speed-padded-black-black/",
-    "previous_price": 14.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Adidas",
     "product": "Adidas Binnenhandschoenen Speed Gel  black/black",
     "size": "s-m",
     "price": 24.95,
@@ -264298,16 +264768,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-kickboksbroek-revo-1-black-white/",
     "previous_price": 39.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "King",
-    "product": "King KPB Revo 1 Shirt Zwart/Wit",
-    "size": "m",
-    "price": 29.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/king-kpb-revo-1-shirt-zwart-wit/",
-    "previous_price": 29.95
   },
   {
     "shop": "OLB Sports",
@@ -281477,16 +281937,6 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-butterfly-roze/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Bokshandschoen Butterfly Roze",
-    "size": "4oz",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-bokshandschoen-butterfly-roze/",
     "previous_price": 34.95
   },
   {
