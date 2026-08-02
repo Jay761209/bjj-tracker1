@@ -6065,7 +6065,7 @@
     "product": "Ground Force BJJ Pants",
     "size": "A3 / White",
     "price": 29.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-bjj-pants",
     "previous_price": 29.0
   },
@@ -12255,7 +12255,7 @@
     "product": "Kingz Ultralight 2.0 Jiu Jitsu GI",
     "size": "Blue / A4",
     "price": 146.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/kingz-ultralight-2-0-jiu-jitsu-gi",
     "previous_price": 146.0
   },
@@ -12305,7 +12305,7 @@
     "product": "Kingz Ultralight 2.0 Jiu Jitsu GI",
     "size": "Black / A4",
     "price": 146.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/kingz-ultralight-2-0-jiu-jitsu-gi",
     "previous_price": 146.0
   },
@@ -81097,7 +81097,7 @@
     "price": 25.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/legend-bag-kids-apparel",
-    "previous_price": null
+    "previous_price": 25.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81107,7 +81107,7 @@
     "price": 25.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/legend-bag-kids-apparel",
-    "previous_price": null
+    "previous_price": 25.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81117,7 +81117,7 @@
     "price": 25.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/legend-bag-kids-apparel",
-    "previous_price": null
+    "previous_price": 25.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81127,7 +81127,7 @@
     "price": 25.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/legend-bag-kids-apparel",
-    "previous_price": null
+    "previous_price": 25.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81137,7 +81137,7 @@
     "price": 25.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/legend-bag-kids-apparel",
-    "previous_price": null
+    "previous_price": 25.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81147,7 +81147,7 @@
     "price": 25.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/legend-bag-kids-apparel",
-    "previous_price": null
+    "previous_price": 25.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -81415,7 +81415,7 @@
     "product": "Legend Bag - Gi Player",
     "size": "A1L",
     "price": 40.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/legend-bag-gi-player",
     "previous_price": 40.0
   },
@@ -81455,7 +81455,7 @@
     "product": "Legend Bag - Gi Player",
     "size": "A3L",
     "price": 40.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/legend-bag-gi-player",
     "previous_price": 40.0
   },
@@ -81505,7 +81505,7 @@
     "product": "Legend Bag - Gi Player",
     "size": "F3",
     "price": 40.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/legend-bag-gi-player",
     "previous_price": 40.0
   },
@@ -84965,7 +84965,7 @@
     "product": "NSNP Metal Board Shorts",
     "size": "Small",
     "price": 46.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/nsnp-metal-board-shorts",
     "previous_price": 46.0
   },
@@ -93415,7 +93415,7 @@
     "product": "Ranked Rashguard 2026 - White/Black",
     "size": "Small",
     "price": 23.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/ranked-rashguard-2026-white-black",
     "previous_price": 23.0
   },
@@ -95725,7 +95725,7 @@
     "product": "Academy Rashguard - Navy",
     "size": "Small",
     "price": 40.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/academy-rashguard-navy",
     "previous_price": 40.0
   },
@@ -97445,7 +97445,7 @@
     "product": "Vasco Board Shorts - Black",
     "size": "Small",
     "price": 45.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/vasco-board-shorts-black",
     "previous_price": 45.0
   },
@@ -98167,7 +98167,7 @@
     "price": 25.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/progress-jiu-jitsu-digital-gift-card",
-    "previous_price": null
+    "previous_price": 25.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -98177,7 +98177,7 @@
     "price": 50.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/progress-jiu-jitsu-digital-gift-card",
-    "previous_price": null
+    "previous_price": 50.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -98187,7 +98187,7 @@
     "price": 75.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/progress-jiu-jitsu-digital-gift-card",
-    "previous_price": null
+    "previous_price": 75.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -98197,7 +98197,7 @@
     "price": 100.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/progress-jiu-jitsu-digital-gift-card",
-    "previous_price": null
+    "previous_price": 100.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -98207,7 +98207,7 @@
     "price": 150.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/progress-jiu-jitsu-digital-gift-card",
-    "previous_price": null
+    "previous_price": 150.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -98217,7 +98217,7 @@
     "price": 200.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/progress-jiu-jitsu-digital-gift-card",
-    "previous_price": null
+    "previous_price": 200.0
   },
   {
     "shop": "Progress Jiu Jitsu Europe",
@@ -133725,7 +133725,7 @@
     "product": "Kore V2 Jiu Jitsu Gi -  White - 2023 Edition",
     "size": "A0 / White",
     "price": 70.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-2-0-gi-white",
     "previous_price": 70.0
   },
@@ -157597,7 +157597,7 @@
     "price": 264.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/heritage-keisho-edition-bundle",
-    "previous_price": null
+    "previous_price": 264.95
   },
   {
     "shop": "Fuji Sports",
@@ -157607,7 +157607,7 @@
     "price": 264.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/womens-heritage-keisho-edition-bundle",
-    "previous_price": null
+    "previous_price": 264.95
   },
   {
     "shop": "Fuji Sports",
@@ -157617,7 +157617,7 @@
     "price": 69.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/womens-heritage-keisho-long-sleeve-rashguard-black",
-    "previous_price": null
+    "previous_price": 69.95
   },
   {
     "shop": "Fuji Sports",
@@ -157627,7 +157627,7 @@
     "price": 69.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/womens-heritage-keisho-long-sleeve-rashguard-black",
-    "previous_price": null
+    "previous_price": 69.95
   },
   {
     "shop": "Fuji Sports",
@@ -157637,7 +157637,7 @@
     "price": 69.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/womens-heritage-keisho-long-sleeve-rashguard-black",
-    "previous_price": null
+    "previous_price": 69.95
   },
   {
     "shop": "Fuji Sports",
@@ -157647,7 +157647,7 @@
     "price": 69.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/womens-heritage-keisho-long-sleeve-rashguard-black",
-    "previous_price": null
+    "previous_price": 69.95
   },
   {
     "shop": "Fuji Sports",
@@ -157657,7 +157657,7 @@
     "price": 69.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/heritage-keisho-long-sleeve-rashguard-black",
-    "previous_price": null
+    "previous_price": 69.95
   },
   {
     "shop": "Fuji Sports",
@@ -157667,7 +157667,7 @@
     "price": 69.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/heritage-keisho-long-sleeve-rashguard-black",
-    "previous_price": null
+    "previous_price": 69.95
   },
   {
     "shop": "Fuji Sports",
@@ -157677,7 +157677,7 @@
     "price": 69.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/heritage-keisho-long-sleeve-rashguard-black",
-    "previous_price": null
+    "previous_price": 69.95
   },
   {
     "shop": "Fuji Sports",
@@ -157687,7 +157687,7 @@
     "price": 69.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/heritage-keisho-long-sleeve-rashguard-black",
-    "previous_price": null
+    "previous_price": 69.95
   },
   {
     "shop": "Fuji Sports",
@@ -157697,7 +157697,7 @@
     "price": 69.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/heritage-keisho-long-sleeve-rashguard-black",
-    "previous_price": null
+    "previous_price": 69.95
   },
   {
     "shop": "Fuji Sports",
@@ -157707,7 +157707,7 @@
     "price": 224.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/womens-heritage-keisho-lightweight-bjj-gi-black",
-    "previous_price": null
+    "previous_price": 224.95
   },
   {
     "shop": "Fuji Sports",
@@ -157717,7 +157717,7 @@
     "price": 224.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/womens-heritage-keisho-lightweight-bjj-gi-black",
-    "previous_price": null
+    "previous_price": 224.95
   },
   {
     "shop": "Fuji Sports",
@@ -157727,7 +157727,7 @@
     "price": 224.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/womens-heritage-keisho-lightweight-bjj-gi-black",
-    "previous_price": null
+    "previous_price": 224.95
   },
   {
     "shop": "Fuji Sports",
@@ -157737,7 +157737,7 @@
     "price": 224.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/womens-heritage-keisho-lightweight-bjj-gi-black",
-    "previous_price": null
+    "previous_price": 224.95
   },
   {
     "shop": "Fuji Sports",
@@ -157747,7 +157747,7 @@
     "price": 224.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/womens-heritage-keisho-lightweight-bjj-gi-black",
-    "previous_price": null
+    "previous_price": 224.95
   },
   {
     "shop": "Fuji Sports",
@@ -157757,7 +157757,7 @@
     "price": 224.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/heritage-keisho-lightweight-bjj-gi-black",
-    "previous_price": null
+    "previous_price": 224.95
   },
   {
     "shop": "Fuji Sports",
@@ -157767,7 +157767,7 @@
     "price": 224.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/heritage-keisho-lightweight-bjj-gi-black",
-    "previous_price": null
+    "previous_price": 224.95
   },
   {
     "shop": "Fuji Sports",
@@ -157777,7 +157777,7 @@
     "price": 224.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/heritage-keisho-lightweight-bjj-gi-black",
-    "previous_price": null
+    "previous_price": 224.95
   },
   {
     "shop": "Fuji Sports",
@@ -157787,7 +157787,7 @@
     "price": 224.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/heritage-keisho-lightweight-bjj-gi-black",
-    "previous_price": null
+    "previous_price": 224.95
   },
   {
     "shop": "Fuji Sports",
@@ -157795,9 +157795,9 @@
     "product": "Heritage Keisho Lightweight BJJ Gi Black",
     "size": "A2H",
     "price": 224.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/heritage-keisho-lightweight-bjj-gi-black",
-    "previous_price": null
+    "previous_price": 224.95
   },
   {
     "shop": "Fuji Sports",
@@ -157807,7 +157807,7 @@
     "price": 224.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/heritage-keisho-lightweight-bjj-gi-black",
-    "previous_price": null
+    "previous_price": 224.95
   },
   {
     "shop": "Fuji Sports",
@@ -157817,7 +157817,7 @@
     "price": 224.95,
     "in_stock": false,
     "url": "https://fujisports.com/products/heritage-keisho-lightweight-bjj-gi-black",
-    "previous_price": null
+    "previous_price": 224.95
   },
   {
     "shop": "Fuji Sports",
@@ -157827,7 +157827,7 @@
     "price": 224.95,
     "in_stock": false,
     "url": "https://fujisports.com/products/heritage-keisho-lightweight-bjj-gi-black",
-    "previous_price": null
+    "previous_price": 224.95
   },
   {
     "shop": "Fuji Sports",
@@ -157837,7 +157837,7 @@
     "price": 224.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/heritage-keisho-lightweight-bjj-gi-black",
-    "previous_price": null
+    "previous_price": 224.95
   },
   {
     "shop": "Fuji Sports",
@@ -157847,7 +157847,7 @@
     "price": 224.95,
     "in_stock": false,
     "url": "https://fujisports.com/products/heritage-keisho-lightweight-bjj-gi-black",
-    "previous_price": null
+    "previous_price": 224.95
   },
   {
     "shop": "Fuji Sports",
@@ -157857,7 +157857,7 @@
     "price": 224.95,
     "in_stock": false,
     "url": "https://fujisports.com/products/heritage-keisho-lightweight-bjj-gi-black",
-    "previous_price": null
+    "previous_price": 224.95
   },
   {
     "shop": "Fuji Sports",
@@ -163975,7 +163975,7 @@
     "product": "We Defy Monogram T-Shirt Green",
     "size": "L",
     "price": 30.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/we-defy-monogram-t-shirt-green",
     "previous_price": 30.0
   },
@@ -186195,7 +186195,7 @@
     "product": "Kids Six Blades Short Sleeve Rashguard White",
     "size": "YM",
     "price": 55.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/kids-six-blades-short-sleeve-rashguard-white",
     "previous_price": 55.0
   },
@@ -189045,7 +189045,7 @@
     "product": "Rilion Gracie Ranked Short Sleeve Rashguard Purple",
     "size": "XL",
     "price": 56.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/rilion-gracie-ranked-short-sleeve-rashguard-purple",
     "previous_price": 56.0
   },
@@ -227505,7 +227505,7 @@
     "product": "Mizuno Hayato Judo Gi",
     "size": "4",
     "price": 99.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/mizuno-hayato-single-weave-55001",
     "previous_price": 99.95
   },
@@ -243765,7 +243765,7 @@
     "product": "Hayabusa Ashi Foot Grips - zwart",
     "size": "XL",
     "price": 39.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-ashi-foot-grips-zwart",
     "previous_price": 39.99
   },
@@ -245195,7 +245195,7 @@
     "product": "Fairtex BS1910 Muay Thai Shorts - Golden River - rood",
     "size": "XXL",
     "price": 59.9,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1910-muay-thai-shorts-golden-river-rood",
     "previous_price": 59.9
   },
@@ -282203,16 +282203,6 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Kickboksbroek Butterfly Roze",
-    "size": "xxs",
-    "price": 29.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-kickboksbroek-butterfly-roze/",
-    "previous_price": 29.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Kickboksbroek Butterfly Roze",
     "size": "xs",
     "price": 29.95,
     "in_stock": true,
@@ -283308,16 +283298,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-velcro-scheenbeschermer-zwart/",
     "previous_price": 29.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "1916",
-    "product": "1916 Old School Pro Bokshandschoen Zwart",
-    "size": "12oz",
-    "price": 89.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/1916-old-school-pro-bokshandschoen-zwart/",
-    "previous_price": 89.95
   },
   {
     "shop": "OLB Sports",
