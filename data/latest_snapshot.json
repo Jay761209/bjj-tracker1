@@ -1575,7 +1575,7 @@
     "product": "Ground Force Basic Gi V3 - White",
     "size": "A4",
     "price": 80.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-basic-gi-v3-white",
     "previous_price": 80.0
   },
@@ -5655,7 +5655,7 @@
     "product": "Kingz The ONE V2 Jiu Jitsu Gi",
     "size": "A2L / Blue",
     "price": 105.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/kingz-the-one-v2-jiu-jitsu-gi",
     "previous_price": 105.0
   },
@@ -24295,7 +24295,7 @@
     "product": "Vintage Futebol Shorts",
     "size": "S",
     "price": 55.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.stockbjj.com/products/vintage-futebol-shorts",
     "previous_price": 55.0
   },
@@ -24315,7 +24315,7 @@
     "product": "Vintage Futebol Shorts",
     "size": "L",
     "price": 55.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.stockbjj.com/products/vintage-futebol-shorts",
     "previous_price": 55.0
   },
@@ -27515,7 +27515,7 @@
     "product": "Vintage Futebol Rashguard",
     "size": "L",
     "price": 50.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.stockbjj.com/products/vintage-futebol-rashguard",
     "previous_price": 50.0
   },
@@ -44745,7 +44745,7 @@
     "product": "Kimono BJJ ( Gi) Progress Women´s Academy - Negro- CINTURON BLANCO INCLUIDO",
     "size": "F3",
     "price": 80.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-progress-women-s-academy-negro-cinturon-blanco-incluido",
     "previous_price": 80.0
   },
@@ -90325,7 +90325,7 @@
     "product": "Groove Rashguard",
     "size": "XS",
     "price": 45.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/groove-rashguard",
     "previous_price": 45.0
   },
@@ -90365,7 +90365,7 @@
     "product": "Groove Rashguard",
     "size": "XL",
     "price": 45.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/groove-rashguard",
     "previous_price": 45.0
   },
@@ -91475,7 +91475,7 @@
     "product": "NSNP Metal Rashguard - Black",
     "size": "XL",
     "price": 48.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/nsnp-metal-rashguard-black",
     "previous_price": 48.0
   },
@@ -91585,7 +91585,7 @@
     "product": "NSNP Metal Board Shorts",
     "size": "Large",
     "price": 46.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/nsnp-metal-board-shorts",
     "previous_price": 46.0
   },
@@ -96035,7 +96035,7 @@
     "product": "Academy Board Shorts - Navy",
     "size": "XXL",
     "price": 40.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/academy-board-shorts-navy",
     "previous_price": 40.0
   },
@@ -96825,7 +96825,7 @@
     "product": "Women's M6 Lite Jacket - Black",
     "size": "F1",
     "price": 70.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/womens-m6-lite-jacket-black",
     "previous_price": 70.0
   },
@@ -100855,7 +100855,7 @@
     "product": "Academy Spats - Black",
     "size": "XL",
     "price": 40.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/academy-spats-black",
     "previous_price": 40.0
   },
@@ -101065,7 +101065,7 @@
     "product": "Academy Board Shorts - Khaki",
     "size": "Small",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-board-shorts-khaki",
     "previous_price": 40.0
   },
@@ -101074,16 +101074,6 @@
     "brand": "Yisport",
     "product": "Academy Board Shorts - Khaki",
     "size": "Medium",
-    "price": 40.0,
-    "in_stock": false,
-    "url": "https://www.progressjj-europe.com/products/academy-board-shorts-khaki",
-    "previous_price": 40.0
-  },
-  {
-    "shop": "Progress Jiu Jitsu Europe",
-    "brand": "Yisport",
-    "product": "Academy Board Shorts - Khaki",
-    "size": "Large",
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-board-shorts-khaki",
@@ -101093,9 +101083,19 @@
     "shop": "Progress Jiu Jitsu Europe",
     "brand": "Yisport",
     "product": "Academy Board Shorts - Khaki",
+    "size": "Large",
+    "price": 40.0,
+    "in_stock": true,
+    "url": "https://www.progressjj-europe.com/products/academy-board-shorts-khaki",
+    "previous_price": 40.0
+  },
+  {
+    "shop": "Progress Jiu Jitsu Europe",
+    "brand": "Yisport",
+    "product": "Academy Board Shorts - Khaki",
     "size": "XL",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-board-shorts-khaki",
     "previous_price": 40.0
   },
@@ -101105,7 +101105,7 @@
     "product": "Academy Board Shorts - Khaki",
     "size": "XXL",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-board-shorts-khaki",
     "previous_price": 40.0
   },
@@ -101225,7 +101225,7 @@
     "product": "Academy Rashguard - Khaki",
     "size": "XXL",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-rashguard-khaki-2",
     "previous_price": 40.0
   },
@@ -101415,7 +101415,7 @@
     "product": "Academy Rashguard - Petroleum",
     "size": "XS",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-rashguard-petroleum-grey",
     "previous_price": 40.0
   },
@@ -101445,7 +101445,7 @@
     "product": "Academy Rashguard - Petroleum",
     "size": "Large",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-rashguard-petroleum-grey",
     "previous_price": 40.0
   },
@@ -101455,7 +101455,7 @@
     "product": "Academy Rashguard - Petroleum",
     "size": "XL",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-rashguard-petroleum-grey",
     "previous_price": 40.0
   },
@@ -101465,7 +101465,7 @@
     "product": "Academy Rashguard - Petroleum",
     "size": "XXL",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-rashguard-petroleum-grey",
     "previous_price": 40.0
   },
@@ -101485,7 +101485,7 @@
     "product": "Academy Board Shorts - Petroleum",
     "size": "Small",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-board-shorts-petroleum-grey",
     "previous_price": 40.0
   },
@@ -101495,7 +101495,7 @@
     "product": "Academy Board Shorts - Petroleum",
     "size": "Medium",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-board-shorts-petroleum-grey",
     "previous_price": 40.0
   },
@@ -101505,7 +101505,7 @@
     "product": "Academy Board Shorts - Petroleum",
     "size": "Large",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-board-shorts-petroleum-grey",
     "previous_price": 40.0
   },
@@ -101515,7 +101515,7 @@
     "product": "Academy Board Shorts - Petroleum",
     "size": "XL",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-board-shorts-petroleum-grey",
     "previous_price": 40.0
   },
@@ -106375,7 +106375,7 @@
     "product": "Academy Rashguard - Black",
     "size": "Medium",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-rashguard",
     "previous_price": 40.0
   },
@@ -106395,7 +106395,7 @@
     "product": "Academy Rashguard - Black",
     "size": "XL",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-rashguard",
     "previous_price": 40.0
   },
@@ -106445,7 +106445,7 @@
     "product": "Academy Board Shorts - Black",
     "size": "Large",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-board-shorts",
     "previous_price": 40.0
   },
@@ -106455,7 +106455,7 @@
     "product": "Academy Board Shorts - Black",
     "size": "XL",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-board-shorts",
     "previous_price": 40.0
   },
@@ -106465,7 +106465,7 @@
     "product": "Academy Board Shorts - Black",
     "size": "XXL",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-board-shorts",
     "previous_price": 40.0
   },
@@ -107365,7 +107365,7 @@
     "product": "Academy Rashguard Longsleeve - Black",
     "size": "XXL",
     "price": 40.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/academy-rashguard-longsleeve",
     "previous_price": 40.0
   },
@@ -138995,7 +138995,7 @@
     "product": "Kingz Players Special Limited Edition Youth BJJ Gi",
     "size": "M4 / Black",
     "price": 140.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-players-special-limited-edition-youth-gi",
     "previous_price": 140.0
   },
@@ -164905,7 +164905,7 @@
     "product": "Gym Towel",
     "size": "Default Title",
     "price": 24.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/gym-towel-1",
     "previous_price": 24.95
   },
@@ -167235,7 +167235,7 @@
     "product": "Womens SBG DRM Suparaito BJJ GI Gray",
     "size": "W0",
     "price": 178.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/womens-sbg-drm-suparaito-bjj-gi-gray",
     "previous_price": 178.0
   },
@@ -167965,7 +167965,7 @@
     "product": "Heritage Keisho Lightweight BJJ Gi Black",
     "size": "A3H",
     "price": 224.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/heritage-keisho-lightweight-bjj-gi-black",
     "previous_price": 224.95
   },
@@ -168575,7 +168575,7 @@
     "product": "Renzo Gracie Standard Long Sleeve Rashguard - YOUTH",
     "size": "YM",
     "price": 57.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/renzo-gracie-standard-long-sleeve-rashguard-youth",
     "previous_price": 57.0
   },
@@ -169115,7 +169115,7 @@
     "product": "We Defy Patch",
     "size": "Default Title",
     "price": 42.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/we-defy-patch",
     "previous_price": 42.95
   },
@@ -169215,7 +169215,7 @@
     "product": "FUJI Varsity 1969 Shirt Heather Grey",
     "size": "XL",
     "price": 29.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/retro-jiu-jitsu-shirt-heather-grey",
     "previous_price": 29.95
   },
@@ -169705,7 +169705,7 @@
     "product": "Baseline 2.0 Long Sleeve Rashguard White",
     "size": "3XL",
     "price": 54.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/baseline-2-0-long-sleeve-rashguard-white",
     "previous_price": 54.95
   },
@@ -169715,7 +169715,7 @@
     "product": "Ippon Gear Black Belt",
     "size": "2.5 - 240cm",
     "price": 45.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-legend-ijf-black-belt",
     "previous_price": 45.95
   },
@@ -169725,7 +169725,7 @@
     "product": "Ippon Gear Black Belt",
     "size": "3.5 - 260cm",
     "price": 45.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-legend-ijf-black-belt",
     "previous_price": 45.95
   },
@@ -169735,7 +169735,7 @@
     "product": "Ippon Gear Black Belt",
     "size": "4.5 - 280cm",
     "price": 45.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-legend-ijf-black-belt",
     "previous_price": 45.95
   },
@@ -169755,7 +169755,7 @@
     "product": "Ippon Gear Black Belt",
     "size": "6.5 - 320cm",
     "price": 45.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-legend-ijf-black-belt",
     "previous_price": 45.95
   },
@@ -169765,7 +169765,7 @@
     "product": "Ippon Gear Black Belt",
     "size": "7.5 - 340cm",
     "price": 45.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-legend-ijf-black-belt",
     "previous_price": 45.95
   },
@@ -179205,7 +179205,7 @@
     "product": "SBG Grunge Gorilla Youth Short Sleeve Rashguard",
     "size": "YL",
     "price": 43.4,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/sbg-grunge-gorilla-youth-short-sleeve-rashguard",
     "previous_price": 43.4
   },
@@ -180915,7 +180915,7 @@
     "product": "CKO MMA Gloves White [FINAL SALE]",
     "size": "L",
     "price": 44.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/cko-mma-gloves-1",
     "previous_price": 44.99
   },
@@ -180925,7 +180925,7 @@
     "product": "CKO MMA Gloves White [FINAL SALE]",
     "size": "XL",
     "price": 44.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/cko-mma-gloves-1",
     "previous_price": 44.99
   },
@@ -182475,7 +182475,7 @@
     "product": "SBG Kids Short Sleeve Ranked Rashguard",
     "size": "YL",
     "price": 62.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/sbg-kids-short-sleeve-ranked-rashguard",
     "previous_price": 62.0
   },
@@ -185095,7 +185095,7 @@
     "product": "Rilion Gracie Belt White/Yellow",
     "size": "A2",
     "price": 24.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/rilion-gracie-belt-white-yellow",
     "previous_price": 24.0
   },
@@ -185595,7 +185595,7 @@
     "product": "Pedro Sauer Snapback Hat",
     "size": "Default Title",
     "price": 35.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/pedro-sauer-snapback-hat",
     "previous_price": 35.95
   },
@@ -187605,7 +187605,7 @@
     "product": "Ryujin T-Shirt Heather Grey",
     "size": "M",
     "price": 29.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ryujin-t-shirt-heather-grey",
     "previous_price": 29.95
   },
@@ -187625,7 +187625,7 @@
     "product": "Ryujin T-Shirt Heather Grey",
     "size": "XL",
     "price": 29.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ryujin-t-shirt-heather-grey",
     "previous_price": 29.95
   },
@@ -189025,7 +189025,7 @@
     "product": "Mizuno Olympic Judo Gi Blue",
     "size": "3.5",
     "price": 269.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/mizuno-olympic-judo-gi-blue",
     "previous_price": 269.95
   },
@@ -190105,7 +190105,7 @@
     "product": "Renzo Gracie Competition BJJ Gi White",
     "size": "A0",
     "price": 189.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/renzo-gracie-competition-bjj-gi-white",
     "previous_price": 189.0
   },
@@ -191995,7 +191995,7 @@
     "product": "SBG Midweight Hoodie Olive",
     "size": "XL",
     "price": 47.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/sbg-midweight-hoodie-olive",
     "previous_price": 47.0
   },
@@ -192295,7 +192295,7 @@
     "product": "Kids Six Blades Performance Comfort Shorts Black",
     "size": "YM",
     "price": 55.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/kids-six-blades-performance-comfort-shorts-black",
     "previous_price": 55.0
   },
@@ -195485,7 +195485,7 @@
     "product": "Rilion Gracie Ranked Short Sleeve Rashguard Purple",
     "size": "XL",
     "price": 56.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/rilion-gracie-ranked-short-sleeve-rashguard-purple",
     "previous_price": 56.0
   },
@@ -196075,7 +196075,7 @@
     "product": "Baseline Ranked Short Sleeve Rashguard Blue",
     "size": "XL",
     "price": 49.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/baseline-ranked-short-sleeve-rashguard-blue",
     "previous_price": 49.95
   },
@@ -196085,7 +196085,7 @@
     "product": "Baseline Ranked Short Sleeve Rashguard Blue",
     "size": "2XL",
     "price": 49.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/baseline-ranked-short-sleeve-rashguard-blue",
     "previous_price": 49.95
   },
@@ -196095,7 +196095,7 @@
     "product": "Baseline Ranked Short Sleeve Rashguard Blue",
     "size": "3XL",
     "price": 49.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/baseline-ranked-short-sleeve-rashguard-blue",
     "previous_price": 49.95
   },
@@ -199135,7 +199135,7 @@
     "product": "Royce Gracie Short Sleeve Rashguard",
     "size": "2XL",
     "price": 62.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-short-sleeve-rashguard-4987",
     "previous_price": 62.95
   },
@@ -199145,7 +199145,7 @@
     "product": "Royce Gracie Short Sleeve Rashguard",
     "size": "3XL",
     "price": 62.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-short-sleeve-rashguard-4987",
     "previous_price": 62.95
   },
@@ -199835,7 +199835,7 @@
     "product": "Womens Ultra Lite 300 BJJ Gi Blue",
     "size": "W2",
     "price": 149.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/womens-ultra-lite-300-bjj-gi-blue",
     "previous_price": 149.95
   },
@@ -204625,7 +204625,7 @@
     "product": "Mizuno Japan Yusho Judo Gi W/Bird White",
     "size": "1",
     "price": 399.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/mizuno-japan-yusho-judo-gi-w-bird-white",
     "previous_price": 399.95
   },
@@ -204695,7 +204695,7 @@
     "product": "Mizuno Japan Yusho Judo Gi W/Bird White",
     "size": "4.5",
     "price": 399.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/mizuno-japan-yusho-judo-gi-w-bird-white",
     "previous_price": 399.95
   },
@@ -208745,7 +208745,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "1.5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -208755,7 +208755,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "2",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -208765,7 +208765,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "2.5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -208775,7 +208775,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "3",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -208785,7 +208785,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "3.5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -208795,7 +208795,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "4",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -208805,7 +208805,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "4.5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -208815,7 +208815,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -208825,7 +208825,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "5.5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -208835,7 +208835,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "6",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -208865,7 +208865,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "1.5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -208875,7 +208875,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "2",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -208885,7 +208885,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "2.5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -208895,7 +208895,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "3",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -208905,7 +208905,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "3.5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -208915,7 +208915,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "4",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -208925,7 +208925,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "4.5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -208935,7 +208935,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -208945,7 +208945,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "5.5",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -208955,7 +208955,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "6",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -215375,7 +215375,7 @@
     "product": "CKO Baseline Gloves Black",
     "size": "10oz",
     "price": 49.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/cko-baseline-gloves",
     "previous_price": 49.95
   },
@@ -215385,7 +215385,7 @@
     "product": "CKO Baseline Gloves Black",
     "size": "12oz",
     "price": 49.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/cko-baseline-gloves",
     "previous_price": 49.95
   },
@@ -220305,7 +220305,7 @@
     "product": "Starter Adult Judo Gi",
     "size": "5",
     "price": 89.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/starter-adult-judo-gi",
     "previous_price": 89.95
   },
@@ -220315,7 +220315,7 @@
     "product": "Starter Adult Judo Gi",
     "size": "6",
     "price": 89.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/starter-adult-judo-gi",
     "previous_price": 89.95
   },
@@ -221175,7 +221175,7 @@
     "product": "Dojo Outfitters x FUJI Judo Gi",
     "size": "4.5",
     "price": 170.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/dojo-outfitters-judo-gi",
     "previous_price": 170.95
   },
@@ -222595,7 +222595,7 @@
     "product": "CKO Premium Leather Boxing Gloves Black",
     "size": "10oz",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/cko-premium-leather-boxing-gloves-black",
     "previous_price": 69.95
   },
@@ -222605,7 +222605,7 @@
     "product": "CKO Premium Leather Boxing Gloves Black",
     "size": "12oz",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/cko-premium-leather-boxing-gloves-black",
     "previous_price": 69.95
   },
@@ -237955,7 +237955,7 @@
     "product": "Booster Pro Range BSG V9 Scheenbeschermers - Zwart / Geel",
     "size": "M",
     "price": 119.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bsg-v9-scheenbeschermers-zwart-geel",
     "previous_price": 119.95
   },
@@ -250365,7 +250365,7 @@
     "product": "Hayabusa T3 LX 7oz Hybride Handschoenen - Vintage",
     "size": "L",
     "price": 169.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-lx-7oz-mma-handschoenen-vintage",
     "previous_price": 169.0
   },
@@ -254185,7 +254185,7 @@
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Rood",
     "size": "14 oz",
     "price": 174.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-rood",
     "previous_price": 174.95
   },
@@ -256665,7 +256665,7 @@
     "product": "Hayabusa Ryoko Duffel Bag - 50 liter",
     "size": "Default Title",
     "price": 139.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-ryoko-duffel-bag-50-liter",
     "previous_price": 139.0
   },
@@ -256907,7 +256907,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/damage-control-mouthguard-symbite-2-0/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -256917,7 +256917,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/damage-control-mouthguard-symbite-2-0/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -256927,7 +256927,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/damage-control-mouthguard-fear-none-senior/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -256937,7 +256937,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/damage-control-mouthguard-champ-senior/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -256947,7 +256947,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/damage-control-mouthguard-came-from-nothing-senior/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -256957,7 +256957,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/damage-control-mouthguard-bleeding-fangs-senior/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -256967,7 +256967,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/damage-control-mouthguard-blackarts-senior/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -276027,7 +276027,7 @@
     "price": 174.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-wine-red/",
-    "previous_price": null
+    "previous_price": 174.95
   },
   {
     "shop": "OLB Sports",
@@ -276047,7 +276047,7 @@
     "price": 174.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-wine-red/",
-    "previous_price": null
+    "previous_price": 174.95
   },
   {
     "shop": "OLB Sports",
@@ -279812,16 +279812,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Venum",
-    "product": "Venum Muay Thai Kickboksbroek Classic Zwart",
-    "size": "l",
-    "price": 41.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-muay-thai-kickboksbroek-classic-zwart/",
-    "previous_price": 41.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
     "product": "Venum Bokshandschoen Elite Evo Black",
     "size": "16oz",
     "price": 109.99,
@@ -282068,16 +282058,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-rashguard-stormking-2/",
     "previous_price": 34.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "XXL",
-    "product": "XXL Nutrition Pro 85 Protein Banaan 5kg",
-    "size": "One Size",
-    "price": 149.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/xxl-nutrition-pro-85-protein-banaan-5kg/",
-    "previous_price": 149.99
   },
   {
     "shop": "OLB Sports",
