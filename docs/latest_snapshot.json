@@ -5465,7 +5465,7 @@
     "product": "RollPro Essential BJJ Gi",
     "size": "A2 / Black",
     "price": 62.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/rollpro-essential-bjj-gi",
     "previous_price": 62.5
   },
@@ -32855,7 +32855,7 @@
     "product": "Kimono BJJ ( Gi) Progress The Academy- Verde Bosque- CINTURON BLANCO INCLUIDO",
     "size": "A2",
     "price": 80.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-progress-the-academy-verde-bosque-cinturon-blanco-incluido",
     "previous_price": 80.0
   },
@@ -88805,7 +88805,7 @@
     "product": "Gridiron 1996 Hybrid Shorts",
     "size": "Medium",
     "price": 50.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/gridiron-1996-hybrid-shorts",
     "previous_price": 50.0
   },
@@ -88815,7 +88815,7 @@
     "product": "Gridiron 1996 Hybrid Shorts",
     "size": "Large",
     "price": 50.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/gridiron-1996-hybrid-shorts",
     "previous_price": 50.0
   },
@@ -88945,7 +88945,7 @@
     "product": "Gridiron 2007 Board Shorts",
     "size": "XL",
     "price": 42.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/gridiron-2007-board-shorts",
     "previous_price": 42.0
   },
@@ -91465,7 +91465,7 @@
     "product": "NSNP Metal Rashguard - Black",
     "size": "Large",
     "price": 48.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/nsnp-metal-rashguard-black",
     "previous_price": 48.0
   },
@@ -91565,7 +91565,7 @@
     "product": "NSNP Metal Board Shorts",
     "size": "Small",
     "price": 46.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/nsnp-metal-board-shorts",
     "previous_price": 46.0
   },
@@ -93665,7 +93665,7 @@
     "product": "Balance Series Blue Noise Board Shorts",
     "size": "Small",
     "price": 45.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/balance-series-blue-noise-board-shorts",
     "previous_price": 45.0
   },
@@ -96715,7 +96715,7 @@
     "product": "NSNP Kids Board Shorts - Black",
     "size": "Large",
     "price": 15.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/nsnp-kids-board-shorts-black",
     "previous_price": 15.0
   },
@@ -96825,7 +96825,7 @@
     "product": "Women's M6 Lite Jacket - Black",
     "size": "F1",
     "price": 70.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/womens-m6-lite-jacket-black",
     "previous_price": 70.0
   },
@@ -97825,7 +97825,7 @@
     "product": "Never Stop Rolling Hoodie - Khaki",
     "size": "XS",
     "price": 33.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/never-stop-rolling-hoodie-khaki",
     "previous_price": 33.0
   },
@@ -97885,7 +97885,7 @@
     "product": "Never Stop Rolling Tee - Khaki",
     "size": "XS",
     "price": 15.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/never-stop-rolling-tee-khaki",
     "previous_price": 15.0
   },
@@ -99435,7 +99435,7 @@
     "product": "Shroom Tee - Black",
     "size": "Large",
     "price": 15.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.progressjj-europe.com/products/shroom-tee-black",
     "previous_price": 15.0
   },
@@ -104035,7 +104035,7 @@
     "product": "Vasco Board Shorts - Black",
     "size": "Small",
     "price": 45.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.progressjj-europe.com/products/vasco-board-shorts-black",
     "previous_price": 45.0
   },
@@ -107567,7 +107567,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107577,7 +107577,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107587,7 +107587,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107597,7 +107597,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107607,7 +107607,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107617,7 +107617,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107627,7 +107627,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107637,7 +107637,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107647,7 +107647,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107657,7 +107657,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107667,7 +107667,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107677,7 +107677,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107687,7 +107687,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107697,7 +107697,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107707,7 +107707,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107717,7 +107717,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107727,7 +107727,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107737,7 +107737,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107747,7 +107747,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107757,7 +107757,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107767,7 +107767,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107777,7 +107777,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107787,7 +107787,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107797,7 +107797,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107807,7 +107807,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107817,7 +107817,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107827,7 +107827,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107837,7 +107837,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107847,7 +107847,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107857,7 +107857,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107867,7 +107867,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107877,7 +107877,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107887,7 +107887,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107897,7 +107897,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107907,7 +107907,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107917,7 +107917,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107927,7 +107927,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107937,7 +107937,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107947,7 +107947,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107957,7 +107957,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107967,7 +107967,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107977,7 +107977,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107987,7 +107987,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -107997,7 +107997,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108007,7 +108007,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108017,7 +108017,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108027,7 +108027,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108037,7 +108037,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108047,7 +108047,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108057,7 +108057,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108067,7 +108067,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108077,7 +108077,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108087,7 +108087,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108097,7 +108097,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108107,7 +108107,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108117,7 +108117,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108127,7 +108127,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108137,7 +108137,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108147,7 +108147,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108157,7 +108157,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108167,7 +108167,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108177,7 +108177,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108187,7 +108187,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108197,7 +108197,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108207,7 +108207,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108217,7 +108217,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108227,7 +108227,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108237,7 +108237,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108247,7 +108247,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108257,7 +108257,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108267,7 +108267,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108277,7 +108277,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108287,7 +108287,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108297,7 +108297,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108307,7 +108307,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108317,7 +108317,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108327,7 +108327,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108337,7 +108337,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108347,7 +108347,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108357,7 +108357,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108367,7 +108367,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108377,7 +108377,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108387,7 +108387,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108397,7 +108397,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108407,7 +108407,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108417,7 +108417,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108427,7 +108427,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108437,7 +108437,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108447,7 +108447,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108457,7 +108457,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108467,7 +108467,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108477,7 +108477,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108487,7 +108487,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108497,7 +108497,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108507,7 +108507,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108517,7 +108517,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108527,7 +108527,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108537,7 +108537,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108547,7 +108547,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108557,7 +108557,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108567,7 +108567,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108577,7 +108577,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108587,7 +108587,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108597,7 +108597,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108607,7 +108607,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108617,7 +108617,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108627,7 +108627,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108637,7 +108637,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108647,7 +108647,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108657,7 +108657,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108667,7 +108667,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -108677,7 +108677,7 @@
     "price": 85.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/foundation-rash-guard-buy-2-get-1-free",
-    "previous_price": null
+    "previous_price": 85.98
   },
   {
     "shop": "Gold BJJ",
@@ -116705,7 +116705,7 @@
     "product": "Collegiate Tee",
     "size": "Navy / L",
     "price": 29.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/collegiate-tee",
     "previous_price": 29.99
   },
@@ -116715,7 +116715,7 @@
     "product": "Collegiate Tee",
     "size": "Navy / XL",
     "price": 29.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/collegiate-tee",
     "previous_price": 29.99
   },
@@ -134255,7 +134255,7 @@
     "product": "Kingz Jiu Jitsu Motion Men's Tee",
     "size": "Peach / XL",
     "price": 30.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/jiu-jitsu-motion-tee",
     "previous_price": 30.0
   },
@@ -134615,7 +134615,7 @@
     "product": "Kingz Kore V2 Men's Tee",
     "size": "Brown / XL",
     "price": 30.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-v2-tee",
     "previous_price": 30.0
   },
@@ -141485,7 +141485,7 @@
     "product": "Casual Gi Shorts - Sage",
     "size": "A3 / Sage",
     "price": 35.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-sage",
     "previous_price": 35.0
   },
@@ -141555,7 +141555,7 @@
     "product": "Casual Gi Shorts - Grey",
     "size": "A3 / Grey",
     "price": 35.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-grey",
     "previous_price": 35.0
   },
@@ -142485,7 +142485,7 @@
     "product": "Kingz Nano 3.0 Terra Limited Edition Men's BJJ Gi",
     "size": "A2L / Black",
     "price": 120.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/nano-3-0-terra-limited-edition-jiu-jitsu-gi",
     "previous_price": 120.0
   },
@@ -144325,7 +144325,7 @@
     "product": "Script Women's Heavyweight Tee",
     "size": "Black / S",
     "price": 30.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-baby-tee-copy",
     "previous_price": 30.0
   },
@@ -144695,7 +144695,7 @@
     "product": "Kingz Casual Men's Gi Shorts - Khaki",
     "size": "A2 / Khaki",
     "price": 45.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-tan",
     "previous_price": 45.0
   },
@@ -144705,7 +144705,7 @@
     "product": "Kingz Casual Men's Gi Shorts - Khaki",
     "size": "A3 / Khaki",
     "price": 45.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-tan",
     "previous_price": 45.0
   },
@@ -146555,7 +146555,7 @@
     "product": "Kore Women's Tee",
     "size": "M / Natural",
     "price": 25.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-tee",
     "previous_price": 25.0
   },
@@ -150105,7 +150105,7 @@
     "product": "Kingz The ONE V2 Men's BJJ Gi - Blue",
     "size": "A3 / Blue",
     "price": 105.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-the-one-v2-jiu-jitsu-gi-blue",
     "previous_price": 105.0
   },
@@ -156795,7 +156795,7 @@
     "product": "Kore Womens Training Shorts - Smoke Blue",
     "size": "XS",
     "price": 35.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-training-shorts-grey",
     "previous_price": 35.0
   },
@@ -163955,7 +163955,7 @@
     "product": "Gym Towel",
     "size": "Default Title",
     "price": 24.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/gym-towel-1",
     "previous_price": 24.95
   },
@@ -164565,7 +164565,7 @@
     "product": "FUJI SAKANA Long Sleeve Rashguard",
     "size": "XS",
     "price": 62.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/fuji-sakana-long-sleeve-rashguard",
     "previous_price": 62.95
   },
@@ -166285,7 +166285,7 @@
     "product": "Womens SBG DRM Suparaito BJJ GI Gray",
     "size": "W0",
     "price": 178.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/womens-sbg-drm-suparaito-bjj-gi-gray",
     "previous_price": 178.0
   },
@@ -166935,7 +166935,7 @@
     "product": "Womens Heritage Keisho Lightweight BJJ Gi Black",
     "size": "W3",
     "price": 224.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/womens-heritage-keisho-lightweight-bjj-gi-black",
     "previous_price": 224.95
   },
@@ -169805,7 +169805,7 @@
     "product": "Baseline 2.0 Short Sleeve Rashguard Blue",
     "size": "3XL",
     "price": 49.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/baseline-2-0-short-sleeve-rashguard-blue",
     "previous_price": 49.95
   },
@@ -181135,7 +181135,7 @@
     "product": "Renzo Gracie BJJ Belt Brown",
     "size": "A3",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/renzo-gracie-bjj-belt-brown",
     "previous_price": 16.5
   },
@@ -181205,7 +181205,7 @@
     "product": "Renzo Gracie BJJ Belt Purple",
     "size": "A3",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/renzo-gracie-bjj-belt-purple",
     "previous_price": 16.5
   },
@@ -184295,7 +184295,7 @@
     "product": "SAKANA Long Sleeve Rashguard",
     "size": "XS",
     "price": 62.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/sakana-long-sleeve-rashguard",
     "previous_price": 62.95
   },
@@ -187765,7 +187765,7 @@
     "product": "Mizuno Olympic Judo Gi Blue",
     "size": "3.5",
     "price": 269.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/mizuno-olympic-judo-gi-blue",
     "previous_price": 269.95
   },
@@ -192855,7 +192855,7 @@
     "product": "Pedro Sauer Jiu Jitsu Belt White",
     "size": "A3",
     "price": 16.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/pedro-sauer-jiu-jitsu-belts-white",
     "previous_price": 16.0
   },
@@ -203665,7 +203665,7 @@
     "product": "FUJI x Alliance Standard BJJ Gi Black",
     "size": "A3H",
     "price": 152.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/fuji-x-alliance-standard-bjj-gi-black",
     "previous_price": 152.0
   },
@@ -204715,7 +204715,7 @@
     "product": "Bushido Flex Lite Rashguard",
     "size": "L",
     "price": 59.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/bushido-flex-lite-rashguard",
     "previous_price": 59.95
   },
@@ -208155,7 +208155,7 @@
     "product": "Womens Blossom Rashguard Black/Pink",
     "size": "WM",
     "price": 62.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/womens-blossom-rashguard-black-pink",
     "previous_price": 62.95
   },
@@ -233755,7 +233755,7 @@
     "product": "Booster BFG Bokshandschoenen voor kinderen - Alpha Black",
     "size": "8 oz",
     "price": 39.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bfg-bokshandschoenen-voor-kinderen-alpha-black",
     "previous_price": 39.95
   },
@@ -235765,7 +235765,7 @@
     "product": "Booster Scheenbeschermers - Bangkok Series 1 - Zwart / Goud",
     "size": "L",
     "price": 74.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-scheenbeschermers-bangkok-series-1-zwart-wit",
     "previous_price": 74.95
   },
@@ -239375,7 +239375,7 @@
     "product": "Danger Rocket 5.0 Bokshandschoenen - Echt Leer - Zwart/Wit/Rood",
     "size": "10 oz",
     "price": 99.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/danger-rocket-50-bokshandschoenen-echt-leer-zwart-wit-rood",
     "previous_price": 99.0
   },
@@ -253145,16 +253145,6 @@
     "product": "Hayabusa Mayweather Champ Boksschoenen - Zwart/Goud",
     "size": "45",
     "price": 129.0,
-    "in_stock": false,
-    "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-zwart-goud",
-    "previous_price": 129.0
-  },
-  {
-    "shop": "Kickboxing-shop.nl",
-    "brand": "Hayabusa",
-    "product": "Hayabusa Mayweather Champ Boksschoenen - Zwart/Goud",
-    "size": "46",
-    "price": 129.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-zwart-goud",
     "previous_price": 129.0
@@ -253163,6 +253153,16 @@
     "shop": "Kickboxing-shop.nl",
     "brand": "Hayabusa",
     "product": "Hayabusa Mayweather Champ Boksschoenen - Zwart/Goud",
+    "size": "46",
+    "price": 129.0,
+    "in_stock": true,
+    "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-zwart-goud",
+    "previous_price": 129.0
+  },
+  {
+    "shop": "Kickboxing-shop.nl",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Mayweather Champ Boksschoenen - Zwart/Goud",
     "size": "47",
     "price": 129.0,
     "in_stock": true,
@@ -253315,7 +253315,7 @@
     "product": "Hayabusa Pro Boksschoenen - Blauw",
     "size": "46",
     "price": 119.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-blauw",
     "previous_price": 119.0
   },
@@ -253355,7 +253355,7 @@
     "product": "Hayabusa Mayweather Champ Boksschoenen - Zwart/Grijs",
     "size": "42",
     "price": 129.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-zwart-grijs",
     "previous_price": 129.0
   },
@@ -253395,7 +253395,7 @@
     "product": "Hayabusa Mayweather Champ Boksschoenen - Zwart/Grijs",
     "size": "46",
     "price": 129.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-zwart-grijs",
     "previous_price": 129.0
   },
@@ -253545,7 +253545,7 @@
     "product": "Hayabusa Pro Boksschoenen - Lichtblauw",
     "size": "44",
     "price": 119.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-lichtblauw",
     "previous_price": 119.0
   },
@@ -253555,7 +253555,7 @@
     "product": "Hayabusa Pro Boksschoenen - Lichtblauw",
     "size": "45",
     "price": 119.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-lichtblauw",
     "previous_price": 119.0
   },
@@ -255231,6 +255231,136 @@
   },
   {
     "shop": "OLB Sports",
+    "brand": "1916",
+    "product": "1916 Fight Gear Focus Pads Ultimate Black 2.0",
+    "size": "One Size",
+    "price": 219.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-fight-gear-focus-pads-ultimate-black-2-0/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "1916",
+    "product": "1916 Fight Gear Dura Pads Ultimate Black 2.0",
+    "size": "m",
+    "price": 219.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-fight-gear-dura-pads-ultimate-black-2-0/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "1916",
+    "product": "1916 Fight Gear Dura Pads Ultimate Black 2.0",
+    "size": "l",
+    "price": 219.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-fight-gear-dura-pads-ultimate-black-2-0/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "1916",
+    "product": "1916 Fight Gear Hoofdbeschermer Ultimate  Black",
+    "size": "m",
+    "price": 99.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-fight-gear-hoofdbeschermer-ultimate-black/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "1916",
+    "product": "1916 Fight Gear Hoofdbeschermer Ultimate  Black",
+    "size": "xl",
+    "price": 99.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-fight-gear-hoofdbeschermer-ultimate-black/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "1916",
+    "product": "1916 Fight Gear Hoofdbeschermer Ultimate  Black",
+    "size": "l",
+    "price": 99.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-fight-gear-hoofdbeschermer-ultimate-black/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "1916",
+    "product": "1916 Fight Gear Scheenbeschermers Ultimate Grey",
+    "size": "s",
+    "price": 119.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-fight-gear-scheenbeschermers-ultimate-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "1916",
+    "product": "1916 Fight Gear Scheenbeschermers Ultimate Grey",
+    "size": "m",
+    "price": 119.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-fight-gear-scheenbeschermers-ultimate-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "1916",
+    "product": "1916 Fight Gear Bokshandschoenen Ultimate Grey",
+    "size": "14oz",
+    "price": 149.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-fight-gear-bokshandschoenen-ultimate-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "1916",
+    "product": "1916 Fight Gear Bokshandschoenen Ultimate Grey",
+    "size": "16oz",
+    "price": 149.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-fight-gear-bokshandschoenen-ultimate-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "1916",
+    "product": "1916 Fight Gear Ultimate Leg Protector Pro",
+    "size": "One Size",
+    "price": 249.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-fight-gear-ultimate-leg-protector-pro/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "1916",
+    "product": "1916 Fight Gear Ultimate Bodyprotector Pro",
+    "size": "One Size",
+    "price": 299.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-fight-gear-ultimate-bodyprotector-pro/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "1916",
+    "product": "1916 Fight Gear Ultimate Bellyprotector Pro",
+    "size": "One Size",
+    "price": 149.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-fight-gear-ultimate-bellyprotector-pro/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
     "brand": "Damage",
     "product": "Damage Control Mouthguard Symbite 2.0",
     "size": "junior",
@@ -255597,7 +255727,7 @@
     "price": 79.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-scheenbeschermers-speed-thai-black-white/",
-    "previous_price": null
+    "previous_price": 79.95
   },
   {
     "shop": "OLB Sports",
@@ -260047,7 +260177,7 @@
     "price": 44.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-mma-handschoenen-essential-black-white/",
-    "previous_price": null
+    "previous_price": 44.95
   },
   {
     "shop": "OLB Sports",
@@ -260067,7 +260197,7 @@
     "price": 44.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-mma-handschoenen-essential-black-white/",
-    "previous_price": null
+    "previous_price": 44.95
   },
   {
     "shop": "OLB Sports",
@@ -260697,7 +260827,7 @@
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/youth-fighters-t-shirt-kids-wolves/",
-    "previous_price": null
+    "previous_price": 29.95
   },
   {
     "shop": "OLB Sports",
@@ -260707,7 +260837,7 @@
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/youth-fighters-t-shirt-kids-wolves/",
-    "previous_price": null
+    "previous_price": 29.95
   },
   {
     "shop": "OLB Sports",
@@ -260747,7 +260877,7 @@
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/youth-fighters-t-shirt-kids-queen-panda/",
-    "previous_price": null
+    "previous_price": 29.95
   },
   {
     "shop": "OLB Sports",
@@ -260757,7 +260887,7 @@
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/youth-fighters-t-shirt-kids-queen-panda/",
-    "previous_price": null
+    "previous_price": 29.95
   },
   {
     "shop": "OLB Sports",
@@ -261083,16 +261213,6 @@
     "shop": "OLB Sports",
     "brand": "Adidas",
     "product": "Adidas Bokshandschoenen Combat 50 Black/Black",
-    "size": "14oz",
-    "price": 39.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/adidas-bokshandschoenen-combat-50-black-black/",
-    "previous_price": 39.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Adidas",
-    "product": "Adidas Bokshandschoenen Combat 50 Black/Black",
     "size": "16oz",
     "price": 39.99,
     "in_stock": true,
@@ -261237,7 +261357,7 @@
     "price": 34.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-bokshandschoenen-speed-50-magenta-white/",
-    "previous_price": null
+    "previous_price": 34.99
   },
   {
     "shop": "OLB Sports",
@@ -261247,7 +261367,7 @@
     "price": 34.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-bokshandschoenen-speed-50-magenta-white/",
-    "previous_price": null
+    "previous_price": 34.99
   },
   {
     "shop": "OLB Sports",
@@ -261477,7 +261597,7 @@
     "price": 14.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-binnenhandschoenen-speed-padded-black-black/",
-    "previous_price": null
+    "previous_price": 14.95
   },
   {
     "shop": "OLB Sports",
@@ -261487,7 +261607,7 @@
     "price": 14.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-binnenhandschoenen-speed-padded-black-black/",
-    "previous_price": null
+    "previous_price": 14.95
   },
   {
     "shop": "OLB Sports",
@@ -261628,16 +261748,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-matupa-vale-tudo-shorts-black-grey-gold/",
     "previous_price": 44.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Matupa Long Sleeve Rashguard Black/Grey/Gold",
-    "size": "s",
-    "price": 59.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-matupa-long-sleeve-rashguard-black-grey-gold/",
-    "previous_price": 59.99
   },
   {
     "shop": "OLB Sports",
@@ -264603,16 +264713,6 @@
     "shop": "OLB Sports",
     "brand": "Venum",
     "product": "Venum Muay Thai Kickboksbroek Classic Zwart/Goud",
-    "size": "m",
-    "price": 41.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-muay-thai-kickboksbroek-classic-zwart-goud/",
-    "previous_price": 41.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Muay Thai Kickboksbroek Classic Zwart/Goud",
     "size": "xl",
     "price": 41.99,
     "in_stock": true,
@@ -267037,7 +267137,7 @@
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/youth-fighters-t-shirt-kids-monkey/",
-    "previous_price": null
+    "previous_price": 29.95
   },
   {
     "shop": "OLB Sports",
@@ -267047,7 +267147,7 @@
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/youth-fighters-t-shirt-kids-monkey/",
-    "previous_price": null
+    "previous_price": 29.95
   },
   {
     "shop": "OLB Sports",
@@ -267057,7 +267157,7 @@
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/youth-fighters-t-shirt-kids-monkey/",
-    "previous_price": null
+    "previous_price": 29.95
   },
   {
     "shop": "OLB Sports",
@@ -267257,7 +267357,7 @@
     "price": 39.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-pro-85-protein-pistache-1kg/",
-    "previous_price": 38.99
+    "previous_price": 39.99
   },
   {
     "shop": "OLB Sports",
@@ -268691,16 +268791,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "Booster",
-    "product": "Booster Kickboksbroek TBT Core 5 Roze",
-    "size": "m",
-    "price": 39.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/booster-kickboksbroek-tbt-core-5-roze/",
-    "previous_price": 39.95
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "Opro",
     "product": "Opro Gebitsbeschermer Gold Ultra Fit Transparant",
     "size": "junior",
@@ -269557,7 +269647,7 @@
     "price": 44.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-mma-handschoenen-essential-black/",
-    "previous_price": null
+    "previous_price": 44.95
   },
   {
     "shop": "OLB Sports",
@@ -269567,7 +269657,7 @@
     "price": 44.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-mma-handschoenen-essential-black/",
-    "previous_price": null
+    "previous_price": 44.95
   },
   {
     "shop": "OLB Sports",
@@ -270487,7 +270577,7 @@
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-green/",
-    "previous_price": null
+    "previous_price": 54.99
   },
   {
     "shop": "OLB Sports",
@@ -270497,7 +270587,7 @@
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-green/",
-    "previous_price": null
+    "previous_price": 54.99
   },
   {
     "shop": "OLB Sports",
@@ -270507,7 +270597,7 @@
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-green/",
-    "previous_price": null
+    "previous_price": 54.99
   },
   {
     "shop": "OLB Sports",
@@ -270987,7 +271077,7 @@
     "price": 99.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-bokshandschoen-falcon-black-black/",
-    "previous_price": null
+    "previous_price": 99.95
   },
   {
     "shop": "OLB Sports",
@@ -271007,7 +271097,7 @@
     "price": 99.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-bokshandschoen-falcon-black-black/",
-    "previous_price": null
+    "previous_price": 99.95
   },
   {
     "shop": "OLB Sports",
@@ -271124,16 +271214,6 @@
     "brand": "Joya",
     "product": "Joya Gear Bokshandschoenen Performance Velcro Green/Gold",
     "size": "14oz",
-    "price": 165.0,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-performance-velcro-green-gold/",
-    "previous_price": 165.0
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Gear Bokshandschoenen Performance Velcro Green/Gold",
-    "size": "16oz",
     "price": 165.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-performance-velcro-green-gold/",
@@ -271288,16 +271368,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-dura-pads-ultimate-black/",
     "previous_price": 219.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "1916",
-    "product": "1916 Fight Gear Focus Pads Ultimate Black",
-    "size": "One Size",
-    "price": 159.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/1916-fight-gear-focus-pads-ultimate-black/",
-    "previous_price": 159.95
   },
   {
     "shop": "OLB Sports",
@@ -271567,7 +271637,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-kickboksbroek-combat-serie-kids-goud/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -271877,7 +271947,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-dragon-pu-roze/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -271907,7 +271977,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-dragon-pu-groen/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -273207,7 +273277,7 @@
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-essential-zwart-roze/",
-    "previous_price": null
+    "previous_price": 54.99
   },
   {
     "shop": "OLB Sports",
@@ -273237,7 +273307,7 @@
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-zwart-roze/",
-    "previous_price": null
+    "previous_price": 54.99
   },
   {
     "shop": "OLB Sports",
@@ -273977,7 +274047,7 @@
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-zwart/",
-    "previous_price": null
+    "previous_price": 54.99
   },
   {
     "shop": "OLB Sports",
@@ -274007,7 +274077,7 @@
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-zwart/",
-    "previous_price": null
+    "previous_price": 54.99
   },
   {
     "shop": "OLB Sports",
@@ -274027,7 +274097,7 @@
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-zwart-goud/",
-    "previous_price": null
+    "previous_price": 54.99
   },
   {
     "shop": "OLB Sports",
@@ -274037,7 +274107,7 @@
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-zwart-goud/",
-    "previous_price": null
+    "previous_price": 54.99
   },
   {
     "shop": "OLB Sports",
@@ -274047,7 +274117,7 @@
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-zwart-goud/",
-    "previous_price": null
+    "previous_price": 54.99
   },
   {
     "shop": "OLB Sports",
@@ -274127,7 +274197,7 @@
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-essential-zwart-goud/",
-    "previous_price": null
+    "previous_price": 54.99
   },
   {
     "shop": "OLB Sports",
@@ -274137,7 +274207,7 @@
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-essential-zwart-goud/",
-    "previous_price": null
+    "previous_price": 54.99
   },
   {
     "shop": "OLB Sports",
@@ -274147,7 +274217,7 @@
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-essential-zwart-goud/",
-    "previous_price": null
+    "previous_price": 54.99
   },
   {
     "shop": "OLB Sports",
@@ -277397,7 +277467,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-dragon-pu-wit/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -278427,7 +278497,7 @@
     "price": 49.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolate-zero-aardbei/",
-    "previous_price": null
+    "previous_price": 49.99
   },
   {
     "shop": "OLB Sports",
@@ -278623,6 +278693,16 @@
     "shop": "OLB Sports",
     "brand": "Shock",
     "product": "Shock Doctor Kruisbeschermer Ultra Pro",
+    "size": "l",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/shock-doctor-kruisbeschermer-ultra-pro/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Shock",
+    "product": "Shock Doctor Kruisbeschermer Ultra Pro",
     "size": "xl",
     "price": 34.95,
     "in_stock": true,
@@ -278697,7 +278777,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermer-camo-v2-zwart/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -278737,7 +278817,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermer-camo-v2-rood/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -278747,7 +278827,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermer-camo-v2-rood/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -279207,7 +279287,7 @@
     "price": 49.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-complex-carb-gainer-aardbei-25kg/",
-    "previous_price": 46.99
+    "previous_price": 49.99
   },
   {
     "shop": "OLB Sports",
@@ -279522,6 +279602,16 @@
   {
     "shop": "OLB Sports",
     "brand": "XXL",
+    "product": "XXL Nutrition Whey Isolate Zero Vanille",
+    "size": "One Size",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolate-zero-vanille/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "XXL",
     "product": "XXL Nutrition Fat Metabolic Support 120caps",
     "size": "One Size",
     "price": 34.99,
@@ -279547,7 +279637,7 @@
     "price": 39.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-pro-85-protein-chocolade-1kg/",
-    "previous_price": 38.99
+    "previous_price": 39.99
   },
   {
     "shop": "OLB Sports",
@@ -279767,7 +279857,7 @@
     "price": 49.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolaat-coconut-1kg/",
-    "previous_price": 47.99
+    "previous_price": 49.99
   },
   {
     "shop": "OLB Sports",
@@ -279777,7 +279867,7 @@
     "price": 49.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolaat-cookies-cream-1kg/",
-    "previous_price": 47.99
+    "previous_price": 49.99
   },
   {
     "shop": "OLB Sports",
@@ -279787,7 +279877,7 @@
     "price": 49.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolaat-chocolate-caramel-1kg/",
-    "previous_price": 47.99
+    "previous_price": 49.99
   },
   {
     "shop": "OLB Sports",
@@ -280087,7 +280177,7 @@
     "price": 6.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-vitamine-b12/",
-    "previous_price": 5.99
+    "previous_price": 6.99
   },
   {
     "shop": "OLB Sports",
@@ -280217,7 +280307,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-butterfly-roze/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -280257,7 +280347,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-bokshandschoen-butterfly-roze/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -280297,7 +280387,7 @@
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-kickboksbroek-butterfly-roze/",
-    "previous_price": null
+    "previous_price": 29.95
   },
   {
     "shop": "OLB Sports",
@@ -280441,6 +280531,16 @@
   },
   {
     "shop": "OLB Sports",
+    "brand": "XXL",
+    "product": "XXL Nutrition Pro 85 Protein Aardbei 5kg",
+    "size": "One Size",
+    "price": 149.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-pro-85-protein-aardbei-5kg/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
     "brand": "1916",
     "product": "1916 Fight Gear Hoofdkap Leer Vintage Bruin",
     "size": "m",
@@ -280527,7 +280627,7 @@
     "price": 49.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-complex-carb-gainer-vanille-25kg/",
-    "previous_price": 46.99
+    "previous_price": 49.99
   },
   {
     "shop": "OLB Sports",
@@ -280701,6 +280801,16 @@
   },
   {
     "shop": "OLB Sports",
+    "brand": "XXL",
+    "product": "XXL Nutrition Pro 85 Protein Banaan 5kg",
+    "size": "One Size",
+    "price": 149.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-pro-85-protein-banaan-5kg/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
     "brand": "Makura",
     "product": "Makura Toka Pro Gebitsbeschermer Transparant",
     "size": "junior",
@@ -280727,7 +280837,7 @@
     "price": 24.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-tok-staal/",
-    "previous_price": null
+    "previous_price": 24.95
   },
   {
     "shop": "OLB Sports",
@@ -280737,7 +280847,7 @@
     "price": 24.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-tok-staal/",
-    "previous_price": null
+    "previous_price": 24.95
   },
   {
     "shop": "OLB Sports",
@@ -280777,7 +280887,7 @@
     "price": 26.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-extreme-pump/",
-    "previous_price": 26.95
+    "previous_price": 26.99
   },
   {
     "shop": "OLB Sports",
@@ -280818,16 +280928,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-mesh-binnenhandschoen/",
     "previous_price": 14.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "XXL",
-    "product": "XXL Nutrition BCAA Caps 1000mg 200 Caps",
-    "size": "One Size",
-    "price": 24.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/xxl-nutrition-bcaa-caps-1000mg-200-caps/",
-    "previous_price": 24.99
   },
   {
     "shop": "OLB Sports",
@@ -281147,7 +281247,17 @@
     "price": 39.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-pro-85-protein-cookies-cream-1kg/",
-    "previous_price": 38.99
+    "previous_price": 39.99
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "XXL",
+    "product": "XXL Nutrition Pro 85 Protein Coconut 1kg",
+    "size": "One Size",
+    "price": 39.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-pro-85-protein-coconut-1kg/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -281178,6 +281288,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-zakhandschoen-tbm-1-zwart/",
     "previous_price": 99.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "XXL",
+    "product": "XXL Nutrition Pro 85 Protein Vanille 5kg",
+    "size": "One Size",
+    "price": 149.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-pro-85-protein-vanille-5kg/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -281822,6 +281942,16 @@
   {
     "shop": "OLB Sports",
     "brand": "Shock",
+    "product": "Shock Doctor Superfit Wit",
+    "size": "One Size",
+    "price": 24.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/shock-doctor-superfit-wit/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Shock",
     "product": "Shock Doctor Ultra Braces",
     "size": "One Size",
     "price": 34.99,
@@ -281877,7 +282007,7 @@
     "price": 37.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-deliciousi-banaan-1kg/",
-    "previous_price": 35.99
+    "previous_price": 37.99
   },
   {
     "shop": "OLB Sports",
@@ -281897,7 +282027,7 @@
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-junior-kickboksbroek-dragon-groen/",
-    "previous_price": null
+    "previous_price": 29.95
   },
   {
     "shop": "OLB Sports",
@@ -282007,7 +282137,7 @@
     "price": 19.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-whey-delicious-banaan-450gr/",
-    "previous_price": 18.99
+    "previous_price": 19.99
   },
   {
     "shop": "OLB Sports",
@@ -282017,7 +282147,7 @@
     "price": 19.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-whey-delicious-cookies-cream-450gr/",
-    "previous_price": 18.99
+    "previous_price": 19.99
   },
   {
     "shop": "OLB Sports",
@@ -282047,7 +282177,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-groen/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -282078,16 +282208,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/super-pro-vloerbevestiging-voor-double-end-ball/",
     "previous_price": 64.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Super",
-    "product": "Super Pro Double End Ball Leer",
-    "size": "One Size",
-    "price": 89.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/super-pro-double-end-ball-leer/",
-    "previous_price": 89.95
   },
   {
     "shop": "OLB Sports",
@@ -282282,12 +282402,22 @@
   {
     "shop": "OLB Sports",
     "brand": "XXL",
+    "product": "XXL Nutrition Omega 3",
+    "size": "One Size",
+    "price": 10.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-omega-3/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "XXL",
     "product": "XXL Nutrition Delicious Vanille 1kg",
     "size": "One Size",
     "price": 37.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-delicious-vanille/",
-    "previous_price": 35.99
+    "previous_price": 37.99
   },
   {
     "shop": "OLB Sports",
@@ -282541,16 +282671,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "Lmx",
-    "product": "Lmx Springtouw Leer",
-    "size": "One Size",
-    "price": 17.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/lmx-springtouw-leer/",
-    "previous_price": 17.95
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "XXL",
     "product": "XXL Nutrition Muscle Grow Orange",
     "size": "One Size",
@@ -282647,7 +282767,7 @@
     "price": 117.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolaat-banaan-2/",
-    "previous_price": 109.99
+    "previous_price": 117.99
   },
   {
     "shop": "OLB Sports",
@@ -282927,7 +283047,7 @@
     "price": 49.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolaat-chocolade/",
-    "previous_price": 47.99
+    "previous_price": 49.99
   },
   {
     "shop": "OLB Sports",
@@ -283522,152 +283642,162 @@
   {
     "shop": "OLB Sports",
     "brand": "Shock",
-    "product": "Shock Doctor Gebitsbeschermer Gel Max Blauw/Zwart",
-    "size": "senior",
-    "price": 16.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/shock-doctor-gebitsbeschermer-gel-max-blauw-zwart/",
-    "previous_price": 16.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Shock",
-    "product": "Shock Doctor Gebitsbeschermer Gel Max Blauw/Zwart",
+    "product": "Shock Doctor Gebitsbeschermer Gel Max Oranje",
     "size": "junior",
     "price": 16.95,
     "in_stock": true,
-    "url": "https://olbsports.nl/product/shock-doctor-gebitsbeschermer-gel-max-blauw-zwart/",
-    "previous_price": 16.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Shock",
-    "product": "Shock Doctor Gebitsbeschermer Gel Max Blauw",
-    "size": "senior",
-    "price": 16.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/shock-doctor-gebitsbeschermer-gel-max-blauw/",
-    "previous_price": 16.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Shock",
-    "product": "Shock Doctor Gebitsbeschermer Gel Max Blauw",
-    "size": "junior",
-    "price": 16.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/shock-doctor-gebitsbeschermer-gel-max-blauw/",
-    "previous_price": 16.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Bokshandschoenen Dragon Junior Goud",
-    "size": "6oz",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-goud-2/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Bokshandschoenen Dragon Junior Goud",
-    "size": "8oz",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-goud-2/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Bokshandschoenen Dragon Junior Goud",
-    "size": "10oz",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-goud-2/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Bokshandschoenen Dragon Junior Goud",
-    "size": "4oz",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-goud-2/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Bokshandschoenen Dragon Junior Roze",
-    "size": "4oz",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-roze/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Bokshandschoenen Dragon Junior Roze",
-    "size": "10oz",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-roze/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Bokshandschoenen Dragon Junior Roze",
-    "size": "8oz",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-roze/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Bokshandschoenen Dragon Junior Roze",
-    "size": "6oz",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-roze/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Bokshandschoenen Dragon Junior Wit",
-    "size": "6oz",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-wit/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Bokshandschoenen Dragon Junior Wit",
-    "size": "4oz",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-wit/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Bokshandschoenen Dragon Junior Wit",
-    "size": "10oz",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-wit/",
+    "url": "https://olbsports.nl/product/shock-doctor-gebitsbeschermer-gel-max-oranje/",
     "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Shock",
+    "product": "Shock Doctor Gebitsbeschermer Gel Max Blauw/Zwart",
+    "size": "senior",
+    "price": 16.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/shock-doctor-gebitsbeschermer-gel-max-blauw-zwart/",
+    "previous_price": 16.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Shock",
+    "product": "Shock Doctor Gebitsbeschermer Gel Max Blauw/Zwart",
+    "size": "junior",
+    "price": 16.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/shock-doctor-gebitsbeschermer-gel-max-blauw-zwart/",
+    "previous_price": 16.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Shock",
+    "product": "Shock Doctor Gebitsbeschermer Gel Max Blauw",
+    "size": "senior",
+    "price": 16.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/shock-doctor-gebitsbeschermer-gel-max-blauw/",
+    "previous_price": 16.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Shock",
+    "product": "Shock Doctor Gebitsbeschermer Gel Max Blauw",
+    "size": "junior",
+    "price": 16.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/shock-doctor-gebitsbeschermer-gel-max-blauw/",
+    "previous_price": 16.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Bokshandschoenen Dragon Junior Goud",
+    "size": "6oz",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-goud-2/",
+    "previous_price": 34.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Bokshandschoenen Dragon Junior Goud",
+    "size": "8oz",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-goud-2/",
+    "previous_price": 34.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Bokshandschoenen Dragon Junior Goud",
+    "size": "10oz",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-goud-2/",
+    "previous_price": 34.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Bokshandschoenen Dragon Junior Goud",
+    "size": "4oz",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-goud-2/",
+    "previous_price": 34.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Bokshandschoenen Dragon Junior Roze",
+    "size": "4oz",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-roze/",
+    "previous_price": 34.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Bokshandschoenen Dragon Junior Roze",
+    "size": "10oz",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-roze/",
+    "previous_price": 34.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Bokshandschoenen Dragon Junior Roze",
+    "size": "8oz",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-roze/",
+    "previous_price": 34.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Bokshandschoenen Dragon Junior Roze",
+    "size": "6oz",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-roze/",
+    "previous_price": 34.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Bokshandschoenen Dragon Junior Wit",
+    "size": "6oz",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-wit/",
+    "previous_price": 34.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Bokshandschoenen Dragon Junior Wit",
+    "size": "4oz",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-wit/",
+    "previous_price": 34.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Bokshandschoenen Dragon Junior Wit",
+    "size": "10oz",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-wit/",
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -283707,7 +283837,7 @@
     "price": 19.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-elastische-scheenbeschermer-zwart/",
-    "previous_price": null
+    "previous_price": 19.99
   },
   {
     "shop": "OLB Sports",
@@ -283717,7 +283847,7 @@
     "price": 19.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-elastische-scheenbeschermer-zwart/",
-    "previous_price": null
+    "previous_price": 19.99
   },
   {
     "shop": "OLB Sports",
@@ -283772,12 +283902,22 @@
   {
     "shop": "OLB Sports",
     "brand": "XXL",
+    "product": "XXL Nutrition Weight Gainer Vanille 2.5kg",
+    "size": "One Size",
+    "price": 36.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-weight-gainer-vanille/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "XXL",
     "product": "XXL Nutrition Pro 85 Protein Aardbei 1kg",
     "size": "One Size",
     "price": 39.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-pro-85-protein-aardbei/",
-    "previous_price": 38.99
+    "previous_price": 39.99
   },
   {
     "shop": "OLB Sports",
@@ -283787,7 +283927,7 @@
     "price": 39.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-pro-85-protein-banaan/",
-    "previous_price": 38.99
+    "previous_price": 39.99
   },
   {
     "shop": "OLB Sports",
@@ -283797,7 +283937,17 @@
     "price": 39.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-pro-85-protein-vanille/",
-    "previous_price": 38.99
+    "previous_price": 39.99
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "XXL",
+    "product": "XXL Nutrition Whey Isolaat Vanille 1kg",
+    "size": "One Size",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolaat-vanille/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -283962,12 +284112,12 @@
   {
     "shop": "OLB Sports",
     "brand": "Stanno",
-    "product": "Stanno Merano Tas",
+    "product": "Stanno Merano Tas Zwart",
     "size": "One Size",
     "price": 33.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/stanno-merano-tas/",
-    "previous_price": 33.99
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -284443,6 +284593,26 @@
     "shop": "OLB Sports",
     "brand": "Shock",
     "product": "Shock Doctor Supporter Bioflex Cup",
+    "size": "s",
+    "price": 24.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/shock-doctor-supporter-bioflex-cup/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Shock",
+    "product": "Shock Doctor Supporter Bioflex Cup",
+    "size": "m",
+    "price": 24.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/shock-doctor-supporter-bioflex-cup/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Shock",
+    "product": "Shock Doctor Supporter Bioflex Cup",
     "size": "l",
     "price": 24.95,
     "in_stock": true,
@@ -284488,6 +284658,26 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/shock-doctor-compression-short-support/",
     "previous_price": 39.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Shock",
+    "product": "Shock Doctor Compression Short Support",
+    "size": "m",
+    "price": 39.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/shock-doctor-compression-short-support/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Shock",
+    "product": "Shock Doctor Compression Short Support",
+    "size": "xl",
+    "price": 39.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/shock-doctor-compression-short-support/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -285737,7 +285927,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-dames-tok-de-luxe-zwart/",
-    "previous_price": null
+    "previous_price": 19.95
   },
   {
     "shop": "OLB Sports",
@@ -285867,7 +286057,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-mma-handschoen-metallic-zwart/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -285877,7 +286067,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-mma-handschoen-metallic-zwart/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -285887,7 +286077,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-mma-handschoen-metallic-zwart/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -285897,7 +286087,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-mma-handschoen-metallic-zwart/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
