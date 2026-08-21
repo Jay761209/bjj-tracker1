@@ -13235,7 +13235,7 @@
     "product": "Ground Force Basic Kids Gi",
     "size": "M3 / Black",
     "price": 49.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-basic-kids-gi",
     "previous_price": 49.0
   },
@@ -13545,7 +13545,7 @@
     "product": "Tatami Adult BJJ Rank Belt",
     "size": "A0 / Black",
     "price": 9.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/adult-bjj-rank-belt-all-colours",
     "previous_price": 9.0
   },
@@ -14705,7 +14705,7 @@
     "product": "Ground Game Bushido 3.0 Vale Tudo Shorts",
     "size": "S",
     "price": 48.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://bjjfightgear.com/products/ground-game-bushido-3-0-vale-tudo-shorts",
     "previous_price": 48.0
   },
@@ -84195,7 +84195,7 @@
     "product": "Super Pro Enkelbescherming Zwart",
     "size": "L",
     "price": 10.36,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fightstyle.nl/products/super-pro-enkelbescherming-zwart",
     "previous_price": 10.36
   },
@@ -106065,7 +106065,7 @@
     "product": "Kids' Black No-Gi Bundle",
     "size": "Short Sleeve / XS / M",
     "price": 64.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/kids-black-no-gi-bundle",
     "previous_price": 64.99
   },
@@ -106105,7 +106105,7 @@
     "product": "Kids' Black No-Gi Bundle",
     "size": "Short Sleeve / S / M",
     "price": 64.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/kids-black-no-gi-bundle",
     "previous_price": 64.99
   },
@@ -106145,7 +106145,7 @@
     "product": "Kids' Black No-Gi Bundle",
     "size": "Short Sleeve / M / M",
     "price": 64.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/kids-black-no-gi-bundle",
     "previous_price": 64.99
   },
@@ -106185,7 +106185,7 @@
     "product": "Kids' Black No-Gi Bundle",
     "size": "Short Sleeve / L / M",
     "price": 64.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/kids-black-no-gi-bundle",
     "previous_price": 64.99
   },
@@ -106225,7 +106225,7 @@
     "product": "Kids' Black No-Gi Bundle",
     "size": "Short Sleeve / XL / M",
     "price": 64.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/kids-black-no-gi-bundle",
     "previous_price": 64.99
   },
@@ -106265,7 +106265,7 @@
     "product": "Kids' Black No-Gi Bundle",
     "size": "Long Sleeve / XS / M",
     "price": 64.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/kids-black-no-gi-bundle",
     "previous_price": 64.99
   },
@@ -106305,7 +106305,7 @@
     "product": "Kids' Black No-Gi Bundle",
     "size": "Long Sleeve / S / M",
     "price": 64.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/kids-black-no-gi-bundle",
     "previous_price": 64.99
   },
@@ -106345,7 +106345,7 @@
     "product": "Kids' Black No-Gi Bundle",
     "size": "Long Sleeve / M / M",
     "price": 64.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/kids-black-no-gi-bundle",
     "previous_price": 64.99
   },
@@ -106385,7 +106385,7 @@
     "product": "Kids' Black No-Gi Bundle",
     "size": "Long Sleeve / L / M",
     "price": 64.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/kids-black-no-gi-bundle",
     "previous_price": 64.99
   },
@@ -106425,7 +106425,7 @@
     "product": "Kids' Black No-Gi Bundle",
     "size": "Long Sleeve / XL / M",
     "price": 64.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/kids-black-no-gi-bundle",
     "previous_price": 64.99
   },
@@ -106465,7 +106465,7 @@
     "product": "Kids' Fight Shorts",
     "size": "M",
     "price": 29.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/kids-fight-shorts",
     "previous_price": 29.99
   },
@@ -112935,7 +112935,7 @@
     "product": "Kingz Convertible Backpack 2.0",
     "size": "Black",
     "price": 90.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-convertible-training-bag",
     "previous_price": 90.0
   },
@@ -112945,7 +112945,7 @@
     "product": "Kingz Convertible Backpack 2.0",
     "size": "Black XL",
     "price": 100.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-convertible-training-bag",
     "previous_price": 100.0
   },
@@ -112955,7 +112955,7 @@
     "product": "Kingz Convertible Backpack 2.0",
     "size": "Military Green",
     "price": 90.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-convertible-training-bag",
     "previous_price": 90.0
   },
@@ -113865,7 +113865,7 @@
     "product": "Kingz Jiu Jitsu Squad V2 Men's Hoodie",
     "size": "Black / M",
     "price": 70.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/jiu-jitsu-squad-v2-hoodie",
     "previous_price": 70.0
   },
@@ -122935,7 +122935,7 @@
     "product": "Kingz Nano 3.0 Terra Limited Edition Men's BJJ Gi",
     "size": "A0 / Black",
     "price": 120.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/nano-3-0-terra-limited-edition-jiu-jitsu-gi",
     "previous_price": 120.0
   },
@@ -125425,7 +125425,7 @@
     "product": "Kingz Casual Rip Stop Men's Gi Pants - Black",
     "size": "A3L / Black",
     "price": 60.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-casual-rip-stop-gi-pant-black",
     "previous_price": 60.0
   },
@@ -129115,7 +129115,7 @@
     "product": "Kingz Gold Label V2 BJJ Belts",
     "size": "A2 / White",
     "price": 18.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gold-label-v2-bjj-belts",
     "previous_price": 18.0
   },
@@ -130795,7 +130795,7 @@
     "product": "Kingz The ONE V2 Men's BJJ Gi - White",
     "size": "A2H / White",
     "price": 105.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-the-one-v2-jiu-jitsu-gi",
     "previous_price": 105.0
   },
@@ -131235,7 +131235,7 @@
     "product": "Kingz Kore 2.0 Women's Grappling Shorts - Black",
     "size": "S / Black",
     "price": 50.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-2-0-womens-shorts-black",
     "previous_price": 50.0
   },
@@ -143827,7 +143827,7 @@
     "price": 52.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/sbg-summer-26-long-sleeve-rashguard",
-    "previous_price": null
+    "previous_price": 52.5
   },
   {
     "shop": "Fuji Sports",
@@ -143837,7 +143837,7 @@
     "price": 52.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/sbg-summer-26-long-sleeve-rashguard",
-    "previous_price": null
+    "previous_price": 52.5
   },
   {
     "shop": "Fuji Sports",
@@ -143847,7 +143847,7 @@
     "price": 52.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/sbg-summer-26-long-sleeve-rashguard",
-    "previous_price": null
+    "previous_price": 52.5
   },
   {
     "shop": "Fuji Sports",
@@ -143857,7 +143857,7 @@
     "price": 52.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/sbg-summer-26-long-sleeve-rashguard",
-    "previous_price": null
+    "previous_price": 52.5
   },
   {
     "shop": "Fuji Sports",
@@ -143867,7 +143867,7 @@
     "price": 52.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/sbg-summer-26-long-sleeve-rashguard",
-    "previous_price": null
+    "previous_price": 52.5
   },
   {
     "shop": "Fuji Sports",
@@ -143877,7 +143877,7 @@
     "price": 52.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/sbg-summer-26-long-sleeve-rashguard",
-    "previous_price": null
+    "previous_price": 52.5
   },
   {
     "shop": "Fuji Sports",
@@ -143887,7 +143887,7 @@
     "price": 57.75,
     "in_stock": false,
     "url": "https://fujisports.com/products/kids-sbg-summer-26-long-sleeve-rashguard",
-    "previous_price": null
+    "previous_price": 57.75
   },
   {
     "shop": "Fuji Sports",
@@ -143897,7 +143897,7 @@
     "price": 57.75,
     "in_stock": false,
     "url": "https://fujisports.com/products/kids-sbg-summer-26-long-sleeve-rashguard",
-    "previous_price": null
+    "previous_price": 57.75
   },
   {
     "shop": "Fuji Sports",
@@ -143907,7 +143907,7 @@
     "price": 57.75,
     "in_stock": false,
     "url": "https://fujisports.com/products/kids-sbg-summer-26-long-sleeve-rashguard",
-    "previous_price": null
+    "previous_price": 57.75
   },
   {
     "shop": "Fuji Sports",
@@ -144765,7 +144765,7 @@
     "product": "Ryujin T-Shirt Black",
     "size": "L",
     "price": 27.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ryujin-t-shirt-black",
     "previous_price": 27.95
   },
@@ -165075,7 +165075,7 @@
     "product": "MUSASHI Long Sleeve Rashguard",
     "size": "L",
     "price": 62.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/musashi-long-sleeve-rashguard",
     "previous_price": 62.95
   },
@@ -165905,7 +165905,7 @@
     "product": "Kids Royce Gracie Classic T-Shirt 2.0 White",
     "size": "YS",
     "price": 32.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/kids-royce-gracie-classic-t-shirt-2-0-white",
     "previous_price": 32.0
   },
@@ -165995,7 +165995,7 @@
     "product": "Royce Gracie Classic T-Shirt 2.0 Navy",
     "size": "XS",
     "price": 32.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-classic-t-shirt-2-0-navy",
     "previous_price": 32.0
   },
@@ -166635,7 +166635,7 @@
     "product": "We Defy BJJ Belt White",
     "size": "A5",
     "price": 19.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/we-defy-bjj-belt-white",
     "previous_price": 19.95
   },
@@ -179625,7 +179625,7 @@
     "product": "Kids Royce Gracie Pullover Hoodie Navy",
     "size": "YS",
     "price": 59.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/kids-royce-gracie-pullover-hoodie-navy",
     "previous_price": 59.0
   },
@@ -179635,7 +179635,7 @@
     "product": "Kids Royce Gracie Pullover Hoodie Navy",
     "size": "YM",
     "price": 59.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/kids-royce-gracie-pullover-hoodie-navy",
     "previous_price": 59.0
   },
@@ -180635,7 +180635,7 @@
     "product": "Renzo Gracie Classic Short Sleeve Rashguard",
     "size": "3XL",
     "price": 55.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/renzo-gracie-classic-short-sleeve-rashguard",
     "previous_price": 55.0
   },
@@ -184005,7 +184005,7 @@
     "product": "Mizuno Japan Yusho Judo Gi W/Bird White",
     "size": "1.5",
     "price": 399.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/mizuno-japan-yusho-judo-gi-w-bird-white",
     "previous_price": 399.95
   },
@@ -195235,7 +195235,7 @@
     "product": "Rilion Gracie Team Gi Black",
     "size": "A4",
     "price": 191.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/rilion-gracie-team-gi-black-1",
     "previous_price": 191.0
   },
@@ -196545,7 +196545,7 @@
     "product": "Royce Gracie Blackout T",
     "size": "XS",
     "price": 23.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-blackout-t",
     "previous_price": 23.0
   },
@@ -196625,7 +196625,7 @@
     "product": "Royce Gracie Collegiate Black Zip Up Hoodie",
     "size": "M",
     "price": 49.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-zip-up-hoodie",
     "previous_price": 49.0
   },
@@ -207605,7 +207605,7 @@
     "product": "Blue Judo Belt",
     "size": "4",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/blue-judo-belt",
     "previous_price": 14.95
   },
@@ -207615,7 +207615,7 @@
     "product": "Blue Judo Belt",
     "size": "5",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/blue-judo-belt",
     "previous_price": 14.95
   },
@@ -208115,7 +208115,7 @@
     "product": "Orange Judo Belt",
     "size": "3",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/orange-judo-belt",
     "previous_price": 14.95
   },
@@ -209935,7 +209935,7 @@
     "product": "Judo White Belt",
     "size": "3",
     "price": 14.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/judo-white-belt",
     "previous_price": 14.95
   },
@@ -209955,7 +209955,7 @@
     "product": "Judo White Belt",
     "size": "5",
     "price": 14.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/judo-white-belt",
     "previous_price": 14.95
   },
@@ -209965,7 +209965,7 @@
     "product": "Judo White Belt",
     "size": "6",
     "price": 14.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/judo-white-belt",
     "previous_price": 14.95
   },
@@ -209975,7 +209975,7 @@
     "product": "Judo White Belt",
     "size": "7",
     "price": 14.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/judo-white-belt",
     "previous_price": 14.95
   },
@@ -213304,7 +213304,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BPV3 Lightweight Belly Pad  - Zwart",
     "size": "Default Title",
-    "price": 129.9,
+    "price": 150.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bpv3-lightweight-belly-pad-zwart",
     "previous_price": 129.9
@@ -213314,7 +213314,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV11 F-Day Bokshandschoenen - Groen",
     "size": "12 oz",
-    "price": 109.9,
+    "price": 150.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv11-f-day-bokshandschoenen-groen",
     "previous_price": 109.9
@@ -213324,7 +213324,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV11 F-Day Bokshandschoenen - Groen",
     "size": "14 oz",
-    "price": 109.9,
+    "price": 150.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv11-f-day-bokshandschoenen-groen",
     "previous_price": 109.9
@@ -213334,7 +213334,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV11 F-Day Bokshandschoenen - Groen",
     "size": "16 oz",
-    "price": 109.9,
+    "price": 150.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv11-f-day-bokshandschoenen-groen",
     "previous_price": 109.9
@@ -213764,7 +213764,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FGV12 Grappling Handschoenen - Leer - Zwart",
     "size": "M",
-    "price": 79.0,
+    "price": 95.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-fgv12-grappling-handschoenen-leer-zwart",
     "previous_price": 79.0
@@ -213774,7 +213774,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FGV12 Grappling Handschoenen - Leer - Zwart",
     "size": "L",
-    "price": 79.0,
+    "price": 95.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-fgv12-grappling-handschoenen-leer-zwart",
     "previous_price": 79.0
@@ -213784,7 +213784,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FGV12 Grappling Handschoenen - Leer - Zwart",
     "size": "XL",
-    "price": 79.0,
+    "price": 95.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-fgv12-grappling-handschoenen-leer-zwart",
     "previous_price": 79.0
@@ -213794,7 +213794,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV9 Bokshandschoenen - \"Mexican Heavy Hitter\" - Zwart",
     "size": "12 oz",
-    "price": 129.9,
+    "price": 160.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv9-bokshandschoenen-mexican-heavy-hitter-zwart",
     "previous_price": 129.9
@@ -213804,7 +213804,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV9 Bokshandschoenen - \"Mexican Heavy Hitter\" - Zwart",
     "size": "14 oz",
-    "price": 129.9,
+    "price": 160.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv9-bokshandschoenen-mexican-heavy-hitter-zwart",
     "previous_price": 129.9
@@ -213814,7 +213814,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV9 Bokshandschoenen - \"Mexican Heavy Hitter\" - Zwart",
     "size": "16 oz",
-    "price": 129.9,
+    "price": 160.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv9-bokshandschoenen-mexican-heavy-hitter-zwart",
     "previous_price": 129.9
@@ -213824,7 +213824,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV9 Bokshandschoenen - \"Mexican Heavy Hitter\" - Zwart",
     "size": "18 oz",
-    "price": 129.9,
+    "price": 160.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv9-bokshandschoenen-mexican-heavy-hitter-zwart",
     "previous_price": 129.9
@@ -213834,7 +213834,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP9 Ultra Ergo - Scheenbeschermers - Zwart",
     "size": "S",
-    "price": 119.9,
+    "price": 125.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp9-ultra-ergo-scheenbeschermers-zwart",
     "previous_price": 119.9
@@ -213844,7 +213844,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP9 Ultra Ergo - Scheenbeschermers - Zwart",
     "size": "M",
-    "price": 119.9,
+    "price": 125.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp9-ultra-ergo-scheenbeschermers-zwart",
     "previous_price": 119.9
@@ -213854,7 +213854,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP9 Ultra Ergo - Scheenbeschermers - Zwart",
     "size": "L",
-    "price": 119.9,
+    "price": 125.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp9-ultra-ergo-scheenbeschermers-zwart",
     "previous_price": 119.9
@@ -213864,7 +213864,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP9 Ultra Ergo - Scheenbeschermers - Zwart",
     "size": "XL",
-    "price": 119.9,
+    "price": 125.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp9-ultra-ergo-scheenbeschermers-zwart",
     "previous_price": 119.9
@@ -213874,7 +213874,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV1C-Plus Microvezel Bokshandschoenen - Zwart",
     "size": "12 oz",
-    "price": 105.0,
+    "price": 125.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1c-plus-microvezel-bokshandschoenen-zwart",
     "previous_price": 105.0
@@ -213884,7 +213884,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV1C-Plus Microvezel Bokshandschoenen - Zwart",
     "size": "14 oz",
-    "price": 105.0,
+    "price": 125.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1c-plus-microvezel-bokshandschoenen-zwart",
     "previous_price": 105.0
@@ -213894,7 +213894,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV1C-Plus Microvezel Bokshandschoenen - Zwart",
     "size": "16 oz",
-    "price": 105.0,
+    "price": 125.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1c-plus-microvezel-bokshandschoenen-zwart",
     "previous_price": 105.0
@@ -214824,7 +214824,7 @@
     "brand": "Fairtex",
     "product": "Fairtex CP14 Compressie Shorts voor Dames",
     "size": "S",
-    "price": 49.95,
+    "price": 69.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-cp14-compressie-shorts-voor-dames",
     "previous_price": 49.95
@@ -214834,7 +214834,7 @@
     "brand": "Fairtex",
     "product": "Fairtex CP14 Compressie Shorts voor Dames",
     "size": "M",
-    "price": 49.95,
+    "price": 69.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-cp14-compressie-shorts-voor-dames",
     "previous_price": 49.95
@@ -214844,7 +214844,7 @@
     "brand": "Fairtex",
     "product": "Fairtex CP14 Compressie Shorts voor Dames",
     "size": "L",
-    "price": 49.95,
+    "price": 69.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-cp14-compressie-shorts-voor-dames",
     "previous_price": 49.95
@@ -215094,7 +215094,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TP5 Ultra Lite Thigh Pad - Zwart / Geel",
     "size": "Default Title",
-    "price": 250.0,
+    "price": 230.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-ultra-lite-thigh-pad-zwart-geel",
     "previous_price": 250.0
@@ -215104,7 +215104,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TP5 Ultra Lite Thigh Pad - Zwart / Groen",
     "size": "Default Title",
-    "price": 250.0,
+    "price": 230.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-ultra-lite-thigh-pad-zwart-groen",
     "previous_price": 250.0
@@ -215114,7 +215114,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TP5 Ultra Lite Thigh Pad - Zwart / Rood",
     "size": "Default Title",
-    "price": 250.0,
+    "price": 230.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-ultra-lite-thigh-pad-zwart-rood",
     "previous_price": 250.0
@@ -215124,7 +215124,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TP5 Ultra Lite Thigh Pad - Zwart / Blauw",
     "size": "Default Title",
-    "price": 250.0,
+    "price": 230.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-ultra-lite-thigh-pad-zwart-blauw",
     "previous_price": 250.0
@@ -215474,7 +215474,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FMV9 Ultimate Contoured Focus Mitts - Wit/Zwart",
     "size": "Default Title",
-    "price": 129.0,
+    "price": 180.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-fmv9-ultimate-contoured-focus-mitts-zwart-wit",
     "previous_price": 129.0
@@ -215554,7 +215554,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FGV18 Super Sparring MMA Handschoenen - Zwart / Blauw",
     "size": "M",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/faitex-fgv18-super-sparring-mma-gloves-zwart-blauw",
     "previous_price": 89.9
@@ -215564,7 +215564,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FGV18 Super Sparring MMA Handschoenen - Zwart / Blauw",
     "size": "L",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/faitex-fgv18-super-sparring-mma-gloves-zwart-blauw",
     "previous_price": 89.9
@@ -215574,7 +215574,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FGV18 Super Sparring MMA Handschoenen - Zwart / Blauw",
     "size": "XL",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/faitex-fgv18-super-sparring-mma-gloves-zwart-blauw",
     "previous_price": 89.9
@@ -215584,7 +215584,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1955 Raptor - Groen / Zwart",
     "size": "S",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1955-raptor-groen-zwart",
     "previous_price": 59.9
@@ -215594,7 +215594,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1955 Raptor - Groen / Zwart",
     "size": "M",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1955-raptor-groen-zwart",
     "previous_price": 59.9
@@ -215604,7 +215604,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1955 Raptor - Groen / Zwart",
     "size": "L",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1955-raptor-groen-zwart",
     "previous_price": 59.9
@@ -215614,7 +215614,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1955 Raptor - Groen / Zwart",
     "size": "XL",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1955-raptor-groen-zwart",
     "previous_price": 59.9
@@ -215624,7 +215624,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1955 Raptor - Groen / Zwart",
     "size": "XXL",
-    "price": 59.9,
+    "price": 65.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1955-raptor-groen-zwart",
     "previous_price": 59.9
@@ -215634,7 +215634,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1954 Matrix - Groen / Blauw",
     "size": "S",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1954-matrix-groen-blauw",
     "previous_price": 59.9
@@ -215644,7 +215644,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1954 Matrix - Groen / Blauw",
     "size": "M",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1954-matrix-groen-blauw",
     "previous_price": 59.9
@@ -215654,7 +215654,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1954 Matrix - Groen / Blauw",
     "size": "L",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1954-matrix-groen-blauw",
     "previous_price": 59.9
@@ -215664,7 +215664,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1954 Matrix - Groen / Blauw",
     "size": "XL",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1954-matrix-groen-blauw",
     "previous_price": 59.9
@@ -215674,7 +215674,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1954 Matrix - Groen / Blauw",
     "size": "XXL",
-    "price": 59.9,
+    "price": 65.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1954-matrix-groen-blauw",
     "previous_price": 59.9
@@ -215684,7 +215684,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1949 Grunge Black - Zwart / Wit",
     "size": "S",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1948-grunge-black-zwart",
     "previous_price": 59.9
@@ -215694,7 +215694,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1949 Grunge Black - Zwart / Wit",
     "size": "M",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1948-grunge-black-zwart",
     "previous_price": 59.9
@@ -215704,7 +215704,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1949 Grunge Black - Zwart / Wit",
     "size": "L",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1948-grunge-black-zwart",
     "previous_price": 59.9
@@ -215714,7 +215714,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1949 Grunge Black - Zwart / Wit",
     "size": "XL",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1948-grunge-black-zwart",
     "previous_price": 59.9
@@ -215724,7 +215724,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1949 Grunge Black - Zwart / Wit",
     "size": "XXL",
-    "price": 59.9,
+    "price": 65.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1948-grunge-black-zwart",
     "previous_price": 59.9
@@ -215734,7 +215734,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1948 Grunge White - Wit / Zwart",
     "size": "S",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1948-grunge-white-wit-zwart",
     "previous_price": 59.9
@@ -215744,7 +215744,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1948 Grunge White - Wit / Zwart",
     "size": "M",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1948-grunge-white-wit-zwart",
     "previous_price": 59.9
@@ -215754,7 +215754,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1948 Grunge White - Wit / Zwart",
     "size": "L",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1948-grunge-white-wit-zwart",
     "previous_price": 59.9
@@ -215764,7 +215764,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1948 Grunge White - Wit / Zwart",
     "size": "XL",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1948-grunge-white-wit-zwart",
     "previous_price": 59.9
@@ -215774,7 +215774,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1948 Grunge White - Wit / Zwart",
     "size": "XXL",
-    "price": 59.9,
+    "price": 65.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1948-grunge-white-wit-zwart",
     "previous_price": 59.9
@@ -215784,7 +215784,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1947 Black Marble - zwart/goud",
     "size": "S",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1947-black-marble-zwart-goud",
     "previous_price": 59.9
@@ -215794,7 +215794,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1947 Black Marble - zwart/goud",
     "size": "M",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1947-black-marble-zwart-goud",
     "previous_price": 59.9
@@ -215804,7 +215804,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1947 Black Marble - zwart/goud",
     "size": "L",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1947-black-marble-zwart-goud",
     "previous_price": 59.9
@@ -215814,7 +215814,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1947 Black Marble - zwart/goud",
     "size": "XL",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1947-black-marble-zwart-goud",
     "previous_price": 59.9
@@ -215824,7 +215824,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts - BS1947 Black Marble - zwart/goud",
     "size": "XXL",
-    "price": 59.9,
+    "price": 65.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1947-black-marble-zwart-goud",
     "previous_price": 59.9
@@ -215834,7 +215834,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1930 Muay Thai Shorts - Blue Ocean - Blauw",
     "size": "S",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1930-muay-thai-shorts-blue-ocean-blauw",
     "previous_price": 59.9
@@ -215844,7 +215844,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1930 Muay Thai Shorts - Blue Ocean - Blauw",
     "size": "M",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1930-muay-thai-shorts-blue-ocean-blauw",
     "previous_price": 59.9
@@ -215854,7 +215854,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1930 Muay Thai Shorts - Blue Ocean - Blauw",
     "size": "L",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1930-muay-thai-shorts-blue-ocean-blauw",
     "previous_price": 59.9
@@ -215864,7 +215864,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1930 Muay Thai Shorts - Blue Ocean - Blauw",
     "size": "XL",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1930-muay-thai-shorts-blue-ocean-blauw",
     "previous_price": 59.9
@@ -215874,7 +215874,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1930 Muay Thai Shorts - Blue Ocean - Blauw",
     "size": "XXL",
-    "price": 59.9,
+    "price": 65.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1930-muay-thai-shorts-blue-ocean-blauw",
     "previous_price": 59.9
@@ -216504,7 +216504,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FMV9 Ultimate Contoured Focus Mitts - Blauw/Zwart",
     "size": "Default Title",
-    "price": 129.0,
+    "price": 180.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-fmv9-ultimate-contoured-focus-mitts-blauw-zwart",
     "previous_price": 129.0
@@ -216514,7 +216514,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FMV9 Ultimate Contoured Focus Mitts - Rood/Zwart",
     "size": "Default Title",
-    "price": 129.0,
+    "price": 180.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fmv9-ultimate-contoured-focus-mitts-rood-zwart",
     "previous_price": 129.0
@@ -216524,7 +216524,7 @@
     "brand": "Fairtex",
     "product": "Fairtex HB6 Muay Thai Banana Bag - 180 cm - Ongevuld - Zwart / Goud",
     "size": "Default Title",
-    "price": 149.99,
+    "price": 165.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-hb6-muay-thai-banana-bag-180-cm-ongevuld-zwart-goud",
     "previous_price": 149.99
@@ -217404,7 +217404,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Crème Wit",
     "size": "XL",
-    "price": 79.9,
+    "price": 109.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-creme-wit",
     "previous_price": 79.9
@@ -217465,7 +217465,7 @@
     "product": "Booster BCS Boksschoenen - Unisex - Zwart",
     "size": "43",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bcs-boksschoenen-unisex-zwart",
     "previous_price": 69.95
   },
@@ -218884,7 +218884,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Quick Wraps - Zwart",
     "size": "S/M",
-    "price": 39.9,
+    "price": 32.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-quick-wraps-zwart",
     "previous_price": 39.9
@@ -218894,7 +218894,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Quick Wraps - Zwart",
     "size": "L/XL",
-    "price": 39.9,
+    "price": 32.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-quick-wraps-zwart",
     "previous_price": 39.9
@@ -218904,7 +218904,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Quick Wraps - Roze",
     "size": "S/M",
-    "price": 39.9,
+    "price": 32.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-quick-wraps-roze",
     "previous_price": 39.9
@@ -218914,7 +218914,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Quick Wraps - Roze",
     "size": "L/XL",
-    "price": 39.9,
+    "price": 32.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-quick-wraps-roze",
     "previous_price": 39.9
@@ -219104,7 +219104,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BJJ Gi Matchanu - Limited Edition - Wit",
     "size": "A4",
-    "price": 229.9,
+    "price": 189.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bjj-gi-matchanu-limited-edition-wit",
     "previous_price": 229.9
@@ -221014,7 +221014,7 @@
     "brand": "Fairtex",
     "product": "Fairtex - TST51 - Fight Team T-Shirt - Wit - opdruk Rood/Zwart",
     "size": "S",
-    "price": 24.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fight-team-t-shirt-wit-opdruk-rood-zwart",
     "previous_price": 24.9
@@ -221024,7 +221024,7 @@
     "brand": "Fairtex",
     "product": "Fairtex - TST51 - Fight Team T-Shirt - Wit - opdruk Rood/Zwart",
     "size": "M",
-    "price": 24.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fight-team-t-shirt-wit-opdruk-rood-zwart",
     "previous_price": 24.9
@@ -221034,7 +221034,7 @@
     "brand": "Fairtex",
     "product": "Fairtex - TST51 - Fight Team T-Shirt - Wit - opdruk Rood/Zwart",
     "size": "L",
-    "price": 24.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fight-team-t-shirt-wit-opdruk-rood-zwart",
     "previous_price": 24.9
@@ -221044,7 +221044,7 @@
     "brand": "Fairtex",
     "product": "Fairtex - TST51 - Fight Team T-Shirt - Wit - opdruk Rood/Zwart",
     "size": "XL",
-    "price": 24.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fight-team-t-shirt-wit-opdruk-rood-zwart",
     "previous_price": 24.9
@@ -221134,7 +221134,7 @@
     "brand": "Fairtex",
     "product": "Fairtex - TST51 - Fight Team T-Shirt - Zwart - opdruk Wit/Rood/Blauw",
     "size": "S",
-    "price": 24.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fight-team-t-shirt-zwart-opdruk-wit-rood-blauw",
     "previous_price": 24.9
@@ -221144,7 +221144,7 @@
     "brand": "Fairtex",
     "product": "Fairtex - TST51 - Fight Team T-Shirt - Zwart - opdruk Wit/Rood/Blauw",
     "size": "M",
-    "price": 24.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fight-team-t-shirt-zwart-opdruk-wit-rood-blauw",
     "previous_price": 24.9
@@ -221154,7 +221154,7 @@
     "brand": "Fairtex",
     "product": "Fairtex - TST51 - Fight Team T-Shirt - Zwart - opdruk Wit/Rood/Blauw",
     "size": "L",
-    "price": 24.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fight-team-t-shirt-zwart-opdruk-wit-rood-blauw",
     "previous_price": 24.9
@@ -221164,7 +221164,7 @@
     "brand": "Fairtex",
     "product": "Fairtex - TST51 - Fight Team T-Shirt - Zwart - opdruk Wit/Rood/Blauw",
     "size": "XL",
-    "price": 24.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fight-team-t-shirt-zwart-opdruk-wit-rood-blauw",
     "previous_price": 24.9
@@ -221174,7 +221174,7 @@
     "brand": "Fairtex",
     "product": "Fairtex - TST51 - Fight Team T-Shirt - Zwart - opdruk Wit/Rood",
     "size": "S",
-    "price": 24.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fight-team-t-shirt-zwart-opdruk-wit-rood",
     "previous_price": 24.9
@@ -221184,7 +221184,7 @@
     "brand": "Fairtex",
     "product": "Fairtex - TST51 - Fight Team T-Shirt - Zwart - opdruk Wit/Rood",
     "size": "M",
-    "price": 24.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fight-team-t-shirt-zwart-opdruk-wit-rood",
     "previous_price": 24.9
@@ -221194,7 +221194,7 @@
     "brand": "Fairtex",
     "product": "Fairtex - TST51 - Fight Team T-Shirt - Zwart - opdruk Wit/Rood",
     "size": "L",
-    "price": 24.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fight-team-t-shirt-zwart-opdruk-wit-rood",
     "previous_price": 24.9
@@ -221204,7 +221204,7 @@
     "brand": "Fairtex",
     "product": "Fairtex - TST51 - Fight Team T-Shirt - Zwart - opdruk Wit/Rood",
     "size": "XL",
-    "price": 24.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fight-team-t-shirt-zwart-opdruk-wit-rood",
     "previous_price": 24.9
@@ -221824,7 +221824,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TS4 Vintage T-Shirt - Zwart",
     "size": "S",
-    "price": 24.9,
+    "price": 29.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-ts4-vintage-t-shirt-zwart",
     "previous_price": 24.9
@@ -221834,7 +221834,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TS4 Vintage T-Shirt - Zwart",
     "size": "M",
-    "price": 24.9,
+    "price": 29.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-ts4-vintage-t-shirt-zwart",
     "previous_price": 24.9
@@ -221844,7 +221844,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TS4 Vintage T-Shirt - Zwart",
     "size": "L",
-    "price": 24.9,
+    "price": 29.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-ts4-vintage-t-shirt-zwart",
     "previous_price": 24.9
@@ -221854,7 +221854,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TS4 Vintage T-Shirt - Zwart",
     "size": "XL",
-    "price": 24.9,
+    "price": 29.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-ts4-vintage-t-shirt-zwart",
     "previous_price": 24.9
@@ -221884,7 +221884,7 @@
     "brand": "Fairtex",
     "product": "Fairtex CP13 Compressie Shorts voor Dames",
     "size": "S",
-    "price": 49.95,
+    "price": 69.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-cp13-vale-tudo-shorts-voor-dames",
     "previous_price": 49.95
@@ -221894,7 +221894,7 @@
     "brand": "Fairtex",
     "product": "Fairtex CP13 Compressie Shorts voor Dames",
     "size": "M",
-    "price": 49.95,
+    "price": 69.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-cp13-vale-tudo-shorts-voor-dames",
     "previous_price": 49.95
@@ -221904,7 +221904,7 @@
     "brand": "Fairtex",
     "product": "Fairtex CP13 Compressie Shorts voor Dames",
     "size": "L",
-    "price": 49.95,
+    "price": 69.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-cp13-vale-tudo-shorts-voor-dames",
     "previous_price": 49.95
@@ -221954,7 +221954,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Compressie Shorts voor Heren - CP10",
     "size": "M",
-    "price": 49.95,
+    "price": 69.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-vale-tudo-shorts-voor-heren-cp10",
     "previous_price": 49.95
@@ -221964,7 +221964,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Compressie Shorts voor Heren - CP10",
     "size": "L",
-    "price": 49.95,
+    "price": 69.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-vale-tudo-shorts-voor-heren-cp10",
     "previous_price": 49.95
@@ -222024,7 +222024,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Compressie Shorts voor Heren - CP9",
     "size": "M",
-    "price": 49.95,
+    "price": 69.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-vale-tudo-shorts-voor-heren-cp9",
     "previous_price": 49.95
@@ -222034,7 +222034,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Compressie Shorts voor Heren - CP9",
     "size": "L",
-    "price": 49.95,
+    "price": 69.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-vale-tudo-shorts-voor-heren-cp9",
     "previous_price": 49.95
@@ -222275,7 +222275,7 @@
     "product": "Hayabusa Enkelsteun - zwart",
     "size": "S",
     "price": 23.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-enkelsteun-zwart",
     "previous_price": 23.99
   },
@@ -222364,7 +222364,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14 Microfiber Bokshandschoenen - Blauw",
     "size": "12 oz",
-    "price": 119.9,
+    "price": 129.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14-microfiber-bokshandschoenen-blauw",
     "previous_price": 119.9
@@ -222374,7 +222374,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14 Microfiber Bokshandschoenen - Blauw",
     "size": "14 oz",
-    "price": 119.9,
+    "price": 129.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14-microfiber-bokshandschoenen-blauw",
     "previous_price": 119.9
@@ -222384,7 +222384,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14 Microfiber Bokshandschoenen - Blauw",
     "size": "16 oz",
-    "price": 119.9,
+    "price": 129.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14-microfiber-bokshandschoenen-blauw",
     "previous_price": 119.9
@@ -222394,7 +222394,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14 Microfiber Bokshandschoenen - Rood",
     "size": "12 oz",
-    "price": 119.9,
+    "price": 129.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14-microfiber-bokshandschoenen-rood",
     "previous_price": 119.9
@@ -222404,7 +222404,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14 Microfiber Bokshandschoenen - Rood",
     "size": "14 oz",
-    "price": 119.9,
+    "price": 129.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14-microfiber-bokshandschoenen-rood",
     "previous_price": 119.9
@@ -222414,7 +222414,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14 Microfiber Bokshandschoenen - Rood",
     "size": "16 oz",
-    "price": 119.9,
+    "price": 129.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14-microfiber-bokshandschoenen-rood",
     "previous_price": 119.9
@@ -222424,7 +222424,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14 Microfiber Bokshandschoenen - Zwart",
     "size": "12 oz",
-    "price": 119.9,
+    "price": 129.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14-microfiber-bokshandschoenen-zwart",
     "previous_price": 119.9
@@ -222434,7 +222434,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14 Microfiber Bokshandschoenen - Zwart",
     "size": "14 oz",
-    "price": 119.9,
+    "price": 129.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14-microfiber-bokshandschoenen-zwart",
     "previous_price": 119.9
@@ -222444,7 +222444,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14 Microfiber Bokshandschoenen - Zwart",
     "size": "16 oz",
-    "price": 119.9,
+    "price": 129.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14-microfiber-bokshandschoenen-zwart",
     "previous_price": 119.9
@@ -222454,7 +222454,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14 Microfiber Bokshandschoenen - Wit",
     "size": "12 oz",
-    "price": 119.9,
+    "price": 129.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14-microfiber-bokshandschoenen-wit",
     "previous_price": 119.9
@@ -222464,7 +222464,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14 Microfiber Bokshandschoenen - Wit",
     "size": "14 oz",
-    "price": 119.9,
+    "price": 129.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14-microfiber-bokshandschoenen-wit",
     "previous_price": 119.9
@@ -222474,7 +222474,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14 Microfiber Bokshandschoenen - Wit",
     "size": "16 oz",
-    "price": 119.9,
+    "price": 129.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14-microfiber-bokshandschoenen-wit",
     "previous_price": 119.9
@@ -222484,8 +222484,8 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14PT Microfiber Bokshandschoenen - Art Collections - Painter Zwart",
     "size": "12 oz",
-    "price": 119.9,
-    "in_stock": false,
+    "price": 135.0,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14pt-microfiber-bokshandschoenen-art-collections-painter-zwart",
     "previous_price": 119.9
   },
@@ -222494,7 +222494,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14PT Microfiber Bokshandschoenen - Art Collections - Painter Zwart",
     "size": "14 oz",
-    "price": 119.9,
+    "price": 135.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14pt-microfiber-bokshandschoenen-art-collections-painter-zwart",
     "previous_price": 119.9
@@ -222504,7 +222504,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14PT Microfiber Bokshandschoenen - Art Collections - Painter Zwart",
     "size": "16 oz",
-    "price": 119.9,
+    "price": 135.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14pt-microfiber-bokshandschoenen-art-collections-painter-zwart",
     "previous_price": 119.9
@@ -222514,7 +222514,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14PT Microfiber Bokshandschoenen - Art Collections - Painter - Wit",
     "size": "12 oz",
-    "price": 119.9,
+    "price": 135.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14pt-microfiber-bokshandschoenen-art-collections-painter-wit",
     "previous_price": 119.9
@@ -222524,7 +222524,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14PT Microfiber Bokshandschoenen - Art Collections - Painter - Wit",
     "size": "14 oz",
-    "price": 119.9,
+    "price": 135.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14pt-microfiber-bokshandschoenen-art-collections-painter-wit",
     "previous_price": 119.9
@@ -222534,7 +222534,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14PT Microfiber Bokshandschoenen - Art Collections - Painter - Wit",
     "size": "16 oz",
-    "price": 119.9,
+    "price": 135.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14pt-microfiber-bokshandschoenen-art-collections-painter-wit",
     "previous_price": 119.9
@@ -222544,7 +222544,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14W Microfiber Bokshandschoenen - Art Collections - Graffiti",
     "size": "12 oz",
-    "price": 119.9,
+    "price": 135.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14w-microfiber-bokshandschoenen-art-collections-graffiti",
     "previous_price": 119.9
@@ -222554,7 +222554,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14W Microfiber Bokshandschoenen - Art Collections - Graffiti",
     "size": "14 oz",
-    "price": 119.9,
+    "price": 135.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14w-microfiber-bokshandschoenen-art-collections-graffiti",
     "previous_price": 119.9
@@ -222564,7 +222564,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14W Microfiber Bokshandschoenen - Art Collections - Graffiti",
     "size": "16 oz",
-    "price": 119.9,
+    "price": 135.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14w-microfiber-bokshandschoenen-art-collections-graffiti",
     "previous_price": 119.9
@@ -222574,7 +222574,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14SB Microfiber Bokshandschoenen - Art Collections - Solid Black",
     "size": "12 oz",
-    "price": 119.9,
+    "price": 135.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14sb-microfiber-bokshandschoenen-art-collections-solid-black",
     "previous_price": 119.9
@@ -222584,7 +222584,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14SB Microfiber Bokshandschoenen - Art Collections - Solid Black",
     "size": "14 oz",
-    "price": 119.9,
+    "price": 135.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14sb-microfiber-bokshandschoenen-art-collections-solid-black",
     "previous_price": 119.9
@@ -222594,7 +222594,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14SB Microfiber Bokshandschoenen - Art Collections - Solid Black",
     "size": "16 oz",
-    "price": 119.9,
+    "price": 135.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14sb-microfiber-bokshandschoenen-art-collections-solid-black",
     "previous_price": 119.9
@@ -222604,7 +222604,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14PT Microfiber Bokshandschoenen - Art Collections - Painter Zwart/Wit",
     "size": "12 oz",
-    "price": 119.9,
+    "price": 135.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14pt-microfiber-bokshandschoenen-art-collections-painter-zwart-wit",
     "previous_price": 119.9
@@ -222614,7 +222614,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14PT Microfiber Bokshandschoenen - Art Collections - Painter Zwart/Wit",
     "size": "14 oz",
-    "price": 119.9,
+    "price": 135.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14pt-microfiber-bokshandschoenen-art-collections-painter-zwart-wit",
     "previous_price": 119.9
@@ -222624,7 +222624,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV14PT Microfiber Bokshandschoenen - Art Collections - Painter Zwart/Wit",
     "size": "16 oz",
-    "price": 119.9,
+    "price": 135.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14pt-microfiber-bokshandschoenen-art-collections-painter-zwart-wit",
     "previous_price": 119.9
@@ -222634,7 +222634,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV19 Deluxe \"Tight-Fit\" Bokshandschoenen - Rood",
     "size": "12 oz",
-    "price": 159.9,
+    "price": 149.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv19-deluxe-tight-fit-bokshandschoenen-rood",
     "previous_price": 159.9
@@ -222644,7 +222644,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV19 Deluxe \"Tight-Fit\" Bokshandschoenen - Rood",
     "size": "14 oz",
-    "price": 159.9,
+    "price": 149.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv19-deluxe-tight-fit-bokshandschoenen-rood",
     "previous_price": 159.9
@@ -222654,7 +222654,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV19 Deluxe \"Tight-Fit\" Bokshandschoenen - Rood",
     "size": "16 oz",
-    "price": 159.9,
+    "price": 149.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv19-deluxe-tight-fit-bokshandschoenen-rood",
     "previous_price": 159.9
@@ -222664,7 +222664,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV19 Deluxe \"Tight-Fit\" Bokshandschoenen - Goudgeel",
     "size": "12 oz",
-    "price": 159.9,
+    "price": 149.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv19-deluxe-tight-fit-bokshandschoenen-goudgeel",
     "previous_price": 159.9
@@ -222674,7 +222674,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV19 Deluxe \"Tight-Fit\" Bokshandschoenen - Goudgeel",
     "size": "14 oz",
-    "price": 159.9,
+    "price": 149.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv19-deluxe-tight-fit-bokshandschoenen-goudgeel",
     "previous_price": 159.9
@@ -222684,7 +222684,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV19 Deluxe \"Tight-Fit\" Bokshandschoenen - Goudgeel",
     "size": "16 oz",
-    "price": 159.9,
+    "price": 149.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv19-deluxe-tight-fit-bokshandschoenen-goudgeel",
     "previous_price": 159.9
@@ -222694,7 +222694,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Blauw",
     "size": "12 oz",
-    "price": 104.9,
+    "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-blauw",
     "previous_price": 104.9
@@ -222704,7 +222704,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Blauw",
     "size": "14 oz",
-    "price": 104.9,
+    "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-blauw",
     "previous_price": 104.9
@@ -222714,7 +222714,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Blauw",
     "size": "16 oz",
-    "price": 104.9,
+    "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-blauw",
     "previous_price": 104.9
@@ -222724,7 +222724,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV19 Deluxe \"Tight-Fit\" Bokshandschoenen - Zwart",
     "size": "12 oz",
-    "price": 159.9,
+    "price": 149.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv19-deluxe-tight-fit-bokshandschoenen-zwart",
     "previous_price": 159.9
@@ -222734,7 +222734,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV19 Deluxe \"Tight-Fit\" Bokshandschoenen - Zwart",
     "size": "14 oz",
-    "price": 159.9,
+    "price": 149.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv19-deluxe-tight-fit-bokshandschoenen-zwart",
     "previous_price": 159.9
@@ -222744,7 +222744,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV19 Deluxe \"Tight-Fit\" Bokshandschoenen - Zwart",
     "size": "16 oz",
-    "price": 159.9,
+    "price": 149.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv19-deluxe-tight-fit-bokshandschoenen-zwart",
     "previous_price": 159.9
@@ -222754,7 +222754,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Rood",
     "size": "12 oz",
-    "price": 104.9,
+    "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-rood",
     "previous_price": 104.9
@@ -222764,7 +222764,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Rood",
     "size": "14 oz",
-    "price": 104.9,
+    "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-rood",
     "previous_price": 104.9
@@ -222774,7 +222774,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Rood",
     "size": "16 oz",
-    "price": 104.9,
+    "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-rood",
     "previous_price": 104.9
@@ -222784,7 +222784,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Geel",
     "size": "12 oz",
-    "price": 104.9,
+    "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-geel",
     "previous_price": 104.9
@@ -222794,7 +222794,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Geel",
     "size": "14 oz",
-    "price": 104.9,
+    "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-geel",
     "previous_price": 104.9
@@ -222804,7 +222804,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Geel",
     "size": "16 oz",
-    "price": 104.9,
+    "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-geel",
     "previous_price": 104.9
@@ -222814,7 +222814,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Zwart",
     "size": "12 oz",
-    "price": 104.9,
+    "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-zwart",
     "previous_price": 104.9
@@ -222824,7 +222824,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Zwart",
     "size": "14 oz",
-    "price": 104.9,
+    "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-zwart",
     "previous_price": 104.9
@@ -222834,7 +222834,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Zwart",
     "size": "16 oz",
-    "price": 104.9,
+    "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-zwart",
     "previous_price": 104.9
@@ -222844,7 +222844,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Wit",
     "size": "12 oz",
-    "price": 104.9,
+    "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-wit",
     "previous_price": 104.9
@@ -222854,7 +222854,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Wit",
     "size": "14 oz",
-    "price": 104.9,
+    "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-wit",
     "previous_price": 104.9
@@ -222864,7 +222864,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Wit",
     "size": "16 oz",
-    "price": 104.9,
+    "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-wit",
     "previous_price": 104.9
@@ -222874,7 +222874,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Thai Pride",
     "size": "12 oz",
-    "price": 119.9,
+    "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-thai-pride",
     "previous_price": 119.9
@@ -222884,7 +222884,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Thai Pride",
     "size": "14 oz",
-    "price": 119.9,
+    "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-thai-pride",
     "previous_price": 119.9
@@ -222894,7 +222894,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Thai Pride",
     "size": "16 oz",
-    "price": 119.9,
+    "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-thai-pride",
     "previous_price": 119.9
@@ -222904,7 +222904,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV21 Legacy Bokshandschoenen - echt leer - Bruin",
     "size": "12 oz",
-    "price": 139.9,
+    "price": 120.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv21-legacy-bokshandschoenen-echt-leer-bruin",
     "previous_price": 139.9
@@ -222914,7 +222914,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV21 Legacy Bokshandschoenen - echt leer - Bruin",
     "size": "14 oz",
-    "price": 139.9,
+    "price": 120.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv21-legacy-bokshandschoenen-echt-leer-bruin",
     "previous_price": 139.9
@@ -222924,7 +222924,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV21 Legacy Bokshandschoenen - echt leer - Bruin",
     "size": "16 oz",
-    "price": 139.9,
+    "price": 120.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv21-legacy-bokshandschoenen-echt-leer-bruin",
     "previous_price": 139.9
@@ -222934,7 +222934,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV20 Genuine Leather Bokshandschoenen - echt leer - Pastel Blauw",
     "size": "12 oz",
-    "price": 104.9,
+    "price": 149.9,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv20-genuine-leather-bokshandschoenen-echt-leer-pastel-blauw",
     "previous_price": 104.9
@@ -222944,7 +222944,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV20 Genuine Leather Bokshandschoenen - echt leer - Pastel Blauw",
     "size": "14 oz",
-    "price": 104.9,
+    "price": 149.9,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv20-genuine-leather-bokshandschoenen-echt-leer-pastel-blauw",
     "previous_price": 104.9
@@ -222954,7 +222954,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV20 Genuine Leather Bokshandschoenen - echt leer - Pastel Blauw",
     "size": "16 oz",
-    "price": 104.9,
+    "price": 149.9,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv20-genuine-leather-bokshandschoenen-echt-leer-pastel-blauw",
     "previous_price": 104.9
@@ -222964,7 +222964,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV16 Bokshandschoenen -Echt Leer - Maroon",
     "size": "12 oz",
-    "price": 104.9,
+    "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bokshandschoenen-echt-leer-bgv16-maroon",
     "previous_price": 104.9
@@ -222974,7 +222974,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV16 Bokshandschoenen -Echt Leer - Maroon",
     "size": "14 oz",
-    "price": 104.9,
+    "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bokshandschoenen-echt-leer-bgv16-maroon",
     "previous_price": 104.9
@@ -222984,7 +222984,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV16 Bokshandschoenen -Echt Leer - Maroon",
     "size": "16 oz",
-    "price": 104.9,
+    "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bokshandschoenen-echt-leer-bgv16-maroon",
     "previous_price": 104.9
@@ -222994,7 +222994,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV16 Bokshandschoenen - Echt Leer - Khaki",
     "size": "12 oz",
-    "price": 104.9,
+    "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bokshandschoenen-echt-leer-bgv16-khaki",
     "previous_price": 104.9
@@ -223004,7 +223004,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV16 Bokshandschoenen - Echt Leer - Khaki",
     "size": "14 oz",
-    "price": 104.9,
+    "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bokshandschoenen-echt-leer-bgv16-khaki",
     "previous_price": 104.9
@@ -223014,7 +223014,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BGV16 Bokshandschoenen - Echt Leer - Khaki",
     "size": "16 oz",
-    "price": 104.9,
+    "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bokshandschoenen-echt-leer-bgv16-khaki",
     "previous_price": 104.9
@@ -223024,7 +223024,7 @@
     "brand": "ONE",
     "product": "ONE Championship x Fairtex Bokshandschoenen - Leer - Rood",
     "size": "12 oz",
-    "price": 114.9,
+    "price": 159.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/one-championship-x-fairtex-bokshandschoenen-leer-rood",
     "previous_price": 114.9
@@ -223034,7 +223034,7 @@
     "brand": "ONE",
     "product": "ONE Championship x Fairtex Bokshandschoenen - Leer - Rood",
     "size": "14 oz",
-    "price": 114.9,
+    "price": 159.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/one-championship-x-fairtex-bokshandschoenen-leer-rood",
     "previous_price": 114.9
@@ -223044,7 +223044,7 @@
     "brand": "ONE",
     "product": "ONE Championship x Fairtex Bokshandschoenen - Leer - Rood",
     "size": "16 oz",
-    "price": 114.9,
+    "price": 159.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/one-championship-x-fairtex-bokshandschoenen-leer-rood",
     "previous_price": 114.9
@@ -223054,7 +223054,7 @@
     "brand": "ONE",
     "product": "ONE Championship x Fairtex Bokshandschoenen - Leer - Blauw",
     "size": "12 oz",
-    "price": 114.9,
+    "price": 159.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/one-championship-x-fairtex-bokshandschoenen-leer-blauw",
     "previous_price": 114.9
@@ -223064,7 +223064,7 @@
     "brand": "ONE",
     "product": "ONE Championship x Fairtex Bokshandschoenen - Leer - Blauw",
     "size": "14 oz",
-    "price": 114.9,
+    "price": 159.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/one-championship-x-fairtex-bokshandschoenen-leer-blauw",
     "previous_price": 114.9
@@ -223074,7 +223074,7 @@
     "brand": "ONE",
     "product": "ONE Championship x Fairtex Bokshandschoenen - Leer - Blauw",
     "size": "16 oz",
-    "price": 114.9,
+    "price": 159.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/one-championship-x-fairtex-bokshandschoenen-leer-blauw",
     "previous_price": 114.9
@@ -223084,7 +223084,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Blauw",
     "size": "S",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-blauw",
     "previous_price": 89.9
@@ -223094,7 +223094,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Blauw",
     "size": "M",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-blauw",
     "previous_price": 89.9
@@ -223104,7 +223104,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Blauw",
     "size": "L",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-blauw",
     "previous_price": 89.9
@@ -223114,7 +223114,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Blauw",
     "size": "XL",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-blauw",
     "previous_price": 89.9
@@ -223124,7 +223124,7 @@
     "brand": "ONE",
     "product": "ONE Championship x Fairtex Bokshandschoenen - Leer - Zwart",
     "size": "12 oz",
-    "price": 114.9,
+    "price": 159.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/one-championship-x-fairtex-bokshandschoenen-leer-zwart",
     "previous_price": 114.9
@@ -223134,7 +223134,7 @@
     "brand": "ONE",
     "product": "ONE Championship x Fairtex Bokshandschoenen - Leer - Zwart",
     "size": "14 oz",
-    "price": 114.9,
+    "price": 159.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/one-championship-x-fairtex-bokshandschoenen-leer-zwart",
     "previous_price": 114.9
@@ -223144,7 +223144,7 @@
     "brand": "ONE",
     "product": "ONE Championship x Fairtex Bokshandschoenen - Leer - Zwart",
     "size": "16 oz",
-    "price": 114.9,
+    "price": 159.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/one-championship-x-fairtex-bokshandschoenen-leer-zwart",
     "previous_price": 114.9
@@ -223154,7 +223154,7 @@
     "brand": "ONE",
     "product": "ONE Championship x Fairtex Bokshandschoenen - Leer - Wit",
     "size": "12 oz",
-    "price": 114.9,
+    "price": 159.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/one-championship-x-fairtex-bokshandschoenen-leer-wit",
     "previous_price": 114.9
@@ -223164,7 +223164,7 @@
     "brand": "ONE",
     "product": "ONE Championship x Fairtex Bokshandschoenen - Leer - Wit",
     "size": "14 oz",
-    "price": 114.9,
+    "price": 159.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/one-championship-x-fairtex-bokshandschoenen-leer-wit",
     "previous_price": 114.9
@@ -223174,7 +223174,7 @@
     "brand": "ONE",
     "product": "ONE Championship x Fairtex Bokshandschoenen - Leer - Wit",
     "size": "16 oz",
-    "price": 114.9,
+    "price": 159.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/one-championship-x-fairtex-bokshandschoenen-leer-wit",
     "previous_price": 114.9
@@ -223184,7 +223184,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Rood",
     "size": "S",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-rood",
     "previous_price": 89.9
@@ -223194,7 +223194,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Rood",
     "size": "M",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-rood",
     "previous_price": 89.9
@@ -223204,7 +223204,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Rood",
     "size": "L",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-rood",
     "previous_price": 89.9
@@ -223214,7 +223214,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Rood",
     "size": "XL",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-rood",
     "previous_price": 89.9
@@ -223224,7 +223224,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Geel",
     "size": "S",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-geel",
     "previous_price": 89.9
@@ -223234,7 +223234,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Geel",
     "size": "M",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-geel",
     "previous_price": 89.9
@@ -223244,7 +223244,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Geel",
     "size": "L",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-geel",
     "previous_price": 89.9
@@ -223254,7 +223254,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Geel",
     "size": "XL",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-geel",
     "previous_price": 89.9
@@ -223264,7 +223264,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Zwart",
     "size": "S",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-zwart",
     "previous_price": 89.9
@@ -223274,7 +223274,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Zwart",
     "size": "M",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-zwart",
     "previous_price": 89.9
@@ -223284,7 +223284,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Zwart",
     "size": "L",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-zwart",
     "previous_price": 89.9
@@ -223294,7 +223294,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Zwart",
     "size": "XL",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-zwart",
     "previous_price": 89.9
@@ -223304,7 +223304,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Wit",
     "size": "S",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-wit",
     "previous_price": 89.9
@@ -223314,7 +223314,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Wit",
     "size": "M",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-wit",
     "previous_price": 89.9
@@ -223324,7 +223324,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Wit",
     "size": "L",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-wit",
     "previous_price": 89.9
@@ -223334,7 +223334,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Wit",
     "size": "XL",
-    "price": 89.9,
+    "price": 109.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-wit",
     "previous_price": 89.9
@@ -223344,8 +223344,8 @@
     "brand": "Fairtex",
     "product": "Fairtex SP7 Twister - afneembare Wreef en Scheenbeschermers  - Rood",
     "size": "S",
-    "price": 109.9,
-    "in_stock": true,
+    "price": 100.0,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp7-twister-afneembare-wreef-en-scheenbeschermers-rood",
     "previous_price": 109.9
   },
@@ -223354,7 +223354,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP7 Twister - afneembare Wreef en Scheenbeschermers  - Rood",
     "size": "L",
-    "price": 109.9,
+    "price": 100.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp7-twister-afneembare-wreef-en-scheenbeschermers-rood",
     "previous_price": 109.9
@@ -223364,7 +223364,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP7 Twister - afneembare Wreef en Scheenbeschermers  - Geel",
     "size": "S",
-    "price": 109.9,
+    "price": 100.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp7-twister-afneembare-wreef-en-scheenbeschermers-geel",
     "previous_price": 109.9
@@ -223374,7 +223374,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP7 Twister - afneembare Wreef en Scheenbeschermers  - Geel",
     "size": "L",
-    "price": 109.9,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp7-twister-afneembare-wreef-en-scheenbeschermers-geel",
     "previous_price": 109.9
@@ -223384,7 +223384,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP7 Twister - afneembare Wreef en Scheenbeschermers - Blauw",
     "size": "S",
-    "price": 109.9,
+    "price": 100.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp7-twister-afneembare-wreef-en-scheenbeschermers-blauw",
     "previous_price": 109.9
@@ -223394,7 +223394,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP7 Twister - afneembare Wreef en Scheenbeschermers  - Zwart",
     "size": "S",
-    "price": 109.9,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp7-twister-afneembare-wreef-en-scheenbeschermers-zwart",
     "previous_price": 109.9
@@ -223404,7 +223404,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP7 Twister - afneembare Wreef en Scheenbeschermers  - Zwart",
     "size": "M",
-    "price": 109.9,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp7-twister-afneembare-wreef-en-scheenbeschermers-zwart",
     "previous_price": 109.9
@@ -223414,7 +223414,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP7 Twister - afneembare Wreef en Scheenbeschermers  - Zwart",
     "size": "L",
-    "price": 109.9,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp7-twister-afneembare-wreef-en-scheenbeschermers-zwart",
     "previous_price": 109.9
@@ -223424,7 +223424,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP7 Twister - afneembare Wreef en Scheenbeschermers  - Zwart",
     "size": "XL",
-    "price": 109.9,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp7-twister-afneembare-wreef-en-scheenbeschermers-zwart",
     "previous_price": 109.9
@@ -223434,7 +223434,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP7 Twister - afneembare Wreef en Scheenbeschermers  - Wit",
     "size": "S",
-    "price": 109.9,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp7-twister-afneembare-wreef-en-scheenbeschermers-wit",
     "previous_price": 109.9
@@ -223444,7 +223444,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP7 Twister - afneembare Wreef en Scheenbeschermers  - Wit",
     "size": "M",
-    "price": 109.9,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp7-twister-afneembare-wreef-en-scheenbeschermers-wit",
     "previous_price": 109.9
@@ -223454,7 +223454,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP7 Twister - afneembare Wreef en Scheenbeschermers  - Wit",
     "size": "L",
-    "price": 109.9,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp7-twister-afneembare-wreef-en-scheenbeschermers-wit",
     "previous_price": 109.9
@@ -223464,7 +223464,7 @@
     "brand": "Fairtex",
     "product": "Fairtex SP7 Twister - afneembare Wreef en Scheenbeschermers  - Wit",
     "size": "XL",
-    "price": 109.9,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp7-twister-afneembare-wreef-en-scheenbeschermers-wit",
     "previous_price": 109.9
@@ -223474,7 +223474,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1902 Muay Thai Shorts - Stealth - Grijs",
     "size": "S",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1902-muay-thai-shorts-stealth-grijs",
     "previous_price": 59.9
@@ -223484,7 +223484,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1902 Muay Thai Shorts - Stealth - Grijs",
     "size": "M",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1902-muay-thai-shorts-stealth-grijs",
     "previous_price": 59.9
@@ -223494,7 +223494,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1902 Muay Thai Shorts - Stealth - Grijs",
     "size": "L",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1902-muay-thai-shorts-stealth-grijs",
     "previous_price": 59.9
@@ -223504,7 +223504,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1902 Muay Thai Shorts - Stealth - Grijs",
     "size": "XL",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1902-muay-thai-shorts-stealth-grijs",
     "previous_price": 59.9
@@ -223514,7 +223514,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1902 Muay Thai Shorts - Stealth - Grijs",
     "size": "XXL",
-    "price": 59.9,
+    "price": 65.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1902-muay-thai-shorts-stealth-grijs",
     "previous_price": 59.9
@@ -223524,7 +223524,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1901 Muay Thai Shorts - Stealth - Zwart",
     "size": "S",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1901-muay-thai-shorts-stealth-zwart",
     "previous_price": 59.9
@@ -223534,7 +223534,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1901 Muay Thai Shorts - Stealth - Zwart",
     "size": "M",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1901-muay-thai-shorts-stealth-zwart",
     "previous_price": 59.9
@@ -223544,7 +223544,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1901 Muay Thai Shorts - Stealth - Zwart",
     "size": "L",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1901-muay-thai-shorts-stealth-zwart",
     "previous_price": 59.9
@@ -223554,7 +223554,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1901 Muay Thai Shorts - Stealth - Zwart",
     "size": "XL",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1901-muay-thai-shorts-stealth-zwart",
     "previous_price": 59.9
@@ -223564,7 +223564,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1901 Muay Thai Shorts - Stealth - Zwart",
     "size": "XXL",
-    "price": 59.9,
+    "price": 65.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1901-muay-thai-shorts-stealth-zwart",
     "previous_price": 59.9
@@ -223574,7 +223574,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1907 Muay Thai Shorts - Focus - Groen",
     "size": "S",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1907-muay-thai-shorts-focus-groen",
     "previous_price": 59.9
@@ -223584,7 +223584,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1907 Muay Thai Shorts - Focus - Groen",
     "size": "M",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1907-muay-thai-shorts-focus-groen",
     "previous_price": 59.9
@@ -223594,7 +223594,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1907 Muay Thai Shorts - Focus - Groen",
     "size": "L",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1907-muay-thai-shorts-focus-groen",
     "previous_price": 59.9
@@ -223604,7 +223604,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1907 Muay Thai Shorts - Focus - Groen",
     "size": "XL",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1907-muay-thai-shorts-focus-groen",
     "previous_price": 59.9
@@ -223614,7 +223614,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1907 Muay Thai Shorts - Focus - Groen",
     "size": "XXL",
-    "price": 59.9,
+    "price": 65.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1907-muay-thai-shorts-focus-groen",
     "previous_price": 59.9
@@ -223624,7 +223624,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1903 Muay Thai Shorts - Focus - Zwart",
     "size": "S",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1903-muay-thai-shorts-focus-zwart",
     "previous_price": 59.9
@@ -223634,7 +223634,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1903 Muay Thai Shorts - Focus - Zwart",
     "size": "M",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1903-muay-thai-shorts-focus-zwart",
     "previous_price": 59.9
@@ -223644,7 +223644,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1903 Muay Thai Shorts - Focus - Zwart",
     "size": "L",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1903-muay-thai-shorts-focus-zwart",
     "previous_price": 59.9
@@ -223654,7 +223654,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1903 Muay Thai Shorts - Focus - Zwart",
     "size": "XL",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1903-muay-thai-shorts-focus-zwart",
     "previous_price": 59.9
@@ -223664,7 +223664,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1903 Muay Thai Shorts - Focus - Zwart",
     "size": "XXL",
-    "price": 59.9,
+    "price": 65.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1903-muay-thai-shorts-focus-zwart",
     "previous_price": 59.9
@@ -223674,7 +223674,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1915 Muay Thai Shorts - Clubber - groen",
     "size": "S",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1915-muay-thai-shorts-clubber-groen",
     "previous_price": 59.9
@@ -223684,7 +223684,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1915 Muay Thai Shorts - Clubber - groen",
     "size": "M",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1915-muay-thai-shorts-clubber-groen",
     "previous_price": 59.9
@@ -223694,7 +223694,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1915 Muay Thai Shorts - Clubber - groen",
     "size": "L",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1915-muay-thai-shorts-clubber-groen",
     "previous_price": 59.9
@@ -223704,7 +223704,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1915 Muay Thai Shorts - Clubber - groen",
     "size": "XL",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1915-muay-thai-shorts-clubber-groen",
     "previous_price": 59.9
@@ -223714,7 +223714,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1915 Muay Thai Shorts - Clubber - groen",
     "size": "XXL",
-    "price": 59.9,
+    "price": 65.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1915-muay-thai-shorts-clubber-groen",
     "previous_price": 59.9
@@ -223724,7 +223724,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1910 Muay Thai Shorts - Golden River - rood",
     "size": "S",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1910-muay-thai-shorts-golden-river-rood",
     "previous_price": 59.9
@@ -223734,7 +223734,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1910 Muay Thai Shorts - Golden River - rood",
     "size": "M",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1910-muay-thai-shorts-golden-river-rood",
     "previous_price": 59.9
@@ -223744,7 +223744,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1910 Muay Thai Shorts - Golden River - rood",
     "size": "L",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1910-muay-thai-shorts-golden-river-rood",
     "previous_price": 59.9
@@ -223754,7 +223754,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1910 Muay Thai Shorts - Golden River - rood",
     "size": "XL",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1910-muay-thai-shorts-golden-river-rood",
     "previous_price": 59.9
@@ -223764,7 +223764,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1910 Muay Thai Shorts - Golden River - rood",
     "size": "XXL",
-    "price": 59.9,
+    "price": 65.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1910-muay-thai-shorts-golden-river-rood",
     "previous_price": 59.9
@@ -223774,7 +223774,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1920 Muay Thai Shorts - Lava - Zwart/Goud",
     "size": "S",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1920-muay-thai-shorts-lava-zwart-goud",
     "previous_price": 59.9
@@ -223784,7 +223784,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1920 Muay Thai Shorts - Lava - Zwart/Goud",
     "size": "M",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1920-muay-thai-shorts-lava-zwart-goud",
     "previous_price": 59.9
@@ -223794,7 +223794,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1920 Muay Thai Shorts - Lava - Zwart/Goud",
     "size": "L",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1920-muay-thai-shorts-lava-zwart-goud",
     "previous_price": 59.9
@@ -223804,7 +223804,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1920 Muay Thai Shorts - Lava - Zwart/Goud",
     "size": "XL",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1920-muay-thai-shorts-lava-zwart-goud",
     "previous_price": 59.9
@@ -223814,7 +223814,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1920 Muay Thai Shorts - Lava - Zwart/Goud",
     "size": "XXL",
-    "price": 59.9,
+    "price": 65.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1920-muay-thai-shorts-lava-zwart-goud",
     "previous_price": 59.9
@@ -223824,7 +223824,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1919 Muay Thai Shorts - Stealth - Rood/Zwart",
     "size": "S",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1919-muay-thai-shorts-rood-zwart",
     "previous_price": 59.9
@@ -223834,7 +223834,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1919 Muay Thai Shorts - Stealth - Rood/Zwart",
     "size": "M",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1919-muay-thai-shorts-rood-zwart",
     "previous_price": 59.9
@@ -223844,7 +223844,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1919 Muay Thai Shorts - Stealth - Rood/Zwart",
     "size": "L",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1919-muay-thai-shorts-rood-zwart",
     "previous_price": 59.9
@@ -223854,7 +223854,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1919 Muay Thai Shorts - Stealth - Rood/Zwart",
     "size": "XL",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1919-muay-thai-shorts-rood-zwart",
     "previous_price": 59.9
@@ -223864,7 +223864,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1919 Muay Thai Shorts - Stealth - Rood/Zwart",
     "size": "XXL",
-    "price": 59.9,
+    "price": 65.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1919-muay-thai-shorts-rood-zwart",
     "previous_price": 59.9
@@ -223874,7 +223874,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1916 Muay Thai Shorts - Golden Jubilee Luster - camo blauw",
     "size": "XS",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1916-muay-thai-shorts-golden-jubilee-luster-camo-blauw",
     "previous_price": 59.9
@@ -223884,7 +223884,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1916 Muay Thai Shorts - Golden Jubilee Luster - camo blauw",
     "size": "S",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1916-muay-thai-shorts-golden-jubilee-luster-camo-blauw",
     "previous_price": 59.9
@@ -223894,7 +223894,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1916 Muay Thai Shorts - Golden Jubilee Luster - camo blauw",
     "size": "M",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1916-muay-thai-shorts-golden-jubilee-luster-camo-blauw",
     "previous_price": 59.9
@@ -223904,7 +223904,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1916 Muay Thai Shorts - Golden Jubilee Luster - camo blauw",
     "size": "L",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1916-muay-thai-shorts-golden-jubilee-luster-camo-blauw",
     "previous_price": 59.9
@@ -223914,7 +223914,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1916 Muay Thai Shorts - Golden Jubilee Luster - camo blauw",
     "size": "XL",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1916-muay-thai-shorts-golden-jubilee-luster-camo-blauw",
     "previous_price": 59.9
@@ -223924,7 +223924,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1916 Muay Thai Shorts - Golden Jubilee Luster - camo blauw",
     "size": "XXL",
-    "price": 59.9,
+    "price": 65.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1916-muay-thai-shorts-golden-jubilee-luster-camo-blauw",
     "previous_price": 59.9
@@ -223934,7 +223934,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1925 Muay Thai Shorts - Mr.X - zwart/goud",
     "size": "S",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1925-muay-thai-shorts-mrx-zwart-goud",
     "previous_price": 59.9
@@ -223944,7 +223944,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1925 Muay Thai Shorts - Mr.X - zwart/goud",
     "size": "M",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1925-muay-thai-shorts-mrx-zwart-goud",
     "previous_price": 59.9
@@ -223954,7 +223954,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1925 Muay Thai Shorts - Mr.X - zwart/goud",
     "size": "L",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1925-muay-thai-shorts-mrx-zwart-goud",
     "previous_price": 59.9
@@ -223964,7 +223964,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1925 Muay Thai Shorts - Mr.X - zwart/goud",
     "size": "XL",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1925-muay-thai-shorts-mrx-zwart-goud",
     "previous_price": 59.9
@@ -223974,7 +223974,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1925 Muay Thai Shorts - Mr.X - zwart/goud",
     "size": "XXL",
-    "price": 59.9,
+    "price": 65.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1925-muay-thai-shorts-mrx-zwart-goud",
     "previous_price": 59.9
@@ -223984,7 +223984,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1924 Muay Thai Shorts Racer - Zwart/Groen",
     "size": "S",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1924-muay-thai-shorts-racer-zwart-groen",
     "previous_price": 59.9
@@ -223994,7 +223994,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1924 Muay Thai Shorts Racer - Zwart/Groen",
     "size": "M",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1924-muay-thai-shorts-racer-zwart-groen",
     "previous_price": 59.9
@@ -224004,7 +224004,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1924 Muay Thai Shorts Racer - Zwart/Groen",
     "size": "L",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1924-muay-thai-shorts-racer-zwart-groen",
     "previous_price": 59.9
@@ -224014,7 +224014,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1924 Muay Thai Shorts Racer - Zwart/Groen",
     "size": "XL",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1924-muay-thai-shorts-racer-zwart-groen",
     "previous_price": 59.9
@@ -224024,7 +224024,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1924 Muay Thai Shorts Racer - Zwart/Groen",
     "size": "XXL",
-    "price": 59.9,
+    "price": 65.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1924-muay-thai-shorts-racer-zwart-groen",
     "previous_price": 59.9
@@ -224034,7 +224034,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1927 Muay Thai Shorts - Magma 'Green - blauw/geel/groen",
     "size": "S",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1927-muay-thai-shorts-magma-green-blauw-geel-groen",
     "previous_price": 59.9
@@ -224044,7 +224044,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1927 Muay Thai Shorts - Magma 'Green - blauw/geel/groen",
     "size": "M",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1927-muay-thai-shorts-magma-green-blauw-geel-groen",
     "previous_price": 59.9
@@ -224054,7 +224054,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1927 Muay Thai Shorts - Magma 'Green - blauw/geel/groen",
     "size": "L",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1927-muay-thai-shorts-magma-green-blauw-geel-groen",
     "previous_price": 59.9
@@ -224064,7 +224064,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1927 Muay Thai Shorts - Magma 'Green - blauw/geel/groen",
     "size": "XL",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1927-muay-thai-shorts-magma-green-blauw-geel-groen",
     "previous_price": 59.9
@@ -224074,7 +224074,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1927 Muay Thai Shorts - Magma 'Green - blauw/geel/groen",
     "size": "XXL",
-    "price": 59.9,
+    "price": 65.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1927-muay-thai-shorts-magma-green-blauw-geel-groen",
     "previous_price": 59.9
@@ -224084,7 +224084,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1926 Muay Thai Shorts - Magma 'Red'",
     "size": "S",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1926-muay-thai-shorts-magma-red",
     "previous_price": 59.9
@@ -224094,7 +224094,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1926 Muay Thai Shorts - Magma 'Red'",
     "size": "M",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1926-muay-thai-shorts-magma-red",
     "previous_price": 59.9
@@ -224104,7 +224104,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1926 Muay Thai Shorts - Magma 'Red'",
     "size": "L",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1926-muay-thai-shorts-magma-red",
     "previous_price": 59.9
@@ -224114,7 +224114,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1926 Muay Thai Shorts - Magma 'Red'",
     "size": "XL",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1926-muay-thai-shorts-magma-red",
     "previous_price": 59.9
@@ -224124,7 +224124,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1926 Muay Thai Shorts - Magma 'Red'",
     "size": "XXL",
-    "price": 59.9,
+    "price": 65.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1926-muay-thai-shorts-magma-red",
     "previous_price": 59.9
@@ -224144,7 +224144,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1931 Muay Thai Shorts - Heart of Gold - zwart/goud",
     "size": "S",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1931-muay-thai-shorts-heart-of-gold-zwart-goud",
     "previous_price": 59.9
@@ -224154,7 +224154,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1931 Muay Thai Shorts - Heart of Gold - zwart/goud",
     "size": "M",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1931-muay-thai-shorts-heart-of-gold-zwart-goud",
     "previous_price": 59.9
@@ -224164,7 +224164,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1931 Muay Thai Shorts - Heart of Gold - zwart/goud",
     "size": "L",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1931-muay-thai-shorts-heart-of-gold-zwart-goud",
     "previous_price": 59.9
@@ -224174,7 +224174,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1931 Muay Thai Shorts - Heart of Gold - zwart/goud",
     "size": "XL",
-    "price": 59.9,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1931-muay-thai-shorts-heart-of-gold-zwart-goud",
     "previous_price": 59.9
@@ -224184,7 +224184,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BS1931 Muay Thai Shorts - Heart of Gold - zwart/goud",
     "size": "XXL",
-    "price": 59.9,
+    "price": 65.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1931-muay-thai-shorts-heart-of-gold-zwart-goud",
     "previous_price": 59.9
@@ -224194,7 +224194,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts voor Kinderen - Eternal Flame",
     "size": "6-8 jaar",
-    "price": 34.95,
+    "price": 34.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-voor-kinderen-eternal-flame",
     "previous_price": 34.95
@@ -224204,7 +224204,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts voor Kinderen - Eternal Flame",
     "size": "8-10 jaar",
-    "price": 34.95,
+    "price": 34.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-voor-kinderen-eternal-flame",
     "previous_price": 34.95
@@ -224284,7 +224284,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts voor Kinderen - Summer",
     "size": "6-8 jaar",
-    "price": 34.95,
+    "price": 34.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-voor-kinderen-summer",
     "previous_price": 34.95
@@ -224294,7 +224294,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Muay Thai Shorts voor Kinderen - Summer",
     "size": "8-10 jaar",
-    "price": 34.95,
+    "price": 34.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-voor-kinderen-summer",
     "previous_price": 34.95
@@ -226914,7 +226914,7 @@
     "brand": "Fairtex",
     "product": "Fairtex HG10 Super Sparring Hoofdbeschermer",
     "size": "M",
-    "price": 109.9,
+    "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-hg10-super-sparring-hoofdbeschermer",
     "previous_price": 109.9
@@ -226924,7 +226924,7 @@
     "brand": "Fairtex",
     "product": "Fairtex HG10 Super Sparring Hoofdbeschermer",
     "size": "L",
-    "price": 109.9,
+    "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-hg10-super-sparring-hoofdbeschermer",
     "previous_price": 109.9
@@ -226934,7 +226934,7 @@
     "brand": "Fairtex",
     "product": "Fairtex HG10 Super Sparring Hoofdbeschermer",
     "size": "XL",
-    "price": 109.9,
+    "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-hg10-super-sparring-hoofdbeschermer",
     "previous_price": 109.9
@@ -229214,7 +229214,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FGV15 Sparring Handschoenen Dubbele Pols Sluiting - Leer",
     "size": "S",
-    "price": 99.9,
+    "price": 95.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fgv15-sparring-handschoenen-dubbele-pols-sluiting-leer",
     "previous_price": 99.9
@@ -229224,7 +229224,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FGV15 Sparring Handschoenen Dubbele Pols Sluiting - Leer",
     "size": "M",
-    "price": 99.9,
+    "price": 95.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fgv15-sparring-handschoenen-dubbele-pols-sluiting-leer",
     "previous_price": 99.9
@@ -229234,7 +229234,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FGV15 Sparring Handschoenen Dubbele Pols Sluiting - Leer",
     "size": "L",
-    "price": 99.9,
+    "price": 95.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-fgv15-sparring-handschoenen-dubbele-pols-sluiting-leer",
     "previous_price": 99.9
@@ -229244,7 +229244,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FGV15 Sparring Handschoenen Dubbele Pols Sluiting - Leer",
     "size": "XL",
-    "price": 99.9,
+    "price": 95.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fgv15-sparring-handschoenen-dubbele-pols-sluiting-leer",
     "previous_price": 99.9
@@ -229324,7 +229324,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FGV17 Super Sparring Handschoenen",
     "size": "M",
-    "price": 69.95,
+    "price": 95.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fgv17-super-sparring-handschoenen",
     "previous_price": 69.95
@@ -229334,7 +229334,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FGV17 Super Sparring Handschoenen",
     "size": "L",
-    "price": 69.95,
+    "price": 95.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-fgv17-super-sparring-handschoenen",
     "previous_price": 69.95
@@ -229344,7 +229344,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FGV17 Super Sparring Handschoenen",
     "size": "XL",
-    "price": 69.95,
+    "price": 95.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fgv17-super-sparring-handschoenen",
     "previous_price": 69.95
@@ -229454,7 +229454,7 @@
     "brand": "ONE",
     "product": "ONE X Fairtex FGV12ONE Grappling Handschoenen - Leer - Zwart",
     "size": "S",
-    "price": 69.9,
+    "price": 85.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/one-x-fairtex-fgv12one-grappling-handschoenen-leer-zwart",
     "previous_price": 69.9
@@ -229464,7 +229464,7 @@
     "brand": "ONE",
     "product": "ONE X Fairtex FGV12ONE Grappling Handschoenen - Leer - Zwart",
     "size": "M",
-    "price": 69.9,
+    "price": 85.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/one-x-fairtex-fgv12one-grappling-handschoenen-leer-zwart",
     "previous_price": 69.9
@@ -229474,7 +229474,7 @@
     "brand": "ONE",
     "product": "ONE X Fairtex FGV12ONE Grappling Handschoenen - Leer - Zwart",
     "size": "L",
-    "price": 69.9,
+    "price": 85.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/one-x-fairtex-fgv12one-grappling-handschoenen-leer-zwart",
     "previous_price": 69.9
@@ -229484,7 +229484,7 @@
     "brand": "ONE",
     "product": "ONE X Fairtex FGV12ONE Grappling Handschoenen - Leer - Zwart",
     "size": "XL",
-    "price": 69.9,
+    "price": 85.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/one-x-fairtex-fgv12one-grappling-handschoenen-leer-zwart",
     "previous_price": 69.9
@@ -229545,7 +229545,7 @@
     "product": "Sanabul Essential 7 oz MMA Hybride Sparringhandschoenen - Zwart",
     "size": "L/XL",
     "price": 37.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/sanabul-essential-7-oz-mma-hybride-sparringhandschoenen-zwart",
     "previous_price": 37.95
   },
@@ -232574,7 +232574,7 @@
     "brand": "Fairtex",
     "product": "Fairtex - TST51 - Fight Team T-Shirt - Wit - opdruk Rood/Zwart/Blauw",
     "size": "S",
-    "price": 24.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fight-team-t-shirt-wit-opdruk-rood-zwart-blauw",
     "previous_price": 24.9
@@ -232584,7 +232584,7 @@
     "brand": "Fairtex",
     "product": "Fairtex - TST51 - Fight Team T-Shirt - Wit - opdruk Rood/Zwart/Blauw",
     "size": "M",
-    "price": 24.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fight-team-t-shirt-wit-opdruk-rood-zwart-blauw",
     "previous_price": 24.9
@@ -232594,7 +232594,7 @@
     "brand": "Fairtex",
     "product": "Fairtex - TST51 - Fight Team T-Shirt - Wit - opdruk Rood/Zwart/Blauw",
     "size": "L",
-    "price": 24.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fight-team-t-shirt-wit-opdruk-rood-zwart-blauw",
     "previous_price": 24.9
@@ -232604,7 +232604,7 @@
     "brand": "Fairtex",
     "product": "Fairtex - TST51 - Fight Team T-Shirt - Wit - opdruk Rood/Zwart/Blauw",
     "size": "XL",
-    "price": 24.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fight-team-t-shirt-wit-opdruk-rood-zwart-blauw",
     "previous_price": 24.9
@@ -232624,7 +232624,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Signature Tee - 4 way stretch - Zwart",
     "size": "S",
-    "price": 39.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-signature-tee-4-way-stretch-zwart",
     "previous_price": 39.9
@@ -232634,7 +232634,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Signature Tee - 4 way stretch - Zwart",
     "size": "M",
-    "price": 39.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-signature-tee-4-way-stretch-zwart",
     "previous_price": 39.9
@@ -232644,7 +232644,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Signature Tee - 4 way stretch - Zwart",
     "size": "L",
-    "price": 39.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-signature-tee-4-way-stretch-zwart",
     "previous_price": 39.9
@@ -232654,7 +232654,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Signature Tee - 4 way stretch - Zwart",
     "size": "XL",
-    "price": 39.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-signature-tee-4-way-stretch-zwart",
     "previous_price": 39.9
@@ -232664,7 +232664,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Signature Tee - 4 way stretch - Wit",
     "size": "S",
-    "price": 39.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-signature-tee-4-way-stretch-wit",
     "previous_price": 39.9
@@ -232674,7 +232674,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Signature Tee - 4 way stretch - Wit",
     "size": "M",
-    "price": 39.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-signature-tee-4-way-stretch-wit",
     "previous_price": 39.9
@@ -232684,7 +232684,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Signature Tee - 4 way stretch - Wit",
     "size": "L",
-    "price": 39.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-signature-tee-4-way-stretch-wit",
     "previous_price": 39.9
@@ -232694,7 +232694,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Signature Tee - 4 way stretch - Wit",
     "size": "XL",
-    "price": 39.9,
+    "price": 32.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-signature-tee-4-way-stretch-wit",
     "previous_price": 39.9
@@ -232704,7 +232704,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TST148 Logo T-Shirt - Zwart - opdruk Goud",
     "size": "S",
-    "price": 24.9,
+    "price": 29.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-tst148-logo-t-shirt-zwart-opdruk-goud",
     "previous_price": 24.9
@@ -232714,7 +232714,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TST148 Logo T-Shirt - Zwart - opdruk Goud",
     "size": "M",
-    "price": 24.9,
+    "price": 29.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-tst148-logo-t-shirt-zwart-opdruk-goud",
     "previous_price": 24.9
@@ -232724,7 +232724,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TST148 Logo T-Shirt - Zwart - opdruk Goud",
     "size": "L",
-    "price": 24.9,
+    "price": 29.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-tst148-logo-t-shirt-zwart-opdruk-goud",
     "previous_price": 24.9
@@ -232734,7 +232734,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TST148 Logo T-Shirt - Zwart - opdruk Goud",
     "size": "XL",
-    "price": 24.9,
+    "price": 29.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-tst148-logo-t-shirt-zwart-opdruk-goud",
     "previous_price": 24.9
@@ -232744,7 +232744,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TS7 Fairtex Script T-Shirt - Zwart - opdruk Wit",
     "size": "S",
-    "price": 24.9,
+    "price": 29.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-ts7-fairtex-script-t-shirt-zwart-opdruk-wit",
     "previous_price": 24.9
@@ -232754,7 +232754,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TS7 Fairtex Script T-Shirt - Zwart - opdruk Wit",
     "size": "M",
-    "price": 24.9,
+    "price": 29.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-ts7-fairtex-script-t-shirt-zwart-opdruk-wit",
     "previous_price": 24.9
@@ -232764,7 +232764,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TS7 Fairtex Script T-Shirt - Zwart - opdruk Wit",
     "size": "L",
-    "price": 24.9,
+    "price": 29.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-ts7-fairtex-script-t-shirt-zwart-opdruk-wit",
     "previous_price": 24.9
@@ -232774,7 +232774,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TS7 Fairtex Script T-Shirt - Zwart - opdruk Wit",
     "size": "XL",
-    "price": 24.9,
+    "price": 29.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-ts7-fairtex-script-t-shirt-zwart-opdruk-wit",
     "previous_price": 24.9
@@ -232814,7 +232814,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TST148 Logo T-Shirt - Zwart - opdruk Zilver",
     "size": "S",
-    "price": 24.9,
+    "price": 29.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-tst148-logo-t-shirt-zwart-opdruk-zilver",
     "previous_price": 24.9
@@ -232824,7 +232824,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TST148 Logo T-Shirt - Zwart - opdruk Zilver",
     "size": "M",
-    "price": 24.9,
+    "price": 29.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-tst148-logo-t-shirt-zwart-opdruk-zilver",
     "previous_price": 24.9
@@ -232834,7 +232834,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TST148 Logo T-Shirt - Zwart - opdruk Zilver",
     "size": "L",
-    "price": 24.9,
+    "price": 29.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-tst148-logo-t-shirt-zwart-opdruk-zilver",
     "previous_price": 24.9
@@ -232844,7 +232844,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TST148 Logo T-Shirt - Zwart - opdruk Zilver",
     "size": "XL",
-    "price": 24.9,
+    "price": 29.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-tst148-logo-t-shirt-zwart-opdruk-zilver",
     "previous_price": 24.9
@@ -233235,7 +233235,7 @@
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Wit / wijnrood",
     "size": "16 oz",
     "price": 174.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-wit-wijnrood",
     "previous_price": 174.95
   },
@@ -234864,7 +234864,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BAG2 Sporttas - Zwart",
     "size": "Default Title",
-    "price": 109.9,
+    "price": 95.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bag2-sporttas-zwart",
     "previous_price": 109.9
@@ -234894,7 +234894,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BAG4 Rugzak - Zwart",
     "size": "Default Title",
-    "price": 99.9,
+    "price": 80.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bag4-rugzak-zwart",
     "previous_price": 99.9
@@ -234904,7 +234904,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BAG4 Rugzak -  Camo groen",
     "size": "Default Title",
-    "price": 99.9,
+    "price": 80.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bag4-rugzak-camo-groen",
     "previous_price": 99.9
@@ -234914,7 +234914,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Enkelsteun - Blauw",
     "size": "Default Title",
-    "price": 28.9,
+    "price": 28.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-enkelsteun-blauw",
     "previous_price": 28.9
@@ -234924,7 +234924,7 @@
     "brand": "Fairtex",
     "product": "Fairtex KPLC4 Curved Kick Pads - Extra long",
     "size": "Default Title",
-    "price": 219.9,
+    "price": 195.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-kplc4-curved-kick-pads-extra-long",
     "previous_price": 219.9
@@ -234934,7 +234934,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FMV11 Aero Focus Mitts - Zwart/Wit",
     "size": "Default Title",
-    "price": 149.9,
+    "price": 170.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fmv11-aero-focus-mitts-zwart-wit",
     "previous_price": 149.9
@@ -234944,7 +234944,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Enkelsteun - Rood",
     "size": "Default Title",
-    "price": 28.9,
+    "price": 28.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-enkelsteun-rood",
     "previous_price": 28.9
@@ -234954,7 +234954,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FMV13 Maximized Focus Mitts - Blauw/Rood",
     "size": "Default Title",
-    "price": 169.9,
+    "price": 170.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fmv13-maximized-focus-mitts-blauw-rood",
     "previous_price": 169.9
@@ -234964,7 +234964,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FMV12 Angular Focus Mitts - Rood/Zwart",
     "size": "Default Title",
-    "price": 169.9,
+    "price": 170.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-fmv12-angular-focus-mitts-rood-zwart",
     "previous_price": 169.9
@@ -234974,7 +234974,7 @@
     "brand": "Fairtex",
     "product": "Fairtex HW2 Handwraps - Blauw",
     "size": "Default Title",
-    "price": 18.9,
+    "price": 17.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-hw2-handwraps-blauw",
     "previous_price": 18.9
@@ -234984,7 +234984,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Gel Mouthguard - Zwart",
     "size": "Default Title",
-    "price": 27.9,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-gel-mouthguard-zwart",
     "previous_price": 27.9
@@ -234994,7 +234994,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Gel Mouthguard - Wit",
     "size": "Default Title",
-    "price": 27.9,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-gel-mouthguard-wit",
     "previous_price": 27.9
@@ -235004,7 +235004,7 @@
     "brand": "Fairtex",
     "product": "Fairtex HW2 Handwraps - Mintgroen",
     "size": "Default Title",
-    "price": 18.9,
+    "price": 17.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-hw2-handwraps-mintgroen",
     "previous_price": 18.9
@@ -235014,7 +235014,7 @@
     "brand": "Fairtex",
     "product": "Fairtex HW2 Handwraps - Geel",
     "size": "Default Title",
-    "price": 18.9,
+    "price": 17.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-hw2-handwraps-geel",
     "previous_price": 18.9
@@ -235024,7 +235024,7 @@
     "brand": "Fairtex",
     "product": "Fairtex HW2 Handwraps - Rood",
     "size": "Default Title",
-    "price": 18.9,
+    "price": 17.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-handwraps-rood",
     "previous_price": 18.9
@@ -235034,7 +235034,7 @@
     "brand": "Fairtex",
     "product": "Fairtex HW2 Handwraps - Olijfgroen",
     "size": "Default Title",
-    "price": 18.9,
+    "price": 17.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-hw2-handwraps-olijfgroen",
     "previous_price": 18.9
@@ -235044,7 +235044,7 @@
     "brand": "Fairtex",
     "product": "Fairtex HB12 Angle Bag - 147 cm - Ongevuld - Zwart",
     "size": "Default Title",
-    "price": 169.99,
+    "price": 170.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-hb12-angle-bag-147-cm-ongevuld-zwart",
     "previous_price": 169.99
@@ -235054,7 +235054,7 @@
     "brand": "Fairtex",
     "product": "Fairtex HW2 Handwraps - Zwart",
     "size": "Default Title",
-    "price": 18.9,
+    "price": 17.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-handwraps-zwart",
     "previous_price": 18.9
@@ -235064,7 +235064,7 @@
     "brand": "Fairtex",
     "product": "Fairtex HB6PY Muay Thai Banana Bag Python Print - 180 cm - Ongevuld - Rood/Goud",
     "size": "Default Title",
-    "price": 159.99,
+    "price": 160.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-hb6py-muay-thai-banana-bag-python-print-180-cm-ongevuld-rood-goud",
     "previous_price": 159.99
@@ -235074,7 +235074,7 @@
     "brand": "Fairtex",
     "product": "Fairtex HB6PY Muay Thai Banana Bag Python Print - 180 cm - Ongevuld - Groen/Goud",
     "size": "Default Title",
-    "price": 159.99,
+    "price": 160.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-hb6py-muay-thai-banana-bag-python-print-180-cm-ongevuld-groen-goud",
     "previous_price": 159.99
@@ -235084,7 +235084,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BPV2 Lightweight Belly Pad (A.K.A. \"The Champion Belt\") - Rood",
     "size": "Default Title",
-    "price": 149.9,
+    "price": 150.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bpv2-lightweight-belly-pad-aka-the-champion-belt-rood",
     "previous_price": 149.9
@@ -235094,7 +235094,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BPV2 Lightweight Belly Pad (A.K.A. \"The Champion Belt\") - Blauw",
     "size": "Default Title",
-    "price": 149.9,
+    "price": 150.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bpv2-lightweight-belly-pad-aka-the-champion-belt-blauw",
     "previous_price": 149.9
@@ -235104,7 +235104,7 @@
     "brand": "Fairtex",
     "product": "Fairtex HB6TB Throwback Muay Thai Banana Bag - 180 cm - Ongevuld - Bruin",
     "size": "Default Title",
-    "price": 159.99,
+    "price": 160.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-hb6tb-throwback-muay-thai-banana-bag-180-cm-ongevuld-bruin",
     "previous_price": 159.99
@@ -235114,7 +235114,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BPV2 Lightweight Belly Pad (A.K.A. \"The Champion Belt\") - Zwart",
     "size": "Default Title",
-    "price": 149.9,
+    "price": 150.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bpv2-lightweight-belly-pad-aka-the-champion-belt-zwart",
     "previous_price": 149.9
@@ -235124,7 +235124,7 @@
     "brand": "Fairtex",
     "product": "Fairtex BPV2 Lightweight Belly Pad (A.K.A. \"The Champion Belt\") - Wit",
     "size": "Default Title",
-    "price": 149.9,
+    "price": 150.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bpv2-lightweight-belly-pad-aka-the-champion-belt-wit",
     "previous_price": 149.9
@@ -235134,7 +235134,7 @@
     "brand": "Fairtex",
     "product": "Fairtex HB6 Muay Thai Banana Bag - 180 cm - Ongevuld - Blauw",
     "size": "Default Title",
-    "price": 149.99,
+    "price": 165.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-hb6-muay-thai-banana-bag-180-cm-ongevuld-blauw",
     "previous_price": 149.99
@@ -235144,7 +235144,7 @@
     "brand": "Fairtex",
     "product": "Fairtex KPLC5 Microfiber Curved Kick Pads - Standard size",
     "size": "Default Title",
-    "price": 175.0,
+    "price": 199.9,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-microfiber-curved-kick-pads-standard-size",
     "previous_price": 175.0
@@ -235154,7 +235154,7 @@
     "brand": "Fairtex",
     "product": "Fairtex HB6 Muay Thai Banana Bag - 180 cm - Ongevuld - Groen",
     "size": "Default Title",
-    "price": 149.99,
+    "price": 165.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-hb6-muay-thai-banana-bag-180-cm-ongevuld-groen",
     "previous_price": 149.99
@@ -235164,7 +235164,7 @@
     "brand": "Fairtex",
     "product": "Fairtex HB6 Muay Thai Banana Bag - 180 cm - Ongevuld - Geel",
     "size": "Default Title",
-    "price": 149.99,
+    "price": 165.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-hb6-muay-thai-banana-bag-180-cm-ongevuld-geel",
     "previous_price": 149.99
@@ -235174,7 +235174,7 @@
     "brand": "Fairtex",
     "product": "Fairtex HB6 Muay Thai Banana Bag - 180 cm - Ongevuld - Zwart",
     "size": "Default Title",
-    "price": 149.99,
+    "price": 165.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-hb6-muay-thai-banana-bag-180-cm-ongevuld-zwart",
     "previous_price": 149.99
@@ -235184,7 +235184,7 @@
     "brand": "Fairtex",
     "product": "Fairtex HB6 Muay Thai Banana Bag - 180 cm - Ongevuld - Rood",
     "size": "Default Title",
-    "price": 149.99,
+    "price": 165.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-hb6-muay-thai-banana-bag-180-cm-ongevuld-rood",
     "previous_price": 149.99
@@ -235194,7 +235194,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TP3 - Thigh Pads - Blauw",
     "size": "Default Title",
-    "price": 289.9,
+    "price": 289.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-tp3-thigh-pads-blauw",
     "previous_price": 289.9
@@ -235204,7 +235204,7 @@
     "brand": "Fairtex",
     "product": "Fairtex KPLS2 Superior Curved Kicks Pads - Leer - zwart",
     "size": "Default Title",
-    "price": 279.9,
+    "price": 230.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-kpls2-superior-curved-kicks-pads-leer-zwart",
     "previous_price": 279.9
@@ -235214,7 +235214,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FMV15 Speed and Accuracy Focus Mitts",
     "size": "Default Title",
-    "price": 129.9,
+    "price": 120.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fmv15-speed-and-accuracy-focus-mitts",
     "previous_price": 129.9
@@ -235224,7 +235224,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TP3 - Thigh Pads - Zwart",
     "size": "Default Title",
-    "price": 289.9,
+    "price": 289.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-tp3-thigh-pads-zwart",
     "previous_price": 289.9
@@ -235234,7 +235234,7 @@
     "brand": "Fairtex",
     "product": "Fairtex TP3 - Thigh Pads - Rood",
     "size": "Default Title",
-    "price": 289.9,
+    "price": 289.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-tp3-thigh-pads-rood",
     "previous_price": 289.9
@@ -235244,7 +235244,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Trainer Vest - Zwart / Goud",
     "size": "Default Title",
-    "price": 329.9,
+    "price": 220.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-trainer-vest-zwart-goud",
     "previous_price": 329.9
@@ -235254,7 +235254,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Trainer Vest - Zwart / Blauw",
     "size": "Default Title",
-    "price": 329.9,
+    "price": 220.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-trainer-vest-zwart-blauw",
     "previous_price": 329.9
@@ -235264,7 +235264,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FMV9 Ultimate Contoured Focus Mitts - Zwart/Wit",
     "size": "Default Title",
-    "price": 129.0,
+    "price": 180.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fmv9-ultimate-contoured-focus-mitts-wit-zwart",
     "previous_price": 129.0
@@ -235274,7 +235274,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FMV9 Ultimate Contoured Focus Mitts - Wit/Rood",
     "size": "Default Title",
-    "price": 129.0,
+    "price": 180.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-fmv9-ultimate-contoured-focus-mitts-wit-rood",
     "previous_price": 129.0
@@ -235284,7 +235284,7 @@
     "brand": "Fairtex",
     "product": "Fairtex Trainer Vest - Zwart / Rood",
     "size": "Default Title",
-    "price": 329.9,
+    "price": 220.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-trainer-vest-zwart-rood",
     "previous_price": 329.9
@@ -235294,7 +235294,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FMV9 Ultimate Contoured Focus Mitts - Zwart/Rood",
     "size": "Default Title",
-    "price": 129.0,
+    "price": 180.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fmv9-ultimate-contoured-focus-mitts-zwart-rood",
     "previous_price": 129.0
@@ -235304,7 +235304,7 @@
     "brand": "Fairtex",
     "product": "Fairtex FMV9 Ultimate Contoured Focus Mitts - Zwart/Blauw",
     "size": "Default Title",
-    "price": 129.0,
+    "price": 180.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-fmv9-ultimate-contoured-focus-mitts-zwart-blauw",
     "previous_price": 129.0
@@ -236693,16 +236693,6 @@
     "shop": "OLB Sports",
     "brand": "Adidas",
     "product": "Adidas Bokshandschoenen Power 100 Black/Pink",
-    "size": "8oz",
-    "price": 39.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/adidas-bokshandschoenen-power-100-black-pink/",
-    "previous_price": 39.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Adidas",
-    "product": "Adidas Bokshandschoenen Power 100 Black/Pink",
     "size": "10oz",
     "price": 39.95,
     "in_stock": true,
@@ -236947,7 +236937,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-scheenbeschermers-t3-striking-black-gold/",
-    "previous_price": null
+    "previous_price": 169.0
   },
   {
     "shop": "OLB Sports",
@@ -236977,7 +236967,7 @@
     "price": 23.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-quick-gel-hand-wraps-black/",
-    "previous_price": null
+    "previous_price": 23.99
   },
   {
     "shop": "OLB Sports",
@@ -236997,7 +236987,7 @@
     "price": 23.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-quick-gel-hand-wraps-black/",
-    "previous_price": null
+    "previous_price": 23.99
   },
   {
     "shop": "OLB Sports",
@@ -237887,7 +237877,7 @@
     "price": 159.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-start-12-black/",
-    "previous_price": null
+    "previous_price": 159.95
   },
   {
     "shop": "OLB Sports",
@@ -238217,7 +238207,7 @@
     "price": 159.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoenen-rs-lu-1-black-grey/",
-    "previous_price": null
+    "previous_price": 159.95
   },
   {
     "shop": "OLB Sports",
@@ -238717,7 +238707,7 @@
     "price": 129.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoenen-war-black-red/",
-    "previous_price": null
+    "previous_price": 129.0
   },
   {
     "shop": "OLB Sports",
@@ -241282,16 +241272,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Twins",
-    "product": "Twins Special T-Shirt Tee 02 White",
-    "size": "xl",
-    "price": 49.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/twins-special-t-shirt-tee-02-white/",
-    "previous_price": 49.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Twins",
     "product": "Twins Special T-Shirt Tee 02 Black",
     "size": "m",
     "price": 49.95,
@@ -242493,6 +242473,16 @@
     "shop": "OLB Sports",
     "brand": "Venum",
     "product": "Venum Matupa Spats Black/Grey/Gold",
+    "size": "l",
+    "price": 54.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/venum-matupa-spats-black-grey-gold/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Venum",
+    "product": "Venum Matupa Spats Black/Grey/Gold",
     "size": "xl",
     "price": 54.99,
     "in_stock": true,
@@ -242523,6 +242513,16 @@
     "shop": "OLB Sports",
     "brand": "Venum",
     "product": "Venum Matupa Muay Thai Shorts Black/Grey/Gold",
+    "size": "xl",
+    "price": 69.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/venum-matupa-muay-thai-shorts-black-grey-gold/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Venum",
+    "product": "Venum Matupa Muay Thai Shorts Black/Grey/Gold",
     "size": "xxl",
     "price": 69.99,
     "in_stock": true,
@@ -242598,6 +242598,26 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-matupa-muay-thai-shorts-black-green-gold/",
     "previous_price": 69.99
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Venum",
+    "product": "Venum Matupa Fightshorts Black/Grey/Gold",
+    "size": "m",
+    "price": 74.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/venum-matupa-fightshorts-black-grey-gold/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Venum",
+    "product": "Venum Matupa Fightshorts Black/Grey/Gold",
+    "size": "l",
+    "price": 74.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/venum-matupa-fightshorts-black-grey-gold/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -244702,16 +244722,6 @@
   {
     "shop": "OLB Sports",
     "brand": "RAW",
-    "product": "RAW Nutrition CBUM Essential Pre-Workout Red White &#8216;N Bum",
-    "size": "One Size",
-    "price": 32.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/raw-nutrition-cbum-essential-pre-workout-red-white-n-bum/",
-    "previous_price": 32.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "RAW",
     "product": "RAW Nutrition CBUM Essential Performance Blue Rathberry",
     "size": "One Size",
     "price": 36.95,
@@ -245937,7 +245947,7 @@
     "price": 79.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-x-mike-tyson-tiger-sleeveless-hoodie-deep-black-intense-red/",
-    "previous_price": null
+    "previous_price": 79.95
   },
   {
     "shop": "OLB Sports",
@@ -246307,7 +246317,7 @@
     "price": 15.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/veer-voor-bokszak-12cm/",
-    "previous_price": null
+    "previous_price": 15.95
   },
   {
     "shop": "OLB Sports",
@@ -248323,16 +248333,6 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Gear Kickboksbroek Evolution Holographic Zwart/Zwart",
-    "size": "m",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-kickboksbroek-evolution-holographic-zwart-zwart/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Gear Kickboksbroek Evolution Holographic Zwart/Zwart",
     "size": "l",
     "price": 34.95,
     "in_stock": true,
@@ -248777,7 +248777,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-kickboksbroek-camo-v2-goud/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -250803,16 +250803,6 @@
     "shop": "OLB Sports",
     "brand": "1916",
     "product": "1916 Fight Gear Ultimate Shirt Wit",
-    "size": "s",
-    "price": 29.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/1916-fight-gear-ultimate-shirt-wit/",
-    "previous_price": 29.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "1916",
-    "product": "1916 Fight Gear Ultimate Shirt Wit",
     "size": "l",
     "price": 29.99,
     "in_stock": true,
@@ -251547,7 +251537,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-butterfly-goud/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -251577,7 +251567,7 @@
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-kickboksbroek-butterfly-goud/",
-    "previous_price": null
+    "previous_price": 29.95
   },
   {
     "shop": "OLB Sports",
@@ -251617,7 +251607,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-bokshandschoen-butterfly-goud/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -251647,7 +251637,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-bokshandschoen-butterfly-goud/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -255647,7 +255637,7 @@
     "price": 149.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bgl-1-v3-bokshandschoen-zwart-rood/",
-    "previous_price": null
+    "previous_price": 149.95
   },
   {
     "shop": "OLB Sports",
@@ -255657,7 +255647,7 @@
     "price": 149.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bgl-1-v3-bokshandschoen-zwart-rood/",
-    "previous_price": null
+    "previous_price": 149.95
   },
   {
     "shop": "OLB Sports",
@@ -255987,7 +255977,7 @@
     "price": 119.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-scheenbeschermers-kpb-sg-spartan-1-zwart/",
-    "previous_price": null
+    "previous_price": 119.99
   },
   {
     "shop": "OLB Sports",
@@ -258567,7 +258557,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-dragon-pu-wit/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -259017,7 +259007,7 @@
     "price": 24.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-shirt-camo-v2-roze/",
-    "previous_price": null
+    "previous_price": 24.95
   },
   {
     "shop": "OLB Sports",
@@ -259037,7 +259027,7 @@
     "price": 24.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-shirt-camo-v2-roze/",
-    "previous_price": null
+    "previous_price": 24.95
   },
   {
     "shop": "OLB Sports",
@@ -259602,16 +259592,6 @@
   {
     "shop": "OLB Sports",
     "brand": "XXL",
-    "product": "XXL Nutrition Whey Isolate Zero Banaan",
-    "size": "One Size",
-    "price": 49.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolate-zero-banaan/",
-    "previous_price": 49.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "XXL",
     "product": "XXL Nutrition Whey Isolate Zero Aardbei",
     "size": "One Size",
     "price": 49.99,
@@ -259627,7 +259607,7 @@
     "price": 24.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-shirt-camo-v2-goud/",
-    "previous_price": null
+    "previous_price": 24.95
   },
   {
     "shop": "OLB Sports",
@@ -259637,7 +259617,7 @@
     "price": 24.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-shirt-camo-v2-goud/",
-    "previous_price": null
+    "previous_price": 24.95
   },
   {
     "shop": "OLB Sports",
@@ -259647,7 +259627,7 @@
     "price": 24.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-shirt-camo-v2-goud/",
-    "previous_price": null
+    "previous_price": 24.95
   },
   {
     "shop": "OLB Sports",
@@ -259667,7 +259647,7 @@
     "price": 24.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-shirt-camo-v2-blauw/",
-    "previous_price": null
+    "previous_price": 24.95
   },
   {
     "shop": "OLB Sports",
@@ -259877,7 +259857,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-sporttas-camo-v2-goud/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -259894,16 +259874,6 @@
     "brand": "Joya",
     "product": "Joya Scheenbeschermer Camo V2 Roze",
     "size": "xs",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-scheenbeschermer-camo-v2-roze/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Scheenbeschermer Camo V2 Roze",
-    "size": "m",
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermer-camo-v2-roze/",
@@ -260187,7 +260157,7 @@
     "price": 43.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-bokshandschoen-camo-v2-blauw/",
-    "previous_price": null
+    "previous_price": 43.95
   },
   {
     "shop": "OLB Sports",
@@ -260274,16 +260244,6 @@
     "brand": "Joya",
     "product": "Joya Kickboksbroek Camo V2 Roze",
     "size": "s",
-    "price": 39.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-kickboksbroek-camo-v2-roze/",
-    "previous_price": 39.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Kickboksbroek Camo V2 Roze",
-    "size": "m",
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-kickboksbroek-camo-v2-roze/",
@@ -261357,7 +261317,7 @@
     "price": 159.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-black/",
-    "previous_price": null
+    "previous_price": 159.95
   },
   {
     "shop": "OLB Sports",
@@ -261367,7 +261327,7 @@
     "price": 159.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-black/",
-    "previous_price": null
+    "previous_price": 159.95
   },
   {
     "shop": "OLB Sports",
@@ -261377,7 +261337,7 @@
     "price": 159.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-black/",
-    "previous_price": null
+    "previous_price": 159.95
   },
   {
     "shop": "OLB Sports",
@@ -262807,7 +262767,7 @@
     "price": 9.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-bandage-zwart/",
-    "previous_price": null
+    "previous_price": 9.99
   },
   {
     "shop": "OLB Sports",
@@ -263178,16 +263138,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/lmx-speed-rope-pro/",
     "previous_price": 24.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "XXL",
-    "product": "XXL Nutrition Delicious Banaan 1kg",
-    "size": "One Size",
-    "price": 37.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/xxl-nutrition-deliciousi-banaan-1kg/",
-    "previous_price": 37.99
   },
   {
     "shop": "OLB Sports",
@@ -264037,7 +263987,7 @@
     "price": 159.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-zwart-blauw/",
-    "previous_price": null
+    "previous_price": 159.95
   },
   {
     "shop": "OLB Sports",
@@ -264067,7 +264017,7 @@
     "price": 159.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-wit-goud/",
-    "previous_price": null
+    "previous_price": 159.95
   },
   {
     "shop": "OLB Sports",
@@ -264137,7 +264087,7 @@
     "price": 159.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-zwart-neon/",
-    "previous_price": null
+    "previous_price": 159.95
   },
   {
     "shop": "OLB Sports",
@@ -264147,7 +264097,7 @@
     "price": 159.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-zwart-neon/",
-    "previous_price": null
+    "previous_price": 159.95
   },
   {
     "shop": "OLB Sports",
@@ -264177,7 +264127,7 @@
     "price": 159.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-zwart-grijs/",
-    "previous_price": null
+    "previous_price": 159.95
   },
   {
     "shop": "OLB Sports",
@@ -264187,7 +264137,7 @@
     "price": 159.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-zwart-grijs/",
-    "previous_price": null
+    "previous_price": 159.95
   },
   {
     "shop": "OLB Sports",
@@ -264422,16 +264372,6 @@
   {
     "shop": "OLB Sports",
     "brand": "XXL",
-    "product": "XXL Nutrition Weight Gainer Chocolade 2.5kg",
-    "size": "One Size",
-    "price": 36.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/xxl-nutrition-weight-gainer-chocolade/",
-    "previous_price": 36.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "XXL",
     "product": "XXL Nutrition Weight Gainer Banaan 2.5kg",
     "size": "One Size",
     "price": 36.99,
@@ -264477,7 +264417,7 @@
     "price": 149.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-pro-bgl-v3-dark-side/",
-    "previous_price": null
+    "previous_price": 149.95
   },
   {
     "shop": "OLB Sports",
@@ -265428,6 +265368,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/boost-hoofdbeschermer-bhg-2-zwart/",
     "previous_price": 109.0
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Recon Sporttas Zwart/Wit",
+    "size": "One Size",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-recon-sporttas-zwart-wit/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -266917,7 +266867,7 @@
     "price": 119.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bsg-v3-scheenbeschermer-zwart/",
-    "previous_price": null
+    "previous_price": 119.95
   },
   {
     "shop": "OLB Sports",
@@ -266947,7 +266897,7 @@
     "price": 149.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bgl-1-v3-bokshandschoen-zilver/",
-    "previous_price": null
+    "previous_price": 149.95
   },
   {
     "shop": "OLB Sports",
@@ -266957,7 +266907,7 @@
     "price": 149.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bgl-1-v3-bokshandschoen-zilver/",
-    "previous_price": null
+    "previous_price": 149.95
   },
   {
     "shop": "OLB Sports",
