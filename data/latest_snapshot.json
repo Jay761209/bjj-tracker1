@@ -1555,7 +1555,7 @@
     "product": "Ground Force Basic Gi V3 - White",
     "size": "A3L",
     "price": 80.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-basic-gi-v3-white",
     "previous_price": 80.0
   },
@@ -59325,7 +59325,7 @@
     "product": "Yokkao Scheenbeschermers Matrix Tiffany",
     "size": "M",
     "price": 139.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fightstyle.nl/products/yokkao-scheenbeschermers-matrix-tiffany",
     "previous_price": 139.95
   },
@@ -90265,7 +90265,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "L / XS",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -90285,7 +90285,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "L / M",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -90305,7 +90305,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "L / XL",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -90315,7 +90315,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "L / 2XL",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -90325,7 +90325,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "L / 3XL",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -93495,7 +93495,7 @@
     "product": "Topo Rash Guard",
     "size": "L / Green",
     "price": 49.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/topo-rash-guard",
     "previous_price": 49.99
   },
@@ -96405,7 +96405,7 @@
     "product": "Women's No-Gi Bundle",
     "size": "XS / Short Sleeve / XS",
     "price": 80.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/womens-no-gi-bundle",
     "previous_price": 80.99
   },
@@ -96425,7 +96425,7 @@
     "product": "Women's No-Gi Bundle",
     "size": "XS / Short Sleeve / M",
     "price": 80.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/womens-no-gi-bundle",
     "previous_price": 80.99
   },
@@ -96435,7 +96435,7 @@
     "product": "Women's No-Gi Bundle",
     "size": "XS / Short Sleeve / L",
     "price": 80.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/womens-no-gi-bundle",
     "previous_price": 80.99
   },
@@ -97955,7 +97955,7 @@
     "product": "Red Alert No-Gi Bundle",
     "size": "XS / Small",
     "price": 79.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/red-alert-no-gi-bundle",
     "previous_price": 79.99
   },
@@ -98025,7 +98025,7 @@
     "product": "Red Alert No-Gi Bundle",
     "size": "S / Small",
     "price": 79.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/red-alert-no-gi-bundle",
     "previous_price": 79.99
   },
@@ -98095,7 +98095,7 @@
     "product": "Red Alert No-Gi Bundle",
     "size": "M / Small",
     "price": 79.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/red-alert-no-gi-bundle",
     "previous_price": 79.99
   },
@@ -98165,7 +98165,7 @@
     "product": "Red Alert No-Gi Bundle",
     "size": "L / Small",
     "price": 79.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/red-alert-no-gi-bundle",
     "previous_price": 79.99
   },
@@ -98235,7 +98235,7 @@
     "product": "Red Alert No-Gi Bundle",
     "size": "XL / Small",
     "price": 79.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/red-alert-no-gi-bundle",
     "previous_price": 79.99
   },
@@ -98305,7 +98305,7 @@
     "product": "Red Alert No-Gi Bundle",
     "size": "XXL / Small",
     "price": 79.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/red-alert-no-gi-bundle",
     "previous_price": 79.99
   },
@@ -98375,7 +98375,7 @@
     "product": "Red Alert No-Gi Bundle",
     "size": "XXXL / Small",
     "price": 79.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/red-alert-no-gi-bundle",
     "previous_price": 79.99
   },
@@ -106525,7 +106525,7 @@
     "product": "AirFlex Shorts",
     "size": "Small / Black",
     "price": 46.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/airflex-shorts",
     "previous_price": 46.99
   },
@@ -106995,7 +106995,7 @@
     "product": "Women's Foundation Rash Guard",
     "size": "XS / Black / Short Sleeve",
     "price": 42.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/womens-foundation-rash-guard",
     "previous_price": 42.99
   },
@@ -114845,7 +114845,7 @@
     "product": "Kingz Jiu Jitsu Motion Men's Tee",
     "size": "Peach / XL",
     "price": 30.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/jiu-jitsu-motion-tee",
     "previous_price": 30.0
   },
@@ -117185,7 +117185,7 @@
     "product": "Kingz Classic 3.0 Men's BJJ Gi - Blue",
     "size": "A2L",
     "price": 110.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/classic-2-0-jiu-jitsu-gi-blue",
     "previous_price": 110.0
   },
@@ -130815,7 +130815,7 @@
     "product": "Kingz The ONE V2 Men's BJJ Gi - White",
     "size": "A3 / White",
     "price": 105.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-the-one-v2-jiu-jitsu-gi",
     "previous_price": 105.0
   },
@@ -135685,7 +135685,7 @@
     "product": "Classic 3.0 Jiu Jitsu Gi - Military Green",
     "size": "A1 / Military Green",
     "price": 85.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/classic-3-0-jiu-jitsu-gi-military-green",
     "previous_price": 85.0
   },
@@ -144215,7 +144215,7 @@
     "product": "FIAS Combat Sambo Shorts Red",
     "size": "M",
     "price": 29.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/fias-combat-sambo-shorts-red",
     "previous_price": 29.95
   },
@@ -149225,7 +149225,7 @@
     "product": "Baseline 2.0 Short Sleeve Rashguard Black",
     "size": "2XL",
     "price": 49.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/baseline-2-0-short-sleeve-rashguard-black",
     "previous_price": 49.95
   },
@@ -171535,7 +171535,7 @@
     "product": "Royce Gracie Academy Flex Lite Shorts",
     "size": "XL",
     "price": 58.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-academy-flex-lite-shorts",
     "previous_price": 58.0
   },
@@ -211265,7 +211265,7 @@
     "product": "Elemental BJJ Gi White",
     "size": "A2",
     "price": 149.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/fuji-elemental-bjj-gi-white",
     "previous_price": 149.95
   },
@@ -212105,7 +212105,7 @@
     "product": "Double Weave Judo Gi White",
     "size": "3.5",
     "price": 119.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/fuji-sports-double-weave-judo-gi",
     "previous_price": 119.95
   },
@@ -213138,6 +213138,86 @@
     "in_stock": false,
     "url": "https://fujisports.com/products/fuji-sports-bjj-white-belt-youth",
     "previous_price": 14.95
+  },
+  {
+    "shop": "Kickboxing-shop.nl",
+    "brand": "Twins Special",
+    "product": "Twins Special BGVL 3 AIR Bokshandschoenen - Echt Leer - Zwart",
+    "size": "10 oz",
+    "price": 174.95,
+    "in_stock": false,
+    "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart",
+    "previous_price": null
+  },
+  {
+    "shop": "Kickboxing-shop.nl",
+    "brand": "Twins Special",
+    "product": "Twins Special BGVL 3 AIR Bokshandschoenen - Echt Leer - Zwart",
+    "size": "12 oz",
+    "price": 174.95,
+    "in_stock": false,
+    "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart",
+    "previous_price": null
+  },
+  {
+    "shop": "Kickboxing-shop.nl",
+    "brand": "Twins Special",
+    "product": "Twins Special BGVL 3 AIR Bokshandschoenen - Echt Leer - Zwart",
+    "size": "14 oz",
+    "price": 174.95,
+    "in_stock": false,
+    "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart",
+    "previous_price": null
+  },
+  {
+    "shop": "Kickboxing-shop.nl",
+    "brand": "Twins Special",
+    "product": "Twins Special BGVL 3 AIR Bokshandschoenen - Echt Leer - Zwart",
+    "size": "16 oz",
+    "price": 174.95,
+    "in_stock": false,
+    "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart",
+    "previous_price": null
+  },
+  {
+    "shop": "Kickboxing-shop.nl",
+    "brand": "Twins Special",
+    "product": "Twins Special BGVL 3 AIR Bokshandschoenen - Echt Leer - Zwart/Wit",
+    "size": "10 oz",
+    "price": 174.95,
+    "in_stock": false,
+    "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart-wit",
+    "previous_price": null
+  },
+  {
+    "shop": "Kickboxing-shop.nl",
+    "brand": "Twins Special",
+    "product": "Twins Special BGVL 3 AIR Bokshandschoenen - Echt Leer - Zwart/Wit",
+    "size": "12 oz",
+    "price": 174.95,
+    "in_stock": false,
+    "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart-wit",
+    "previous_price": null
+  },
+  {
+    "shop": "Kickboxing-shop.nl",
+    "brand": "Twins Special",
+    "product": "Twins Special BGVL 3 AIR Bokshandschoenen - Echt Leer - Zwart/Wit",
+    "size": "14 oz",
+    "price": 174.95,
+    "in_stock": false,
+    "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart-wit",
+    "previous_price": null
+  },
+  {
+    "shop": "Kickboxing-shop.nl",
+    "brand": "Twins Special",
+    "product": "Twins Special BGVL 3 AIR Bokshandschoenen - Echt Leer - Zwart/Wit",
+    "size": "16 oz",
+    "price": 174.95,
+    "in_stock": false,
+    "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart-wit",
+    "previous_price": null
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -215745,7 +215825,7 @@
     "product": "Fairtex Muay Thai Shorts - BS1948 Grunge White - Wit / Zwart",
     "size": "M",
     "price": 59.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1948-grunge-white-wit-zwart",
     "previous_price": 59.95
   },
@@ -216065,7 +216145,7 @@
     "product": "Booster Bokshandschoenen - Bangkok Series 5 - Zwart / Zwart",
     "size": "10 oz",
     "price": 64.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bokshandschoenen-bangkok-series-5-zwart-zwart",
     "previous_price": 64.95
   },
@@ -228695,7 +228775,7 @@
     "product": "Flow Fightgear Premium Kruisbeschermer - Heren - Zwart",
     "size": "XL",
     "price": 24.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/flow-fightgear-premium-kruisbeschermer-heren-zwart",
     "previous_price": 24.95
   },
@@ -232025,7 +232105,7 @@
     "product": "Sanabul Sticker Bomb Bokshandschoenen voor kinderen - Dino Jungle",
     "size": "8 oz",
     "price": 30.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/sanabul-sticker-bomb-bokshandschoenen-voor-kinderen-dino-jungle",
     "previous_price": 30.0
   },
@@ -233615,7 +233695,7 @@
     "product": "Twins Special SGL 7 Scheenbeschermers - Zwart",
     "size": "M",
     "price": 132.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-zwart",
     "previous_price": 132.0
   },
@@ -236947,7 +237027,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-scheenbeschermers-t3-striking-black-gold/",
-    "previous_price": null
+    "previous_price": 169.0
   },
   {
     "shop": "OLB Sports",
@@ -237067,7 +237147,7 @@
     "price": 27.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-elite-quick-wraps-black/",
-    "previous_price": null
+    "previous_price": 27.99
   },
   {
     "shop": "OLB Sports",
@@ -237077,7 +237157,7 @@
     "price": 27.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-elite-quick-wraps-black/",
-    "previous_price": null
+    "previous_price": 27.99
   },
   {
     "shop": "OLB Sports",
@@ -237087,7 +237167,7 @@
     "price": 27.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-elite-quick-wraps-black/",
-    "previous_price": null
+    "previous_price": 27.99
   },
   {
     "shop": "OLB Sports",
@@ -237097,7 +237177,7 @@
     "price": 27.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-elite-quick-wraps-black/",
-    "previous_price": null
+    "previous_price": 27.99
   },
   {
     "shop": "OLB Sports",
@@ -237137,7 +237217,7 @@
     "price": 219.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-kanpeki-black/",
-    "previous_price": null
+    "previous_price": 219.0
   },
   {
     "shop": "OLB Sports",
@@ -237157,7 +237237,7 @@
     "price": 179.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-black-gold/",
-    "previous_price": null
+    "previous_price": 179.0
   },
   {
     "shop": "OLB Sports",
@@ -239817,7 +239897,7 @@
     "price": 14.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/nuvo-clean-sport-fresh-white-musk-150ml-white/",
-    "previous_price": 16.5
+    "previous_price": 14.99
   },
   {
     "shop": "OLB Sports",
@@ -239837,7 +239917,7 @@
     "price": 14.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/nuvo-clean-sport-fresh-pine-150ml-green/",
-    "previous_price": 16.5
+    "previous_price": 14.99
   },
   {
     "shop": "OLB Sports",
@@ -239847,7 +239927,7 @@
     "price": 14.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/nuvo-clean-sport-fresh-cottonfresh-150ml-pink/",
-    "previous_price": 16.5
+    "previous_price": 14.99
   },
   {
     "shop": "OLB Sports",
@@ -242337,7 +242417,7 @@
     "price": 14.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/nuvo-clean-sport-fresh-mint-150ml/",
-    "previous_price": 16.5
+    "previous_price": 14.99
   },
   {
     "shop": "OLB Sports",
@@ -245298,16 +245378,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-bokshandschoen-challenger-2-5-black-white/",
     "previous_price": 59.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Muay Thai Kickboksbroek Classic Zwart/Goud",
-    "size": "xl",
-    "price": 41.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-muay-thai-kickboksbroek-classic-zwart-goud/",
-    "previous_price": 41.99
   },
   {
     "shop": "OLB Sports",
@@ -259763,16 +259833,6 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Scheenbeschermer Camo V2 Zwart",
-    "size": "m",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-scheenbeschermer-camo-v2-zwart/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Scheenbeschermer Camo V2 Zwart",
     "size": "xxs",
     "price": 34.95,
     "in_stock": true,
@@ -260084,16 +260144,6 @@
     "brand": "Joya",
     "product": "Joya Kickboksbroek Camo V2 Zwart",
     "size": "xs",
-    "price": 39.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-kickboksbroek-camo-v2-zwart/",
-    "previous_price": 39.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Kickboksbroek Camo V2 Zwart",
-    "size": "s",
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-kickboksbroek-camo-v2-zwart/",
@@ -264411,16 +264461,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Junior Kickboksbroek Dragon Goud",
-    "size": "m",
-    "price": 29.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-junior-kickboksbroek-dragon-goud/",
-    "previous_price": 29.95
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Platinum 3 Groen",
     "size": "12oz",
@@ -266438,16 +266478,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-bandage-zwart-2/",
     "previous_price": 9.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Bandage Black",
-    "size": "One Size",
-    "price": 9.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-bandage-zwart-4m/",
-    "previous_price": 9.95
   },
   {
     "shop": "OLB Sports",
