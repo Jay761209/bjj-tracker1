@@ -3485,7 +3485,7 @@
     "product": "Fuji Sports womens Baseline 2.0 BJJ GI - White Navy",
     "size": "W3",
     "price": 98.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/fuji-sports-womens-baseline-2-0-bjj-gi-white-navy",
     "previous_price": 98.95
   },
@@ -20545,7 +20545,7 @@
     "product": "SISU GO Mouthguard",
     "size": "Blue",
     "price": 13.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/sisu-go-mouthguard",
     "previous_price": 13.0
   },
@@ -23535,7 +23535,7 @@
     "product": "Kingz JJ Dept Hoodie- Navy",
     "size": "L",
     "price": 55.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kingz-jj-dept-hoodie-gris",
     "previous_price": 55.0
   },
@@ -23625,7 +23625,7 @@
     "product": "Kingz Gentle Art Hoodie- Negro",
     "size": "M",
     "price": 55.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kingz-gentle-art-hoodie-negro",
     "previous_price": 55.0
   },
@@ -23835,7 +23835,7 @@
     "product": "Kimono BJJ (Gi) Moya Brand Mohi Koa- negro",
     "size": "A2",
     "price": 209.9,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-mohi-koa-negro",
     "previous_price": 209.9
   },
@@ -34145,7 +34145,7 @@
     "product": "Kimono BJJ (Gi) Kingz Kore V2- Azul- Con cinturón blanco incluido",
     "size": "A3L",
     "price": 85.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-kingz-kore-v2-azul-2024-edition",
     "previous_price": 85.0
   },
@@ -35625,7 +35625,7 @@
     "product": "Rashguard Moya 24 Manga Larga - Azul",
     "size": "M",
     "price": 59.9,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-moya-24-manga-larga-azul",
     "previous_price": 59.9
   },
@@ -40465,7 +40465,7 @@
     "product": "Rashguard Team Moya 23 Manga Corta - Marrón",
     "size": "M",
     "price": 54.9,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-team-moya-23-manga-corta-marron",
     "previous_price": 54.9
   },
@@ -97595,7 +97595,7 @@
     "product": "For The Journey T-Shirt",
     "size": "Heather Olive / 2XL",
     "price": 29.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/for-the-journey-shirt",
     "previous_price": 29.99
   },
@@ -106523,6 +106523,16 @@
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
     "product": "AirFlex Shorts",
+    "size": "X-Small / Gold",
+    "price": 46.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/airflex-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "AirFlex Shorts",
     "size": "Small / Black",
     "price": 46.99,
     "in_stock": false,
@@ -106568,6 +106578,16 @@
     "in_stock": true,
     "url": "https://goldbjj.com/products/airflex-shorts",
     "previous_price": 46.99
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "AirFlex Shorts",
+    "size": "Small / Gold",
+    "price": 46.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/airflex-shorts",
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
@@ -106623,6 +106643,16 @@
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
     "product": "AirFlex Shorts",
+    "size": "Medium / Gold",
+    "price": 46.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/airflex-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "AirFlex Shorts",
     "size": "Large / Black",
     "price": 46.99,
     "in_stock": true,
@@ -106668,6 +106698,16 @@
     "in_stock": false,
     "url": "https://goldbjj.com/products/airflex-shorts",
     "previous_price": 46.99
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "AirFlex Shorts",
+    "size": "Large / Gold",
+    "price": 46.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/airflex-shorts",
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
@@ -106723,6 +106763,16 @@
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
     "product": "AirFlex Shorts",
+    "size": "X-Large / Gold",
+    "price": 46.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/airflex-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "AirFlex Shorts",
     "size": "XX-Large / Black",
     "price": 46.99,
     "in_stock": true,
@@ -106773,6 +106823,16 @@
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
     "product": "AirFlex Shorts",
+    "size": "XX-Large / Gold",
+    "price": 46.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/airflex-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "AirFlex Shorts",
     "size": "XXX-Large / Black",
     "price": 46.99,
     "in_stock": true,
@@ -106818,6 +106878,16 @@
     "in_stock": true,
     "url": "https://goldbjj.com/products/airflex-shorts",
     "previous_price": 46.99
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "AirFlex Shorts",
+    "size": "XXX-Large / Gold",
+    "price": 46.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/airflex-shorts",
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
@@ -114745,7 +114815,7 @@
     "product": "Kingz Jiu Jitsu Squad V2 Men's Tee",
     "size": "Black / XS",
     "price": 30.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/jiu-jits-squad-v2-tee",
     "previous_price": 30.0
   },
@@ -115215,7 +115285,7 @@
     "product": "Kingz Kore V2 Men's Tee",
     "size": "Brown / XXL",
     "price": 30.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-v2-tee",
     "previous_price": 30.0
   },
@@ -117615,7 +117685,7 @@
     "product": "Kingz Nano 3.0 Terra Limited Edition Women's BJJ Gi",
     "size": "Black / F0",
     "price": 120.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-nano-3-0-terra-limited-edition-womens-jiu-jitsu-gi",
     "previous_price": 120.0
   },
@@ -123135,7 +123205,7 @@
     "product": "Kingz Nano 3.0 Terra Limited Edition Men's BJJ Gi",
     "size": "A3L / Black",
     "price": 120.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/nano-3-0-terra-limited-edition-jiu-jitsu-gi",
     "previous_price": 120.0
   },
@@ -136275,7 +136345,7 @@
     "product": "Kingz Gold Label V2 Youth BJJ Belt - Solid Color",
     "size": "M4 / Yellow",
     "price": 15.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gold-label-v2-kids-belt-solid-color",
     "previous_price": 15.0
   },
@@ -156445,7 +156515,7 @@
     "product": "Womens Rilion Gracie Suparaito BJJ Gi Black",
     "size": "W0",
     "price": 205.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/womens-rilion-gracie-suparaito-bjj-gi-black",
     "previous_price": 205.0
   },
@@ -156455,7 +156525,7 @@
     "product": "Womens Rilion Gracie Suparaito BJJ Gi Black",
     "size": "W1",
     "price": 205.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/womens-rilion-gracie-suparaito-bjj-gi-black",
     "previous_price": 205.0
   },
@@ -161815,7 +161885,7 @@
     "product": "Renzo Gracie BJJ Belt Brown",
     "size": "A3",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/renzo-gracie-bjj-belt-brown",
     "previous_price": 16.5
   },
@@ -161925,7 +161995,7 @@
     "product": "Kids Renzo Gracie Ultra Lite BJJ Gi Black",
     "size": "C00",
     "price": 110.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/kids-renzo-gracie-ultra-lite-bjj-gi-black",
     "previous_price": 110.0
   },
@@ -161935,7 +162005,7 @@
     "product": "Kids Renzo Gracie Ultra Lite BJJ Gi Black",
     "size": "C0",
     "price": 110.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/kids-renzo-gracie-ultra-lite-bjj-gi-black",
     "previous_price": 110.0
   },
@@ -167965,7 +168035,7 @@
     "product": "Alliance Competition BJJ Gi White",
     "size": "A3H",
     "price": 189.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/alliance-competition-bjj-gi-white",
     "previous_price": 189.0
   },
@@ -168095,7 +168165,7 @@
     "product": "Alliance Competition BJJ Gi Black",
     "size": "A3L",
     "price": 189.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/alliance-competition-bjj-gi-black",
     "previous_price": 189.0
   },
@@ -168105,7 +168175,7 @@
     "product": "Alliance Competition BJJ Gi Black",
     "size": "A4",
     "price": 189.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/alliance-competition-bjj-gi-black",
     "previous_price": 189.0
   },
@@ -168145,7 +168215,7 @@
     "product": "Womens Alliance Competition BJJ Gi Black",
     "size": "W1",
     "price": 189.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/womens-alliance-competition-bjj-gi-black",
     "previous_price": 189.0
   },
@@ -168205,7 +168275,7 @@
     "product": "Kids Alliance Competition BJJ Gi Black",
     "size": "C2",
     "price": 165.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/kids-alliance-competition-bjj-gi-black",
     "previous_price": 165.0
   },
@@ -169545,7 +169615,7 @@
     "product": "Renzo Gracie Competition BJJ Gi White",
     "size": "A2",
     "price": 189.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/renzo-gracie-competition-bjj-gi-white",
     "previous_price": 189.0
   },
@@ -169565,7 +169635,7 @@
     "product": "Renzo Gracie Competition BJJ Gi White",
     "size": "A2L",
     "price": 189.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/renzo-gracie-competition-bjj-gi-white",
     "previous_price": 189.0
   },
@@ -172275,7 +172345,7 @@
     "product": "Kids Six Blades Short Sleeve Rashguard White",
     "size": "YM",
     "price": 55.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/kids-six-blades-short-sleeve-rashguard-white",
     "previous_price": 55.0
   },
@@ -172775,7 +172845,7 @@
     "product": "Kids Six Blades Association BJJ Gi White",
     "size": "C000",
     "price": 109.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/kids-six-blades-association-bjj-gi-white",
     "previous_price": 109.0
   },
@@ -173185,7 +173255,7 @@
     "product": "Six Blades Association BJJ Gi White",
     "size": "A0",
     "price": 135.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/six-blades-association-bjj-gi-white",
     "previous_price": 135.0
   },
@@ -183405,7 +183475,7 @@
     "product": "Kids FUJI x Alliance BJJ Belt Orange/White",
     "size": "C4",
     "price": 16.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/kids-fuji-x-alliance-bjj-belt-orange-white",
     "previous_price": 16.0
   },
@@ -183915,7 +183985,7 @@
     "product": "FUJI x Alliance 30th Anniversary Short Sleeve T-Shirt Black",
     "size": "2XL",
     "price": 30.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-short-sleeve-t-shirt",
     "previous_price": 30.0
   },
@@ -184275,7 +184345,7 @@
     "product": "FUJI x Alliance Standard BJJ Gi Black",
     "size": "A0",
     "price": 152.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/fuji-x-alliance-standard-bjj-gi-black",
     "previous_price": 152.0
   },
@@ -184345,7 +184415,7 @@
     "product": "FUJI x Alliance Standard BJJ Gi Black",
     "size": "A3H",
     "price": 152.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/fuji-x-alliance-standard-bjj-gi-black",
     "previous_price": 152.0
   },
@@ -185235,7 +185305,7 @@
     "product": "FUJI x Alliance Standard BJJ Gi White",
     "size": "A0",
     "price": 152.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/fuji-x-alliance-standard-bjj-gi-white",
     "previous_price": 152.0
   },
@@ -185655,7 +185725,7 @@
     "product": "Renzo Gracie V3 Superlite Gi White",
     "size": "A0",
     "price": 185.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/renzo-gracie-v3-competition-gi-white",
     "previous_price": 185.0
   },
@@ -188135,7 +188205,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "2.5",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -188255,7 +188325,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "2.5",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -188265,7 +188335,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "3",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -188275,7 +188345,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "3.5",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -189535,7 +189605,7 @@
     "product": "SBG CAP Black T-Shirt - Adult & Youth",
     "size": "YS / Black",
     "price": 29.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/copy-of-sbg-cap-black-t-shirt-adult-youth",
     "previous_price": 29.99
   },
@@ -191395,7 +191465,7 @@
     "product": "BJJ Revolution Super lite Gi (Blue,Black)",
     "size": "A3 / Blue",
     "price": 175.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/bjj-revolution-superlite-gi",
     "previous_price": 175.0
   },
@@ -195265,7 +195335,7 @@
     "product": "Rilion Gracie Team Gi Blue",
     "size": "A2",
     "price": 191.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/rilion-gracie-team-gi-blue",
     "previous_price": 191.0
   },
@@ -195305,7 +195375,7 @@
     "product": "Rilion Gracie Team Gi Blue",
     "size": "A4",
     "price": 191.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/rilion-gracie-team-gi-blue",
     "previous_price": 191.0
   },
@@ -196625,7 +196695,7 @@
     "product": "Royce Gracie Collegiate Black Zip Up Hoodie",
     "size": "M",
     "price": 49.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-zip-up-hoodie",
     "previous_price": 49.0
   },
@@ -207805,7 +207875,7 @@
     "product": "Orange/Green Judo Belt",
     "size": "0",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/orange-green-judo-belt",
     "previous_price": 14.95
   },
@@ -210665,7 +210735,7 @@
     "product": "SBG Super Lite Gi",
     "size": "A4 / White",
     "price": 178.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/sbg-super-lite-competition-gi",
     "previous_price": 178.0
   },
@@ -211665,7 +211735,7 @@
     "product": "Renzo Gracie White BJJ Belt",
     "size": "A1",
     "price": 16.5,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/renzo-gracie-white-bjj-belt",
     "previous_price": 16.5
   },
@@ -211725,7 +211795,7 @@
     "product": "Renzo Gracie White Kids Belt",
     "size": "C00",
     "price": 16.5,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/renzo-gracie-white-kids-belt",
     "previous_price": 16.5
   },
@@ -211735,7 +211805,7 @@
     "product": "Renzo Gracie White Kids Belt",
     "size": "C0",
     "price": 16.5,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/renzo-gracie-white-kids-belt",
     "previous_price": 16.5
   },
@@ -213147,7 +213217,7 @@
     "price": 174.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart",
-    "previous_price": null
+    "previous_price": 174.95
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -213157,7 +213227,7 @@
     "price": 174.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart",
-    "previous_price": null
+    "previous_price": 174.95
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -213167,7 +213237,7 @@
     "price": 174.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart",
-    "previous_price": null
+    "previous_price": 174.95
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -213177,7 +213247,7 @@
     "price": 174.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart",
-    "previous_price": null
+    "previous_price": 174.95
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -213187,7 +213257,7 @@
     "price": 174.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart-wit",
-    "previous_price": null
+    "previous_price": 174.95
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -213197,7 +213267,7 @@
     "price": 174.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart-wit",
-    "previous_price": null
+    "previous_price": 174.95
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -213207,7 +213277,7 @@
     "price": 174.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart-wit",
-    "previous_price": null
+    "previous_price": 174.95
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -213217,7 +213287,7 @@
     "price": 174.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart-wit",
-    "previous_price": null
+    "previous_price": 174.95
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -214445,7 +214515,7 @@
     "product": "Fairtex X Booster Scheenbeschermers - FXB SG - Wit/Goud",
     "size": "L",
     "price": 124.94,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-x-fairtex-scheenbeschermers-fxb-sg-wit-goud",
     "previous_price": 124.94
   },
@@ -215415,7 +215485,7 @@
     "product": "Fairtex X Booster Bokshandschoenen - FXB BG V2 - Echt leer - Beige/Donkerrood",
     "size": "16 oz",
     "price": 169.94,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-x-fairtex-bokshandschoenen-bg-v2-echt-leer-beige-donkerrood",
     "previous_price": 169.94
   },
@@ -223405,7 +223475,7 @@
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Wit",
     "size": "L",
     "price": 109.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-wit",
     "previous_price": 109.0
   },
@@ -227865,7 +227935,7 @@
     "product": "King Pro Boxing Bokshandschoenen - Revo 5 - Olijfgroen",
     "size": "10 oz",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/king-pro-boxing-bokshandschoenen-revo-olijfgroen",
     "previous_price": 69.95
   },
@@ -237338,16 +237408,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-special-armpads-pml-23-black-grey/",
     "previous_price": 264.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Twins",
-    "product": "Twins Special Handpads PML 21 Black/Grey",
-    "size": "One Size",
-    "price": 259.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/twins-special-handpads-pml-21-black-grey/",
-    "previous_price": 259.95
   },
   {
     "shop": "OLB Sports",
@@ -253252,16 +253312,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Twins",
-    "product": "Twins X Booster Kickboksbroek TBT 8 Wit/Rood",
-    "size": "xl",
-    "price": 64.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/twins-x-booster-kickboksbroek-tbt-8-wit-rood/",
-    "previous_price": 64.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Twins",
     "product": "Twins X Booster Kickboksbroek TBT 9 Wit/Blauw",
     "size": "m",
     "price": 64.95,
@@ -253284,16 +253334,6 @@
     "brand": "Twins",
     "product": "Twins X Booster Kickboksbroek TBT 9 Wit/Blauw",
     "size": "xl",
-    "price": 64.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/twins-x-booster-kickboksbroek-tbt-9-wit-blauw/",
-    "previous_price": 64.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Twins",
-    "product": "Twins X Booster Kickboksbroek TBT 9 Wit/Blauw",
-    "size": "xxl",
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-x-booster-kickboksbroek-tbt-9-wit-blauw/",
@@ -253994,16 +254034,6 @@
     "brand": "King",
     "product": "King Scheenbeschermers KPB/SG Spartan 3 Zwart/Goud",
     "size": "l",
-    "price": 119.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/king-scheenbeschermers-kpb-sg-spartan-3-zwart-goud/",
-    "previous_price": 119.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "King",
-    "product": "King Scheenbeschermers KPB/SG Spartan 3 Zwart/Goud",
-    "size": "s",
     "price": 119.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-scheenbeschermers-kpb-sg-spartan-3-zwart-goud/",
@@ -264382,16 +264412,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Joya",
-    "product": "Joya Junior Kickboksbroek Dragon Wit",
-    "size": "m",
-    "price": 29.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-junior-kickboksbroek-dragon-wit/",
-    "previous_price": 29.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
     "product": "Joya Junior Kickboksbroek Dragon Roze",
     "size": "xxs",
     "price": 29.95,
@@ -266834,16 +266854,6 @@
     "brand": "Joya",
     "product": "Joya Enkelkousje Zwart",
     "size": "s",
-    "price": 9.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-enkelkousje-zwart/",
-    "previous_price": 9.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Enkelkousje Zwart",
-    "size": "m",
     "price": 9.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-enkelkousje-zwart/",
