@@ -5465,7 +5465,7 @@
     "product": "RollPro Essential BJJ Gi",
     "size": "A2 / Black",
     "price": 62.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/rollpro-essential-bjj-gi",
     "previous_price": 62.5
   },
@@ -17955,7 +17955,7 @@
     "product": "FUJI Sports Single Weave Judo Gi",
     "size": "4 / White",
     "price": 79.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/fuji-sports-single-weave-judo-gi",
     "previous_price": 79.95
   },
@@ -20575,7 +20575,7 @@
     "product": "SISU Max Mouthguard",
     "size": "Blue",
     "price": 33.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/sisu-max-mouthguard",
     "previous_price": 33.0
   },
@@ -23278,6 +23278,106 @@
     "in_stock": true,
     "url": "https://bjjfightgear.com/products/defense-soap-bar",
     "previous_price": 7.95
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Kyubi Blue",
+    "size": "XS",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-blue",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Kyubi Blue",
+    "size": "S",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-blue",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Kyubi Blue",
+    "size": "M",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-blue",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Kyubi Blue",
+    "size": "L",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-blue",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Kyubi Blue",
+    "size": "XL",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-blue",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Kyubi White",
+    "size": "XS",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-white",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Kyubi White",
+    "size": "S",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-white",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Kyubi White",
+    "size": "M",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-white",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Kyubi White",
+    "size": "L",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-white",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Kyubi White",
+    "size": "XL",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-white",
+    "previous_price": null
   },
   {
     "shop": "StockBJJ",
@@ -27937,7 +28037,7 @@
     "price": 44.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-angel-devil",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -27947,7 +28047,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-angel-devil",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -27957,7 +28057,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-angel-devil",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -27967,7 +28067,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-angel-devil",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -27977,7 +28077,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-angel-devil",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -27987,7 +28087,7 @@
     "price": 44.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-purple",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -27997,7 +28097,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-purple",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28007,7 +28107,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-purple",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28017,7 +28117,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-purple",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28027,7 +28127,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-purple",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28037,7 +28137,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-black",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28047,7 +28147,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-black",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28057,7 +28157,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-black",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28067,7 +28167,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-black",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28077,7 +28177,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-black",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28087,7 +28187,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-samurai",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28097,7 +28197,7 @@
     "price": 44.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-samurai",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28107,7 +28207,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-samurai",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28117,7 +28217,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-samurai",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28127,7 +28227,7 @@
     "price": 44.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-samurai",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28137,7 +28237,7 @@
     "price": 44.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-millenium-white",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28147,7 +28247,7 @@
     "price": 44.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-millenium-white",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28157,7 +28257,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-millenium-white",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28167,7 +28267,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-millenium-white",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28177,7 +28277,7 @@
     "price": 44.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-millenium-white",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28187,7 +28287,7 @@
     "price": 44.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-millenium-black-pink",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28197,7 +28297,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-millenium-black-pink",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28207,7 +28307,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-millenium-black-pink",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28217,7 +28317,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-millenium-black-pink",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -28227,7 +28327,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-millenium-black-pink",
-    "previous_price": 42.0
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -37167,7 +37267,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-bushido-manga-larga-blanco",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -37177,7 +37277,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-bushido-manga-larga-blanco",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -37187,7 +37287,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-bushido-manga-larga-blanco",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -37197,7 +37297,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-bushido-manga-larga-blanco",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -37207,7 +37307,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-bushido-manga-larga-blanco",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -37217,7 +37317,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-bushido-manga-larga-negro",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -37227,7 +37327,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-bushido-manga-larga-negro",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -37237,7 +37337,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-bushido-manga-larga-negro",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -37247,7 +37347,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-bushido-manga-larga-negro",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -37257,7 +37357,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-bushido-manga-larga-negro",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -37267,7 +37367,7 @@
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/try-hard-bushido-manga-corta-blanco",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -37277,7 +37377,7 @@
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/try-hard-bushido-manga-corta-blanco",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -37287,7 +37387,7 @@
     "price": 38.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/try-hard-bushido-manga-corta-blanco",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -37297,7 +37397,7 @@
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/try-hard-bushido-manga-corta-blanco",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -37307,7 +37407,7 @@
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/try-hard-bushido-manga-corta-blanco",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -37317,7 +37417,7 @@
     "price": 38.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/try-hard-bushido-manga-corta-negro",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -37327,7 +37427,7 @@
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/try-hard-bushido-manga-corta-negro",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -37337,7 +37437,7 @@
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/try-hard-bushido-manga-corta-negro",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -37347,7 +37447,7 @@
     "price": 38.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/try-hard-bushido-manga-corta-negro",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -37357,7 +37457,7 @@
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/try-hard-bushido-manga-corta-negro",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -37827,7 +37927,7 @@
     "price": 38.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-relentless-manga-corta-negro",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -37837,7 +37937,7 @@
     "price": 38.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-relentless-manga-corta-negro",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -37847,7 +37947,7 @@
     "price": 38.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-relentless-manga-corta-negro",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -37857,7 +37957,7 @@
     "price": 38.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-relentless-manga-corta-negro",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -37867,7 +37967,7 @@
     "price": 38.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-relentless-manga-corta-negro",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -37947,7 +38047,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-relentless-manga-larga-negro",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -37957,7 +38057,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-relentless-manga-larga-negro",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -37967,7 +38067,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-relentless-manga-larga-negro",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -37977,7 +38077,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-relentless-manga-larga-negro",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -37987,7 +38087,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-relentless-manga-larga-negro",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -38057,7 +38157,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-kids-try-hard-manga-larga-negro",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -38067,7 +38167,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-kids-try-hard-manga-larga-negro",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -38077,7 +38177,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-kids-try-hard-manga-larga-negro",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -38087,7 +38187,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-kids-try-hard-manga-larga-negro",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -38097,7 +38197,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-kids-try-hard-manga-larga-negro",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -38107,7 +38207,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-kids-try-hard-manga-larga-negro",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -38887,7 +38987,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-marron-1",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -38897,7 +38997,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-marron-1",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -38907,7 +39007,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-marron-1",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -38917,7 +39017,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-marron-1",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -38927,7 +39027,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-marron-1",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -38937,7 +39037,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-morado",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -38947,7 +39047,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-morado",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -38957,7 +39057,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-morado",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -38967,7 +39067,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-morado",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -38977,7 +39077,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-morado",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -38987,7 +39087,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-azul",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -38997,7 +39097,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-azul",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -39007,7 +39107,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-azul",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -39017,7 +39117,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-azul",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -39027,7 +39127,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-azul",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -39037,7 +39137,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-blanco",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -39047,7 +39147,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-blanco",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -39057,7 +39157,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-blanco",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -39067,7 +39167,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-blanco",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -39077,27 +39177,27 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-blanco",
+    "previous_price": 40.0
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "Rashguard Try Hard Manga Corta- Marrón",
+    "size": "XS",
+    "price": 38.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-marron",
     "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
     "brand": "Try Hard",
     "product": "Rashguard Try Hard Manga Corta- Marrón",
-    "size": "XS",
-    "price": 38.0,
-    "in_stock": true,
-    "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-marron",
-    "previous_price": 36.0
-  },
-  {
-    "shop": "StockBJJ",
-    "brand": "Try Hard",
-    "product": "Rashguard Try Hard Manga Corta- Marrón",
     "size": "S",
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-marron",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39107,7 +39207,7 @@
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-marron",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39117,7 +39217,7 @@
     "price": 38.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-marron",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39127,7 +39227,7 @@
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-marron",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39137,7 +39237,7 @@
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-morado",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39147,7 +39247,7 @@
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-morado",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39157,7 +39257,7 @@
     "price": 38.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-morado",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39167,7 +39267,7 @@
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-morado",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39177,7 +39277,7 @@
     "price": 38.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-morado",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39187,7 +39287,7 @@
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-azul",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39197,7 +39297,7 @@
     "price": 38.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-azul",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39207,7 +39307,7 @@
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-azul",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39217,7 +39317,7 @@
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-azul",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39227,7 +39327,7 @@
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-azul",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39237,7 +39337,7 @@
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-blanco",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39247,7 +39347,7 @@
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-blanco",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39257,7 +39357,7 @@
     "price": 38.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-blanco",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39267,7 +39367,7 @@
     "price": 38.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-blanco",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39277,7 +39377,7 @@
     "price": 38.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-blanco",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39867,7 +39967,7 @@
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-negro",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39877,7 +39977,7 @@
     "price": 38.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-negro",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39887,7 +39987,7 @@
     "price": 38.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-negro",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39897,7 +39997,7 @@
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-negro",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39907,7 +40007,7 @@
     "price": 38.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-negro",
-    "previous_price": 36.0
+    "previous_price": 38.0
   },
   {
     "shop": "StockBJJ",
@@ -39917,7 +40017,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-negro",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -39927,7 +40027,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-negro",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -39937,7 +40037,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-negro",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -39947,7 +40047,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-negro",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -39957,7 +40057,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-larga-negro",
-    "previous_price": 38.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -58335,7 +58435,7 @@
     "product": "Arrhichion Shorts",
     "size": "L",
     "price": 54.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-shorts",
     "previous_price": 54.99
   },
@@ -58405,7 +58505,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "XS / L",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -58475,7 +58575,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "S / L",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -58545,7 +58645,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "M / L",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -58615,7 +58715,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "L / L",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -58685,7 +58785,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "XL / L",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -58755,7 +58855,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "2XL / L",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -58825,7 +58925,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "3XL / L",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -84465,7 +84565,7 @@
     "product": "Kingz Jiu Jitsu Motion Men's Tee",
     "size": "Black / M",
     "price": 30.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/jiu-jitsu-motion-tee",
     "previous_price": 30.0
   },
@@ -91255,7 +91355,7 @@
     "product": "Kingz Gold Label V2 Youth BJJ Belt - Black Stripe",
     "size": "M4 / Grey/Black",
     "price": 14.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gold-label-v2-kids-belt-black-stripe",
     "previous_price": 14.0
   },
@@ -100235,7 +100335,7 @@
     "product": "Kingz The ONE V2 Men's BJJ Gi - Blue",
     "size": "A1L / Blue",
     "price": 105.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-the-one-v2-jiu-jitsu-gi-blue",
     "previous_price": 105.0
   },
@@ -119065,7 +119165,7 @@
     "product": "Ippon Gear Black Belt",
     "size": "4.5 - 280cm",
     "price": 45.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-legend-ijf-black-belt",
     "previous_price": 45.95
   },
@@ -150355,7 +150455,7 @@
     "product": "Furry Beast Keychains",
     "size": "Panda",
     "price": 7.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/fuji-furry-beast-keychains",
     "previous_price": 7.95
   },
@@ -161675,7 +161775,7 @@
     "product": "BRAZIL 021 Ranked Rashguard",
     "size": "S / White",
     "price": 57.2,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/brazil-021-ranked-rashguard",
     "previous_price": 57.2
   },
@@ -183155,7 +183255,7 @@
     "product": "Twins Special SGL 7 Scheenbeschermers - Donkerblauw",
     "size": "L",
     "price": 132.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-donkerblauw",
     "previous_price": 132.0
   },
@@ -184015,7 +184115,7 @@
     "product": "Fairtex X Booster Bokshandschoenen - FXB BG V2 - Echt leer - Wit/Zwart/Goud",
     "size": "16 oz",
     "price": 169.94,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-x-fairtex-bokshandschoenen-bg-v2-echt-leer-wit-zwart-goud",
     "previous_price": 169.94
   },
@@ -186355,7 +186455,7 @@
     "product": "Fairtex X Booster Scheenbeschermers - FXB SG - Zwart/Grijs",
     "size": "L",
     "price": 124.94,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-x-fairtex-scheenbeschermers-fxb-sg-zwart-grijs",
     "previous_price": 124.94
   },
@@ -186945,7 +187045,7 @@
     "product": "Booster Elleboogbeschermer B Force EKP - Zwart",
     "size": "L",
     "price": 29.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-elleboogbeschermer-b-force-bkp-zwart",
     "previous_price": 29.95
   },
@@ -187035,7 +187135,7 @@
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Bruin",
     "size": "16 oz",
     "price": 174.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-bokshandschoenen-echt-leer-bruin",
     "previous_price": 174.95
   },
@@ -188085,7 +188185,7 @@
     "product": "Twins Special BGVL 8 Bokshandschoenen - Echt Leer - Zwart / Grijs",
     "size": "12 oz",
     "price": 179.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-8-bokshandschoenen-echt-leer-zwart-grijs",
     "previous_price": 179.95
   },
@@ -189125,7 +189225,7 @@
     "product": "Sanabul Essential Lichtgewicht Braziliaanse Jiu Jitsu Gi - Voorgekrompen katoen - IBJJF goedgekeurd - Wit",
     "size": "A2",
     "price": 87.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/sanabul-essential-lichtgewicht-braziliaanse-jiu-jitsu-gi-voorgekrompen-katoen-ibjjf-goedgekeurd-wit",
     "previous_price": 87.95
   },
@@ -189325,7 +189425,7 @@
     "product": "Flow Progress Bokshandschoenen - Zwart runderleer",
     "size": "12 oz",
     "price": 54.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/flow-progress-bokshandschoenen-meerlaags-schuim-zwart-runderleer",
     "previous_price": 54.95
   },
@@ -190605,7 +190705,7 @@
     "product": "Booster Pro Range BGL V9 Bokshandschoenen - Echt Leer - zwart/blauw",
     "size": "12 oz",
     "price": 159.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v9-bokshandschoenen-echt-leer-zwart-blauw",
     "previous_price": 159.95
   },
@@ -192205,7 +192305,7 @@
     "product": "Fairtex BGV14PT Microfiber Bokshandschoenen - Art Collections - Painter - Wit",
     "size": "14 oz",
     "price": 135.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14pt-microfiber-bokshandschoenen-art-collections-painter-wit",
     "previous_price": 135.0
   },
@@ -193875,7 +193975,7 @@
     "product": "Fairtex Muay Thai Shorts voor Kinderen - Eternal Flame",
     "size": "6-8 jaar",
     "price": 34.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-voor-kinderen-eternal-flame",
     "previous_price": 34.99
   },
@@ -196695,7 +196795,7 @@
     "product": "Twins Special HGS 3 Hoofdbeschermer - Zwart",
     "size": "L",
     "price": 118.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-hoofdbeschermer-hgl-3-zwart",
     "previous_price": 118.0
   },
@@ -198375,7 +198475,7 @@
     "product": "Flow Fightgear Premium Kruisbeschermer - Heren - Zwart",
     "size": "XL",
     "price": 24.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/flow-fightgear-premium-kruisbeschermer-heren-zwart",
     "previous_price": 24.95
   },
@@ -199225,7 +199325,7 @@
     "product": "Sanabul Essential 7 oz MMA Hybride Sparringhandschoenen - Zwart",
     "size": "L/XL",
     "price": 37.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/sanabul-essential-7-oz-mma-hybride-sparringhandschoenen-zwart",
     "previous_price": 37.95
   },
@@ -199415,7 +199515,7 @@
     "product": "Sanabul Battle Forged MMA 7 oz Handschoenen - Zwart",
     "size": "L/XL",
     "price": 27.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/sanabul-battle-forged-mma-7-oz-handschoenen-zwart",
     "previous_price": 27.5
   },
@@ -201515,7 +201615,7 @@
     "product": "Sanabul Essential Gel Bokshandschoenen - Zwart",
     "size": "16 oz",
     "price": 33.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/sanabul-essential-gel-bokshandschoenen-zwart",
     "previous_price": 33.95
   },
@@ -202655,7 +202755,7 @@
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Grijs",
     "size": "16 oz",
     "price": 174.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-grijs",
     "previous_price": 174.95
   },
@@ -203115,7 +203215,7 @@
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Zwart / wijnrood",
     "size": "14 oz",
     "price": 174.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-zwart-wijnrood",
     "previous_price": 174.95
   },
@@ -203175,7 +203275,7 @@
     "product": "Twins Special BGVL 8 Bokshandschoenen - Echt Leer - Wit / Grijs",
     "size": "12 oz",
     "price": 179.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-8-bokshandschoenen-echt-leer-wit-grijs",
     "previous_price": 179.95
   },
@@ -203265,7 +203365,7 @@
     "product": "Twins Special SGL 7 Scheenbeschermers - Maroon",
     "size": "L",
     "price": 132.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-maroon",
     "previous_price": 132.0
   },
@@ -205588,6 +205688,126 @@
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/sanabul-sticker-bomb-bokshandschoenen-voor-kinderen-manga-action",
     "previous_price": 30.0
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "King",
+    "product": "King Shadow 2 Ladies T-Shirt Black/Lime",
+    "size": "s",
+    "price": 39.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/king-shadow-2-ladies-t-shirt-black-lime/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "King",
+    "product": "King Shadow 2 Ladies T-Shirt Black/Lime",
+    "size": "m",
+    "price": 39.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/king-shadow-2-ladies-t-shirt-black-lime/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "King",
+    "product": "King Shadow 2 Ladies T-Shirt Black/Lime",
+    "size": "l",
+    "price": 39.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/king-shadow-2-ladies-t-shirt-black-lime/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "King",
+    "product": "King Shadow 1 Ladies T-Shirt Black/Grey",
+    "size": "s",
+    "price": 39.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/king-shadow-1-ladies-t-shirt-black-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "King",
+    "product": "King Shadow 1 Ladies T-Shirt Black/Grey",
+    "size": "m",
+    "price": 39.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/king-shadow-1-ladies-t-shirt-black-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "King",
+    "product": "King Shadow 1 Ladies T-Shirt Black/Grey",
+    "size": "l",
+    "price": 39.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/king-shadow-1-ladies-t-shirt-black-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "King",
+    "product": "King Shadow 2 ladies Top Black/Lime",
+    "size": "s",
+    "price": 39.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/king-shadow-2-ladies-top-black-lime/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "King",
+    "product": "King Shadow 2 ladies Top Black/Lime",
+    "size": "m",
+    "price": 39.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/king-shadow-2-ladies-top-black-lime/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "King",
+    "product": "King Shadow 2 ladies Top Black/Lime",
+    "size": "l",
+    "price": 39.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/king-shadow-2-ladies-top-black-lime/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "King",
+    "product": "King Shadow 1 ladies Top Black/Grey",
+    "size": "s",
+    "price": 39.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/king-shadow-1-ladies-top-black-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "King",
+    "product": "King Shadow 1 ladies Top Black/Grey",
+    "size": "m",
+    "price": 39.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/king-shadow-1-ladies-top-black-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "King",
+    "product": "King Shadow 1 ladies Top Black/Grey",
+    "size": "l",
+    "price": 39.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/king-shadow-1-ladies-top-black-grey/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -210423,16 +210643,6 @@
     "shop": "OLB Sports",
     "brand": "Adidas",
     "product": "Adidas Boksschoenen Box Hog Classic Black/White",
-    "size": "40",
-    "price": 74.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-classic-black-white/",
-    "previous_price": 74.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Adidas",
-    "product": "Adidas Boksschoenen Box Hog Classic Black/White",
     "size": "41-1-3",
     "price": 74.95,
     "in_stock": true,
@@ -212223,18 +212433,8 @@
     "shop": "OLB Sports",
     "brand": "Adidas",
     "product": "Adidas Sporttas 2 In 1 PU Black/White",
-    "size": "m",
-    "price": 79.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/adidas-sporttas-2-in-1-pu-black-white/",
-    "previous_price": 79.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Adidas",
-    "product": "Adidas Sporttas 2 In 1 PU Black/White",
     "size": "l",
-    "price": 79.95,
+    "price": 84.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-sporttas-2-in-1-pu-black-white/",
     "previous_price": 79.95
@@ -214637,16 +214837,6 @@
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-lazer-tank-top-black-grey/",
-    "previous_price": 54.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Lazer Hybrid Training Shorts Black/Grey",
-    "size": "s",
-    "price": 54.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-lazer-hybrid-training-shorts-black-grey/",
     "previous_price": 54.99
   },
   {
@@ -220192,16 +220382,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Venum",
-    "product": "Venum Muay Thai Short Giant Dark Purple",
-    "size": "m",
-    "price": 49.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-muay-thai-short-giant-dark-purple/",
-    "previous_price": 49.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
     "product": "Venum Spats Rapid Black/Storm Grey",
     "size": "m",
     "price": 39.99,
@@ -221852,16 +222032,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Joya",
-    "product": "Joya Scheenbeschermers Butterfly Goud",
-    "size": "m",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-scheenbeschermers-butterfly-goud/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
     "product": "Joya Kickboksbroek Butterfly Goud",
     "size": "xxs",
     "price": 29.95,
@@ -221884,16 +222054,6 @@
     "brand": "Joya",
     "product": "Joya Kickboksbroek Butterfly Goud",
     "size": "s",
-    "price": 29.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-kickboksbroek-butterfly-goud/",
-    "previous_price": 29.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Kickboksbroek Butterfly Goud",
-    "size": "m",
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-kickboksbroek-butterfly-goud/",
@@ -222278,16 +222438,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-speed-mitts-pads-ultimate-black/",
     "previous_price": 119.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "King",
-    "product": "King Pro Boxing Kickboksbroek Hanya Gold",
-    "size": "m",
-    "price": 39.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/king-pro-boxing-kickboksbroek-hanya-gold/",
-    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -225088,6 +225238,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-scheenbeschermer-kpb-sg-revo-5-green/",
     "previous_price": 69.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Rival",
+    "product": "Rival Bokshandschoen RS100 Wit/Goud",
+    "size": "16oz",
+    "price": 279.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/rival-bokshandschoen-rs100-wit-goud/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -229871,16 +230031,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "Booster",
-    "product": "Booster Sporttas B-Force Duffle Large Rood",
-    "size": "One Size",
-    "price": 57.0,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/booster-sporttas-b-force-duffle-large-rood/",
-    "previous_price": 57.0
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "Bokszak",
     "product": "Bokszak Ketting Met Karabijnhaken",
     "size": "One Size",
@@ -233291,16 +233441,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "XXL",
-    "product": "XXL Nutrition Whey Delicious Vanille 450gr",
-    "size": "One Size",
-    "price": 19.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/xxl-nutrition-whey-delicious-vanille-450gr/",
-    "previous_price": 19.99
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "Crossmaxx®",
     "product": "Crossmaxx® Resistance Band Level 4",
     "size": "One Size",
@@ -234367,16 +234507,6 @@
     "price": 36.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-weight-gainer-strawberry/",
-    "previous_price": 36.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "XXL",
-    "product": "XXL Nutrition Weight Gainer Banaan 2.5kg",
-    "size": "One Size",
-    "price": 36.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/xxl-nutrition-weight-gainer-banaan/",
     "previous_price": 36.99
   },
   {
@@ -236364,16 +236494,6 @@
     "brand": "Matsuru",
     "product": "Matsuru Judobroek",
     "size": "170cm",
-    "price": 22.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/matsuru-judobroek/",
-    "previous_price": 22.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Matsuru",
-    "product": "Matsuru Judobroek",
-    "size": "180cm",
     "price": 22.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/matsuru-judobroek/",
