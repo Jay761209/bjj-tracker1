@@ -2375,7 +2375,7 @@
     "product": "RollPro BJJ Belt",
     "size": "Brown / A3",
     "price": 12.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/rollpro-bjj-belt",
     "previous_price": 12.5
   },
@@ -12265,7 +12265,7 @@
     "product": "Kingz Ultralight 2.0 Jiu Jitsu GI",
     "size": "Black / A1",
     "price": 146.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/kingz-ultralight-2-0-jiu-jitsu-gi",
     "previous_price": 146.0
   },
@@ -16675,7 +16675,7 @@
     "product": "Ground Force Rank Rashguard Short Sleeve",
     "size": "XXL / Purple",
     "price": 47.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-rank-rashguard-short-sleeve",
     "previous_price": 47.0
   },
@@ -22315,7 +22315,7 @@
     "product": "Fuji BJJ Belt",
     "size": "A6 / White",
     "price": 18.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/fuji-bjj-belt",
     "previous_price": 18.0
   },
@@ -23282,12 +23282,442 @@
   {
     "shop": "StockBJJ",
     "brand": "Try Hard",
+    "product": "Kimono Try Hard- Yellow Dragon",
+    "size": "A0",
+    "price": 100.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-try-hard-yellow-dragon",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "Kimono Try Hard- Yellow Dragon",
+    "size": "A1",
+    "price": 100.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-try-hard-yellow-dragon",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "Kimono Try Hard- Yellow Dragon",
+    "size": "A1L",
+    "price": 100.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-try-hard-yellow-dragon",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "Kimono Try Hard- Yellow Dragon",
+    "size": "A2",
+    "price": 100.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-try-hard-yellow-dragon",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "Kimono Try Hard- Yellow Dragon",
+    "size": "A2L",
+    "price": 100.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-try-hard-yellow-dragon",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "Kimono Try Hard- Yellow Dragon",
+    "size": "A3",
+    "price": 100.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-try-hard-yellow-dragon",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "Kimono Try Hard- White Red Demon",
+    "size": "A0",
+    "price": 100.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-try-hard-white-red-demon",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "Kimono Try Hard- White Red Demon",
+    "size": "A1",
+    "price": 100.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-try-hard-white-red-demon",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "Kimono Try Hard- White Red Demon",
+    "size": "A1L",
+    "price": 100.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-try-hard-white-red-demon",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "Kimono Try Hard- White Red Demon",
+    "size": "A2",
+    "price": 100.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-try-hard-white-red-demon",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "Kimono Try Hard- White Red Demon",
+    "size": "A2L",
+    "price": 100.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-try-hard-white-red-demon",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "Kimono Try Hard- White Red Demon",
+    "size": "A3",
+    "price": 100.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-try-hard-white-red-demon",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "Kimono Try Hard- Black Red Demon",
+    "size": "A0",
+    "price": 100.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-try-hard-black-red-demon",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "Kimono Try Hard- Black Red Demon",
+    "size": "A1",
+    "price": 100.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-try-hard-black-red-demon",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "Kimono Try Hard- Black Red Demon",
+    "size": "A1L",
+    "price": 100.0,
+    "in_stock": false,
+    "url": "https://www.stockbjj.com/products/kimono-try-hard-black-red-demon",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "Kimono Try Hard- Black Red Demon",
+    "size": "A2",
+    "price": 100.0,
+    "in_stock": false,
+    "url": "https://www.stockbjj.com/products/kimono-try-hard-black-red-demon",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "Kimono Try Hard- Black Red Demon",
+    "size": "A2L",
+    "price": 100.0,
+    "in_stock": false,
+    "url": "https://www.stockbjj.com/products/kimono-try-hard-black-red-demon",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "Kimono Try Hard- Black Red Demon",
+    "size": "A3",
+    "price": 100.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-try-hard-black-red-demon",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Kyubi Brown",
+    "size": "XS",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-brown",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Kyubi Brown",
+    "size": "S",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-brown",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Kyubi Brown",
+    "size": "M",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-brown",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Kyubi Brown",
+    "size": "L",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-brown",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Kyubi Brown",
+    "size": "XL",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-brown",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Camuflaje",
+    "size": "XS",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-camuflaje",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Camuflaje",
+    "size": "S",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-camuflaje",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Camuflaje",
+    "size": "M",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-camuflaje",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Camuflaje",
+    "size": "L",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-camuflaje",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Camuflaje",
+    "size": "XL",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-camuflaje",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Organic",
+    "size": "XS",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-organic",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Organic",
+    "size": "S",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-organic",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Organic",
+    "size": "M",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-organic",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Organic",
+    "size": "L",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-organic",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Organic",
+    "size": "XL",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-organic",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Stickers",
+    "size": "XS",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-stickers",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Stickers",
+    "size": "S",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-stickers",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Stickers",
+    "size": "M",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-stickers",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Stickers",
+    "size": "L",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-stickers",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Stickers",
+    "size": "XL",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-stickers",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Camotech",
+    "size": "XS",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-camotech",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Camotech",
+    "size": "S",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-camotech",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Camotech",
+    "size": "M",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-camotech",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Camotech",
+    "size": "L",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-camotech",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
+    "product": "V2 Rashguard Try Hard Camotech",
+    "size": "XL",
+    "price": 44.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-camotech",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Try Hard",
     "product": "V2 Rashguard Try Hard Kyubi Blue",
     "size": "XS",
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-blue",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23297,7 +23727,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-blue",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23307,7 +23737,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-blue",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23317,7 +23747,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-blue",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23327,7 +23757,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-blue",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23337,7 +23767,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-white",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23347,7 +23777,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-white",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23357,7 +23787,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-white",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23367,7 +23797,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-white",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23377,7 +23807,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-white",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -24155,7 +24585,7 @@
     "product": "Cinturones Kingz lite comp- Marrón",
     "size": "A1 / Marrón",
     "price": 19.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-kingz-lite-comp-marron",
     "previous_price": 19.0
   },
@@ -24235,7 +24665,7 @@
     "product": "Cinturones Kingz lite comp- Morado",
     "size": "A4 / Morado",
     "price": 19.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-kingz-lite-comp-morado",
     "previous_price": 19.0
   },
@@ -29654,7 +30084,7 @@
     "brand": "Try Hard",
     "product": "Kimono Básico Try Hard- negro",
     "size": "A0",
-    "price": 80.0,
+    "price": 85.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-basico-try-hard-negro",
     "previous_price": 80.0
@@ -29664,7 +30094,7 @@
     "brand": "Try Hard",
     "product": "Kimono Básico Try Hard- negro",
     "size": "A1",
-    "price": 80.0,
+    "price": 85.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-basico-try-hard-negro",
     "previous_price": 80.0
@@ -29674,7 +30104,7 @@
     "brand": "Try Hard",
     "product": "Kimono Básico Try Hard- negro",
     "size": "A1L",
-    "price": 80.0,
+    "price": 85.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-basico-try-hard-negro",
     "previous_price": 80.0
@@ -29684,7 +30114,7 @@
     "brand": "Try Hard",
     "product": "Kimono Básico Try Hard- negro",
     "size": "A2",
-    "price": 80.0,
+    "price": 85.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-basico-try-hard-negro",
     "previous_price": 80.0
@@ -29694,7 +30124,7 @@
     "brand": "Try Hard",
     "product": "Kimono Básico Try Hard- negro",
     "size": "A2L",
-    "price": 80.0,
+    "price": 85.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-basico-try-hard-negro",
     "previous_price": 80.0
@@ -29704,7 +30134,7 @@
     "brand": "Try Hard",
     "product": "Kimono Básico Try Hard- negro",
     "size": "A3",
-    "price": 80.0,
+    "price": 85.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-basico-try-hard-negro",
     "previous_price": 80.0
@@ -39995,7 +40425,7 @@
     "product": "Rashguard Try Hard Manga Corta- Negro",
     "size": "L",
     "price": 38.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-try-hard-manga-corta-negro",
     "previous_price": 38.0
   },
@@ -49355,7 +49785,7 @@
     "product": "Kimono BJJ (Gi) Kingz Sport- Blanco",
     "size": "A2L",
     "price": 100.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-kingz-sport-blanco",
     "previous_price": 100.0
   },
@@ -51984,7 +52414,7 @@
     "brand": "Athena Fightwear",
     "product": "Athena Bandages Eris Berry",
     "size": "Default Title",
-    "price": 15.16,
+    "price": 12.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/athena-bandages-eris-berry",
     "previous_price": 15.16
@@ -51994,7 +52424,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Combat Speed 5 Zwart",
     "size": "38",
-    "price": 67.96,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
     "previous_price": 67.96
@@ -52004,7 +52434,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Combat Speed 5 Zwart",
     "size": "38 2/3",
-    "price": 67.96,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
     "previous_price": 67.96
@@ -52014,7 +52444,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Combat Speed 5 Zwart",
     "size": "39 1/3",
-    "price": 67.96,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
     "previous_price": 67.96
@@ -52024,7 +52454,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Combat Speed 5 Zwart",
     "size": "40",
-    "price": 67.96,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
     "previous_price": 67.96
@@ -52034,7 +52464,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Combat Speed 5 Zwart",
     "size": "40 2/3",
-    "price": 67.96,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
     "previous_price": 67.96
@@ -52044,7 +52474,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Combat Speed 5 Zwart",
     "size": "41 1/3",
-    "price": 67.96,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
     "previous_price": 67.96
@@ -52054,7 +52484,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Combat Speed 5 Zwart",
     "size": "42",
-    "price": 67.96,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
     "previous_price": 67.96
@@ -52064,7 +52494,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Combat Speed 5 Zwart",
     "size": "42 2/3",
-    "price": 67.96,
+    "price": 59.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
     "previous_price": 67.96
@@ -52074,7 +52504,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Combat Speed 5 Zwart",
     "size": "43 1/3",
-    "price": 67.96,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
     "previous_price": 67.96
@@ -52084,7 +52514,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Combat Speed 5 Zwart",
     "size": "44",
-    "price": 67.96,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
     "previous_price": 67.96
@@ -52094,7 +52524,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Combat Speed 5 Zwart",
     "size": "44 2/3",
-    "price": 67.96,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
     "previous_price": 67.96
@@ -52104,7 +52534,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Combat Speed 5 Zwart",
     "size": "45 1/3",
-    "price": 67.96,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
     "previous_price": 67.96
@@ -52114,7 +52544,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Combat Speed 5 Zwart",
     "size": "46",
-    "price": 67.96,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
     "previous_price": 67.96
@@ -52124,7 +52554,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Combat Speed 5 Zwart",
     "size": "46 2/3",
-    "price": 67.96,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
     "previous_price": 67.96
@@ -52134,7 +52564,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Combat Speed 5 Zwart",
     "size": "47 1/3",
-    "price": 67.96,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
     "previous_price": 67.96
@@ -52144,7 +52574,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Combat Speed 5 Zwart",
     "size": "48",
-    "price": 67.96,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
     "previous_price": 67.96
@@ -52154,7 +52584,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Combat Speed 5 Zwart",
     "size": "48 2/3",
-    "price": 67.96,
+    "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
     "previous_price": 67.96
@@ -53274,7 +53704,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "29",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 39.95
@@ -53284,7 +53714,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "30",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 39.95
@@ -53294,7 +53724,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "30 1/2",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 39.95
@@ -53304,7 +53734,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "31",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 39.95
@@ -53314,7 +53744,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "32",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 39.95
@@ -53324,7 +53754,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "33",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 39.95
@@ -53334,7 +53764,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "33 1/2",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 39.95
@@ -53344,7 +53774,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "34",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 39.95
@@ -53354,7 +53784,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "35",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 39.95
@@ -53364,7 +53794,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "35 1/2",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 39.95
@@ -53374,7 +53804,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "36",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 39.95
@@ -53384,7 +53814,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "36 2/3",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 39.95
@@ -53394,7 +53824,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "37 1/3",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 39.95
@@ -53404,7 +53834,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "38",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 39.95
@@ -53414,7 +53844,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "38 2/3",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 39.95
@@ -53424,7 +53854,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "39 1/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 49.95
@@ -53434,7 +53864,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "40",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 49.95
@@ -53444,7 +53874,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "40 2/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 49.95
@@ -53454,7 +53884,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "41 1/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 49.95
@@ -53464,7 +53894,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "42",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 49.95
@@ -53474,7 +53904,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "42 2/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 49.95
@@ -53484,7 +53914,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "43 1/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 49.95
@@ -53494,7 +53924,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "44",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 49.95
@@ -53504,7 +53934,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "44 2/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 49.95
@@ -53514,7 +53944,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "45 1/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 49.95
@@ -53524,7 +53954,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "46",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 49.95
@@ -53534,7 +53964,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "46 2/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 49.95
@@ -53544,7 +53974,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "47 1/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 49.95
@@ -53554,7 +53984,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "48",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 49.95
@@ -53564,7 +53994,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "48 2/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 49.95
@@ -53574,7 +54004,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "49 1/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 49.95
@@ -53584,7 +54014,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "50",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 49.95
@@ -53594,7 +54024,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "50 2/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 49.95
@@ -53604,7 +54034,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "51 1/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 49.95
@@ -53704,7 +54134,7 @@
     "brand": "Athena Fightwear",
     "product": "Athena Kickboks Broekje Paars",
     "size": "XS",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/athena-kickboks-broekje-paars",
     "previous_price": 49.95
@@ -53714,7 +54144,7 @@
     "brand": "Athena Fightwear",
     "product": "Athena Kickboks Broekje Paars",
     "size": "S",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/athena-kickboks-broekje-paars",
     "previous_price": 49.95
@@ -53724,7 +54154,7 @@
     "brand": "Athena Fightwear",
     "product": "Athena Kickboks Broekje Paars",
     "size": "M",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/athena-kickboks-broekje-paars",
     "previous_price": 49.95
@@ -53734,7 +54164,7 @@
     "brand": "Athena Fightwear",
     "product": "Athena Kickboks Broekje Paars",
     "size": "L",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/athena-kickboks-broekje-paars",
     "previous_price": 49.95
@@ -53744,7 +54174,7 @@
     "brand": "Athena Fightwear",
     "product": "Athena Kickboks Broekje Teal",
     "size": "XS",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/athena-kickboks-broekje-teal",
     "previous_price": 49.95
@@ -53754,7 +54184,7 @@
     "brand": "Athena Fightwear",
     "product": "Athena Kickboks Broekje Teal",
     "size": "S",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/athena-kickboks-broekje-teal",
     "previous_price": 49.95
@@ -53764,7 +54194,7 @@
     "brand": "Athena Fightwear",
     "product": "Athena Kickboks Broekje Teal",
     "size": "M",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/athena-kickboks-broekje-teal",
     "previous_price": 49.95
@@ -53774,7 +54204,7 @@
     "brand": "Athena Fightwear",
     "product": "Athena Kickboks Broekje Teal",
     "size": "L",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/athena-kickboks-broekje-teal",
     "previous_price": 49.95
@@ -53784,7 +54214,7 @@
     "brand": "Athena Fightwear",
     "product": "Athena Sport BH Thessalia Wit",
     "size": "S",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/athena-sport-bh-thessalia-wit",
     "previous_price": 39.95
@@ -53794,7 +54224,7 @@
     "brand": "Athena Fightwear",
     "product": "Athena Sport BH Thessalia Wit",
     "size": "M",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/athena-sport-bh-thessalia-wit",
     "previous_price": 39.95
@@ -53804,7 +54234,7 @@
     "brand": "Athena Fightwear",
     "product": "Athena Sport BH Thessalia Wit",
     "size": "L",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/athena-sport-bh-thessalia-wit",
     "previous_price": 39.95
@@ -53814,7 +54244,7 @@
     "brand": "Athena Fightwear",
     "product": "Athena Sport BH Thessalia Zwart",
     "size": "S",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/athena-sport-bh-thessalia-zwart",
     "previous_price": 39.95
@@ -53824,7 +54254,7 @@
     "brand": "Athena Fightwear",
     "product": "Athena Sport BH Thessalia Zwart",
     "size": "M",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/athena-sport-bh-thessalia-zwart",
     "previous_price": 39.95
@@ -53834,7 +54264,7 @@
     "brand": "Athena Fightwear",
     "product": "Athena Sport BH Thessalia Zwart",
     "size": "L",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/athena-sport-bh-thessalia-zwart",
     "previous_price": 39.95
@@ -54444,7 +54874,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "29",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 39.95
@@ -54454,7 +54884,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "30",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 39.95
@@ -54464,7 +54894,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "31",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 39.95
@@ -54474,7 +54904,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "32",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 39.95
@@ -54484,7 +54914,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "33",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 39.95
@@ -54494,7 +54924,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "34",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 39.95
@@ -54504,7 +54934,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "35",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 39.95
@@ -54514,7 +54944,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "35 1/2",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 39.95
@@ -54524,7 +54954,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "36",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 39.95
@@ -54534,7 +54964,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "36 2/3",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 39.95
@@ -54544,7 +54974,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "37 1/3",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 39.95
@@ -54554,7 +54984,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "38",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 39.95
@@ -54564,7 +54994,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "38 2/3",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 39.95
@@ -54574,7 +55004,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "39 1/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 49.95
@@ -54584,7 +55014,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "40",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 49.95
@@ -54594,7 +55024,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "40 2/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 49.95
@@ -54604,7 +55034,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "41 1/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 49.95
@@ -54614,7 +55044,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "42",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 49.95
@@ -54624,7 +55054,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "42 2/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 49.95
@@ -54634,7 +55064,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "43 1/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 49.95
@@ -54644,7 +55074,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "44",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 49.95
@@ -54654,7 +55084,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "44 2/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 49.95
@@ -54664,7 +55094,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "45 1/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 49.95
@@ -54674,7 +55104,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "46",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 49.95
@@ -54684,7 +55114,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "46 2/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 49.95
@@ -54694,7 +55124,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "47 1/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 49.95
@@ -54704,7 +55134,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "48",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 49.95
@@ -54714,7 +55144,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "48 2/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 49.95
@@ -54724,7 +55154,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "49 1/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 49.95
@@ -54734,7 +55164,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Zwart",
     "size": "50",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
     "previous_price": 49.95
@@ -55144,7 +55574,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "29",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 39.95
@@ -55154,7 +55584,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "30",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 39.95
@@ -55164,7 +55594,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "31",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 39.95
@@ -55174,7 +55604,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "32",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 39.95
@@ -55184,7 +55614,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "33",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 39.95
@@ -55194,7 +55624,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "33 1/2",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 39.95
@@ -55204,7 +55634,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "34",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 39.95
@@ -55214,7 +55644,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "35",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 39.95
@@ -55224,7 +55654,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "35 1/2",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 39.95
@@ -55234,7 +55664,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "36",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 39.95
@@ -55244,7 +55674,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "36 2/3",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 39.95
@@ -55254,7 +55684,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "37 1/3",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 39.95
@@ -55264,7 +55694,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "38",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 39.95
@@ -55274,7 +55704,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "38 2/3",
-    "price": 39.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 39.95
@@ -55284,7 +55714,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "39 1/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 49.95
@@ -55294,7 +55724,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "40",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 49.95
@@ -55304,7 +55734,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "40 2/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 49.95
@@ -55314,7 +55744,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "41 1/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 49.95
@@ -55324,7 +55754,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "42",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 49.95
@@ -55334,7 +55764,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "42 2/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 49.95
@@ -55344,7 +55774,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "43 1/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 49.95
@@ -55354,7 +55784,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "44",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 49.95
@@ -55364,7 +55794,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "44 2/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 49.95
@@ -55374,7 +55804,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "45 1/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 49.95
@@ -55384,7 +55814,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "46",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 49.95
@@ -55394,7 +55824,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "46 2/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 49.95
@@ -55404,7 +55834,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "47 1/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 49.95
@@ -55414,7 +55844,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "48",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 49.95
@@ -55424,7 +55854,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "48 2/3",
-    "price": 49.95,
+    "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
     "previous_price": 49.95
@@ -55434,7 +55864,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "32",
-    "price": 74.95,
+    "price": 69.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 74.95
@@ -55444,7 +55874,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "33",
-    "price": 74.95,
+    "price": 69.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 74.95
@@ -55454,7 +55884,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "34",
-    "price": 74.95,
+    "price": 69.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 74.95
@@ -55464,7 +55894,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "35",
-    "price": 74.95,
+    "price": 69.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 74.95
@@ -55474,7 +55904,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "35 1/2",
-    "price": 74.95,
+    "price": 69.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 74.95
@@ -55484,7 +55914,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "36",
-    "price": 74.95,
+    "price": 69.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 74.95
@@ -55494,7 +55924,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "36 2/3",
-    "price": 74.95,
+    "price": 69.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 74.95
@@ -55504,7 +55934,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "37 1/3",
-    "price": 74.95,
+    "price": 69.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 74.95
@@ -55514,7 +55944,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "38",
-    "price": 74.95,
+    "price": 69.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 74.95
@@ -55524,7 +55954,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "38 2/3",
-    "price": 74.95,
+    "price": 69.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 74.95
@@ -55534,7 +55964,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "39 1/3",
-    "price": 84.95,
+    "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 84.95
@@ -55544,7 +55974,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "40",
-    "price": 84.95,
+    "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 84.95
@@ -55554,7 +55984,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "40 2/3",
-    "price": 84.95,
+    "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 84.95
@@ -55564,7 +55994,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "41 1/3",
-    "price": 84.95,
+    "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 84.95
@@ -55574,7 +56004,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "42",
-    "price": 84.95,
+    "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 84.95
@@ -55584,7 +56014,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "42 2/3",
-    "price": 84.95,
+    "price": 79.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 84.95
@@ -55594,7 +56024,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "43 1/3",
-    "price": 84.95,
+    "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 84.95
@@ -55604,7 +56034,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "44",
-    "price": 84.95,
+    "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 84.95
@@ -55614,7 +56044,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "44 2/3",
-    "price": 84.95,
+    "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 84.95
@@ -55624,7 +56054,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "45 1/3",
-    "price": 84.95,
+    "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 84.95
@@ -55634,7 +56064,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "46",
-    "price": 84.95,
+    "price": 79.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 84.95
@@ -55644,7 +56074,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "46 2/3",
-    "price": 84.95,
+    "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 84.95
@@ -55654,7 +56084,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "47 1/3",
-    "price": 84.95,
+    "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 84.95
@@ -55664,7 +56094,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "48",
-    "price": 84.95,
+    "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 84.95
@@ -55674,7 +56104,7 @@
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "48 2/3",
-    "price": 84.95,
+    "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 84.95
@@ -55714,7 +56144,7 @@
     "brand": "Booster Fight Gear",
     "product": "Booster Bokshandschoenen Combat Series Groen",
     "size": "4 oz",
-    "price": 35.16,
+    "price": 29.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/booster-bokshandschoenen-combat-series-groen",
     "previous_price": 35.16
@@ -55724,7 +56154,7 @@
     "brand": "Booster Fight Gear",
     "product": "Booster Bokshandschoenen Combat Series Groen",
     "size": "6 oz",
-    "price": 34.95,
+    "price": 29.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/booster-bokshandschoenen-combat-series-groen",
     "previous_price": 34.95
@@ -55734,7 +56164,7 @@
     "brand": "Booster Fight Gear",
     "product": "Booster Bokshandschoenen Combat Series Groen",
     "size": "8 oz",
-    "price": 35.16,
+    "price": 29.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/booster-bokshandschoenen-combat-series-groen",
     "previous_price": 35.16
@@ -55744,7 +56174,7 @@
     "brand": "Booster Fight Gear",
     "product": "Booster Bokshandschoenen Combat Series Groen",
     "size": "10 oz",
-    "price": 35.16,
+    "price": 29.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/booster-bokshandschoenen-combat-series-groen",
     "previous_price": 35.16
@@ -55864,7 +56294,7 @@
     "brand": "Adidas",
     "product": "Adidas Bidon Tiro 0,75L Zwart",
     "size": "Default Title",
-    "price": 5.95,
+    "price": 4.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-bidon-tiro-0-75l-zwart",
     "previous_price": 5.95
@@ -56694,7 +57124,7 @@
     "brand": "Booster Fight Gear",
     "product": "Booster Elleboog Beschermers B FORCE EKP",
     "size": "M",
-    "price": 23.96,
+    "price": 19.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/booster-elleboog-beschermers-b-force-ekp",
     "previous_price": 23.96
@@ -56704,7 +57134,7 @@
     "brand": "Booster Fight Gear",
     "product": "Booster Elleboog Beschermers B FORCE EKP",
     "size": "L",
-    "price": 23.96,
+    "price": 19.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/booster-elleboog-beschermers-b-force-ekp",
     "previous_price": 23.96
@@ -56714,7 +57144,7 @@
     "brand": "Booster Fight Gear",
     "product": "Booster Elleboog Beschermers B FORCE EKP",
     "size": "XL",
-    "price": 23.96,
+    "price": 19.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/booster-elleboog-beschermers-b-force-ekp",
     "previous_price": 23.96
@@ -56724,7 +57154,7 @@
     "brand": "Booster Fight Gear",
     "product": "Booster Bokshandschoenen Youth Elite V2 Wit",
     "size": "6 oz",
-    "price": 35.16,
+    "price": 29.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/booster-bokshandschoenen-youth-elite-v2-wit",
     "previous_price": 35.16
@@ -56734,7 +57164,7 @@
     "brand": "Booster Fight Gear",
     "product": "Booster Bokshandschoenen Youth Elite V2 Wit",
     "size": "8 oz",
-    "price": 35.16,
+    "price": 29.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/booster-bokshandschoenen-youth-elite-v2-wit",
     "previous_price": 35.16
@@ -56744,7 +57174,7 @@
     "brand": "Booster Fight Gear",
     "product": "Booster Bokshandschoenen Youth Elite V2 Wit",
     "size": "10 oz",
-    "price": 35.16,
+    "price": 29.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/booster-bokshandschoenen-youth-elite-v2-wit",
     "previous_price": 35.16
@@ -57464,7 +57894,7 @@
     "brand": "Adidas",
     "product": "Adidas Amateur Boxing Tank Lightweight Blauw",
     "size": "S",
-    "price": 6.95,
+    "price": 4.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-amateur-boxing-tank-lightweight-blauw",
     "previous_price": 6.95
@@ -58084,7 +58514,7 @@
     "brand": "Booster Fight Gear",
     "product": "Booster Enkelbescherming Blauw",
     "size": "S",
-    "price": 9.95,
+    "price": 7.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/booster-enkelbescherming-blauw",
     "previous_price": 9.95
@@ -58375,7 +58805,7 @@
     "product": "Arrhichion Rash Guard",
     "size": "XL",
     "price": 54.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-rash-guard",
     "previous_price": 54.99
   },
@@ -58755,7 +59185,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "XL / XS",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -58765,7 +59195,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "XL / S",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -58775,7 +59205,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "XL / M",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -58795,7 +59225,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "XL / XL",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -58805,7 +59235,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "XL / 2XL",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -58815,7 +59245,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "XL / 3XL",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -59315,7 +59745,7 @@
     "product": "Dead Man's Hand Set",
     "size": "2XL / X-Small",
     "price": 77.58,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/dead-mans-hand-set",
     "previous_price": 77.58
   },
@@ -59335,7 +59765,7 @@
     "product": "Dead Man's Hand Set",
     "size": "2XL / Medium",
     "price": 77.58,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/dead-mans-hand-set",
     "previous_price": 77.58
   },
@@ -59345,7 +59775,7 @@
     "product": "Dead Man's Hand Set",
     "size": "2XL / Large",
     "price": 77.58,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/dead-mans-hand-set",
     "previous_price": 77.58
   },
@@ -59355,7 +59785,7 @@
     "product": "Dead Man's Hand Set",
     "size": "2XL / X-Large",
     "price": 77.58,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/dead-mans-hand-set",
     "previous_price": 77.58
   },
@@ -59365,7 +59795,7 @@
     "product": "Dead Man's Hand Set",
     "size": "2XL / XX-Large",
     "price": 77.58,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/dead-mans-hand-set",
     "previous_price": 77.58
   },
@@ -59375,7 +59805,7 @@
     "product": "Dead Man's Hand Set",
     "size": "2XL / XXX-Large",
     "price": 77.58,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/dead-mans-hand-set",
     "previous_price": 77.58
   },
@@ -59755,7 +60185,7 @@
     "product": "Dead Man's Hand Rash Guard",
     "size": "2XL",
     "price": 49.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/dead-mans-hand-rash-guard",
     "previous_price": 49.99
   },
@@ -60815,7 +61245,7 @@
     "product": "Dynasty No-Gi Kit",
     "size": "XS / 3XL",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/dynasty-no-gi-kit",
     "previous_price": 89.99
   },
@@ -60885,7 +61315,7 @@
     "product": "Dynasty No-Gi Kit",
     "size": "S / 3XL",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/dynasty-no-gi-kit",
     "previous_price": 89.99
   },
@@ -60955,7 +61385,7 @@
     "product": "Dynasty No-Gi Kit",
     "size": "M / 3XL",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/dynasty-no-gi-kit",
     "previous_price": 89.99
   },
@@ -61025,7 +61455,7 @@
     "product": "Dynasty No-Gi Kit",
     "size": "L / 3XL",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/dynasty-no-gi-kit",
     "previous_price": 89.99
   },
@@ -61095,7 +61525,7 @@
     "product": "Dynasty No-Gi Kit",
     "size": "XL / 3XL",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/dynasty-no-gi-kit",
     "previous_price": 89.99
   },
@@ -61165,7 +61595,7 @@
     "product": "Dynasty No-Gi Kit",
     "size": "2XL / 3XL",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/dynasty-no-gi-kit",
     "previous_price": 89.99
   },
@@ -61235,7 +61665,7 @@
     "product": "Dynasty No-Gi Kit",
     "size": "3XL / 3XL",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/dynasty-no-gi-kit",
     "previous_price": 89.99
   },
@@ -63495,7 +63925,7 @@
     "product": "Dynasty Shorts",
     "size": "3XL",
     "price": 49.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/dynasty-shorts",
     "previous_price": 49.99
   },
@@ -88255,7 +88685,7 @@
     "product": "Kingz Players Special Limited Edition Youth BJJ Gi",
     "size": "M1 / Black",
     "price": 140.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-players-special-limited-edition-youth-gi",
     "previous_price": 140.0
   },
@@ -88265,7 +88695,7 @@
     "product": "Kingz Players Special Limited Edition Youth BJJ Gi",
     "size": "M1 / White",
     "price": 140.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-players-special-limited-edition-youth-gi",
     "previous_price": 140.0
   },
@@ -99085,7 +99515,7 @@
     "product": "Kingz Trooper Men's Rashguard",
     "size": "XXL / Black/Green",
     "price": 50.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/trooper-rashguard",
     "previous_price": 50.0
   },
@@ -105155,7 +105585,7 @@
     "product": "Kingz Classic 3.0 Men's BJJ Gi - White",
     "size": "A2H / White",
     "price": 110.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-classic-2-0-jiu-jitsu-gi",
     "previous_price": 110.0
   },
@@ -107235,7 +107665,7 @@
     "product": "Classic 3.0 Womens Jiu Jitsu Gi - Blue",
     "size": "F2 / Blue",
     "price": 85.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/classic-2-0-womens-jiu-jitsu-gi-blue",
     "previous_price": 85.0
   },
@@ -117345,7 +117775,7 @@
     "product": "Heritage Keisho Lightweight BJJ Gi Black",
     "size": "A2",
     "price": 224.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/heritage-keisho-lightweight-bjj-gi-black",
     "previous_price": 224.95
   },
@@ -137245,7 +137675,7 @@
     "product": "Competition Ranked Rashguard Black",
     "size": "4XL",
     "price": 59.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/competition-ranked-rashguard-black",
     "previous_price": 59.95
   },
@@ -137255,7 +137685,7 @@
     "product": "Competition Ranked Rashguard Black",
     "size": "5XL",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/competition-ranked-rashguard-black",
     "previous_price": 59.95
   },
@@ -140475,7 +140905,7 @@
     "product": "Shogun Heat Gear Spats Black",
     "size": "3XL",
     "price": 59.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/shogun-heat-gear-spats-black",
     "previous_price": 59.95
   },
@@ -149335,7 +149765,7 @@
     "product": "Kids Royce Gracie Pullover Hoodie Navy",
     "size": "YM",
     "price": 59.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/kids-royce-gracie-pullover-hoodie-navy",
     "previous_price": 59.0
   },
@@ -158525,7 +158955,7 @@
     "product": "Womens Blossom Rashguard Black/Pink",
     "size": "WS",
     "price": 62.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/womens-blossom-rashguard-black-pink",
     "previous_price": 62.95
   },
@@ -158535,7 +158965,7 @@
     "product": "Womens Blossom Rashguard Black/Pink",
     "size": "WM",
     "price": 62.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/womens-blossom-rashguard-black-pink",
     "previous_price": 62.95
   },
@@ -158735,7 +159165,7 @@
     "product": "Everyday Porrada Short Sleeve Rashguard",
     "size": "S",
     "price": 59.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/everyday-porrada-short-sleeve-rashguard",
     "previous_price": 59.95
   },
@@ -170205,7 +170635,7 @@
     "product": "Euro Competition Judo Gi White",
     "size": "4.5",
     "price": 139.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/euro-competition-judo-gi",
     "previous_price": 139.95
   },
@@ -170535,7 +170965,7 @@
     "product": "Renzo Gracie Women's Fight Shorts Black",
     "size": "WM",
     "price": 55.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/renzo-gracie-womens-fight-shorts-black",
     "previous_price": 55.0
   },
@@ -175552,126 +175982,6 @@
   {
     "shop": "Fuji Sports",
     "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi White (Unisex Size)",
-    "size": "A0",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/all-around-bjj-gi-white-unisex-size",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi White (Unisex Size)",
-    "size": "A1",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/all-around-bjj-gi-white-unisex-size",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi White (Unisex Size)",
-    "size": "A1L",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/all-around-bjj-gi-white-unisex-size",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi White (Unisex Size)",
-    "size": "A2",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/all-around-bjj-gi-white-unisex-size",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi White (Unisex Size)",
-    "size": "A2H",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/all-around-bjj-gi-white-unisex-size",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi White (Unisex Size)",
-    "size": "A2L",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/all-around-bjj-gi-white-unisex-size",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi White (Unisex Size)",
-    "size": "A3",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/all-around-bjj-gi-white-unisex-size",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi White (Unisex Size)",
-    "size": "A3H",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/all-around-bjj-gi-white-unisex-size",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi White (Unisex Size)",
-    "size": "A3L",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/all-around-bjj-gi-white-unisex-size",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi White (Unisex Size)",
-    "size": "A4",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/all-around-bjj-gi-white-unisex-size",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi White (Unisex Size)",
-    "size": "A5",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/all-around-bjj-gi-white-unisex-size",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi White (Unisex Size)",
-    "size": "A6",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/all-around-bjj-gi-white-unisex-size",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
     "product": "All Around BJJ Gi Blackout",
     "size": "A0",
     "price": 119.95,
@@ -177715,7 +178025,7 @@
     "product": "Yellow Judo Belt",
     "size": "3",
     "price": 14.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/yellow-judo-belt",
     "previous_price": 14.95
   },
@@ -181967,556 +182277,6 @@
     "price": 119.95,
     "in_stock": true,
     "url": "https://fujisports.com/products/all-around-bjj-gi-pink",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A0 / Blue",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A0 / White",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A0 / Black",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A0 / Navy",
-    "price": 119.95,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A0 / Black/Black",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A1 / Blue",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A1 / White",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A1 / Black",
-    "price": 119.95,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A1 / Navy",
-    "price": 119.95,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A1 / Black/Black",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A2 / Blue",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A2 / White",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A2 / Black",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A2 / Navy",
-    "price": 119.95,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A2 / Black/Black",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A2H / Blue",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A2H / White",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A2H / Black",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A2H / Navy",
-    "price": 119.95,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A2H / Black/Black",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A2L / Blue",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A2L / White",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A2L / Black",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A2L / Navy",
-    "price": 119.95,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A2L / Black/Black",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A3 / Blue",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A3 / White",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A3 / Black",
-    "price": 119.95,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A3 / Navy",
-    "price": 89.95,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 89.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A3 / Black/Black",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A3H / Blue",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A3H / White",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A3H / Black",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A3H / Navy",
-    "price": 119.95,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A3H / Black/Black",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A3L / Blue",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A3L / White",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A3L / Black",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A3L / Navy",
-    "price": 119.95,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A3L / Black/Black",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A4 / Blue",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A4 / White",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A4 / Black",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A4 / Navy",
-    "price": 119.95,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A4 / Black/Black",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A5 / Blue",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A5 / White",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A5 / Black",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A5 / Navy",
-    "price": 119.95,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A5 / Black/Black",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A6 / Blue",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A6 / White",
-    "price": 115.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 115.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A6 / Black",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A6 / Navy",
-    "price": 119.95,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "All Around BJJ Gi",
-    "size": "A6 / Black/Black",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/fuji-all-around-bjj-gi",
     "previous_price": 119.95
   },
   {
@@ -189055,7 +188815,7 @@
     "product": "Hayabusa Jiu Jitsu Band - Blauw",
     "size": "A2",
     "price": 27.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-jiu-jitsu-band-blauw",
     "previous_price": 27.99
   },
@@ -199945,7 +199705,7 @@
     "product": "Primo Classic Muay Thai Scheenbeschermer - Wit",
     "size": "L",
     "price": 119.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/primo-classic-muay-thai-scheenbeschermer-wit",
     "previous_price": 119.95
   },
@@ -205697,7 +205457,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-shadow-2-ladies-t-shirt-black-lime/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -205707,7 +205467,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-shadow-2-ladies-t-shirt-black-lime/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -205717,7 +205477,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-shadow-2-ladies-t-shirt-black-lime/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -205727,7 +205487,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-shadow-1-ladies-t-shirt-black-grey/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -205737,7 +205497,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-shadow-1-ladies-t-shirt-black-grey/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -205747,7 +205507,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-shadow-1-ladies-t-shirt-black-grey/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -205757,7 +205517,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-shadow-2-ladies-top-black-lime/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -205767,7 +205527,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-shadow-2-ladies-top-black-lime/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -205777,7 +205537,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-shadow-2-ladies-top-black-lime/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -205787,7 +205547,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-shadow-1-ladies-top-black-grey/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -205797,7 +205557,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-shadow-1-ladies-top-black-grey/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -205807,7 +205567,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-shadow-1-ladies-top-black-grey/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -209811,16 +209571,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "XXL",
-    "product": "XXL Nutrition Pre Workout Quake Fruit Punch",
-    "size": "One Size",
-    "price": 39.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/xxl-nutrition-pre-workout-quake-fruit-punch/",
-    "previous_price": 39.99
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "1916",
     "product": "1916 Fight Gear Kickboks Set Legend Advanced Green/Black",
     "size": "One Size",
@@ -212422,26 +212172,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Adidas",
-    "product": "Adidas Sporttas 2 In 1 PU Grey/Black",
-    "size": "l",
-    "price": 84.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/adidas-sporttas-2-in-1-pu-grey-black/",
-    "previous_price": 84.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Adidas",
-    "product": "Adidas Sporttas 2 In 1 PU Black/White",
-    "size": "l",
-    "price": 84.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/adidas-sporttas-2-in-1-pu-black-white/",
-    "previous_price": 79.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Adidas",
     "product": "Adidas Boksbandage Red",
     "size": "450cm",
     "price": 11.95,
@@ -212948,16 +212678,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/smellwell-bokshandschoenen-verfrisser-active-xl-strap-black/",
     "previous_price": 21.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "SmellWell",
-    "product": "SmellWell Bokshandschoenen Verfrisser Sensitive Grey",
-    "size": "One Size",
-    "price": 12.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/smellwell-bokshandschoenen-verfrisser-sensitive-grey/",
-    "previous_price": 12.95
   },
   {
     "shop": "OLB Sports",
@@ -224322,16 +224042,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Venum",
-    "product": "Venum Kontact Enkelkous Wit",
-    "size": "l",
-    "price": 14.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-kontact-enkelkous-wit/",
-    "previous_price": 14.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
     "product": "Venum Kontact Enkelkous Zwart/Wit",
     "size": "m",
     "price": 14.99,
@@ -225247,7 +224957,7 @@
     "price": 279.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/rival-bokshandschoen-rs100-wit-goud/",
-    "previous_price": null
+    "previous_price": 279.95
   },
   {
     "shop": "OLB Sports",
@@ -226474,16 +226184,6 @@
     "brand": "King",
     "product": "King Storm 1 Shirt Zwart/Grijs",
     "size": "xl",
-    "price": 29.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/king-storm-1-shirt-zwart-grijs/",
-    "previous_price": 29.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "King",
-    "product": "King Storm 1 Shirt Zwart/Grijs",
-    "size": "s",
     "price": 29.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-storm-1-shirt-zwart-grijs/",
@@ -233791,16 +233491,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "Booster",
-    "product": "Booster Bandage BCP Groen",
-    "size": "One Size",
-    "price": 11.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/booster-bandage-bcp-groen/",
-    "previous_price": 11.99
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "XXL",
     "product": "XXL Nutrition Shake Beker Roze",
     "size": "One Size",
@@ -235124,16 +234814,6 @@
     "brand": "Joya",
     "product": "Joya Elastische Scheenbeschermer Zwart",
     "size": "l",
-    "price": 19.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-elastische-scheenbeschermer-zwart/",
-    "previous_price": 19.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Elastische Scheenbeschermer Zwart",
-    "size": "xl",
     "price": 19.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-elastische-scheenbeschermer-zwart/",
