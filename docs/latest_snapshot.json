@@ -4135,7 +4135,7 @@
     "product": "Ground Force Aero Rashguard - Red",
     "size": "M",
     "price": 47.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-aero-rashguard-red",
     "previous_price": 47.0
   },
@@ -13275,7 +13275,7 @@
     "product": "Ground Force Basic Kids Gi",
     "size": "M4 / Black",
     "price": 49.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-basic-kids-gi",
     "previous_price": 49.0
   },
@@ -19785,7 +19785,7 @@
     "product": "Fuji Women Sekai 2.0 BJJ Gi",
     "size": "W0 / Blue",
     "price": 169.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/fuji-women-sekai-2-0-bjj-gi-white",
     "previous_price": 169.95
   },
@@ -23287,7 +23287,7 @@
     "price": 100.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-try-hard-yellow-dragon",
-    "previous_price": null
+    "previous_price": 100.0
   },
   {
     "shop": "StockBJJ",
@@ -23297,7 +23297,7 @@
     "price": 100.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-try-hard-yellow-dragon",
-    "previous_price": null
+    "previous_price": 100.0
   },
   {
     "shop": "StockBJJ",
@@ -23307,7 +23307,7 @@
     "price": 100.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-try-hard-yellow-dragon",
-    "previous_price": null
+    "previous_price": 100.0
   },
   {
     "shop": "StockBJJ",
@@ -23317,7 +23317,7 @@
     "price": 100.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-try-hard-yellow-dragon",
-    "previous_price": null
+    "previous_price": 100.0
   },
   {
     "shop": "StockBJJ",
@@ -23327,7 +23327,7 @@
     "price": 100.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-try-hard-yellow-dragon",
-    "previous_price": null
+    "previous_price": 100.0
   },
   {
     "shop": "StockBJJ",
@@ -23337,7 +23337,7 @@
     "price": 100.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-try-hard-yellow-dragon",
-    "previous_price": null
+    "previous_price": 100.0
   },
   {
     "shop": "StockBJJ",
@@ -23347,7 +23347,7 @@
     "price": 100.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-try-hard-white-red-demon",
-    "previous_price": null
+    "previous_price": 100.0
   },
   {
     "shop": "StockBJJ",
@@ -23357,7 +23357,7 @@
     "price": 100.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-try-hard-white-red-demon",
-    "previous_price": null
+    "previous_price": 100.0
   },
   {
     "shop": "StockBJJ",
@@ -23367,7 +23367,7 @@
     "price": 100.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-try-hard-white-red-demon",
-    "previous_price": null
+    "previous_price": 100.0
   },
   {
     "shop": "StockBJJ",
@@ -23377,7 +23377,7 @@
     "price": 100.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-try-hard-white-red-demon",
-    "previous_price": null
+    "previous_price": 100.0
   },
   {
     "shop": "StockBJJ",
@@ -23387,7 +23387,7 @@
     "price": 100.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-try-hard-white-red-demon",
-    "previous_price": null
+    "previous_price": 100.0
   },
   {
     "shop": "StockBJJ",
@@ -23397,7 +23397,7 @@
     "price": 100.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-try-hard-white-red-demon",
-    "previous_price": null
+    "previous_price": 100.0
   },
   {
     "shop": "StockBJJ",
@@ -23407,7 +23407,7 @@
     "price": 100.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-try-hard-black-red-demon",
-    "previous_price": null
+    "previous_price": 100.0
   },
   {
     "shop": "StockBJJ",
@@ -23417,7 +23417,7 @@
     "price": 100.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-try-hard-black-red-demon",
-    "previous_price": null
+    "previous_price": 100.0
   },
   {
     "shop": "StockBJJ",
@@ -23427,7 +23427,7 @@
     "price": 100.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-try-hard-black-red-demon",
-    "previous_price": null
+    "previous_price": 100.0
   },
   {
     "shop": "StockBJJ",
@@ -23437,7 +23437,7 @@
     "price": 100.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-try-hard-black-red-demon",
-    "previous_price": null
+    "previous_price": 100.0
   },
   {
     "shop": "StockBJJ",
@@ -23447,7 +23447,7 @@
     "price": 100.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-try-hard-black-red-demon",
-    "previous_price": null
+    "previous_price": 100.0
   },
   {
     "shop": "StockBJJ",
@@ -23457,7 +23457,7 @@
     "price": 100.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-try-hard-black-red-demon",
-    "previous_price": null
+    "previous_price": 100.0
   },
   {
     "shop": "StockBJJ",
@@ -23467,7 +23467,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-brown",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23477,7 +23477,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-brown",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23487,7 +23487,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-brown",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23497,7 +23497,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-brown",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23507,7 +23507,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-brown",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23517,7 +23517,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-camuflaje",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23527,7 +23527,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-camuflaje",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23537,7 +23537,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-camuflaje",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23547,7 +23547,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-camuflaje",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23557,7 +23557,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-camuflaje",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23567,7 +23567,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-organic",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23577,7 +23577,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-organic",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23587,7 +23587,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-organic",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23597,7 +23597,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-organic",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23607,7 +23607,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-organic",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23617,7 +23617,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-stickers",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23627,7 +23627,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-stickers",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23637,7 +23637,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-stickers",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23647,7 +23647,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-stickers",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23657,7 +23657,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-stickers",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23667,7 +23667,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-camotech",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23677,7 +23677,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-camotech",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23687,7 +23687,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-camotech",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23697,7 +23697,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-camotech",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -23707,7 +23707,7 @@
     "price": 44.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-camotech",
-    "previous_price": null
+    "previous_price": 44.0
   },
   {
     "shop": "StockBJJ",
@@ -30087,7 +30087,7 @@
     "price": 85.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-basico-try-hard-negro",
-    "previous_price": 80.0
+    "previous_price": 85.0
   },
   {
     "shop": "StockBJJ",
@@ -30097,7 +30097,7 @@
     "price": 85.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-basico-try-hard-negro",
-    "previous_price": 80.0
+    "previous_price": 85.0
   },
   {
     "shop": "StockBJJ",
@@ -30107,7 +30107,7 @@
     "price": 85.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-basico-try-hard-negro",
-    "previous_price": 80.0
+    "previous_price": 85.0
   },
   {
     "shop": "StockBJJ",
@@ -30117,7 +30117,7 @@
     "price": 85.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-basico-try-hard-negro",
-    "previous_price": 80.0
+    "previous_price": 85.0
   },
   {
     "shop": "StockBJJ",
@@ -30127,7 +30127,7 @@
     "price": 85.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-basico-try-hard-negro",
-    "previous_price": 80.0
+    "previous_price": 85.0
   },
   {
     "shop": "StockBJJ",
@@ -30137,7 +30137,7 @@
     "price": 85.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-basico-try-hard-negro",
-    "previous_price": 80.0
+    "previous_price": 85.0
   },
   {
     "shop": "StockBJJ",
@@ -36705,7 +36705,7 @@
     "product": "Kimono BJJ (Gi) Kingz Kore V2- Blanco- Con cinturón blanco incluido",
     "size": "A3H",
     "price": 85.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-kingz-kore-v2-blanco-2024-edition",
     "previous_price": 85.0
   },
@@ -52417,7 +52417,7 @@
     "price": 12.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/athena-bandages-eris-berry",
-    "previous_price": 15.16
+    "previous_price": 12.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -52427,7 +52427,7 @@
     "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
-    "previous_price": 67.96
+    "previous_price": 59.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -52437,7 +52437,7 @@
     "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
-    "previous_price": 67.96
+    "previous_price": 59.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -52447,7 +52447,7 @@
     "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
-    "previous_price": 67.96
+    "previous_price": 59.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -52457,7 +52457,7 @@
     "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
-    "previous_price": 67.96
+    "previous_price": 59.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -52467,7 +52467,7 @@
     "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
-    "previous_price": 67.96
+    "previous_price": 59.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -52477,7 +52477,7 @@
     "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
-    "previous_price": 67.96
+    "previous_price": 59.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -52487,7 +52487,7 @@
     "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
-    "previous_price": 67.96
+    "previous_price": 59.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -52497,7 +52497,7 @@
     "price": 59.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
-    "previous_price": 67.96
+    "previous_price": 59.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -52507,7 +52507,7 @@
     "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
-    "previous_price": 67.96
+    "previous_price": 59.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -52517,7 +52517,7 @@
     "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
-    "previous_price": 67.96
+    "previous_price": 59.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -52527,7 +52527,7 @@
     "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
-    "previous_price": 67.96
+    "previous_price": 59.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -52537,7 +52537,7 @@
     "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
-    "previous_price": 67.96
+    "previous_price": 59.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -52547,7 +52547,7 @@
     "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
-    "previous_price": 67.96
+    "previous_price": 59.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -52557,7 +52557,7 @@
     "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
-    "previous_price": 67.96
+    "previous_price": 59.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -52567,7 +52567,7 @@
     "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
-    "previous_price": 67.96
+    "previous_price": 59.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -52577,7 +52577,7 @@
     "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
-    "previous_price": 67.96
+    "previous_price": 59.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -52587,7 +52587,7 @@
     "price": 59.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-combat-speed-5-zwart",
-    "previous_price": 67.96
+    "previous_price": 59.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53707,7 +53707,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53717,7 +53717,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53727,7 +53727,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53737,7 +53737,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53747,7 +53747,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53757,7 +53757,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53767,7 +53767,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53777,7 +53777,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53787,7 +53787,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53797,7 +53797,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53807,7 +53807,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53817,7 +53817,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53827,7 +53827,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53837,7 +53837,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53847,7 +53847,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53857,7 +53857,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53867,7 +53867,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53877,7 +53877,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53887,7 +53887,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53897,7 +53897,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53907,7 +53907,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53917,7 +53917,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53927,7 +53927,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53937,7 +53937,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53947,7 +53947,7 @@
     "price": 44.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53957,7 +53957,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53967,7 +53967,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53977,7 +53977,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53987,7 +53987,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -53997,7 +53997,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54007,7 +54007,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54017,7 +54017,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54027,7 +54027,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54037,7 +54037,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54137,7 +54137,7 @@
     "price": 44.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/athena-kickboks-broekje-paars",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54147,7 +54147,7 @@
     "price": 44.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/athena-kickboks-broekje-paars",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54157,7 +54157,7 @@
     "price": 44.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/athena-kickboks-broekje-paars",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54167,7 +54167,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/athena-kickboks-broekje-paars",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54175,9 +54175,9 @@
     "product": "Athena Kickboks Broekje Teal",
     "size": "XS",
     "price": 44.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fightstyle.nl/products/athena-kickboks-broekje-teal",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54187,7 +54187,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/athena-kickboks-broekje-teal",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54197,7 +54197,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/athena-kickboks-broekje-teal",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54207,7 +54207,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/athena-kickboks-broekje-teal",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54217,7 +54217,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/athena-sport-bh-thessalia-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54227,7 +54227,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/athena-sport-bh-thessalia-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54237,7 +54237,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/athena-sport-bh-thessalia-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54247,7 +54247,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/athena-sport-bh-thessalia-zwart",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54257,7 +54257,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/athena-sport-bh-thessalia-zwart",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54267,7 +54267,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/athena-sport-bh-thessalia-zwart",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54877,7 +54877,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54887,7 +54887,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54897,7 +54897,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54907,7 +54907,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54917,7 +54917,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54927,7 +54927,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54937,7 +54937,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54947,7 +54947,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54957,7 +54957,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54967,7 +54967,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54977,7 +54977,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54987,7 +54987,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -54997,7 +54997,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55007,7 +55007,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55017,7 +55017,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55027,7 +55027,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55037,7 +55037,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55047,7 +55047,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55057,7 +55057,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55067,7 +55067,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55077,7 +55077,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55087,7 +55087,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55097,7 +55097,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55107,7 +55107,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55117,7 +55117,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55127,7 +55127,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55137,7 +55137,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55147,7 +55147,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55157,7 +55157,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55167,7 +55167,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havock-k-zwart",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55577,7 +55577,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55587,7 +55587,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55597,7 +55597,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55607,7 +55607,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55617,7 +55617,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55627,7 +55627,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55637,7 +55637,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55647,7 +55647,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55657,7 +55657,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55667,7 +55667,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55677,7 +55677,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55687,7 +55687,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55697,7 +55697,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55707,7 +55707,7 @@
     "price": 34.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 39.95
+    "previous_price": 34.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55717,7 +55717,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55727,7 +55727,7 @@
     "price": 44.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55737,7 +55737,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55747,7 +55747,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55757,7 +55757,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55767,7 +55767,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55777,7 +55777,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55787,7 +55787,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55797,7 +55797,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55807,7 +55807,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55817,7 +55817,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55827,7 +55827,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55837,7 +55837,7 @@
     "price": 44.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55847,7 +55847,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55857,7 +55857,7 @@
     "price": 44.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-havoc-wit",
-    "previous_price": 49.95
+    "previous_price": 44.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55867,7 +55867,7 @@
     "price": 69.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 74.95
+    "previous_price": 69.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55877,7 +55877,7 @@
     "price": 69.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 74.95
+    "previous_price": 69.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55887,7 +55887,7 @@
     "price": 69.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 74.95
+    "previous_price": 69.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55897,7 +55897,7 @@
     "price": 69.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 74.95
+    "previous_price": 69.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55907,7 +55907,7 @@
     "price": 69.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 74.95
+    "previous_price": 69.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55917,7 +55917,7 @@
     "price": 69.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 74.95
+    "previous_price": 69.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55927,7 +55927,7 @@
     "price": 69.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 74.95
+    "previous_price": 69.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55937,7 +55937,7 @@
     "price": 69.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 74.95
+    "previous_price": 69.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55947,7 +55947,7 @@
     "price": 69.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 74.95
+    "previous_price": 69.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55957,7 +55957,7 @@
     "price": 69.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 74.95
+    "previous_price": 69.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55967,7 +55967,7 @@
     "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 84.95
+    "previous_price": 79.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55977,7 +55977,7 @@
     "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 84.95
+    "previous_price": 79.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55987,7 +55987,7 @@
     "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 84.95
+    "previous_price": 79.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -55997,7 +55997,7 @@
     "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 84.95
+    "previous_price": 79.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -56007,7 +56007,7 @@
     "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 84.95
+    "previous_price": 79.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -56017,7 +56017,7 @@
     "price": 79.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 84.95
+    "previous_price": 79.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -56027,7 +56027,7 @@
     "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 84.95
+    "previous_price": 79.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -56037,7 +56037,7 @@
     "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 84.95
+    "previous_price": 79.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -56047,7 +56047,7 @@
     "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 84.95
+    "previous_price": 79.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -56057,7 +56057,7 @@
     "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 84.95
+    "previous_price": 79.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -56067,7 +56067,7 @@
     "price": 79.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 84.95
+    "previous_price": 79.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -56077,7 +56077,7 @@
     "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 84.95
+    "previous_price": 79.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -56087,7 +56087,7 @@
     "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 84.95
+    "previous_price": 79.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -56097,7 +56097,7 @@
     "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 84.95
+    "previous_price": 79.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -56107,7 +56107,7 @@
     "price": 79.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 84.95
+    "previous_price": 79.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -56147,7 +56147,7 @@
     "price": 29.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/booster-bokshandschoenen-combat-series-groen",
-    "previous_price": 35.16
+    "previous_price": 29.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -56157,7 +56157,7 @@
     "price": 29.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/booster-bokshandschoenen-combat-series-groen",
-    "previous_price": 34.95
+    "previous_price": 29.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -56167,7 +56167,7 @@
     "price": 29.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/booster-bokshandschoenen-combat-series-groen",
-    "previous_price": 35.16
+    "previous_price": 29.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -56177,7 +56177,7 @@
     "price": 29.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/booster-bokshandschoenen-combat-series-groen",
-    "previous_price": 35.16
+    "previous_price": 29.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -56297,7 +56297,7 @@
     "price": 4.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-bidon-tiro-0-75l-zwart",
-    "previous_price": 5.95
+    "previous_price": 4.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -57127,7 +57127,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/booster-elleboog-beschermers-b-force-ekp",
-    "previous_price": 23.96
+    "previous_price": 19.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -57137,7 +57137,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/booster-elleboog-beschermers-b-force-ekp",
-    "previous_price": 23.96
+    "previous_price": 19.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -57147,7 +57147,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/booster-elleboog-beschermers-b-force-ekp",
-    "previous_price": 23.96
+    "previous_price": 19.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -57157,7 +57157,7 @@
     "price": 29.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/booster-bokshandschoenen-youth-elite-v2-wit",
-    "previous_price": 35.16
+    "previous_price": 29.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -57167,7 +57167,7 @@
     "price": 29.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/booster-bokshandschoenen-youth-elite-v2-wit",
-    "previous_price": 35.16
+    "previous_price": 29.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -57177,7 +57177,7 @@
     "price": 29.95,
     "in_stock": false,
     "url": "https://fightstyle.nl/products/booster-bokshandschoenen-youth-elite-v2-wit",
-    "previous_price": 35.16
+    "previous_price": 29.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -57897,7 +57897,7 @@
     "price": 4.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/adidas-amateur-boxing-tank-lightweight-blauw",
-    "previous_price": 6.95
+    "previous_price": 4.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -58517,7 +58517,7 @@
     "price": 7.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/booster-enkelbescherming-blauw",
-    "previous_price": 9.95
+    "previous_price": 7.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -58855,7 +58855,7 @@
     "product": "Arrhichion Shorts",
     "size": "M",
     "price": 54.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-shorts",
     "previous_price": 54.99
   },
@@ -58925,7 +58925,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "XS / M",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -58995,7 +58995,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "S / M",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -59065,7 +59065,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "M / M",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -59135,7 +59135,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "L / M",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -59275,7 +59275,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "2XL / M",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -59345,7 +59345,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "3XL / M",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -60715,7 +60715,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "XS / M",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -60785,7 +60785,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "S / M",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -64035,7 +64035,7 @@
     "product": "Golden Burro Hoodie",
     "size": "L",
     "price": 79.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/golden-burro-hoodie",
     "previous_price": 79.99
   },
@@ -64255,7 +64255,7 @@
     "product": "Topo Shorts",
     "size": "M / Green",
     "price": 49.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/topo-shorts",
     "previous_price": 49.99
   },
@@ -87125,7 +87125,7 @@
     "product": "Kingz BJJ Finger Tape - Pink",
     "size": "Pink",
     "price": 12.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-finger-tape-pink",
     "previous_price": 12.0
   },
@@ -113945,7 +113945,7 @@
     "product": "Baby Gi Pink",
     "size": "6 to 12 mo.",
     "price": 39.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/baby-gi-pink",
     "previous_price": 39.95
   },
@@ -115335,7 +115335,7 @@
     "product": "FUJI MUSASHI Long Sleeve Rashguard",
     "size": "L",
     "price": 62.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/fuji-musashi-long-sleeve-rashguard",
     "previous_price": 62.95
   },
@@ -115375,7 +115375,7 @@
     "product": "FUJI SAKANA Long Sleeve Rashguard",
     "size": "XS",
     "price": 62.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/fuji-sakana-long-sleeve-rashguard",
     "previous_price": 62.95
   },
@@ -115395,7 +115395,7 @@
     "product": "FUJI SAKANA Long Sleeve Rashguard",
     "size": "M",
     "price": 62.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/fuji-sakana-long-sleeve-rashguard",
     "previous_price": 62.95
   },
@@ -117095,7 +117095,7 @@
     "product": "Womens SBG DRM Suparaito BJJ GI Gray",
     "size": "W0",
     "price": 178.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/womens-sbg-drm-suparaito-bjj-gi-gray",
     "previous_price": 178.0
   },
@@ -117105,7 +117105,7 @@
     "product": "Womens SBG DRM Suparaito BJJ GI Gray",
     "size": "W1",
     "price": 178.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/womens-sbg-drm-suparaito-bjj-gi-gray",
     "previous_price": 178.0
   },
@@ -117155,7 +117155,7 @@
     "product": "SBG DRM Suparaito BJJ GI Gray",
     "size": "A2",
     "price": 178.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/sbg-drm-suparaito-bjj-gi-gray",
     "previous_price": 178.0
   },
@@ -117675,7 +117675,7 @@
     "product": "Heritage Keisho Long Sleeve Rashguard Black",
     "size": "L",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/heritage-keisho-long-sleeve-rashguard-black",
     "previous_price": 69.95
   },
@@ -117695,7 +117695,7 @@
     "product": "Heritage Keisho Long Sleeve Rashguard Black",
     "size": "2XL",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/heritage-keisho-long-sleeve-rashguard-black",
     "previous_price": 69.95
   },
@@ -117775,7 +117775,7 @@
     "product": "Heritage Keisho Lightweight BJJ Gi Black",
     "size": "A2",
     "price": 224.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/heritage-keisho-lightweight-bjj-gi-black",
     "previous_price": 224.95
   },
@@ -118435,7 +118435,7 @@
     "product": "Renzo Gracie Standard Long Sleeve Rashguard - YOUTH",
     "size": "YM",
     "price": 57.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/renzo-gracie-standard-long-sleeve-rashguard-youth",
     "previous_price": 57.0
   },
@@ -118655,7 +118655,7 @@
     "product": "Karate White Belt",
     "size": "3",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/karate-white-belt",
     "previous_price": 14.95
   },
@@ -118665,7 +118665,7 @@
     "product": "Karate White Belt",
     "size": "4",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/karate-white-belt",
     "previous_price": 14.95
   },
@@ -118675,7 +118675,7 @@
     "product": "Karate White Belt",
     "size": "5",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/karate-white-belt",
     "previous_price": 14.95
   },
@@ -118685,7 +118685,7 @@
     "product": "Karate White Belt",
     "size": "6",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/karate-white-belt",
     "previous_price": 14.95
   },
@@ -118695,7 +118695,7 @@
     "product": "Karate White Belt",
     "size": "7",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/karate-white-belt",
     "previous_price": 14.95
   },
@@ -118975,7 +118975,7 @@
     "product": "We Defy Patch",
     "size": "All",
     "price": 42.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-patch",
     "previous_price": 42.95
   },
@@ -119075,7 +119075,7 @@
     "product": "FUJI Varsity 1969 Shirt Heather Grey",
     "size": "XL",
     "price": 29.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/retro-jiu-jitsu-shirt-heather-grey",
     "previous_price": 29.95
   },
@@ -119355,7 +119355,7 @@
     "product": "Baseline 2.0 Short Sleeve Rashguard Black",
     "size": "2XL",
     "price": 49.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/baseline-2-0-short-sleeve-rashguard-black",
     "previous_price": 49.95
   },
@@ -119615,7 +119615,7 @@
     "product": "Ippon Gear Black Belt",
     "size": "6.5 - 320cm",
     "price": 45.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-legend-ijf-black-belt",
     "previous_price": 45.95
   },
@@ -119625,7 +119625,7 @@
     "product": "Ippon Gear Black Belt",
     "size": "7.5 - 340cm",
     "price": 45.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-legend-ijf-black-belt",
     "previous_price": 45.95
   },
@@ -119655,7 +119655,7 @@
     "product": "Baby Gi Blue",
     "size": "6 to 12 mo.",
     "price": 39.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/baby-jiu-jitsu-gi",
     "previous_price": 39.95
   },
@@ -120375,7 +120375,7 @@
     "product": "Baseline 2.0 Long Sleeve Rashguard Military Green",
     "size": "3XL",
     "price": 54.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/baseline-2-0-long-sleeve-rashguard-military-green",
     "previous_price": 54.95
   },
@@ -122715,7 +122715,7 @@
     "product": "Alliance Flex Lite Shorts Black",
     "size": "28",
     "price": 58.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/alliance-flex-lite-shorts-black",
     "previous_price": 58.0
   },
@@ -122725,7 +122725,7 @@
     "product": "Alliance Flex Lite Shorts Black",
     "size": "30",
     "price": 58.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/alliance-flex-lite-shorts-black",
     "previous_price": 58.0
   },
@@ -122765,7 +122765,7 @@
     "product": "Alliance Flex Lite Shorts Black",
     "size": "38",
     "price": 58.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/alliance-flex-lite-shorts-black",
     "previous_price": 58.0
   },
@@ -124085,7 +124085,7 @@
     "product": "Japanese Street Art Shirt Red",
     "size": "L",
     "price": 29.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/japanese-street-art-shirt-red",
     "previous_price": 29.95
   },
@@ -129065,7 +129065,7 @@
     "product": "SBG Grunge Gorilla Youth Short Sleeve Rashguard",
     "size": "YL",
     "price": 43.4,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/sbg-grunge-gorilla-youth-short-sleeve-rashguard",
     "previous_price": 43.4
   },
@@ -129315,7 +129315,7 @@
     "product": "S.O.C.P. Sekai BJJ Gi 2.0 Black",
     "size": "A3",
     "price": 149.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/s-o-c-p-sekai-bjj-gi-2-0-black",
     "previous_price": 149.0
   },
@@ -129865,7 +129865,7 @@
     "product": "Karate Color Belt",
     "size": "0 / Yellow",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/karate-color-belt",
     "previous_price": 14.95
   },
@@ -129925,7 +129925,7 @@
     "product": "Karate Color Belt",
     "size": "0 / Blue",
     "price": 14.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/karate-color-belt",
     "previous_price": 14.95
   },
@@ -129975,7 +129975,7 @@
     "product": "Karate Color Belt",
     "size": "1 / Yellow/Orange",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/karate-color-belt",
     "previous_price": 14.95
   },
@@ -130155,7 +130155,7 @@
     "product": "Karate Color Belt",
     "size": "2 / Brown",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/karate-color-belt",
     "previous_price": 14.95
   },
@@ -130245,7 +130245,7 @@
     "product": "Karate Color Belt",
     "size": "3 / Blue",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/karate-color-belt",
     "previous_price": 14.95
   },
@@ -130275,7 +130275,7 @@
     "product": "Karate Color Belt",
     "size": "3 / Brown",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/karate-color-belt",
     "previous_price": 14.95
   },
@@ -130305,7 +130305,7 @@
     "product": "Karate Color Belt",
     "size": "4 / Yellow",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/karate-color-belt",
     "previous_price": 14.95
   },
@@ -130365,7 +130365,7 @@
     "product": "Karate Color Belt",
     "size": "4 / Blue",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/karate-color-belt",
     "previous_price": 14.95
   },
@@ -130395,7 +130395,7 @@
     "product": "Karate Color Belt",
     "size": "4 / Brown",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/karate-color-belt",
     "previous_price": 14.95
   },
@@ -130465,7 +130465,7 @@
     "product": "Karate Color Belt",
     "size": "5 / Green",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/karate-color-belt",
     "previous_price": 14.95
   },
@@ -130485,7 +130485,7 @@
     "product": "Karate Color Belt",
     "size": "5 / Blue",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/karate-color-belt",
     "previous_price": 14.95
   },
@@ -130515,7 +130515,7 @@
     "product": "Karate Color Belt",
     "size": "5 / Brown",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/karate-color-belt",
     "previous_price": 14.95
   },
@@ -130605,7 +130605,7 @@
     "product": "Karate Color Belt",
     "size": "6 / Blue",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/karate-color-belt",
     "previous_price": 14.95
   },
@@ -130775,7 +130775,7 @@
     "product": "CKO MMA Gloves White [FINAL SALE]",
     "size": "L",
     "price": 44.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/cko-mma-gloves-1",
     "previous_price": 44.99
   },
@@ -130785,7 +130785,7 @@
     "product": "CKO MMA Gloves White [FINAL SALE]",
     "size": "XL",
     "price": 44.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/cko-mma-gloves-1",
     "previous_price": 44.99
   },
@@ -130885,7 +130885,7 @@
     "product": "Suparaito BJJ Gi Sheepdog Response Edition Military Green",
     "size": "A1",
     "price": 124.76,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/suparaito-bjj-gi-sheepdog-response-edition-military-green",
     "previous_price": 124.76
   },
@@ -132195,7 +132195,7 @@
     "product": "SBG Kids Short Sleeve Ranked Rashguard",
     "size": "YL",
     "price": 62.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/sbg-kids-short-sleeve-ranked-rashguard",
     "previous_price": 62.0
   },
@@ -133055,7 +133055,7 @@
     "product": "Renzo Gracie Premium Pearl Weave BJJ Belt Brown",
     "size": "A0",
     "price": 34.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/renzo-gracie-premium-pearl-weave-bjj-belt-brown",
     "previous_price": 34.95
   },
@@ -133065,7 +133065,7 @@
     "product": "Renzo Gracie Premium Pearl Weave BJJ Belt Brown",
     "size": "A1",
     "price": 34.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/renzo-gracie-premium-pearl-weave-bjj-belt-brown",
     "previous_price": 34.95
   },
@@ -133075,7 +133075,7 @@
     "product": "Renzo Gracie Premium Pearl Weave BJJ Belt Brown",
     "size": "A2",
     "price": 34.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/renzo-gracie-premium-pearl-weave-bjj-belt-brown",
     "previous_price": 34.95
   },
@@ -133375,7 +133375,7 @@
     "product": "Advanced Brushed Karate Gi",
     "size": "5",
     "price": 79.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/fuji-sports-advanced-brushed-karate-gi-fhw",
     "previous_price": 79.95
   },
@@ -134195,7 +134195,7 @@
     "product": "We Defy Core T-Shirt",
     "size": "3XL / Black",
     "price": 30.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/we-defy-core-t-shirt",
     "previous_price": 30.0
   },
@@ -134815,7 +134815,7 @@
     "product": "Rilion Gracie Belt White/Yellow",
     "size": "A2",
     "price": 24.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/rilion-gracie-belt-white-yellow",
     "previous_price": 24.0
   },
@@ -135105,7 +135105,7 @@
     "product": "SAKANA Long Sleeve Rashguard",
     "size": "XS",
     "price": 62.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/sakana-long-sleeve-rashguard",
     "previous_price": 62.95
   },
@@ -135125,7 +135125,7 @@
     "product": "SAKANA Long Sleeve Rashguard",
     "size": "M",
     "price": 62.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/sakana-long-sleeve-rashguard",
     "previous_price": 62.95
   },
@@ -135205,7 +135205,7 @@
     "product": "MUSASHI Long Sleeve Rashguard",
     "size": "L",
     "price": 62.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/musashi-long-sleeve-rashguard",
     "previous_price": 62.95
   },
@@ -135275,7 +135275,7 @@
     "product": "MOKO Long Sleeve Rashguard",
     "size": "L",
     "price": 62.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/moko-long-sleeve-rashguard",
     "previous_price": 62.95
   },
@@ -136035,7 +136035,7 @@
     "product": "Kids Royce Gracie Classic T-Shirt 2.0 White",
     "size": "YS",
     "price": 32.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/kids-royce-gracie-classic-t-shirt-2-0-white",
     "previous_price": 32.0
   },
@@ -136125,7 +136125,7 @@
     "product": "Royce Gracie Classic T-Shirt 2.0 Navy",
     "size": "XS",
     "price": 32.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-classic-t-shirt-2-0-navy",
     "previous_price": 32.0
   },
@@ -136245,7 +136245,7 @@
     "product": "We Defy Core Rashguard",
     "size": "L / Black",
     "price": 55.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/we-defy-core-rashguard",
     "previous_price": 55.0
   },
@@ -136255,7 +136255,7 @@
     "product": "We Defy Core Rashguard",
     "size": "L / Green",
     "price": 55.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/we-defy-core-rashguard",
     "previous_price": 55.0
   },
@@ -136275,7 +136275,7 @@
     "product": "We Defy Core Rashguard",
     "size": "XL / Green",
     "price": 55.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/we-defy-core-rashguard",
     "previous_price": 55.0
   },
@@ -137105,7 +137105,7 @@
     "product": "Tatsu Zip Hoodie Black",
     "size": "XL",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/tatsu-zip-hoodie-black",
     "previous_price": 59.95
   },
@@ -137155,7 +137155,7 @@
     "product": "Ryujin T-Shirt Heather Grey",
     "size": "M",
     "price": 29.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ryujin-t-shirt-heather-grey",
     "previous_price": 29.95
   },
@@ -137175,7 +137175,7 @@
     "product": "Ryujin T-Shirt Heather Grey",
     "size": "XL",
     "price": 29.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ryujin-t-shirt-heather-grey",
     "previous_price": 29.95
   },
@@ -138425,7 +138425,7 @@
     "product": "Mizuno Olympic Judo Gi White",
     "size": "2.5",
     "price": 269.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/mizuno-olympic-judo-gi-white",
     "previous_price": 269.95
   },
@@ -138905,7 +138905,7 @@
     "product": "We Defy Core Rashguard Green",
     "size": "XL",
     "price": 55.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/we-defy-core-rashguard-green",
     "previous_price": 55.0
   },
@@ -139655,7 +139655,7 @@
     "product": "Renzo Gracie Competition BJJ Gi White",
     "size": "A0",
     "price": 189.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/renzo-gracie-competition-bjj-gi-white",
     "previous_price": 189.0
   },
@@ -140885,7 +140885,7 @@
     "product": "Shogun Heat Gear Spats Black",
     "size": "XL",
     "price": 59.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/shogun-heat-gear-spats-black",
     "previous_price": 59.95
   },
@@ -141545,7 +141545,7 @@
     "product": "SBG Midweight Hoodie Olive",
     "size": "XL",
     "price": 47.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/sbg-midweight-hoodie-olive",
     "previous_price": 47.0
   },
@@ -141845,7 +141845,7 @@
     "product": "Kids Six Blades Performance Comfort Shorts Black",
     "size": "YM",
     "price": 55.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/kids-six-blades-performance-comfort-shorts-black",
     "previous_price": 55.0
   },
@@ -145025,7 +145025,7 @@
     "product": "Rilion Gracie Ranked Short Sleeve Rashguard Purple",
     "size": "XL",
     "price": 56.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/rilion-gracie-ranked-short-sleeve-rashguard-purple",
     "previous_price": 56.0
   },
@@ -145615,7 +145615,7 @@
     "product": "Baseline Ranked Short Sleeve Rashguard Blue",
     "size": "XL",
     "price": 49.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/baseline-ranked-short-sleeve-rashguard-blue",
     "previous_price": 49.95
   },
@@ -145625,7 +145625,7 @@
     "product": "Baseline Ranked Short Sleeve Rashguard Blue",
     "size": "2XL",
     "price": 49.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/baseline-ranked-short-sleeve-rashguard-blue",
     "previous_price": 49.95
   },
@@ -145635,7 +145635,7 @@
     "product": "Baseline Ranked Short Sleeve Rashguard Blue",
     "size": "3XL",
     "price": 49.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/baseline-ranked-short-sleeve-rashguard-blue",
     "previous_price": 49.95
   },
@@ -147215,7 +147215,7 @@
     "product": "Womens Oversized Hoodie Black",
     "size": "WXS",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/womens-oversized-hoodie-black",
     "previous_price": 59.95
   },
@@ -148675,7 +148675,7 @@
     "product": "Royce Gracie Short Sleeve Rashguard",
     "size": "2XL",
     "price": 62.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/royce-gracie-official-short-sleeve-rashguard-4987",
     "previous_price": 62.95
   },
@@ -148685,7 +148685,7 @@
     "product": "Royce Gracie Short Sleeve Rashguard",
     "size": "3XL",
     "price": 62.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/royce-gracie-official-short-sleeve-rashguard-4987",
     "previous_price": 62.95
   },
@@ -149625,7 +149625,7 @@
     "product": "Kids Ultra Lite 300 BJJ Gi White",
     "size": "C1",
     "price": 109.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/kids-ultra-lite-300-bjj-gi-white",
     "previous_price": 109.95
   },
@@ -149755,7 +149755,7 @@
     "product": "Kids Royce Gracie Pullover Hoodie Navy",
     "size": "YS",
     "price": 59.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/kids-royce-gracie-pullover-hoodie-navy",
     "previous_price": 59.0
   },
@@ -150445,7 +150445,7 @@
     "product": "Battle Flex Lite Rashguard Black",
     "size": "3XL",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/battle-flex-lite-rashguard-black",
     "previous_price": 59.95
   },
@@ -150535,7 +150535,7 @@
     "product": "Pedro Sauer BJJ Signature Gi Black",
     "size": "A0",
     "price": 160.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/pedro-sauer-bjj-signature-gi-black",
     "previous_price": 160.0
   },
@@ -151335,7 +151335,7 @@
     "product": "Womens Jiu Jitsu Player Blue",
     "size": "WXS",
     "price": 27.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/womens-jiu-jitsu-player-blue",
     "previous_price": 27.95
   },
@@ -151525,7 +151525,7 @@
     "product": "Jiu Jitsu Player Crewneck Heather Grey",
     "size": "S",
     "price": 54.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/jiu-jitsu-player-crewneck-heather-grey-1",
     "previous_price": 54.95
   },
@@ -151865,7 +151865,7 @@
     "product": "Mizuno IJF Approved Japan Deluxe Black Belt",
     "size": "4",
     "price": 89.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/mizuno-ijf-approved-japan-deluxe-black-belt",
     "previous_price": 89.95
   },
@@ -151995,7 +151995,7 @@
     "product": "FUJI x Alliance 30th Anniversary Short Sleeve T-Shirt White",
     "size": "2XL",
     "price": 30.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-short-sleeve-t-shirt-white",
     "previous_price": 30.0
   },
@@ -152795,7 +152795,7 @@
     "product": "FUJI x Alliance BJJ Belt Purple",
     "size": "A0",
     "price": 16.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/fuji-x-alliance-bjj-belt-purple",
     "previous_price": 16.0
   },
@@ -154045,7 +154045,7 @@
     "product": "FUJI x Alliance 30th Anniversary Short Sleeve T-Shirt Black",
     "size": "2XL",
     "price": 30.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-short-sleeve-t-shirt",
     "previous_price": 30.0
   },
@@ -154125,7 +154125,7 @@
     "product": "Mizuno Japan Yusho Judo Gi W/Bird White",
     "size": "1",
     "price": 399.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/mizuno-japan-yusho-judo-gi-w-bird-white",
     "previous_price": 399.95
   },
@@ -154135,7 +154135,7 @@
     "product": "Mizuno Japan Yusho Judo Gi W/Bird White",
     "size": "1.5",
     "price": 399.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/mizuno-japan-yusho-judo-gi-w-bird-white",
     "previous_price": 399.95
   },
@@ -154195,7 +154195,7 @@
     "product": "Mizuno Japan Yusho Judo Gi W/Bird White",
     "size": "4.5",
     "price": 399.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/mizuno-japan-yusho-judo-gi-w-bird-white",
     "previous_price": 399.95
   },
@@ -158245,7 +158245,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "1.5",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -158255,7 +158255,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "2",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -158275,7 +158275,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "3",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -158285,7 +158285,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "3.5",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -158295,7 +158295,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "4",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -158305,7 +158305,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "4.5",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -158315,7 +158315,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "5",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -158325,7 +158325,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "5.5",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -158335,7 +158335,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants Blue",
     "size": "6",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-judo-pants-blue",
     "previous_price": 69.95
   },
@@ -158365,7 +158365,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "1.5",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -158375,7 +158375,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "2",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -158415,7 +158415,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "4",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -158425,7 +158425,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "4.5",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -158435,7 +158435,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "5",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -158445,7 +158445,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "5.5",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -158455,7 +158455,7 @@
     "product": "Ippon Gear IJF Legends 2 Judo Pants White",
     "size": "6",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-judo-pants-white",
     "previous_price": 69.95
   },
@@ -161525,7 +161525,7 @@
     "product": "BJJ Revolution Super lite Gi (Blue,Black)",
     "size": "A3 / Blue",
     "price": 175.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/bjj-revolution-superlite-gi",
     "previous_price": 175.0
   },
@@ -164915,7 +164915,7 @@
     "product": "BTT Lightweight BJJ Gi White",
     "size": "A1",
     "price": 139.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/new-btt-lightweight-bjj-gi-white-5515",
     "previous_price": 139.99
   },
@@ -165485,7 +165485,7 @@
     "product": "Rilion Gracie Black Comp Team Shorts",
     "size": "32",
     "price": 56.1,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/rilion-gracie-black-comp-team-shorts",
     "previous_price": 56.1
   },
@@ -166675,7 +166675,7 @@
     "product": "Royce Gracie Blackout T",
     "size": "XS",
     "price": 23.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-blackout-t",
     "previous_price": 23.0
   },
@@ -168295,7 +168295,7 @@
     "product": "Renzo Gracie Classic Ranked T-shirt",
     "size": "XS",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/renzo-gracie-classic-ranked-t-shirt",
     "previous_price": 20.0
   },
@@ -170535,7 +170535,7 @@
     "product": "Dojo Outfitters x FUJI Judo Gi",
     "size": "4",
     "price": 170.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/dojo-outfitters-judo-gi",
     "previous_price": 170.95
   },
@@ -170545,7 +170545,7 @@
     "product": "Dojo Outfitters x FUJI Judo Gi",
     "size": "4.5",
     "price": 170.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/dojo-outfitters-judo-gi",
     "previous_price": 170.95
   },
@@ -170625,7 +170625,7 @@
     "product": "Euro Competition Judo Gi White",
     "size": "4",
     "price": 139.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/euro-competition-judo-gi",
     "previous_price": 139.95
   },
@@ -172225,7 +172225,7 @@
     "product": "Suparaito BJJ Gi (Unisex Size) Military Green",
     "size": "A2",
     "price": 159.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/suparaito-bjj-gi-unisex-size-military-green",
     "previous_price": 159.95
   },
@@ -172245,7 +172245,7 @@
     "product": "Suparaito BJJ Gi (Unisex Size) Military Green",
     "size": "A2L",
     "price": 159.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/suparaito-bjj-gi-unisex-size-military-green",
     "previous_price": 159.95
   },
@@ -172255,7 +172255,7 @@
     "product": "Suparaito BJJ Gi (Unisex Size) Military Green",
     "size": "A3",
     "price": 159.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/suparaito-bjj-gi-unisex-size-military-green",
     "previous_price": 159.95
   },
@@ -173055,7 +173055,7 @@
     "product": "BJJ Adult Gi Pants White",
     "size": "A3H",
     "price": 44.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/bjj-adult-gi-pants-white",
     "previous_price": 44.95
   },
@@ -173105,7 +173105,7 @@
     "product": "BJJ Adult Gi Pants Black",
     "size": "A1",
     "price": 44.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/bjj-adult-gi-pants-black",
     "previous_price": 44.95
   },
@@ -173115,7 +173115,7 @@
     "product": "BJJ Adult Gi Pants Black",
     "size": "A2",
     "price": 44.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/bjj-adult-gi-pants-black",
     "previous_price": 44.95
   },
@@ -173135,7 +173135,7 @@
     "product": "BJJ Adult Gi Pants Black",
     "size": "A4",
     "price": 44.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/bjj-adult-gi-pants-black",
     "previous_price": 44.95
   },
@@ -173615,7 +173615,7 @@
     "product": "Premium Pearl Weave BJJ Belt Black",
     "size": "A3",
     "price": 34.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/premium-pearl-weave-bjj-belt-black",
     "previous_price": 34.95
   },
@@ -173755,7 +173755,7 @@
     "product": "Premium Pearl Weave BJJ Belt Purple",
     "size": "A3",
     "price": 34.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/premium-pearl-weave-bjj-belt-purple",
     "previous_price": 34.95
   },
@@ -173885,7 +173885,7 @@
     "product": "Premium Pearl Weave BJJ Belt White",
     "size": "A2",
     "price": 34.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/premium-pearl-weave-bjj-belt-white",
     "previous_price": 34.95
   },
@@ -173905,7 +173905,7 @@
     "product": "Premium Pearl Weave BJJ Belt White",
     "size": "A4",
     "price": 34.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/premium-pearl-weave-bjj-belt-white",
     "previous_price": 34.95
   },
@@ -174895,7 +174895,7 @@
     "product": "Single Weave Judo Gi Blue",
     "size": "4",
     "price": 89.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/single-weave-judo-gi-blue",
     "previous_price": 89.95
   },
@@ -175755,7 +175755,7 @@
     "product": "All Around BJJ Gi Black (Unisex Size)",
     "size": "A1",
     "price": 119.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/all-around-bjj-gi-black-unisex-size",
     "previous_price": 119.95
   },
@@ -175805,7 +175805,7 @@
     "product": "All Around BJJ Gi Black (Unisex Size)",
     "size": "A3",
     "price": 119.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/all-around-bjj-gi-black-unisex-size",
     "previous_price": 119.95
   },
@@ -176225,7 +176225,7 @@
     "product": "All Around BJJ Gi Black",
     "size": "A1",
     "price": 119.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/all-around-bjj-gi-black",
     "previous_price": 119.95
   },
@@ -176605,7 +176605,7 @@
     "product": "Suparaito BJJ Gi Military Green",
     "size": "A2",
     "price": 159.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/suparaito-bjj-gi-military-green",
     "previous_price": 159.95
   },
@@ -176625,7 +176625,7 @@
     "product": "Suparaito BJJ Gi Military Green",
     "size": "A2L",
     "price": 159.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/suparaito-bjj-gi-military-green",
     "previous_price": 159.95
   },
@@ -176635,7 +176635,7 @@
     "product": "Suparaito BJJ Gi Military Green",
     "size": "A3",
     "price": 159.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/suparaito-bjj-gi-military-green",
     "previous_price": 159.95
   },
@@ -176965,7 +176965,7 @@
     "product": "Jiu Jitsu Adult Belt Purple",
     "size": "A1",
     "price": 17.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/jiu-jitsu-adult-belt-purple",
     "previous_price": 17.95
   },
@@ -177375,7 +177375,7 @@
     "product": "Brown Judo Belt",
     "size": "2",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/brown-judo-belt",
     "previous_price": 14.95
   },
@@ -177385,7 +177385,7 @@
     "product": "Brown Judo Belt",
     "size": "3",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/brown-judo-belt",
     "previous_price": 14.95
   },
@@ -177395,7 +177395,7 @@
     "product": "Brown Judo Belt",
     "size": "4",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/brown-judo-belt",
     "previous_price": 14.95
   },
@@ -177405,7 +177405,7 @@
     "product": "Brown Judo Belt",
     "size": "5",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/brown-judo-belt",
     "previous_price": 14.95
   },
@@ -177415,7 +177415,7 @@
     "product": "Brown Judo Belt",
     "size": "6",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/brown-judo-belt",
     "previous_price": 14.95
   },
@@ -177575,7 +177575,7 @@
     "product": "Blue Judo Belt",
     "size": "0",
     "price": 14.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/blue-judo-belt",
     "previous_price": 14.95
   },
@@ -177605,7 +177605,7 @@
     "product": "Blue Judo Belt",
     "size": "3",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/blue-judo-belt",
     "previous_price": 14.95
   },
@@ -177615,7 +177615,7 @@
     "product": "Blue Judo Belt",
     "size": "4",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/blue-judo-belt",
     "previous_price": 14.95
   },
@@ -177625,7 +177625,7 @@
     "product": "Blue Judo Belt",
     "size": "5",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/blue-judo-belt",
     "previous_price": 14.95
   },
@@ -177635,7 +177635,7 @@
     "product": "Blue Judo Belt",
     "size": "6",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/blue-judo-belt",
     "previous_price": 14.95
   },
@@ -177785,7 +177785,7 @@
     "product": "Green Judo Belt",
     "size": "5",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/green-judo-belt",
     "previous_price": 14.95
   },
@@ -177795,7 +177795,7 @@
     "product": "Green Judo Belt",
     "size": "6",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/green-judo-belt",
     "previous_price": 14.95
   },
@@ -177905,7 +177905,7 @@
     "product": "Yellow/Orange Judo Belt",
     "size": "1",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/yellow-orange-judo-belt",
     "previous_price": 14.95
   },
@@ -177995,7 +177995,7 @@
     "product": "Yellow Judo Belt",
     "size": "0",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/yellow-judo-belt",
     "previous_price": 14.95
   },
@@ -178025,7 +178025,7 @@
     "product": "Yellow Judo Belt",
     "size": "3",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/yellow-judo-belt",
     "previous_price": 14.95
   },
@@ -178035,7 +178035,7 @@
     "product": "Yellow Judo Belt",
     "size": "4",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/yellow-judo-belt",
     "previous_price": 14.95
   },
@@ -178575,7 +178575,7 @@
     "product": "All Around BJJ Gi (Unisex Size)",
     "size": "A1 / Black",
     "price": 119.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/all-around-bjj-gi",
     "previous_price": 119.95
   },
@@ -179185,7 +179185,7 @@
     "product": "Suparaito BJJ Gi (Unisex Size)",
     "size": "A2 / Army Green",
     "price": 159.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/suparaito-womens-bjj-gi",
     "previous_price": 159.95
   },
@@ -179265,7 +179265,7 @@
     "product": "Suparaito BJJ Gi (Unisex Size)",
     "size": "A2L / Army Green",
     "price": 159.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/suparaito-womens-bjj-gi",
     "previous_price": 159.95
   },
@@ -179305,7 +179305,7 @@
     "product": "Suparaito BJJ Gi (Unisex Size)",
     "size": "A3 / Army Green",
     "price": 159.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/suparaito-womens-bjj-gi",
     "previous_price": 159.95
   },
@@ -180605,7 +180605,7 @@
     "product": "SBG Super Lite Gi",
     "size": "A1 / White",
     "price": 178.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/sbg-super-lite-competition-gi",
     "previous_price": 178.0
   },
@@ -180895,7 +180895,7 @@
     "product": "Suparaito BJJ Gi",
     "size": "A2 / Army Green",
     "price": 159.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/fuji-suparaito-bjj-gi",
     "previous_price": 159.95
   },
@@ -180975,7 +180975,7 @@
     "product": "Suparaito BJJ Gi",
     "size": "A2L / Army Green",
     "price": 159.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/fuji-suparaito-bjj-gi",
     "previous_price": 159.95
   },
@@ -186705,7 +186705,7 @@
     "product": "Primo Muay Thai Shorts - Mamba Series - Wit",
     "size": "XL",
     "price": 68.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/primo-mamba-series-muay-thai-shorts-wit",
     "previous_price": 68.95
   },
@@ -187585,7 +187585,7 @@
     "product": "Hayabusa Core Fight Shorts voor heren - Full Length - Zwart",
     "size": "M",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-core-fight-shorts-voor-heren-full-length-zwart",
     "previous_price": 89.99
   },
@@ -189195,7 +189195,7 @@
     "product": "Flow Progress Bokshandschoenen - Zwart runderleer",
     "size": "14 oz",
     "price": 54.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/flow-progress-bokshandschoenen-meerlaags-schuim-zwart-runderleer",
     "previous_price": 54.95
   },
@@ -189315,7 +189315,7 @@
     "product": "Rinkage Heritage Bokshandschoenen - Carbon - Zwart/Rood/Wit",
     "size": "12 oz",
     "price": 24.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/rinkage-heritage-bokshandschoenen-carbon-zwart-rood-wit",
     "previous_price": 24.95
   },
@@ -192445,7 +192445,7 @@
     "product": "Fairtex BGV21 Legacy Bokshandschoenen - echt leer - Bruin",
     "size": "12 oz",
     "price": 120.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv21-legacy-bokshandschoenen-echt-leer-bruin",
     "previous_price": 120.0
   },
@@ -195055,7 +195055,7 @@
     "product": "Hayabusa S4 Bokshandschoenen - Echt Leer - Zwart",
     "size": "16 oz",
     "price": 99.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-s4-bokshandschoenen-echt-leer-zwart",
     "previous_price": 99.99
   },
@@ -195475,7 +195475,7 @@
     "product": "Hayabusa T3 Bokshandschoenen - Wit / Grijs",
     "size": "14 oz",
     "price": 179.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-bokshandschoenen-wit-grijs",
     "previous_price": 179.0
   },
@@ -199705,7 +199705,7 @@
     "product": "Primo Classic Muay Thai Scheenbeschermer - Wit",
     "size": "L",
     "price": 119.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/primo-classic-muay-thai-scheenbeschermer-wit",
     "previous_price": 119.95
   },
@@ -207882,16 +207882,6 @@
   {
     "shop": "OLB Sports",
     "brand": "King",
-    "product": "King Pro Boxing Speed Mitts Black",
-    "size": "One Size",
-    "price": 99.0,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/king-pro-boxing-speed-mitts-black/",
-    "previous_price": 99.0
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "King",
     "product": "King Pro Boxing KPB/Revo Training Hit Sticks",
     "size": "One Size",
     "price": 44.95,
@@ -208204,7 +208194,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BGVL 3 Gold",
     "size": "12oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-gold/",
     "previous_price": 174.95
@@ -208214,7 +208204,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BGVL 3 Gold",
     "size": "14oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-gold/",
     "previous_price": 174.95
@@ -208224,7 +208214,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BGVL 3 Gold",
     "size": "16oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-gold/",
     "previous_price": 174.95
@@ -208234,7 +208224,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BGVL 3 Orange",
     "size": "12oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-orange/",
     "previous_price": 174.95
@@ -208244,7 +208234,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BGVL 3 Orange",
     "size": "14oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-orange/",
     "previous_price": 174.95
@@ -208254,7 +208244,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BGVL 3 Orange",
     "size": "16oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-orange/",
     "previous_price": 174.95
@@ -208264,7 +208254,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BGVL 3 Silver",
     "size": "12oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-silver/",
     "previous_price": 174.95
@@ -208274,7 +208264,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BGVL 3 Silver",
     "size": "14oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-silver/",
     "previous_price": 174.95
@@ -208284,7 +208274,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BGVL 3 Silver",
     "size": "16oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-silver/",
     "previous_price": 174.95
@@ -208294,7 +208284,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BGVL 3 Royal Blue",
     "size": "12oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-royal-blue/",
     "previous_price": 174.95
@@ -208304,7 +208294,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BGVL 3 Royal Blue",
     "size": "14oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-royal-blue/",
     "previous_price": 174.95
@@ -208314,7 +208304,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BGVL 3 Royal Blue",
     "size": "16oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-royal-blue/",
     "previous_price": 174.95
@@ -208324,7 +208314,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BGVL 3 Light Blue",
     "size": "10oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-light-blue/",
     "previous_price": 174.95
@@ -208334,7 +208324,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BGVL 3 Light Blue",
     "size": "12oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-light-blue/",
     "previous_price": 174.95
@@ -208344,7 +208334,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BGVL 3 Light Blue",
     "size": "14oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-light-blue/",
     "previous_price": 174.95
@@ -208354,7 +208344,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BGVL 3 Lime",
     "size": "14oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-lime/",
     "previous_price": 174.95
@@ -208364,7 +208354,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BGVL 3 Lime",
     "size": "16oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-lime/",
     "previous_price": 174.95
@@ -208374,7 +208364,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Start 12 Black",
     "size": "10oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-start-12-black/",
     "previous_price": 159.95
@@ -208384,7 +208374,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Start 12 Black",
     "size": "12oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-start-12-black/",
     "previous_price": 159.95
@@ -208394,7 +208384,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Start 12 Black",
     "size": "14oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-start-12-black/",
     "previous_price": 159.95
@@ -208404,7 +208394,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Start 12 Black",
     "size": "16oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-start-12-black/",
     "previous_price": 159.95
@@ -208414,7 +208404,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Start 10 Black/Red",
     "size": "12oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-start-10-black-red/",
     "previous_price": 159.95
@@ -208424,7 +208414,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Start 10 Black/Red",
     "size": "14oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-start-10-black-red/",
     "previous_price": 159.95
@@ -208454,7 +208444,7 @@
     "brand": "King",
     "product": "King Pro Boxing Bokshandschoenen KPB/BGK 1 Black",
     "size": "12oz",
-    "price": 109.0,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-bokshandschoenen-kpb-bgk-1-black/",
     "previous_price": 109.0
@@ -208464,7 +208454,7 @@
     "brand": "King",
     "product": "King Pro Boxing Bokshandschoenen KPB/BGK 1 Black",
     "size": "14oz",
-    "price": 109.0,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-bokshandschoenen-kpb-bgk-1-black/",
     "previous_price": 109.0
@@ -208474,7 +208464,7 @@
     "brand": "King",
     "product": "King Pro Boxing Bokshandschoenen KPB/BGK 1 Black",
     "size": "16oz",
-    "price": 109.0,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-bokshandschoenen-kpb-bgk-1-black/",
     "previous_price": 109.0
@@ -208484,7 +208474,7 @@
     "brand": "King",
     "product": "King Pro Boxing Bokshandschoenen KPB/BGK 2 White/Black",
     "size": "10oz",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-bokshandschoenen-kpb-bgk-2-white-black/",
     "previous_price": 119.95
@@ -208494,7 +208484,7 @@
     "brand": "King",
     "product": "King Pro Boxing Bokshandschoenen KPB/BGK 2 White/Black",
     "size": "12oz",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-bokshandschoenen-kpb-bgk-2-white-black/",
     "previous_price": 119.95
@@ -208504,7 +208494,7 @@
     "brand": "King",
     "product": "King Pro Boxing Bokshandschoenen KPB/BGK 2 White/Black",
     "size": "14oz",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-bokshandschoenen-kpb-bgk-2-white-black/",
     "previous_price": 119.95
@@ -208514,7 +208504,7 @@
     "brand": "King",
     "product": "King Pro Boxing Bokshandschoenen KPB/BGK 2 White/Black",
     "size": "16oz",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-bokshandschoenen-kpb-bgk-2-white-black/",
     "previous_price": 119.95
@@ -208557,16 +208547,6 @@
     "price": 69.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-revo-8-black-red/",
-    "previous_price": 69.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "King",
-    "product": "King Bokshandschoenen KPB/BG Revo 7 Black/Silver",
-    "size": "14oz",
-    "price": 69.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-revo-7-black-silver/",
     "previous_price": 69.95
   },
   {
@@ -211564,7 +211544,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen Bgvl 3 Blue",
     "size": "14oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-blue/",
     "previous_price": 174.95
@@ -211574,7 +211554,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen Bgvl 3 Blue",
     "size": "16oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-blue/",
     "previous_price": 174.95
@@ -211584,7 +211564,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen Bgvl 3 Blue",
     "size": "12oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-blue/",
     "previous_price": 174.95
@@ -211594,7 +211574,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen Bgvl 3 Blue",
     "size": "10oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-blue/",
     "previous_price": 174.95
@@ -211604,7 +211584,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen Bgvl 3 Black",
     "size": "10oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-black/",
     "previous_price": 174.95
@@ -211614,7 +211594,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen Bgvl 3 Black",
     "size": "12oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-black/",
     "previous_price": 174.95
@@ -211624,7 +211604,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen Bgvl 3 Black",
     "size": "14oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-black/",
     "previous_price": 174.95
@@ -211634,7 +211614,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen Bgvl 3 Black",
     "size": "16oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-black/",
     "previous_price": 174.95
@@ -212208,16 +212188,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksbandage-black/",
     "previous_price": 11.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Adidas",
-    "product": "Adidas Velcro Scheenbeschermers",
-    "size": "s",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/adidas-velcro-scheenbeschermers/",
-    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -213134,7 +213104,7 @@
     "brand": "King",
     "product": "King Pro Boxing Bokshandschoenen KPB/BGK 3 Black/Gold",
     "size": "14oz",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-bokshandschoenen-kpb-bgk-3-black/",
     "previous_price": 119.95
@@ -213144,7 +213114,7 @@
     "brand": "King",
     "product": "King Pro Boxing Bokshandschoenen KPB/BGK 3 Black/Gold",
     "size": "16oz",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-bokshandschoenen-kpb-bgk-3-black/",
     "previous_price": 119.95
@@ -213154,7 +213124,7 @@
     "brand": "King",
     "product": "King Pro Boxing Bokshandschoenen KPB/BGK 3 Black/Gold",
     "size": "12oz",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-bokshandschoenen-kpb-bgk-3-black/",
     "previous_price": 119.95
@@ -213164,7 +213134,7 @@
     "brand": "King",
     "product": "King Pro Boxing Bokshandschoenen KPB/BGK 4 White/Gold",
     "size": "14oz",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-bokshandschoenen-kpb-bgk-4-white/",
     "previous_price": 119.95
@@ -213174,7 +213144,7 @@
     "brand": "King",
     "product": "King Pro Boxing Bokshandschoenen KPB/BGK 4 White/Gold",
     "size": "16oz",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-bokshandschoenen-kpb-bgk-4-white/",
     "previous_price": 119.95
@@ -213184,7 +213154,7 @@
     "brand": "King",
     "product": "King Pro Boxing Bokshandschoenen KPB/BGK 4 White/Gold",
     "size": "12oz",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-bokshandschoenen-kpb-bgk-4-white/",
     "previous_price": 119.95
@@ -214934,16 +214904,6 @@
     "brand": "Adidas",
     "product": "Adidas Combat Speed 4 Worstelschoenen Black/White",
     "size": "44-2-3",
-    "price": 99.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/adidas-combat-speed-4-worstelschoenen-black-white/",
-    "previous_price": 99.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Adidas",
-    "product": "Adidas Combat Speed 4 Worstelschoenen Black/White",
-    "size": "45-1-3",
     "price": 99.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-combat-speed-4-worstelschoenen-black-white/",
@@ -217513,16 +217473,6 @@
     "shop": "OLB Sports",
     "brand": "1916",
     "product": "1916 Fight Gear Kickboksbroek Legend Navy/White",
-    "size": "xl",
-    "price": 39.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/1916-fight-gear-kickboksbroek-legend-navy-white/",
-    "previous_price": 39.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "1916",
-    "product": "1916 Fight Gear Kickboksbroek Legend Navy/White",
     "size": "m",
     "price": 39.95,
     "in_stock": true,
@@ -217637,16 +217587,6 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-kickboksbroek-legend-army-green-black/",
-    "previous_price": 39.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "1916",
-    "product": "1916 Fight Gear Kickboksbroek Legend Light Grey/Black",
-    "size": "s",
-    "price": 39.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/1916-fight-gear-kickboksbroek-legend-light-grey-black/",
     "previous_price": 39.95
   },
   {
@@ -217864,7 +217804,7 @@
     "brand": "King",
     "product": "King Pro Boxing Bokshandschoenen XK LU White/Gold",
     "size": "14oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-bokshandschoenen-xk-lu-white-gold/",
     "previous_price": 159.95
@@ -217874,7 +217814,7 @@
     "brand": "King",
     "product": "King Pro Boxing Bokshandschoenen XK LU White/Gold",
     "size": "16oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-bokshandschoenen-xk-lu-white-gold/",
     "previous_price": 159.95
@@ -217884,7 +217824,7 @@
     "brand": "King",
     "product": "King Pro Boxing Bokshandschoenen XK LU Black/White",
     "size": "14oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-bokshandschoenen-xk-lu-black-white/",
     "previous_price": 159.95
@@ -217894,7 +217834,7 @@
     "brand": "King",
     "product": "King Pro Boxing Bokshandschoenen XK LU Black/White",
     "size": "16oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-bokshandschoenen-xk-lu-black-white/",
     "previous_price": 159.95
@@ -218034,16 +217974,6 @@
     "brand": "Youth",
     "product": "Youth Fighters Scheenbeschermers Kids Monkey",
     "size": "yxl",
-    "price": 49.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/youth-fighters-scheenbeschermers-kids-monkey/",
-    "previous_price": 49.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Youth",
-    "product": "Youth Fighters Scheenbeschermers Kids Monkey",
-    "size": "yxs",
     "price": 49.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/youth-fighters-scheenbeschermers-kids-monkey/",
@@ -219754,7 +219684,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen Bgvl 4 Black/White/Grey",
     "size": "14oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-4-black-white-grey/",
     "previous_price": 174.95
@@ -219764,7 +219694,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen Bgvl 4 Black/White/Grey",
     "size": "16oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-4-black-white-grey/",
     "previous_price": 174.95
@@ -219774,7 +219704,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen Bgvl 4 Gold/White/Grey",
     "size": "16oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-4-gold-white-grey/",
     "previous_price": 174.95
@@ -219784,7 +219714,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen Bgvl 4 Black/Blue",
     "size": "14oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-4-black-blue/",
     "previous_price": 174.95
@@ -219794,7 +219724,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen Bgvl 4 Black/Blue",
     "size": "16oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-4-black-blue/",
     "previous_price": 174.95
@@ -219824,7 +219754,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen Bgvl 3 Mint",
     "size": "10oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-mint/",
     "previous_price": 174.95
@@ -219834,7 +219764,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen Bgvl 3 Candy Pink",
     "size": "10oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-candy-pink/",
     "previous_price": 174.95
@@ -219844,7 +219774,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen Bgvl 3 Candy Pink",
     "size": "12oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-candy-pink/",
     "previous_price": 174.95
@@ -219854,7 +219784,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen Bgvl 3 Candy Pink",
     "size": "14oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-candy-pink/",
     "previous_price": 174.95
@@ -219864,7 +219794,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen Bgvl 3 Sky Blue",
     "size": "12oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-sky-blue/",
     "previous_price": 174.95
@@ -219874,7 +219804,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen Bgvl 3 Sky Blue",
     "size": "14oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-sky-blue/",
     "previous_price": 174.95
@@ -219884,7 +219814,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen Bgvl 3 Sky Blue",
     "size": "10oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-sky-blue/",
     "previous_price": 174.95
@@ -220784,7 +220714,7 @@
     "brand": "King",
     "product": "King Bokshandschoen KPB/BGVL 3 White",
     "size": "12oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-white/",
     "previous_price": 159.95
@@ -220794,7 +220724,7 @@
     "brand": "King",
     "product": "King Bokshandschoen KPB/BGVL 3 White",
     "size": "14oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-white/",
     "previous_price": 159.95
@@ -220804,7 +220734,7 @@
     "brand": "King",
     "product": "King Bokshandschoen KPB/BGVL 3 White",
     "size": "16oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-white/",
     "previous_price": 159.95
@@ -220814,7 +220744,7 @@
     "brand": "King",
     "product": "King Bokshandschoen KPB/BGVL 3 White",
     "size": "10oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-white/",
     "previous_price": 159.95
@@ -220898,16 +220828,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-scheenbeschermers-wit/",
     "previous_price": 119.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Muay Thai Kickboksbroek Inferno Black/Black",
-    "size": "xxl",
-    "price": 49.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-muay-thai-kickboksbroek-inferno-black-black/",
-    "previous_price": 49.95
   },
   {
     "shop": "OLB Sports",
@@ -223034,7 +222954,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BG-N V2 White",
     "size": "14oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bg-n-v2-white/",
     "previous_price": 174.95
@@ -223044,7 +222964,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BG-N V2 White",
     "size": "16oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bg-n-v2-white/",
     "previous_price": 174.95
@@ -223054,7 +222974,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BG-N V2 White",
     "size": "12oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bg-n-v2-white/",
     "previous_price": 174.95
@@ -223064,7 +222984,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BG-N V2 White",
     "size": "10oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bg-n-v2-white/",
     "previous_price": 174.95
@@ -223074,7 +222994,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BG-N V2 Black",
     "size": "10oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bg-n-v2-black/",
     "previous_price": 174.95
@@ -223084,7 +223004,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BG-N V2 Black",
     "size": "12oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bg-n-v2-black/",
     "previous_price": 174.95
@@ -223094,7 +223014,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BG-N V2 Black",
     "size": "14oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bg-n-v2-black/",
     "previous_price": 174.95
@@ -223104,7 +223024,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BG-N V2 Black",
     "size": "16oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bg-n-v2-black/",
     "previous_price": 174.95
@@ -223114,7 +223034,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BG-N V2 Black",
     "size": "8oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bg-n-v2-black/",
     "previous_price": 174.95
@@ -225604,7 +225524,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoen Bgvl 3 Dark Pink",
     "size": "12oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-fucsia/",
     "previous_price": 174.95
@@ -225614,7 +225534,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoen Bgvl 3 Dark Pink",
     "size": "10oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-fucsia/",
     "previous_price": 174.95
@@ -225624,7 +225544,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoen Bgvl 3 Dark Pink",
     "size": "14oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-fucsia/",
     "previous_price": 174.95
@@ -225634,7 +225554,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoen Bgvl 3 Wine Red",
     "size": "14oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-wine-red/",
     "previous_price": 174.95
@@ -225644,7 +225564,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoen Bgvl 3 Wine Red",
     "size": "12oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-wine-red/",
     "previous_price": 174.95
@@ -225654,7 +225574,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoen Bgvl 3 Wine Red",
     "size": "16oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-wine-red/",
     "previous_price": 174.95
@@ -225664,7 +225584,7 @@
     "brand": "Booster",
     "product": "Booster BGL 1 V3 Bokshandschoen Zwart/Rood",
     "size": "16oz",
-    "price": 149.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bgl-1-v3-bokshandschoen-zwart-rood/",
     "previous_price": 149.95
@@ -225674,7 +225594,7 @@
     "brand": "Booster",
     "product": "Booster BGL 1 V3 Bokshandschoen Zwart/Rood",
     "size": "14oz",
-    "price": 149.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bgl-1-v3-bokshandschoen-zwart-rood/",
     "previous_price": 149.95
@@ -225684,7 +225604,7 @@
     "brand": "Booster",
     "product": "Booster BGL 1 V3 Bokshandschoen Zwart/Rood",
     "size": "10oz",
-    "price": 149.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bgl-1-v3-bokshandschoen-zwart-rood/",
     "previous_price": 149.95
@@ -225694,7 +225614,7 @@
     "brand": "Booster",
     "product": "Booster BGL 1 V3 Bokshandschoen Zwart/Rood",
     "size": "12oz",
-    "price": 149.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bgl-1-v3-bokshandschoen-zwart-rood/",
     "previous_price": 149.95
@@ -225834,7 +225754,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/SG Spartan 2 Wit",
     "size": "14oz",
-    "price": 119.99,
+    "price": 139.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-sg-spartan-2-wit/",
     "previous_price": 119.99
@@ -225844,7 +225764,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/SG Spartan 2 Wit",
     "size": "16oz",
-    "price": 119.99,
+    "price": 139.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-sg-spartan-2-wit/",
     "previous_price": 119.99
@@ -225854,7 +225774,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/SG Spartan 2 Wit",
     "size": "12oz",
-    "price": 119.99,
+    "price": 139.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-sg-spartan-2-wit/",
     "previous_price": 119.99
@@ -225954,7 +225874,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/SG Spartan 1 Zwart",
     "size": "10oz",
-    "price": 119.99,
+    "price": 139.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-sg-spartan-1-zwart/",
     "previous_price": 119.99
@@ -225964,7 +225884,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/SG Spartan 1 Zwart",
     "size": "12oz",
-    "price": 119.99,
+    "price": 139.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-sg-spartan-1-zwart/",
     "previous_price": 119.99
@@ -225974,7 +225894,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/SG Spartan 1 Zwart",
     "size": "14oz",
-    "price": 119.99,
+    "price": 139.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-sg-spartan-1-zwart/",
     "previous_price": 119.99
@@ -225984,7 +225904,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/SG Spartan 1 Zwart",
     "size": "16oz",
-    "price": 119.99,
+    "price": 139.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-sg-spartan-1-zwart/",
     "previous_price": 119.99
@@ -226724,7 +226644,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoen Bgvl 3 Wit",
     "size": "14oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-wit/",
     "previous_price": 174.95
@@ -226734,7 +226654,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoen Bgvl 3 Wit",
     "size": "16oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-wit/",
     "previous_price": 174.95
@@ -226744,7 +226664,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoen Bgvl 3 Wit",
     "size": "12oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-wit/",
     "previous_price": 174.95
@@ -226754,7 +226674,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoen Bgvl 3 Wit",
     "size": "10oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-wit/",
     "previous_price": 174.95
@@ -226914,7 +226834,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Thor White",
     "size": "12oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-thor-white/",
     "previous_price": 159.95
@@ -226924,7 +226844,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Thor White",
     "size": "14oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-thor-white/",
     "previous_price": 159.95
@@ -226934,7 +226854,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Thor White",
     "size": "16oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-thor-white/",
     "previous_price": 159.95
@@ -226944,7 +226864,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Thor White",
     "size": "10oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-thor-white/",
     "previous_price": 159.95
@@ -226954,7 +226874,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Thor Black",
     "size": "10oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-thor-black/",
     "previous_price": 159.95
@@ -226964,7 +226884,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Thor Black",
     "size": "12oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-thor-black/",
     "previous_price": 159.95
@@ -226974,7 +226894,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Thor Black",
     "size": "16oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-thor-black/",
     "previous_price": 159.95
@@ -226984,7 +226904,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Thor Black",
     "size": "14oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-thor-black/",
     "previous_price": 159.95
@@ -227924,7 +227844,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoen Bgvl 3 Militairy",
     "size": "14oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-militairy/",
     "previous_price": 174.95
@@ -227934,7 +227854,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoen Bgvl 3 Militairy",
     "size": "16oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-militairy/",
     "previous_price": 174.95
@@ -228694,7 +228614,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoen Bgvl 3 Grijs",
     "size": "14oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-grijs/",
     "previous_price": 174.95
@@ -228704,7 +228624,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoen Bgvl 3 Grijs",
     "size": "16oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-grijs/",
     "previous_price": 174.95
@@ -228714,7 +228634,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoen Bgvl 3 Grijs",
     "size": "10oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-grijs/",
     "previous_price": 174.95
@@ -228724,7 +228644,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoen Bgvl 3 Grijs",
     "size": "12oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-grijs/",
     "previous_price": 174.95
@@ -230904,7 +230824,7 @@
     "brand": "Booster",
     "product": "Booster Fight Gear BJJ Gi Pro Shield v2 White",
     "size": "a2",
-    "price": 89.0,
+    "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-fight-gear-bjj-gi-pro-shield-v2-white/",
     "previous_price": 89.0
@@ -230914,7 +230834,7 @@
     "brand": "Booster",
     "product": "Booster Fight Gear BJJ Gi Pro Shield v2 White",
     "size": "a3",
-    "price": 89.0,
+    "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-fight-gear-bjj-gi-pro-shield-v2-white/",
     "previous_price": 89.0
@@ -230934,7 +230854,7 @@
     "brand": "King",
     "product": "King Bokshandschoen KPB/BGVL 3 Oxblood",
     "size": "14oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-oxblood/",
     "previous_price": 159.95
@@ -230944,7 +230864,7 @@
     "brand": "King",
     "product": "King Bokshandschoen KPB/BGVL 3 Oxblood",
     "size": "16oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-oxblood/",
     "previous_price": 159.95
@@ -230954,7 +230874,7 @@
     "brand": "King",
     "product": "King Bokshandschoen KPB/BGVL 3 Oxblood",
     "size": "12oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-oxblood/",
     "previous_price": 159.95
@@ -231194,7 +231114,7 @@
     "brand": "King",
     "product": "King Bokshandschoen KPB/BGVL 3 Military",
     "size": "14oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-military/",
     "previous_price": 159.95
@@ -231204,7 +231124,7 @@
     "brand": "King",
     "product": "King Bokshandschoen KPB/BGVL 3 Military",
     "size": "16oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-military/",
     "previous_price": 159.95
@@ -231214,7 +231134,7 @@
     "brand": "King",
     "product": "King Bokshandschoen KPB/BGVL 3 Black",
     "size": "16oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-black/",
     "previous_price": 159.95
@@ -231224,7 +231144,7 @@
     "brand": "King",
     "product": "King Bokshandschoen KPB/BGVL 3 Black",
     "size": "12oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-black/",
     "previous_price": 159.95
@@ -231234,7 +231154,7 @@
     "brand": "King",
     "product": "King Bokshandschoen KPB/BGVL 3 Black",
     "size": "14oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-black/",
     "previous_price": 159.95
@@ -231244,7 +231164,7 @@
     "brand": "King",
     "product": "King Bokshandschoen KPB/BGVL 3 Black",
     "size": "10oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-black/",
     "previous_price": 159.95
@@ -231443,8 +231363,18 @@
     "shop": "OLB Sports",
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Platinum 7 Zwart/Grijs",
+    "size": "12oz",
+    "price": 169.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-platinum-7-zwart-grijs/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "King",
+    "product": "King Bokshandschoenen KPB/BG Platinum 7 Zwart/Grijs",
     "size": "14oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-platinum-7-zwart-grijs/",
     "previous_price": 159.95
@@ -231454,7 +231384,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Platinum 7 Zwart/Grijs",
     "size": "16oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-platinum-7-zwart-grijs/",
     "previous_price": 159.95
@@ -231464,7 +231394,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Platinum 7 Zwart/Grijs",
     "size": "10oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-platinum-7-zwart-grijs/",
     "previous_price": 159.95
@@ -231624,7 +231554,7 @@
     "brand": "Booster",
     "product": "Booster Fight Gear BJJ Gi Pro Shield v2 Black",
     "size": "a3",
-    "price": 99.95,
+    "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-fight-gear-bjj-gi-pro-shield-v2-black/",
     "previous_price": 99.95
@@ -231634,7 +231564,7 @@
     "brand": "Booster",
     "product": "Booster Fight Gear BJJ Gi Pro Shield v2 Blue",
     "size": "a3",
-    "price": 99.95,
+    "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-fight-gear-bjj-gi-pro-shield-v2-blue/",
     "previous_price": 99.95
@@ -231844,7 +231774,7 @@
     "brand": "Booster",
     "product": "Booster BJJ Band Wit",
     "size": "a2",
-    "price": 15.5,
+    "price": 16.5,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bjj-band-wit/",
     "previous_price": 15.5
@@ -231854,7 +231784,7 @@
     "brand": "Booster",
     "product": "Booster BJJ Band Wit",
     "size": "a3",
-    "price": 15.5,
+    "price": 16.5,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bjj-band-wit/",
     "previous_price": 15.5
@@ -231994,7 +231924,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Platinum 5 Wit",
     "size": "12oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-platinum-5-wit/",
     "previous_price": 159.95
@@ -232004,7 +231934,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Platinum 5 Wit",
     "size": "14oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-platinum-5-wit/",
     "previous_price": 159.95
@@ -232014,7 +231944,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Platinum 5 Wit",
     "size": "16oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-platinum-5-wit/",
     "previous_price": 159.95
@@ -232024,20 +231954,10 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Platinum 5 Wit",
     "size": "10oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-platinum-5-wit/",
     "previous_price": 159.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Booster",
-    "product": "Booster Bokshandschoen BFG Cube Groen",
-    "size": "12oz",
-    "price": 49.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/booster-bokshandschoen-bfg-cube-groen/",
-    "previous_price": 49.95
   },
   {
     "shop": "OLB Sports",
@@ -232254,7 +232174,7 @@
     "brand": "Twins",
     "product": "Twins Zakhandschoen TBM 1 Zwart",
     "size": "m",
-    "price": 99.95,
+    "price": 113.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-zakhandschoen-tbm-1-zwart/",
     "previous_price": 99.95
@@ -232264,7 +232184,7 @@
     "brand": "Twins",
     "product": "Twins Zakhandschoen TBM 1 Zwart",
     "size": "l",
-    "price": 99.95,
+    "price": 113.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-zakhandschoen-tbm-1-zwart/",
     "previous_price": 99.95
@@ -232274,7 +232194,7 @@
     "brand": "Twins",
     "product": "Twins Zakhandschoen TBM 1 Zwart",
     "size": "xl",
-    "price": 99.95,
+    "price": 113.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-zakhandschoen-tbm-1-zwart/",
     "previous_price": 99.95
@@ -232538,6 +232458,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-old-school-pro-bokshandschoen-zwart/",
     "previous_price": 89.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "1916",
+    "product": "1916 Old School Pro Bokshandschoen Zwart",
+    "size": "14oz",
+    "price": 89.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-old-school-pro-bokshandschoen-zwart/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -233118,16 +233048,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-bandage-groen/",
     "previous_price": 9.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Cellucor",
-    "product": "Cellucor C4 Original Pre Workout Orange",
-    "size": "One Size",
-    "price": 24.9,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/cellucor-c4-original-pre-workout-orange/",
-    "previous_price": 24.9
   },
   {
     "shop": "OLB Sports",
@@ -233804,7 +233724,7 @@
     "brand": "Booster",
     "product": "Booster Bokshandschoen BGLV9 Zwart/Blauw",
     "size": "14oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-zwart-blauw/",
     "previous_price": 159.95
@@ -233814,7 +233734,7 @@
     "brand": "Booster",
     "product": "Booster Bokshandschoen BGLV9 Zwart/Blauw",
     "size": "16oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-zwart-blauw/",
     "previous_price": 159.95
@@ -233824,7 +233744,7 @@
     "brand": "Booster",
     "product": "Booster Bokshandschoen BGLV9 Zwart/Blauw",
     "size": "10oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-zwart-blauw/",
     "previous_price": 159.95
@@ -233834,7 +233754,7 @@
     "brand": "Booster",
     "product": "Booster Bokshandschoen BGLV9 Zwart/Blauw",
     "size": "12oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-zwart-blauw/",
     "previous_price": 159.95
@@ -233844,7 +233764,7 @@
     "brand": "Booster",
     "product": "Booster Bokshandschoen BGLV9 Wit/Goud",
     "size": "14oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-wit-goud/",
     "previous_price": 159.95
@@ -233854,7 +233774,7 @@
     "brand": "Booster",
     "product": "Booster Bokshandschoen BGLV9 Wit/Goud",
     "size": "16oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-wit-goud/",
     "previous_price": 159.95
@@ -233864,7 +233784,7 @@
     "brand": "Booster",
     "product": "Booster Bokshandschoen BGLV9 Wit/Goud",
     "size": "12oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-wit-goud/",
     "previous_price": 159.95
@@ -233874,7 +233794,7 @@
     "brand": "Booster",
     "product": "Booster Bokshandschoen BGLV9 Zwart/Rood",
     "size": "14oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-zwart-rood/",
     "previous_price": 159.95
@@ -233884,7 +233804,7 @@
     "brand": "Booster",
     "product": "Booster Bokshandschoen BGLV9 Zwart/Rood",
     "size": "16oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-zwart-rood/",
     "previous_price": 159.95
@@ -233894,7 +233814,7 @@
     "brand": "Booster",
     "product": "Booster Bokshandschoen BGLV9 Zwart/Rood",
     "size": "10oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-zwart-rood/",
     "previous_price": 159.95
@@ -233904,7 +233824,7 @@
     "brand": "Booster",
     "product": "Booster Bokshandschoen BGLV9 Zwart/Rood",
     "size": "12oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-zwart-rood/",
     "previous_price": 159.95
@@ -233914,7 +233834,7 @@
     "brand": "Booster",
     "product": "Booster Bokshandschoen BGLV9 Zwart/Neon",
     "size": "14oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-zwart-neon/",
     "previous_price": 159.95
@@ -233924,7 +233844,7 @@
     "brand": "Booster",
     "product": "Booster Bokshandschoen BGLV9 Zwart/Neon",
     "size": "16oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-zwart-neon/",
     "previous_price": 159.95
@@ -233934,7 +233854,7 @@
     "brand": "Booster",
     "product": "Booster Bokshandschoen BGLV9 Zwart/Neon",
     "size": "10oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-zwart-neon/",
     "previous_price": 159.95
@@ -233944,7 +233864,7 @@
     "brand": "Booster",
     "product": "Booster Bokshandschoen BGLV9 Zwart/Neon",
     "size": "12oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-zwart-neon/",
     "previous_price": 159.95
@@ -233954,7 +233874,7 @@
     "brand": "Booster",
     "product": "Booster Bokshandschoen BGLV9 Zwart/Grijs",
     "size": "14oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-zwart-grijs/",
     "previous_price": 159.95
@@ -233964,7 +233884,7 @@
     "brand": "Booster",
     "product": "Booster Bokshandschoen BGLV9 Zwart/Grijs",
     "size": "16oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-zwart-grijs/",
     "previous_price": 159.95
@@ -233974,7 +233894,7 @@
     "brand": "Booster",
     "product": "Booster Bokshandschoen BGLV9 Zwart/Grijs",
     "size": "10oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-zwart-grijs/",
     "previous_price": 159.95
@@ -233984,7 +233904,7 @@
     "brand": "Booster",
     "product": "Booster Bokshandschoen BGLV9 Zwart/Grijs",
     "size": "12oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoen-bglv9-zwart-grijs/",
     "previous_price": 159.95
@@ -234394,7 +234314,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Platinum 3 Groen",
     "size": "12oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-platinum-3-groen/",
     "previous_price": 159.95
@@ -234404,7 +234324,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Platinum 3 Groen",
     "size": "16oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-platinum-3-groen/",
     "previous_price": 159.95
@@ -234414,7 +234334,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Platinum 3 Groen",
     "size": "14oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-platinum-3-groen/",
     "previous_price": 159.95
@@ -234424,7 +234344,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Platinum 4 Rood/Wit",
     "size": "16oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-platinum-4-rood-wit/",
     "previous_price": 159.95
@@ -234434,7 +234354,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Platinum 4 Rood/Wit",
     "size": "10oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-platinum-4-rood-wit/",
     "previous_price": 159.95
@@ -234444,7 +234364,7 @@
     "brand": "King",
     "product": "King Bokshandschoenen KPB/BG Platinum 4 Rood/Wit",
     "size": "12oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-platinum-4-rood-wit/",
     "previous_price": 159.95
@@ -234804,16 +234724,6 @@
     "brand": "Joya",
     "product": "Joya Elastische Scheenbeschermer Zwart",
     "size": "m",
-    "price": 19.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-elastische-scheenbeschermer-zwart/",
-    "previous_price": 19.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Elastische Scheenbeschermer Zwart",
-    "size": "l",
     "price": 19.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-elastische-scheenbeschermer-zwart/",
@@ -236514,7 +236424,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoen Bgvl 3 Rood",
     "size": "12oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-rood/",
     "previous_price": 174.95
@@ -236524,7 +236434,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoen Bgvl 3 Rood",
     "size": "14oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-rood/",
     "previous_price": 174.95
@@ -236534,7 +236444,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoen Bgvl 3 Rood",
     "size": "16oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-rood/",
     "previous_price": 174.95
@@ -236544,7 +236454,7 @@
     "brand": "Twins",
     "product": "Twins Bokshandschoen Bgvl 3 Rood",
     "size": "10oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-rood/",
     "previous_price": 174.95
@@ -236664,7 +236574,7 @@
     "brand": "Booster",
     "product": "Booster BGL 1 V3 Bokshandschoen Zilver",
     "size": "14oz",
-    "price": 149.95,
+    "price": 159.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bgl-1-v3-bokshandschoen-zilver/",
     "previous_price": 149.95
@@ -236674,7 +236584,7 @@
     "brand": "Booster",
     "product": "Booster BGL 1 V3 Bokshandschoen Zilver",
     "size": "16oz",
-    "price": 149.95,
+    "price": 159.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bgl-1-v3-bokshandschoen-zilver/",
     "previous_price": 149.95
@@ -236684,7 +236594,7 @@
     "brand": "Booster",
     "product": "Booster BGL 1 V3 Bokshandschoen Zilver",
     "size": "10oz",
-    "price": 149.95,
+    "price": 159.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bgl-1-v3-bokshandschoen-zilver/",
     "previous_price": 149.95
@@ -236694,7 +236604,7 @@
     "brand": "Booster",
     "product": "Booster BGL 1 V3 Bokshandschoen Zilver",
     "size": "12oz",
-    "price": 149.95,
+    "price": 159.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bgl-1-v3-bokshandschoen-zilver/",
     "previous_price": 149.95
@@ -236704,7 +236614,7 @@
     "brand": "Booster",
     "product": "Booster BGL 1 V3 Bokshandschoen Zwart",
     "size": "10oz",
-    "price": 149.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bgl-1-v3-bokshandschoen-zwart/",
     "previous_price": 149.95
@@ -236714,7 +236624,7 @@
     "brand": "Booster",
     "product": "Booster BGL 1 V3 Bokshandschoen Zwart",
     "size": "12oz",
-    "price": 149.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bgl-1-v3-bokshandschoen-zwart/",
     "previous_price": 149.95
@@ -236724,7 +236634,7 @@
     "brand": "Booster",
     "product": "Booster BGL 1 V3 Bokshandschoen Zwart",
     "size": "16oz",
-    "price": 149.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bgl-1-v3-bokshandschoen-zwart/",
     "previous_price": 149.95
@@ -236734,7 +236644,7 @@
     "brand": "Booster",
     "product": "Booster BGL 1 V3 Bokshandschoen Zwart",
     "size": "14oz",
-    "price": 149.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bgl-1-v3-bokshandschoen-zwart/",
     "previous_price": 149.95
@@ -236754,16 +236664,6 @@
     "brand": "Joya",
     "product": "Joya Cool Guard Borstbeschermer Zwart",
     "size": "m",
-    "price": 44.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-cool-guard-borstbeschermer-zwart/",
-    "previous_price": 44.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Cool Guard Borstbeschermer Zwart",
-    "size": "xl",
     "price": 44.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-cool-guard-borstbeschermer-zwart/",
