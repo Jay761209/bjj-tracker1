@@ -17105,7 +17105,7 @@
     "product": "Ground Force Kids BJJ Belt",
     "size": "M4 / Grey",
     "price": 12.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-bjj-belt-kids",
     "previous_price": 12.0
   },
@@ -17115,7 +17115,7 @@
     "product": "Ground Force Kids BJJ Belt",
     "size": "M4 / Grey & White",
     "price": 12.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-bjj-belt-kids",
     "previous_price": 12.0
   },
@@ -20515,7 +20515,7 @@
     "product": "SISU Mouthguard Case",
     "size": "Default Title",
     "price": 8.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/sisu-mouthguard-case",
     "previous_price": 8.5
   },
@@ -27095,7 +27095,7 @@
     "product": "Kimono BJJ (Gi) Moya Brand Standard Issue XI- Negro",
     "size": "A1L",
     "price": 159.9,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-standard-issue-xi-negro",
     "previous_price": 159.9
   },
@@ -44337,7 +44337,7 @@
     "price": 60.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-progress-kids-the-academy-blanco-cinturon-blanco-incluido",
-    "previous_price": null
+    "previous_price": 60.0
   },
   {
     "shop": "StockBJJ",
@@ -44487,7 +44487,7 @@
     "price": 80.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-progress-the-academy-blanco-cinturon-blanco-incluido",
-    "previous_price": null
+    "previous_price": 80.0
   },
   {
     "shop": "StockBJJ",
@@ -44497,7 +44497,7 @@
     "price": 60.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-progress-kids-the-academy-negro-cinturon-blanco-incluido",
-    "previous_price": null
+    "previous_price": 60.0
   },
   {
     "shop": "StockBJJ",
@@ -52365,7 +52365,7 @@
     "product": "Adidas Worstelschoenen Havoc Wit",
     "size": "45 1/3",
     "price": 39.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstel-schoenen-havoc-wit",
     "previous_price": 39.95
   },
@@ -80485,7 +80485,7 @@
     "product": "Kingz Jiu Jitsu Squad V2 Men's Tee",
     "size": "Black / M",
     "price": 30.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/jiu-jits-squad-v2-tee",
     "previous_price": 30.0
   },
@@ -110085,7 +110085,7 @@
     "product": "FIAS Sambo Kurtka Jacket Red With Red Belt",
     "size": "3",
     "price": 99.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/fias-sambo-kurtka-jacket-red-with-red-belt",
     "previous_price": 99.95
   },
@@ -110438,76 +110438,6 @@
     "in_stock": true,
     "url": "https://fujisports.com/products/gym-towel-1",
     "previous_price": 24.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Beach Vibes T-Shirt White",
-    "size": "XS",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-beach-vibes-t-shirt-white",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Beach Vibes T-Shirt White",
-    "size": "S",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-beach-vibes-t-shirt-white",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Beach Vibes T-Shirt White",
-    "size": "M",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-beach-vibes-t-shirt-white",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Beach Vibes T-Shirt White",
-    "size": "L",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-beach-vibes-t-shirt-white",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Beach Vibes T-Shirt White",
-    "size": "XL",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-beach-vibes-t-shirt-white",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Beach Vibes T-Shirt White",
-    "size": "2XL",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-beach-vibes-t-shirt-white",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Beach Vibes T-Shirt White",
-    "size": "3XL",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-beach-vibes-t-shirt-white",
-    "previous_price": 30.0
   },
   {
     "shop": "Fuji Sports",
@@ -113375,7 +113305,7 @@
     "product": "Heritage Keisho Lightweight BJJ Gi Black",
     "size": "A2",
     "price": 224.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/heritage-keisho-lightweight-bjj-gi-black",
     "previous_price": 224.95
   },
@@ -114675,7 +114605,7 @@
     "product": "FUJI Varsity 1969 Shirt Heather Grey",
     "size": "XL",
     "price": 29.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/retro-jiu-jitsu-shirt-heather-grey",
     "previous_price": 29.95
   },
@@ -114955,7 +114885,7 @@
     "product": "Baseline 2.0 Short Sleeve Rashguard Black",
     "size": "2XL",
     "price": 49.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/baseline-2-0-short-sleeve-rashguard-black",
     "previous_price": 49.95
   },
@@ -116748,146 +116678,6 @@
     "in_stock": true,
     "url": "https://fujisports.com/products/fuji-authentic-tatami-sandals-blue",
     "previous_price": 29.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Monogram T-Shirt Purple",
-    "size": "XS",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-monogram-t-shirt-purple",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Monogram T-Shirt Purple",
-    "size": "S",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-monogram-t-shirt-purple",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Monogram T-Shirt Purple",
-    "size": "M",
-    "price": 30.0,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/we-defy-monogram-t-shirt-purple",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Monogram T-Shirt Purple",
-    "size": "L",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-monogram-t-shirt-purple",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Monogram T-Shirt Purple",
-    "size": "XL",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-monogram-t-shirt-purple",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Monogram T-Shirt Purple",
-    "size": "2XL",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-monogram-t-shirt-purple",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Monogram T-Shirt Purple",
-    "size": "3XL",
-    "price": 30.0,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/we-defy-monogram-t-shirt-purple",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Monogram T-Shirt Green",
-    "size": "XS",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-monogram-t-shirt-green",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Monogram T-Shirt Green",
-    "size": "S",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-monogram-t-shirt-green",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Monogram T-Shirt Green",
-    "size": "M",
-    "price": 30.0,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/we-defy-monogram-t-shirt-green",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Monogram T-Shirt Green",
-    "size": "L",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-monogram-t-shirt-green",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Monogram T-Shirt Green",
-    "size": "XL",
-    "price": 30.0,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/we-defy-monogram-t-shirt-green",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Monogram T-Shirt Green",
-    "size": "2XL",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-monogram-t-shirt-green",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Monogram T-Shirt Green",
-    "size": "3XL",
-    "price": 30.0,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/we-defy-monogram-t-shirt-green",
-    "previous_price": 30.0
   },
   {
     "shop": "Fuji Sports",
@@ -124598,76 +124388,6 @@
     "in_stock": false,
     "url": "https://fujisports.com/products/renzo-gracie-good-jits-t-shirt-white",
     "previous_price": 32.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Lightning Bolt Tank Top Gray/Black",
-    "size": "XS",
-    "price": 40.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-lightning-bolt-tank-top-gray-black",
-    "previous_price": 40.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Lightning Bolt Tank Top Gray/Black",
-    "size": "S",
-    "price": 40.0,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/we-defy-lightning-bolt-tank-top-gray-black",
-    "previous_price": 40.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Lightning Bolt Tank Top Gray/Black",
-    "size": "M",
-    "price": 40.0,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/we-defy-lightning-bolt-tank-top-gray-black",
-    "previous_price": 40.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Lightning Bolt Tank Top Gray/Black",
-    "size": "L",
-    "price": 40.0,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/we-defy-lightning-bolt-tank-top-gray-black",
-    "previous_price": 40.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Lightning Bolt Tank Top Gray/Black",
-    "size": "XL",
-    "price": 40.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-lightning-bolt-tank-top-gray-black",
-    "previous_price": 40.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Lightning Bolt Tank Top Gray/Black",
-    "size": "2XL",
-    "price": 40.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-lightning-bolt-tank-top-gray-black",
-    "previous_price": 40.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "WeDefy",
-    "product": "We Defy Lightning Bolt Tank Top Gray/Black",
-    "size": "3XL",
-    "price": 40.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-lightning-bolt-tank-top-gray-black",
-    "previous_price": 40.0
   },
   {
     "shop": "Fuji Sports",
@@ -145425,7 +145145,7 @@
     "product": "Ultra Lite 300 BJJ Gi Black",
     "size": "A4",
     "price": 149.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ultra-lite-300-bjj-gi-black",
     "previous_price": 149.95
   },
@@ -170325,7 +170045,7 @@
     "product": "Single Weave Judo Gi Blue",
     "size": "4",
     "price": 89.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/single-weave-judo-gi-blue",
     "previous_price": 89.95
   },
@@ -177355,7 +177075,7 @@
     "product": "Single Weave Judo Gi",
     "size": "4 / Blue",
     "price": 89.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/fuji-sports-single-weave-judo-gi",
     "previous_price": 89.95
   },
@@ -178635,7 +178355,7 @@
     "product": "Hayabusa Quick Gel Handwraps - Zwart",
     "size": "XL",
     "price": 23.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-quick-gel-handwraps-zwart",
     "previous_price": 23.99
   },
@@ -196785,7 +196505,7 @@
     "product": "Flow Fightgear Kruisbeschermer - Mesh - Heren - Zwart",
     "size": "S",
     "price": 12.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/flow-fightgear-kruisbeschermer-mesh-heren-zwart",
     "previous_price": 12.95
   },
@@ -199655,7 +199375,7 @@
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Comic",
     "size": "12 oz",
     "price": 188.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-bokshandschoenen-echt-leer-comic",
     "previous_price": 188.0
   },
@@ -201007,7 +200727,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-black/",
-    "previous_price": null
+    "previous_price": 139.0
   },
   {
     "shop": "OLB Sports",
@@ -201017,7 +200737,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-black/",
-    "previous_price": null
+    "previous_price": 139.0
   },
   {
     "shop": "OLB Sports",
@@ -201027,7 +200747,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-black/",
-    "previous_price": null
+    "previous_price": 139.0
   },
   {
     "shop": "OLB Sports",
@@ -201037,7 +200757,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-black/",
-    "previous_price": null
+    "previous_price": 139.0
   },
   {
     "shop": "OLB Sports",
@@ -201047,7 +200767,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-black/",
-    "previous_price": null
+    "previous_price": 139.0
   },
   {
     "shop": "OLB Sports",
@@ -201057,7 +200777,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-black/",
-    "previous_price": null
+    "previous_price": 139.0
   },
   {
     "shop": "OLB Sports",
@@ -201067,7 +200787,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-black/",
-    "previous_price": null
+    "previous_price": 139.0
   },
   {
     "shop": "OLB Sports",
@@ -207457,7 +207177,7 @@
     "price": 49.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-elite-mma-short-black/",
-    "previous_price": null
+    "previous_price": 49.95
   },
   {
     "shop": "OLB Sports",
@@ -207597,7 +207317,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-elite-mma-shirt-blue/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -210643,16 +210363,6 @@
     "shop": "OLB Sports",
     "brand": "King",
     "product": "King Pro Boxing Kickboksbroek Revo 2 Black/Gold",
-    "size": "xl",
-    "price": 39.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/king-pro-boxing-kickboksbroek-revo-2-black-gold/",
-    "previous_price": 39.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "King",
-    "product": "King Pro Boxing Kickboksbroek Revo 2 Black/Gold",
     "size": "xxl",
     "price": 39.95,
     "in_stock": true,
@@ -211183,16 +210893,6 @@
     "shop": "OLB Sports",
     "brand": "Venum",
     "product": "Venum Wolf Atak Rashguard Short Sleeve Black/Grey",
-    "size": "s",
-    "price": 39.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-wolf-atak-rashguard-short-sleeve-black-grey/",
-    "previous_price": 39.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Wolf Atak Rashguard Short Sleeve Black/Grey",
     "size": "m",
     "price": 39.95,
     "in_stock": true,
@@ -211224,16 +210924,6 @@
     "brand": "Venum",
     "product": "Venum Wolf Atak Rashguard Short Sleeve Black/Red",
     "size": "l",
-    "price": 39.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-wolf-atak-rashguard-short-sleeve-black-red/",
-    "previous_price": 39.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Wolf Atak Rashguard Short Sleeve Black/Red",
-    "size": "xl",
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-wolf-atak-rashguard-short-sleeve-black-red/",
@@ -211712,6 +211402,16 @@
   {
     "shop": "OLB Sports",
     "brand": "Joya",
+    "product": "Joya Fight Gear Kickboks Set Kids Dragon Groen",
+    "size": "One Size",
+    "price": 0.0,
+    "in_stock": false,
+    "url": "https://olbsports.nl/product/joya-fight-gear-kickboks-set-kids-dragon-groen/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
     "product": "Joya Fight Gear Kickboks Set Kids Dragon Goud",
     "size": "One Size",
     "price": 0.0,
@@ -212045,7 +211745,7 @@
     "product": "1916 Fight Gear Kickboks Set Kids Youth Fighters Black",
     "size": "One Size",
     "price": 0.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-kickboks-set-kids-youth-fighters-black/",
     "previous_price": 0.0
   },
@@ -212662,16 +212362,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Venum",
-    "product": "Venum Classic Evo Muay Thai Short Black/White",
-    "size": "xxl",
-    "price": 49.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-classic-evo-muay-thai-short-black-white/",
-    "previous_price": 49.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
     "product": "Venum Classic Evo Muay Thai Short Burgundy",
     "size": "l",
     "price": 49.95,
@@ -212773,16 +212463,6 @@
     "shop": "OLB Sports",
     "brand": "Venum",
     "product": "Venum X Mike Tyson Tiger Trainingshort Deep Black/Intense Red",
-    "size": "s",
-    "price": 39.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-x-mike-tyson-tiger-trainingshort-deep-black-intense-red/",
-    "previous_price": 39.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum X Mike Tyson Tiger Trainingshort Deep Black/Intense Red",
     "size": "m",
     "price": 39.99,
     "in_stock": true,
@@ -212867,16 +212547,6 @@
     "price": 74.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-x-mike-tyson-tiger-boxing-short-white-deep-black/",
-    "previous_price": 74.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum X Mike Tyson Tiger Boxing Short Deep Black/Intense Red",
-    "size": "m",
-    "price": 74.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-x-mike-tyson-tiger-boxing-short-deep-black-intense-red/",
     "previous_price": 74.95
   },
   {
@@ -214413,16 +214083,6 @@
     "shop": "OLB Sports",
     "brand": "Youth",
     "product": "Youth Fighters Kickboksbroek Kids Monkey",
-    "size": "xs",
-    "price": 39.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/youth-fighters-kickboksbroek-kids-monkey/",
-    "previous_price": 39.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Youth",
-    "product": "Youth Fighters Kickboksbroek Kids Monkey",
     "size": "s",
     "price": 39.95,
     "in_stock": true,
@@ -215674,16 +215334,6 @@
     "brand": "Venum",
     "product": "Venum Muay Thai Shorts Tactical XT Black/Fire Red",
     "size": "xs",
-    "price": 49.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-muay-thai-shorts-tactical-xt-black-fire-red/",
-    "previous_price": 49.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Muay Thai Shorts Tactical XT Black/Fire Red",
-    "size": "s",
     "price": 49.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-muay-thai-shorts-tactical-xt-black-fire-red/",
@@ -217002,16 +216652,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Opro",
-    "product": "Opro Gebitsbeschermer Instant Custom Beugel Goud/Wit",
-    "size": "One Size",
-    "price": 35.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/opro-gebitsbeschermer-instant-custom-beugel-goud-wit/",
-    "previous_price": 35.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Opro",
     "product": "Opro Gebitsbeschermer Instant Custom Beugel Transparant",
     "size": "One Size",
     "price": 44.99,
@@ -218013,16 +217653,6 @@
     "shop": "OLB Sports",
     "brand": "1916",
     "product": "1916 Fight Gear Scheenbeschermers Legend Advanced Black",
-    "size": "xl",
-    "price": 59.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/1916-fight-gear-scheenbeschermers-legend-advanced-black/",
-    "previous_price": 59.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "1916",
-    "product": "1916 Fight Gear Scheenbeschermers Legend Advanced Black",
     "size": "m",
     "price": 59.95,
     "in_stock": true,
@@ -218277,16 +217907,6 @@
     "price": 39.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-spats-gladiator-5-0-black-silver/",
-    "previous_price": 39.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Rashguard Long Sleeve Gladiator 5.0 Black/Silver",
-    "size": "m",
-    "price": 39.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-rashguard-long-sleeve-gladiator-5-0-black-silver/",
     "previous_price": 39.99
   },
   {
@@ -221857,7 +221477,7 @@
     "price": 189.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-wine-red/",
-    "previous_price": null
+    "previous_price": 189.95
   },
   {
     "shop": "OLB Sports",
@@ -222787,16 +222407,6 @@
     "price": 229.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/rival-bokshandschoen-rs11v-rood/",
-    "previous_price": 229.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Rival",
-    "product": "Rival Bokshandschoen RS11V Blauw",
-    "size": "14oz",
-    "price": 229.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/rival-bokshandschoen-rs11v-blauw/",
     "previous_price": 229.95
   },
   {
@@ -223858,6 +223468,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-bokshandschoenen-youth-fighter-blue/",
     "previous_price": 43.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "1916",
+    "product": "1916 Bokshandschoenen Youth Fighter Black",
+    "size": "12oz",
+    "price": 43.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-bokshandschoenen-youth-fighter-black/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -225234,16 +224854,6 @@
     "brand": "Venum",
     "product": "Venum MMA Trainingshandschoen Challenger 3.0 Zwart/Wit",
     "size": "m",
-    "price": 49.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-mma-trainingshandschoen-challenger-3-0-zwart-wit/",
-    "previous_price": 49.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum MMA Trainingshandschoen Challenger 3.0 Zwart/Wit",
-    "size": "l-xl",
     "price": 49.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-mma-trainingshandschoen-challenger-3-0-zwart-wit/",
@@ -226808,16 +226418,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-fat-metabolic-support-120caps/",
     "previous_price": 34.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Scheenbeschermer Hawk Black/White",
-    "size": "m",
-    "price": 79.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-scheenbeschermer-hawk-black-white/",
-    "previous_price": 79.95
   },
   {
     "shop": "OLB Sports",
@@ -228612,6 +228212,16 @@
   {
     "shop": "OLB Sports",
     "brand": "Joya",
+    "product": "Joya Gel Binnenhandschoenen Zwart/Zilver",
+    "size": "l",
+    "price": 15.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gel-binnenhandschoenen-zwart-zilver/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
     "product": "Joya Velcro Scheenbeschermer Zwart",
     "size": "xs",
     "price": 29.95,
@@ -228644,16 +228254,6 @@
     "brand": "Joya",
     "product": "Joya Velcro Scheenbeschermer Zwart",
     "size": "l",
-    "price": 29.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-velcro-scheenbeschermer-zwart/",
-    "previous_price": 29.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Velcro Scheenbeschermer Zwart",
-    "size": "xl",
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-velcro-scheenbeschermer-zwart/",
@@ -230931,6 +230531,16 @@
   },
   {
     "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Elastische Scheenbeschermer Zwart",
+    "size": "l",
+    "price": 19.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-elastische-scheenbeschermer-zwart/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
     "brand": "Booster",
     "product": "Booster Scheenbeschermers Junior Marble Rood",
     "size": "xs",
@@ -231067,7 +230677,7 @@
     "price": 33.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/essimo-judopak-kinza/",
-    "previous_price": 32.5
+    "previous_price": 33.95
   },
   {
     "shop": "OLB Sports",
@@ -231077,7 +230687,7 @@
     "price": 33.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/essimo-judopak-kinza/",
-    "previous_price": 32.5
+    "previous_price": 33.95
   },
   {
     "shop": "OLB Sports",
@@ -231117,7 +230727,7 @@
     "price": 46.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/essimo-judopak-koka/",
-    "previous_price": 41.95
+    "previous_price": 46.95
   },
   {
     "shop": "OLB Sports",
@@ -231127,7 +230737,7 @@
     "price": 46.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/essimo-judopak-koka/",
-    "previous_price": 41.95
+    "previous_price": 46.95
   },
   {
     "shop": "OLB Sports",
@@ -231577,16 +231187,6 @@
     "price": 59.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/ophangbeugel-voor-een-bokszak/",
-    "previous_price": 59.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Scheenbeschermer Challenger Black/White",
-    "size": "l",
-    "price": 59.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-challenger-scheenbeschermer-zwart-wit/",
     "previous_price": 59.95
   },
   {
@@ -232192,16 +231792,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Matsuru",
-    "product": "Matsuru Karatepak Allround Zwart",
-    "size": "180cm",
-    "price": 59.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/matsuru-karatepak-allround-zwart/",
-    "previous_price": 59.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Matsuru",
     "product": "Matsuru Karatepak Extra Wit",
     "size": "140cm",
     "price": 38.95,
@@ -232304,16 +231894,6 @@
     "brand": "Matsuru",
     "product": "Matsuru Judo Club Met Schouderlabels",
     "size": "170cm",
-    "price": 69.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/matsuru-judo-club-met-schouderlabels/",
-    "previous_price": 69.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Matsuru",
-    "product": "Matsuru Judo Club Met Schouderlabels",
-    "size": "180cm",
     "price": 69.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/matsuru-judo-club-met-schouderlabels/",
@@ -232434,16 +232014,6 @@
     "brand": "1916",
     "product": "1916 Old School Velcro Scheenbeschermer Zwart",
     "size": "m",
-    "price": 27.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/1916-old-school-velcro-scheenbeschermer-zwart-2-2/",
-    "previous_price": 27.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "1916",
-    "product": "1916 Old School Velcro Scheenbeschermer Zwart",
-    "size": "l",
     "price": 27.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-old-school-velcro-scheenbeschermer-zwart-2-2/",
