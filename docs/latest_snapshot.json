@@ -4135,7 +4135,7 @@
     "product": "Ground Force Aero Rashguard - Red",
     "size": "M",
     "price": 47.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://bjjfightgear.com/products/ground-force-aero-rashguard-red",
     "previous_price": 47.0
   },
@@ -4275,7 +4275,7 @@
     "product": "Hayabusa Men’s Core Mid-Thigh Fight Shorts",
     "size": "S / Green",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://bjjfightgear.com/products/hayabusa-men-s-core-mid-thigh-fight-shorts",
     "previous_price": 89.99
   },
@@ -4285,7 +4285,7 @@
     "product": "Hayabusa Men’s Core Mid-Thigh Fight Shorts",
     "size": "S / Red",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://bjjfightgear.com/products/hayabusa-men-s-core-mid-thigh-fight-shorts",
     "previous_price": 89.99
   },
@@ -4355,7 +4355,7 @@
     "product": "Hayabusa Men’s Apex Mid-Thigh Fight Shorts",
     "size": "S / White",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://bjjfightgear.com/products/hayabusa-men-s-apex-mid-thigh-fight-shorts",
     "previous_price": 89.99
   },
@@ -4375,7 +4375,7 @@
     "product": "Hayabusa Men’s Apex Mid-Thigh Fight Shorts",
     "size": "M / White",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://bjjfightgear.com/products/hayabusa-men-s-apex-mid-thigh-fight-shorts",
     "previous_price": 89.99
   },
@@ -5775,7 +5775,7 @@
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - 2024 edition",
     "size": "A2 / Blue",
     "price": 154.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://bjjfightgear.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-2024-edition",
     "previous_price": 154.0
   },
@@ -9155,7 +9155,7 @@
     "product": "Fuji Sports Hanzo Flex Lite Shorts Blue",
     "size": "M",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://bjjfightgear.com/products/fuji-sports-hanzo-flex-lite-shorts-blue",
     "previous_price": 59.95
   },
@@ -9725,7 +9725,7 @@
     "product": "FUJI Baseline Ranked SS Rashguard",
     "size": "M / White",
     "price": 49.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/fuji-baseline-ranked-ss-rashguard",
     "previous_price": 49.95
   },
@@ -16625,7 +16625,7 @@
     "product": "Ground Force Rank Rashguard Short Sleeve",
     "size": "XL / Purple",
     "price": 47.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://bjjfightgear.com/products/ground-force-rank-rashguard-short-sleeve",
     "previous_price": 47.0
   },
@@ -31945,7 +31945,7 @@
     "product": "Kimono BJJ ( Gi) Progress The Academy- Petroleum- CINTURON BLANCO INCLUIDO",
     "size": "A2",
     "price": 80.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-progress-the-academy-petroleum-cinturon-blanco-incluido",
     "previous_price": 80.0
   },
@@ -36785,7 +36785,7 @@
     "product": "Kimono BJJ (Gi) Kingz Kore V2- Negro-Con cinturón blanco incluido",
     "size": "A2H",
     "price": 85.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-kingz-kore-v2-negro-2024-edition",
     "previous_price": 85.0
   },
@@ -40685,7 +40685,7 @@
     "product": "Kimono BJJ (Gi) Kingz Kore Youth 2.0. Negro con cinturón blanco",
     "size": "M0",
     "price": 70.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-kingz-kore-youth-2-0-negro-con-cinturon-blanco",
     "previous_price": 70.0
   },
@@ -45425,7 +45425,7 @@
     "product": "Kimono BJJ (Gi) Tatami Estilo Black Label- Gris en Azul",
     "size": "A0",
     "price": 84.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-tatami-estilo-black-label-gris-en-azul",
     "previous_price": 84.0
   },
@@ -51661,13 +51661,23 @@
   },
   {
     "shop": "Fightstyle.nl",
+    "brand": "Booster Fight Gear",
+    "product": "Booster Scheenbeschermers BSG V9 Rood",
+    "size": "L",
+    "price": 99.95,
+    "in_stock": true,
+    "url": "https://fightstyle.nl/products/booster-scheenbeschermers-bsg-v9-rood",
+    "previous_price": null
+  },
+  {
+    "shop": "Fightstyle.nl",
     "brand": "Yokkao",
     "product": "Yokkao Scheenbeschermers Matrix Tiffany",
     "size": "M",
     "price": 119.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/yokkao-scheenbeschermers-matrix-tiffany",
-    "previous_price": null
+    "previous_price": 119.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -51677,7 +51687,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/super-pro-bokshandschoenen-ace-wit",
-    "previous_price": null
+    "previous_price": 19.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -51687,7 +51697,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/super-pro-bokshandschoenen-kids-wolf",
-    "previous_price": null
+    "previous_price": 19.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -51731,16 +51741,6 @@
   },
   {
     "shop": "Fightstyle.nl",
-    "brand": "Hayabusa Fightwear",
-    "product": "Hayabusa Hoofdbeschermer T3 Boxing Zwart",
-    "size": "L/XL",
-    "price": 84.95,
-    "in_stock": true,
-    "url": "https://fightstyle.nl/products/hayabusa-hoofdbeschermer-t3-boxing-zwart",
-    "previous_price": 84.95
-  },
-  {
-    "shop": "Fightstyle.nl",
     "brand": "Super Pro Combat Gear",
     "product": "Super Pro Talent Bokshandschoenen Kind Zwart",
     "size": "6 oz",
@@ -51758,16 +51758,6 @@
     "in_stock": true,
     "url": "https://fightstyle.nl/products/twins-bokshandschoenen-bgvl-6-goud",
     "previous_price": 134.95
-  },
-  {
-    "shop": "Fightstyle.nl",
-    "brand": "Twins Special",
-    "product": "Twins Scheenbeschermers SGL 10 Zwart",
-    "size": "XL",
-    "price": 99.95,
-    "in_stock": true,
-    "url": "https://fightstyle.nl/products/twins-special-scheenbeschermers-sgl-10-zwart",
-    "previous_price": 99.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -52975,7 +52965,7 @@
     "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
     "size": "42 2/3",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
     "previous_price": 69.95
   },
@@ -53475,7 +53465,7 @@
     "product": "Fightstyle Waszak Bandages",
     "size": "Default Title",
     "price": 1.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fightstyle.nl/products/fightstyle-waszak-voor-bandage-handig",
     "previous_price": 1.95
   },
@@ -54885,7 +54875,7 @@
     "product": "Arrhichion Rash Guard",
     "size": "M",
     "price": 54.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-rash-guard",
     "previous_price": 54.99
   },
@@ -54955,7 +54945,7 @@
     "product": "Arrhichion Shorts",
     "size": "M",
     "price": 54.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/arrhichion-shorts",
     "previous_price": 54.99
   },
@@ -55025,7 +55015,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "XS / M",
     "price": 99.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -55095,7 +55085,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "S / M",
     "price": 99.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -55145,7 +55135,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "M / XS",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -55155,7 +55145,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "M / S",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -55185,7 +55175,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "M / XL",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -55195,7 +55185,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "M / 2XL",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -55205,7 +55195,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "M / 3XL",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -55815,7 +55805,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "XS / XS",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -55885,7 +55875,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "S / XS",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -55895,7 +55885,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "S / S",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -55905,7 +55895,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "S / M",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -55915,7 +55905,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "S / L",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -55925,7 +55915,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "S / XL",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -55935,7 +55925,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "S / 2XL",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -55945,7 +55935,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "S / 3XL",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -55955,7 +55945,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "M / XS",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -56025,7 +56015,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "L / XS",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -56095,7 +56085,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "XL / XS",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -56165,7 +56155,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "2XL / XS",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -56305,7 +56295,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "XS / XS",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -56325,7 +56315,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "XS / M",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -56375,7 +56365,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "S / XS",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -56395,7 +56385,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "S / M",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -56445,7 +56435,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "M / XS",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -56465,7 +56455,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "M / M",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -56485,7 +56475,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "M / XL",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -56495,7 +56485,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "M / 2XL",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -56505,7 +56495,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "M / 3XL",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -56515,7 +56505,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "L / XS",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -56535,7 +56525,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "L / M",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -56725,7 +56715,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "3XL / XS",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -56745,7 +56735,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "3XL / M",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -56765,7 +56755,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "3XL / XL",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -56775,7 +56765,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "3XL / 2XL",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -56785,7 +56775,7 @@
     "product": "Green Topo No-Gi Kit",
     "size": "3XL / 3XL",
     "price": 89.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 89.99
   },
@@ -57405,7 +57395,7 @@
     "product": "All-American Basketball Jersey",
     "size": "Large",
     "price": 49.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/all-american-basketball-jersey",
     "previous_price": 49.99
   },
@@ -59715,7 +59705,7 @@
     "product": "Topo Rash Guard",
     "size": "S / Arctic",
     "price": 49.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-rash-guard",
     "previous_price": 49.99
   },
@@ -59725,7 +59715,7 @@
     "product": "Topo Rash Guard",
     "size": "M / Green",
     "price": 49.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-rash-guard",
     "previous_price": 49.99
   },
@@ -59805,7 +59795,7 @@
     "product": "Topo Rash Guard",
     "size": "3XL / Green",
     "price": 49.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-rash-guard",
     "previous_price": 49.99
   },
@@ -59825,7 +59815,7 @@
     "product": "Topo Shorts",
     "size": "XS / Green",
     "price": 49.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-shorts",
     "previous_price": 49.99
   },
@@ -59835,7 +59825,7 @@
     "product": "Topo Shorts",
     "size": "XS / Arctic",
     "price": 49.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-shorts",
     "previous_price": 49.99
   },
@@ -59865,7 +59855,7 @@
     "product": "Topo Shorts",
     "size": "M / Green",
     "price": 49.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/topo-shorts",
     "previous_price": 49.99
   },
@@ -61735,7 +61725,7 @@
     "product": "Arena Oversized Tee",
     "size": "3XL",
     "price": 49.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arena-oversized-tee",
     "previous_price": 49.99
   },
@@ -84275,7 +84265,7 @@
     "product": "Kingz Players Special Limited Edition Youth BJJ Gi",
     "size": "M0 / Black",
     "price": 140.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-players-special-limited-edition-youth-gi",
     "previous_price": 140.0
   },
@@ -96915,7 +96905,7 @@
     "product": "Kingz Hybrid Women's Grappling Shorts - Black",
     "size": "L",
     "price": 50.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/hybrid-womens-shorts-black",
     "previous_price": 50.0
   },
@@ -98735,7 +98725,7 @@
     "product": "Kingz Casual Rip Stop Men's Gi Pants - Khaki",
     "size": "A2L / Khaki",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-rip-stop-gi-pant-khaki",
     "previous_price": 60.0
   },
@@ -109527,7 +109517,7 @@
     "price": 30.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-retro-star-blue",
-    "previous_price": null
+    "previous_price": 30.0
   },
   {
     "shop": "Fuji Sports",
@@ -109537,7 +109527,7 @@
     "price": 30.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-retro-star-blue",
-    "previous_price": null
+    "previous_price": 30.0
   },
   {
     "shop": "Fuji Sports",
@@ -109547,7 +109537,7 @@
     "price": 30.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-retro-star-blue",
-    "previous_price": null
+    "previous_price": 30.0
   },
   {
     "shop": "Fuji Sports",
@@ -109557,7 +109547,7 @@
     "price": 30.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-retro-star-blue",
-    "previous_price": null
+    "previous_price": 30.0
   },
   {
     "shop": "Fuji Sports",
@@ -109567,7 +109557,7 @@
     "price": 30.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-retro-star-blue",
-    "previous_price": null
+    "previous_price": 30.0
   },
   {
     "shop": "Fuji Sports",
@@ -109577,7 +109567,7 @@
     "price": 30.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-retro-star-blue",
-    "previous_price": null
+    "previous_price": 30.0
   },
   {
     "shop": "Fuji Sports",
@@ -109587,7 +109577,7 @@
     "price": 30.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/we-defy-retro-star-blue",
-    "previous_price": null
+    "previous_price": 30.0
   },
   {
     "shop": "Fuji Sports",
@@ -110065,7 +110055,7 @@
     "product": "FIAS Sambo Kurtka Jacket Red With Red Belt",
     "size": "3",
     "price": 99.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/fias-sambo-kurtka-jacket-red-with-red-belt",
     "previous_price": 99.95
   },
@@ -118231,46 +118221,6 @@
   },
   {
     "shop": "Fuji Sports",
-    "brand": "Renzo Gracie",
-    "product": "Renzo Gracie Standard Fight Shorts - Black",
-    "size": "S",
-    "price": 57.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/renzo-gracie-standard-fight-shorts-black",
-    "previous_price": 57.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "Renzo Gracie",
-    "product": "Renzo Gracie Standard Fight Shorts - Black",
-    "size": "M",
-    "price": 57.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/renzo-gracie-standard-fight-shorts-black",
-    "previous_price": 57.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "Renzo Gracie",
-    "product": "Renzo Gracie Standard Fight Shorts - Black",
-    "size": "L",
-    "price": 57.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/renzo-gracie-standard-fight-shorts-black",
-    "previous_price": 57.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "Renzo Gracie",
-    "product": "Renzo Gracie Standard Fight Shorts - Black",
-    "size": "XL",
-    "price": 57.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/renzo-gracie-standard-fight-shorts-black",
-    "previous_price": 57.0
-  },
-  {
-    "shop": "Fuji Sports",
     "brand": "vendor-unknown",
     "product": "BTT Flex Lite Shorts Black",
     "size": "28",
@@ -119195,7 +119145,7 @@
     "product": "Japanese Street Art Shirt Red",
     "size": "L",
     "price": 29.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/japanese-street-art-shirt-red",
     "previous_price": 29.95
   },
@@ -120335,7 +120285,7 @@
     "product": "Baseline 2.0 Slim Fit BJJ Gi Black Mint",
     "size": "A1",
     "price": 99.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/baseline-2-0-slim-fit-bjj-gi-black-mint",
     "previous_price": 99.95
   },
@@ -123742,42 +123692,42 @@
   {
     "shop": "Fuji Sports",
     "brand": "FUJI Sports",
-    "product": "Womens Alliance Limited Edition 30th Anniversary BJJ Gi White",
+    "product": "Womens Alliance Limited Edition BJJ Gi White",
     "size": "W0",
     "price": 135.2,
     "in_stock": false,
     "url": "https://fujisports.com/products/womens-alliance-limited-edition-30th-anniversary-bjj-gi-white",
-    "previous_price": 135.2
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
     "brand": "FUJI Sports",
-    "product": "Womens Alliance Limited Edition 30th Anniversary BJJ Gi White",
+    "product": "Womens Alliance Limited Edition BJJ Gi White",
     "size": "W1",
     "price": 135.2,
     "in_stock": true,
     "url": "https://fujisports.com/products/womens-alliance-limited-edition-30th-anniversary-bjj-gi-white",
-    "previous_price": 135.2
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
     "brand": "FUJI Sports",
-    "product": "Womens Alliance Limited Edition 30th Anniversary BJJ Gi White",
+    "product": "Womens Alliance Limited Edition BJJ Gi White",
     "size": "W2",
     "price": 135.2,
     "in_stock": true,
     "url": "https://fujisports.com/products/womens-alliance-limited-edition-30th-anniversary-bjj-gi-white",
-    "previous_price": 135.2
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
     "brand": "FUJI Sports",
-    "product": "Womens Alliance Limited Edition 30th Anniversary BJJ Gi White",
+    "product": "Womens Alliance Limited Edition BJJ Gi White",
     "size": "W3",
     "price": 135.2,
     "in_stock": true,
     "url": "https://fujisports.com/products/womens-alliance-limited-edition-30th-anniversary-bjj-gi-white",
-    "previous_price": 135.2
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
@@ -144592,12 +144542,12 @@
   {
     "shop": "Fuji Sports",
     "brand": "FUJI Sports",
-    "product": "Alliance 30th Anniversary Gold Keychain - 5 pack",
+    "product": "Alliance Gold Keychain - 5 pack",
     "size": "Default Title",
     "price": 55.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/alliance-30th-anniversary-gold-keychain",
-    "previous_price": 55.0
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
@@ -145415,7 +145365,7 @@
     "product": "Furry Beast Keychains",
     "size": "Fox",
     "price": 7.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/fuji-furry-beast-keychains",
     "previous_price": 7.95
   },
@@ -146478,66 +146428,6 @@
     "in_stock": true,
     "url": "https://fujisports.com/products/mizuno-ijf-approved-japan-deluxe-black-belt",
     "previous_price": 89.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "FUJI x Alliance 30th Anniversary Short Sleeve T-Shirt White",
-    "size": "XS",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-short-sleeve-t-shirt-white",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "FUJI x Alliance 30th Anniversary Short Sleeve T-Shirt White",
-    "size": "S",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-short-sleeve-t-shirt-white",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "FUJI x Alliance 30th Anniversary Short Sleeve T-Shirt White",
-    "size": "M",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-short-sleeve-t-shirt-white",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "FUJI x Alliance 30th Anniversary Short Sleeve T-Shirt White",
-    "size": "L",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-short-sleeve-t-shirt-white",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "FUJI x Alliance 30th Anniversary Short Sleeve T-Shirt White",
-    "size": "XL",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-short-sleeve-t-shirt-white",
-    "previous_price": 30.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "FUJI Sports",
-    "product": "FUJI x Alliance 30th Anniversary Short Sleeve T-Shirt White",
-    "size": "2XL",
-    "price": 30.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-short-sleeve-t-shirt-white",
-    "previous_price": 30.0
   },
   {
     "shop": "Fuji Sports",
@@ -148532,132 +148422,132 @@
   {
     "shop": "Fuji Sports",
     "brand": "FUJI Sports",
-    "product": "FUJI x Alliance 30th Anniversary Short Sleeve T-Shirt Black",
+    "product": "FUJI x Alliance Short Sleeve T-Shirt Black",
     "size": "XS",
     "price": 30.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-short-sleeve-t-shirt",
-    "previous_price": 30.0
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
     "brand": "FUJI Sports",
-    "product": "FUJI x Alliance 30th Anniversary Short Sleeve T-Shirt Black",
+    "product": "FUJI x Alliance Short Sleeve T-Shirt Black",
     "size": "S",
     "price": 30.0,
     "in_stock": false,
     "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-short-sleeve-t-shirt",
-    "previous_price": 30.0
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
     "brand": "FUJI Sports",
-    "product": "FUJI x Alliance 30th Anniversary Short Sleeve T-Shirt Black",
+    "product": "FUJI x Alliance Short Sleeve T-Shirt Black",
     "size": "M",
     "price": 30.0,
     "in_stock": false,
     "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-short-sleeve-t-shirt",
-    "previous_price": 30.0
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
     "brand": "FUJI Sports",
-    "product": "FUJI x Alliance 30th Anniversary Short Sleeve T-Shirt Black",
+    "product": "FUJI x Alliance Short Sleeve T-Shirt Black",
     "size": "L",
     "price": 30.0,
     "in_stock": false,
     "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-short-sleeve-t-shirt",
-    "previous_price": 30.0
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
     "brand": "FUJI Sports",
-    "product": "FUJI x Alliance 30th Anniversary Short Sleeve T-Shirt Black",
+    "product": "FUJI x Alliance Short Sleeve T-Shirt Black",
     "size": "XL",
     "price": 30.0,
     "in_stock": false,
     "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-short-sleeve-t-shirt",
-    "previous_price": 30.0
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
     "brand": "FUJI Sports",
-    "product": "FUJI x Alliance 30th Anniversary Short Sleeve T-Shirt Black",
+    "product": "FUJI x Alliance Short Sleeve T-Shirt Black",
     "size": "2XL",
     "price": 30.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-short-sleeve-t-shirt",
-    "previous_price": 30.0
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
     "brand": "FUJI Sports",
-    "product": "FUJI x Alliance 30th Anniversary Long Sleeve Rashguard black",
+    "product": "FUJI x Alliance  Limited Edition Long Sleeve Rashguard black",
     "size": "XS",
     "price": 35.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-long-sleeve-rashguard-black-xs",
-    "previous_price": 35.0
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
     "brand": "FUJI Sports",
-    "product": "FUJI x Alliance 30th Anniversary Long Sleeve Rashguard black",
+    "product": "FUJI x Alliance  Limited Edition Long Sleeve Rashguard black",
     "size": "S",
     "price": 35.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-long-sleeve-rashguard-black-xs",
-    "previous_price": 35.0
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
     "brand": "FUJI Sports",
-    "product": "FUJI x Alliance 30th Anniversary Long Sleeve Rashguard black",
+    "product": "FUJI x Alliance  Limited Edition Long Sleeve Rashguard black",
     "size": "M",
     "price": 35.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-long-sleeve-rashguard-black-xs",
-    "previous_price": 35.0
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
     "brand": "FUJI Sports",
-    "product": "FUJI x Alliance 30th Anniversary Long Sleeve Rashguard black",
+    "product": "FUJI x Alliance  Limited Edition Long Sleeve Rashguard black",
     "size": "L",
     "price": 35.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-long-sleeve-rashguard-black-xs",
-    "previous_price": 35.0
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
     "brand": "FUJI Sports",
-    "product": "FUJI x Alliance 30th Anniversary Long Sleeve Rashguard black",
+    "product": "FUJI x Alliance  Limited Edition Long Sleeve Rashguard black",
     "size": "XL",
     "price": 35.0,
     "in_stock": false,
     "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-long-sleeve-rashguard-black-xs",
-    "previous_price": 35.0
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
     "brand": "FUJI Sports",
-    "product": "FUJI x Alliance 30th Anniversary Long Sleeve Rashguard black",
+    "product": "FUJI x Alliance  Limited Edition Long Sleeve Rashguard black",
     "size": "2XL",
     "price": 35.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-long-sleeve-rashguard-black-xs",
-    "previous_price": 35.0
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
     "brand": "FUJI Sports",
-    "product": "FUJI x Alliance 30th Anniversary Long Sleeve Rashguard black",
+    "product": "FUJI x Alliance  Limited Edition Long Sleeve Rashguard black",
     "size": "3XL",
     "price": 35.0,
     "in_stock": false,
     "url": "https://fujisports.com/products/fuji-x-alliance-30th-anniversary-long-sleeve-rashguard-black-xs",
-    "previous_price": 35.0
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
@@ -159425,7 +159315,7 @@
     "product": "BTT Lightweight BJJ Gi White",
     "size": "A1",
     "price": 139.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/new-btt-lightweight-bjj-gi-white-5515",
     "previous_price": 139.99
   },
@@ -162742,66 +162632,6 @@
   {
     "shop": "Fuji Sports",
     "brand": "Renzo Gracie",
-    "product": "Renzo Gracie Classic Ranked T-shirt",
-    "size": "XS",
-    "price": 20.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/renzo-gracie-classic-ranked-t-shirt",
-    "previous_price": 20.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "Renzo Gracie",
-    "product": "Renzo Gracie Classic Ranked T-shirt",
-    "size": "S",
-    "price": 20.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/renzo-gracie-classic-ranked-t-shirt",
-    "previous_price": 20.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "Renzo Gracie",
-    "product": "Renzo Gracie Classic Ranked T-shirt",
-    "size": "M",
-    "price": 20.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/renzo-gracie-classic-ranked-t-shirt",
-    "previous_price": 20.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "Renzo Gracie",
-    "product": "Renzo Gracie Classic Ranked T-shirt",
-    "size": "L",
-    "price": 20.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/renzo-gracie-classic-ranked-t-shirt",
-    "previous_price": 20.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "Renzo Gracie",
-    "product": "Renzo Gracie Classic Ranked T-shirt",
-    "size": "XL",
-    "price": 20.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/renzo-gracie-classic-ranked-t-shirt",
-    "previous_price": 20.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "Renzo Gracie",
-    "product": "Renzo Gracie Classic Ranked T-shirt",
-    "size": "2XL",
-    "price": 20.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/renzo-gracie-classic-ranked-t-shirt",
-    "previous_price": 20.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "Renzo Gracie",
     "product": "Renzo Gracie Color Kids BJJ Belt",
     "size": "C00 / Grey/White",
     "price": 16.5,
@@ -165085,7 +164915,7 @@
     "product": "Euro Competition Judo Gi White",
     "size": "4.5",
     "price": 139.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/euro-competition-judo-gi",
     "previous_price": 139.95
   },
@@ -174745,7 +174575,7 @@
     "product": "Mizuno Hayato Judo Gi",
     "size": "5",
     "price": 99.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/mizuno-hayato-single-weave-55001",
     "previous_price": 99.95
   },
@@ -177048,6 +176878,36 @@
     "in_stock": false,
     "url": "https://fujisports.com/products/fuji-sports-bjj-white-belt-youth",
     "previous_price": 14.95
+  },
+  {
+    "shop": "Kickboxing-shop.nl",
+    "brand": "Twins Special",
+    "product": "Twins Special MMA handschoenen - 7 oz sparring - Zwart",
+    "size": "M",
+    "price": 169.94,
+    "in_stock": false,
+    "url": "https://kickboxing-shop.nl/products/twins-special-mma-handschoenen-7-oz-sparring-zwart",
+    "previous_price": null
+  },
+  {
+    "shop": "Kickboxing-shop.nl",
+    "brand": "Twins Special",
+    "product": "Twins Special MMA handschoenen - 7 oz sparring - Zwart",
+    "size": "L",
+    "price": 169.94,
+    "in_stock": false,
+    "url": "https://kickboxing-shop.nl/products/twins-special-mma-handschoenen-7-oz-sparring-zwart",
+    "previous_price": null
+  },
+  {
+    "shop": "Kickboxing-shop.nl",
+    "brand": "Twins Special",
+    "product": "Twins Special MMA handschoenen - 7 oz sparring - Zwart",
+    "size": "XL",
+    "price": 169.94,
+    "in_stock": false,
+    "url": "https://kickboxing-shop.nl/products/twins-special-mma-handschoenen-7-oz-sparring-zwart",
+    "previous_price": null
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -179855,7 +179715,7 @@
     "product": "Primo Day One T-Shirt - zwart",
     "size": "L",
     "price": 36.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/primo-day-one-t-shirt-zwart",
     "previous_price": 36.95
   },
@@ -187275,7 +187135,7 @@
     "product": "Flow Fightgear Kruisbeschermer - PU - Dames - Zwart",
     "size": "S",
     "price": 12.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/flow-fightgear-kruisbeschermer-pu-dames-zwart",
     "previous_price": 12.95
   },
@@ -191833,6 +191693,16 @@
     "shop": "Kickboxing-shop.nl",
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Wit",
+    "size": "10 oz",
+    "price": 174.95,
+    "in_stock": false,
+    "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-wit",
+    "previous_price": null
+  },
+  {
+    "shop": "Kickboxing-shop.nl",
+    "brand": "Twins Special",
+    "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Wit",
     "size": "12 oz",
     "price": 174.95,
     "in_stock": true,
@@ -195435,7 +195305,7 @@
     "product": "Hayabusa Core Muay Thai Shorts - Zwart",
     "size": "M",
     "price": 69.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-core-muay-thai-shorts-zwart",
     "previous_price": 69.99
   },
@@ -197575,7 +197445,7 @@
     "product": "Booster Bokschoenen - Rapid Strike Pro series 2 - Grijs",
     "size": "46",
     "price": 139.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-2-grijs",
     "previous_price": 139.95
   },
@@ -198725,7 +198595,7 @@
     "product": "Twins Special TBTL Comic Muay Thai Shorts - Wit/Zwart",
     "size": "L",
     "price": 78.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-tbtl-comic-muay-thai-shorts-wit-zwart",
     "previous_price": 78.0
   },
@@ -200021,13 +199891,553 @@
   },
   {
     "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Enkelkous AG Thai Blauw",
+    "size": "s",
+    "price": 14.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-enkelkous-ag-thai-blauw/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Enkelkous AG Thai Blauw",
+    "size": "m",
+    "price": 14.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-enkelkous-ag-thai-blauw/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Enkelkous AG Thai Blauw",
+    "size": "l",
+    "price": 14.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-enkelkous-ag-thai-blauw/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Enkelkous AG Thai Blauw",
+    "size": "xl",
+    "price": 14.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-enkelkous-ag-thai-blauw/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Enkelkous AG Thai Groen",
+    "size": "s",
+    "price": 14.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-enkelkous-ag-thai-groen/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Enkelkous AG Thai Groen",
+    "size": "m",
+    "price": 14.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-enkelkous-ag-thai-groen/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Enkelkous AG Thai Groen",
+    "size": "l",
+    "price": 14.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-enkelkous-ag-thai-groen/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Enkelkous AG Thai Groen",
+    "size": "xl",
+    "price": 14.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-enkelkous-ag-thai-groen/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Enkelkousen AG Pro Neon Yellow",
+    "size": "One Size",
+    "price": 19.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-enkelkousen-ag-pro-neon-yellow/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Enkelkousen AG Pro Red",
+    "size": "One Size",
+    "price": 19.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-enkelkousen-ag-pro-red/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Enkelkousen AG Pro Pink",
+    "size": "One Size",
+    "price": 19.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-enkelkousen-ag-pro-pink/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Enkelkousen AG Pro Neon Orange",
+    "size": "One Size",
+    "price": 19.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-enkelkousen-ag-pro-neon-orange/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Enkelkousen AG Pro Neon Green",
+    "size": "One Size",
+    "price": 19.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-enkelkousen-ag-pro-neon-green/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Enkelkousen AG Pro Blue",
+    "size": "One Size",
+    "price": 19.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-enkelkousen-ag-pro-blue/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Bokshandschoenen T3 Kanpeki Blossom Pink",
+    "size": "12oz",
+    "price": 219.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-kanpeki-blossom-pink/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Bokshandschoenen T3 Kanpeki Blossom Pink",
+    "size": "14oz",
+    "price": 219.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-kanpeki-blossom-pink/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Bokshandschoenen T3 Kanpeki Blossom Pink",
+    "size": "16oz",
+    "price": 219.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-kanpeki-blossom-pink/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Bokshandschoenen T3 Kanpeki Artic White",
+    "size": "12oz",
+    "price": 219.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-kanpeki-artic-white/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Bokshandschoenen T3 Kanpeki Artic White",
+    "size": "14oz",
+    "price": 219.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-kanpeki-artic-white/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Bokshandschoenen T3 Kanpeki Artic White",
+    "size": "16oz",
+    "price": 219.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-kanpeki-artic-white/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Kickboks Set T3 LX Crimson",
+    "size": "One Size",
+    "price": 0.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-kickboks-set-t3-lx-crimson/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Kickboks Set T3 LX Vintage Brown",
+    "size": "One Size",
+    "price": 0.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-kickboks-set-t3-lx-vintage-brown/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Scheenbeschermers T3 LX Crimson",
+    "size": "s",
+    "price": 229.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-scheenbeschermers-t3-lx-crimson/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Scheenbeschermers T3 LX Crimson",
+    "size": "m",
+    "price": 229.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-scheenbeschermers-t3-lx-crimson/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Scheenbeschermers T3 LX Crimson",
+    "size": "l",
+    "price": 229.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-scheenbeschermers-t3-lx-crimson/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Scheenbeschermers T3 LX Crimson",
+    "size": "xl",
+    "price": 229.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-scheenbeschermers-t3-lx-crimson/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Scheenbeschermers T3 LX Vintage Brown",
+    "size": "m",
+    "price": 229.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-scheenbeschermers-t3-lx-vintage-brown/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Scheenbeschermers T3 LX Vintage Brown",
+    "size": "l",
+    "price": 229.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-scheenbeschermers-t3-lx-vintage-brown/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen Garnet/Grey",
+    "size": "38",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-garnet-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen Garnet/Grey",
+    "size": "39",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-garnet-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen Garnet/Grey",
+    "size": "40",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-garnet-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen Garnet/Grey",
+    "size": "41",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-garnet-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen Garnet/Grey",
+    "size": "42",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-garnet-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen Garnet/Grey",
+    "size": "44",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-garnet-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen Garnet/Grey",
+    "size": "45",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-garnet-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen Garnet/Grey",
+    "size": "46",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-garnet-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen Garnet/Grey",
+    "size": "47",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-garnet-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen Triple/Grey",
+    "size": "38",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-triple-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen Triple/Grey",
+    "size": "43",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-triple-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen Triple/Grey",
+    "size": "39",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-triple-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen Triple/Grey",
+    "size": "40",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-triple-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen Triple/Grey",
+    "size": "41",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-triple-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen Triple/Grey",
+    "size": "42",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-triple-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen Triple/Grey",
+    "size": "44",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-triple-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen Triple/Grey",
+    "size": "45",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-triple-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen Triple/Grey",
+    "size": "46",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-triple-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen Triple/Grey",
+    "size": "47",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-triple-grey/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen White/Black",
+    "size": "40",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-white-black/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen White/Black",
+    "size": "41",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-white-black/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen White/Black",
+    "size": "42",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-white-black/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen White/Black",
+    "size": "43",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-white-black/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen White/Black",
+    "size": "44",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-white-black/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen White/Black",
+    "size": "45",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-white-black/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Pro Boksschoenen White/Black",
+    "size": "46",
+    "price": 139.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-white-black/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
     "brand": "Adidas",
     "product": "Adidas Scheenbeschermers Instep Guard Black/White",
     "size": "s",
     "price": 59.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-scheenbeschermers-instep-guard-black-white/",
-    "previous_price": null
+    "previous_price": 59.95
   },
   {
     "shop": "OLB Sports",
@@ -200037,7 +200447,7 @@
     "price": 59.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-scheenbeschermers-instep-guard-black-white/",
-    "previous_price": null
+    "previous_price": 59.95
   },
   {
     "shop": "OLB Sports",
@@ -200047,7 +200457,7 @@
     "price": 59.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-scheenbeschermers-instep-guard-black-white/",
-    "previous_price": null
+    "previous_price": 59.95
   },
   {
     "shop": "OLB Sports",
@@ -200057,7 +200467,7 @@
     "price": 59.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-scheenbeschermers-instep-guard-black-white/",
-    "previous_price": null
+    "previous_price": 59.95
   },
   {
     "shop": "OLB Sports",
@@ -202747,7 +203157,7 @@
     "price": 79.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-scheenbeschermers-speed-thai-black-white/",
-    "previous_price": null
+    "previous_price": 79.95
   },
   {
     "shop": "OLB Sports",
@@ -202757,7 +203167,7 @@
     "price": 79.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-scheenbeschermers-speed-thai-black-white/",
-    "previous_price": null
+    "previous_price": 79.95
   },
   {
     "shop": "OLB Sports",
@@ -203807,7 +204217,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-focus-mitts-pml-bc-5-black-red/",
-    "previous_price": null
+    "previous_price": 69.99
   },
   {
     "shop": "OLB Sports",
@@ -203917,7 +204327,7 @@
     "price": 119.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-scheenbeschermers-war-black-red/",
-    "previous_price": null
+    "previous_price": 119.95
   },
   {
     "shop": "OLB Sports",
@@ -205082,16 +205492,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Energia",
-    "product": "Energia Fightwear Rashguard Short Sleeve Akai",
-    "size": "xl",
-    "price": 54.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/energia-fightwear-rashguard-short-sleeve-akai/",
-    "previous_price": 54.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Energia",
     "product": "Energia Fightwear Hybrid Short White",
     "size": "s",
     "price": 54.95,
@@ -205977,7 +206377,7 @@
     "price": 0.0,
     "in_stock": false,
     "url": "https://olbsports.nl/product/joya-gear-kickboks-set-evolution-pro-green-white/",
-    "previous_price": null
+    "previous_price": 0.0
   },
   {
     "shop": "OLB Sports",
@@ -207537,7 +207937,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/youth-fighters-kickboksbroek-kids-queen-panda/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -208477,7 +208877,7 @@
     "price": 21.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-predator-gebitsbeschermer-white-khaki/",
-    "previous_price": null
+    "previous_price": 21.99
   },
   {
     "shop": "OLB Sports",
@@ -208487,7 +208887,7 @@
     "price": 21.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-predator-gebitsbeschermer-black-turquoise/",
-    "previous_price": null
+    "previous_price": 21.99
   },
   {
     "shop": "OLB Sports",
@@ -209258,6 +209658,46 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/youth-fighters-hoofdbeschermer-kids-black/",
     "previous_price": 49.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Enkelkous AG Thai Oranje",
+    "size": "m",
+    "price": 14.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-enkelkous-ag-thai-oranje/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Enkelkous AG Thai Oranje",
+    "size": "l",
+    "price": 14.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-enkelkous-ag-thai-oranje/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Enkelkous AG Thai Oranje",
+    "size": "s",
+    "price": 14.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-enkelkous-ag-thai-oranje/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Enkelkous AG Thai Oranje",
+    "size": "xl",
+    "price": 14.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-enkelkous-ag-thai-oranje/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -210895,7 +211335,7 @@
     "product": "Joya Gear Kickboks Set Essential Green",
     "size": "One Size",
     "price": 0.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://olbsports.nl/product/joya-gear-kickboks-set-essential-green/",
     "previous_price": 0.0
   },
@@ -212961,16 +213401,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Fightshort Light 5.0 Black",
-    "size": "xl",
-    "price": 59.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-fightshort-light-5-0-black/",
-    "previous_price": 59.99
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "1916",
     "product": "1916 Fight Gear Kickboksbroek Legend Navy/White",
     "size": "xl",
@@ -214482,9 +214912,29 @@
   {
     "shop": "OLB Sports",
     "brand": "Venum",
+    "product": "Venum Classic T-Shirt Contender Kids Royal Blue",
+    "size": "140",
+    "price": 18.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/venum-classic-t-shirt-contender-kids-royal-blue/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Venum",
+    "product": "Venum Classic T-Shirt Contender Kids Royal Blue",
+    "size": "152",
+    "price": 18.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/venum-classic-t-shirt-contender-kids-royal-blue/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Venum",
     "product": "Venum Classic T-Shirt Contender Kids Cherry Red",
     "size": "140",
-    "price": 21.95,
+    "price": 18.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-classic-t-shirt-contender-kids-cherry-red/",
     "previous_price": 21.95
@@ -214494,7 +214944,7 @@
     "brand": "Venum",
     "product": "Venum Classic T-Shirt Contender Kids Cherry Red",
     "size": "152",
-    "price": 21.95,
+    "price": 18.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-classic-t-shirt-contender-kids-cherry-red/",
     "previous_price": 21.95
@@ -214554,7 +215004,7 @@
     "brand": "Venum",
     "product": "Venum MMA Handschoenen Training Camp 4.0 Black/Neo Green",
     "size": "s",
-    "price": 59.95,
+    "price": 44.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-mma-handschoenen-training-camp-4-0-black-neo-green/",
     "previous_price": 59.95
@@ -215108,16 +215558,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-4-black-blue/",
     "previous_price": 189.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Twins",
-    "product": "Twins Hoofdbeschermer HGL 3 Wit",
-    "size": "m",
-    "price": 126.0,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/twins-hoofdbeschermer-hgl-3-wit/",
-    "previous_price": 126.0
   },
   {
     "shop": "OLB Sports",
@@ -216792,16 +217232,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Joya",
-    "product": "Joya Scheenbeschermers Essential Green",
-    "size": "xl",
-    "price": 54.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-green/",
-    "previous_price": 54.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
     "product": "Joya Gear Bokshandschoenen Essential White/Gold",
     "size": "12oz",
     "price": 54.99,
@@ -216827,16 +217257,6 @@
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-essential-white-gold/",
-    "previous_price": 54.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Gear Bokshandschoenen Essential Green",
-    "size": "16oz",
-    "price": 54.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-essential-green/",
     "previous_price": 54.99
   },
   {
@@ -217134,7 +217554,7 @@
     "brand": "Everlast",
     "product": "Everlast MMA Handschoenen Core Everstrike Black",
     "size": "m",
-    "price": 54.99,
+    "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/everlast-mma-handschoenen-core-everstrike-black/",
     "previous_price": 54.99
@@ -218057,7 +218477,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-dragon-pu-groen/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -219703,6 +220123,16 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Gear Bokshandschoenen Evolution Gold/Black",
+    "size": "12oz",
+    "price": 64.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-evolution-gold-black/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear Bokshandschoenen Evolution Gold/Black",
     "size": "14oz",
     "price": 64.95,
     "in_stock": true,
@@ -219748,6 +220178,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-evolution-black/",
     "previous_price": 64.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear Bokshandschoenen Evolution Black",
+    "size": "16oz",
+    "price": 64.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-evolution-black/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -219897,7 +220337,7 @@
     "price": 44.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-bokshandschoen-contender-1-5-black-black/",
-    "previous_price": null
+    "previous_price": 44.95
   },
   {
     "shop": "OLB Sports",
@@ -219907,7 +220347,7 @@
     "price": 44.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-bokshandschoen-contender-1-5-black-black/",
-    "previous_price": null
+    "previous_price": 44.95
   },
   {
     "shop": "OLB Sports",
@@ -221428,6 +221868,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/matsuru-budo-band-groen/",
     "previous_price": 7.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Matsuru",
+    "product": "Matsuru Budo Band Geel",
+    "size": "260cm",
+    "price": 7.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/matsuru-budo-band-geel/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -223457,7 +223907,7 @@
     "price": 269.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-heavy-bag-bokszak-80kg/",
-    "previous_price": null
+    "previous_price": 269.99
   },
   {
     "shop": "OLB Sports",
@@ -223954,16 +224404,6 @@
     "brand": "Joya",
     "product": "Joya Shirt Camo V2 Roze",
     "size": "140",
-    "price": 24.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-shirt-camo-v2-roze/",
-    "previous_price": 24.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Shirt Camo V2 Roze",
-    "size": "128",
     "price": 24.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-shirt-camo-v2-roze/",
@@ -224727,7 +225167,7 @@
     "price": 14.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-challenger-gebitsbeschermer-zwart-khaki/",
-    "previous_price": null
+    "previous_price": 14.99
   },
   {
     "shop": "OLB Sports",
@@ -224764,16 +225204,6 @@
     "brand": "Joya",
     "product": "Joya Scheenbeschermer Camo V2 Roze",
     "size": "m",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-scheenbeschermer-camo-v2-roze/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Scheenbeschermer Camo V2 Roze",
-    "size": "xxs",
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermer-camo-v2-roze/",
@@ -226201,16 +226631,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Shirt Boxing VT Black/Gold",
-    "size": "xl",
-    "price": 23.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-shirt-boxing-vt-black-gold/",
-    "previous_price": 23.95
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Scheenbeschermers Butterfly Roze",
     "size": "xs",
@@ -226723,16 +227143,6 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Tok Staal",
-    "size": "m",
-    "price": 24.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-tok-staal/",
-    "previous_price": 24.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Tok Staal",
     "size": "l",
     "price": 24.95,
     "in_stock": true,
@@ -226778,16 +227188,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-extreme-pump/",
     "previous_price": 26.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Mesh Binnenhandschoen",
-    "size": "xs",
-    "price": 14.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-mesh-binnenhandschoen/",
-    "previous_price": 14.99
   },
   {
     "shop": "OLB Sports",
@@ -228077,7 +228477,7 @@
     "price": 89.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/super-pro-double-end-ball-leer/",
-    "previous_price": null
+    "previous_price": 89.95
   },
   {
     "shop": "OLB Sports",
@@ -228087,7 +228487,7 @@
     "price": 99.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/super-pro-vintage-double-end-ball-leer/",
-    "previous_price": null
+    "previous_price": 99.95
   },
   {
     "shop": "OLB Sports",
@@ -228317,7 +228717,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/super-pro-combat-gear-double-end-ball/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -228378,6 +228778,26 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-enkelkous-ag-thai-zwart/",
     "previous_price": 14.99
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Enkelkous AG Thai Zwart",
+    "size": "xs",
+    "price": 14.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-enkelkous-ag-thai-zwart/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Enkelkous AG Thai Zwart",
+    "size": "xl",
+    "price": 14.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-enkelkous-ag-thai-zwart/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -228997,7 +229417,7 @@
     "price": 59.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-challenger-scheenbeschermer-zwart/",
-    "previous_price": null
+    "previous_price": 59.95
   },
   {
     "shop": "OLB Sports",
@@ -229157,7 +229577,7 @@
     "price": 9.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-bandage-camo-groen-4m/",
-    "previous_price": null
+    "previous_price": 9.95
   },
   {
     "shop": "OLB Sports",
@@ -229467,7 +229887,7 @@
     "price": 14.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-challenger-gebitsbeschermer-wit-zwart/",
-    "previous_price": null
+    "previous_price": 14.99
   },
   {
     "shop": "OLB Sports",
@@ -229477,7 +229897,7 @@
     "price": 14.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-challenger-gebitsbeschermer-zwart-zwart/",
-    "previous_price": null
+    "previous_price": 14.99
   },
   {
     "shop": "OLB Sports",
@@ -229977,7 +230397,7 @@
     "price": 47.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-challenger-mma-handschoenen-zwart/",
-    "previous_price": null
+    "previous_price": 47.99
   },
   {
     "shop": "OLB Sports",
@@ -229987,7 +230407,7 @@
     "price": 47.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-challenger-mma-handschoenen-zwart/",
-    "previous_price": null
+    "previous_price": 47.99
   },
   {
     "shop": "OLB Sports",
@@ -229997,7 +230417,7 @@
     "price": 47.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-challenger-mma-handschoenen-zwart/",
-    "previous_price": null
+    "previous_price": 47.99
   },
   {
     "shop": "OLB Sports",
@@ -230157,7 +230577,7 @@
     "price": 21.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-predator-gebitsbeschermer-grijs-zwart/",
-    "previous_price": null
+    "previous_price": 21.95
   },
   {
     "shop": "OLB Sports",
@@ -230417,7 +230837,7 @@
     "price": 44.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-challenger-mma-handschoen-zwart-wit/",
-    "previous_price": null
+    "previous_price": 44.95
   },
   {
     "shop": "OLB Sports",
@@ -230427,7 +230847,7 @@
     "price": 44.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-challenger-mma-handschoen-zwart-wit/",
-    "previous_price": null
+    "previous_price": 44.95
   },
   {
     "shop": "OLB Sports",
@@ -230437,7 +230857,7 @@
     "price": 44.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-challenger-mma-handschoen-zwart-wit/",
-    "previous_price": null
+    "previous_price": 44.95
   },
   {
     "shop": "OLB Sports",
@@ -230447,7 +230867,7 @@
     "price": 59.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-challenger-scheenbeschermer-zwart-wit/",
-    "previous_price": null
+    "previous_price": 59.95
   },
   {
     "shop": "OLB Sports",
@@ -230457,7 +230877,7 @@
     "price": 59.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-challenger-scheenbeschermer-zwart-wit/",
-    "previous_price": null
+    "previous_price": 59.95
   },
   {
     "shop": "OLB Sports",
@@ -230544,16 +230964,6 @@
     "brand": "Shock",
     "product": "Shock Doctor Compression Short Support",
     "size": "m",
-    "price": 39.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/shock-doctor-compression-short-support/",
-    "previous_price": 39.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Shock",
-    "product": "Shock Doctor Compression Short Support",
-    "size": "xl",
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/shock-doctor-compression-short-support/",
@@ -231043,18 +231453,8 @@
     "shop": "OLB Sports",
     "brand": "Matsuru",
     "product": "Matsuru Karatepak Allround Zwart",
-    "size": "160cm",
-    "price": 59.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/matsuru-karatepak-allround-zwart/",
-    "previous_price": 59.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Matsuru",
-    "product": "Matsuru Karatepak Allround Zwart",
     "size": "170cm",
-    "price": 59.95,
+    "price": 63.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/matsuru-karatepak-allround-zwart/",
     "previous_price": 59.95
@@ -231068,6 +231468,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/matsuru-karatepak-extra/",
     "previous_price": 38.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Matsuru",
+    "product": "Matsuru Karatepak Extra Wit",
+    "size": "160cm",
+    "price": 38.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/matsuru-karatepak-extra/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -231103,8 +231513,8 @@
     "shop": "OLB Sports",
     "brand": "Matsuru",
     "product": "Matsuru Judobroek",
-    "size": "160cm",
-    "price": 22.95,
+    "size": "170cm",
+    "price": 24.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/matsuru-judobroek/",
     "previous_price": 22.95
@@ -231113,11 +231523,11 @@
     "shop": "OLB Sports",
     "brand": "Matsuru",
     "product": "Matsuru Judobroek",
-    "size": "170cm",
-    "price": 22.95,
+    "size": "180cm",
+    "price": 24.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/matsuru-judobroek/",
-    "previous_price": 22.95
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -231153,18 +231563,8 @@
     "shop": "OLB Sports",
     "brand": "Matsuru",
     "product": "Matsuru Judo Club Met Schouderlabels",
-    "size": "160cm",
-    "price": 69.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/matsuru-judo-club-met-schouderlabels/",
-    "previous_price": 69.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Matsuru",
-    "product": "Matsuru Judo Club Met Schouderlabels",
     "size": "170cm",
-    "price": 69.95,
+    "price": 73.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/matsuru-judo-club-met-schouderlabels/",
     "previous_price": 69.95
@@ -231174,7 +231574,7 @@
     "brand": "Matsuru",
     "product": "Matsuru Judo Club Met Schouderlabels",
     "size": "190cm",
-    "price": 69.95,
+    "price": 73.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/matsuru-judo-club-met-schouderlabels/",
     "previous_price": 69.95
@@ -231357,7 +231757,7 @@
     "price": 9.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-bandage-zwart-4m/",
-    "previous_price": null
+    "previous_price": 9.95
   },
   {
     "shop": "OLB Sports",
@@ -231367,7 +231767,7 @@
     "price": 9.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-bandage-blauw-4m/",
-    "previous_price": null
+    "previous_price": 9.95
   },
   {
     "shop": "OLB Sports",
@@ -231377,7 +231777,7 @@
     "price": 9.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-bandage-rood-4m/",
-    "previous_price": null
+    "previous_price": 9.95
   },
   {
     "shop": "OLB Sports",
@@ -231387,7 +231787,7 @@
     "price": 9.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-bandage-geel-4m/",
-    "previous_price": null
+    "previous_price": 9.95
   },
   {
     "shop": "OLB Sports",
