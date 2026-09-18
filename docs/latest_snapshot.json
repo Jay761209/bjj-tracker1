@@ -715,7 +715,7 @@
     "product": "Ground Force Aero 300 Gi - Black",
     "size": "A1L",
     "price": 110.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-aero-300-gi-black",
     "previous_price": 110.0
   },
@@ -1055,7 +1055,7 @@
     "product": "Ground Force Blue Label BJJ Belt",
     "size": "A3 / Brown",
     "price": 12.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-blue-label-bjj-belt",
     "previous_price": 12.0
   },
@@ -1285,7 +1285,7 @@
     "product": "Ground Force Basic Gi V3 - Blue",
     "size": "A1L",
     "price": 80.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-basic-gi-v3-blue",
     "previous_price": 80.0
   },
@@ -13105,7 +13105,7 @@
     "product": "Ground Force Basic Kids Gi",
     "size": "M00 / Pink",
     "price": 49.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-basic-kids-gi",
     "previous_price": 49.0
   },
@@ -15145,7 +15145,7 @@
     "product": "Ground Game Carioca Kids Training Shorts",
     "size": "128cm",
     "price": 36.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-game-carioca-kids-training-shorts",
     "previous_price": 36.0
   },
@@ -22505,7 +22505,7 @@
     "product": "Cliff Keen The Wraptor 2.0 Lycra Knee Pad",
     "size": "M",
     "price": 41.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/cliff-keen-the-wraptor-2-0-lycra-knee-pad",
     "previous_price": 41.0
   },
@@ -24805,7 +24805,7 @@
     "product": "Kimono BJJ (Gi) Kingz The One V2 Womens- Negro",
     "size": "F3",
     "price": 105.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-kingz-the-one-v2-womens-negro",
     "previous_price": 105.0
   },
@@ -29335,7 +29335,7 @@
     "product": "Kingz Players Special Limited Edition Gi- Blanco",
     "size": "A2",
     "price": 180.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.stockbjj.com/products/kingz-players-special-limited-edition-gi-blanco",
     "previous_price": 180.0
   },
@@ -29395,7 +29395,7 @@
     "product": "Kingz Players Special Limited Edition Gi- Negro",
     "size": "A1",
     "price": 180.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.stockbjj.com/products/kingz-players-special-limited-edition-gi-negro",
     "previous_price": 180.0
   },
@@ -29415,7 +29415,7 @@
     "product": "Kingz Players Special Limited Edition Gi- Negro",
     "size": "A2",
     "price": 180.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.stockbjj.com/products/kingz-players-special-limited-edition-gi-negro",
     "previous_price": 180.0
   },
@@ -29435,7 +29435,7 @@
     "product": "Kingz Players Special Limited Edition Gi- Negro",
     "size": "A3",
     "price": 180.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.stockbjj.com/products/kingz-players-special-limited-edition-gi-negro",
     "previous_price": 180.0
   },
@@ -36865,7 +36865,7 @@
     "product": "Meerkatsu Heavenly Obi V2.0- Blanco",
     "size": "A2 / Blanco",
     "price": 25.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/meerkatsu-heavenly-obi-v2-0-blanco",
     "previous_price": 25.0
   },
@@ -48615,7 +48615,7 @@
     "product": "Kimono BJJ (Gi) Tatami Ladies Nova Absolute - Kaki - CINTURÓN BLANCO INCLUIDO",
     "size": "F1",
     "price": 58.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-tatami-ladies-nova-absolute-kaki-cinturon-blanco-incluido",
     "previous_price": 58.0
   },
@@ -54945,7 +54945,7 @@
     "product": "Arrhichion Shorts",
     "size": "M",
     "price": 54.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-shorts",
     "previous_price": 54.99
   },
@@ -55015,7 +55015,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "XS / M",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -55085,7 +55085,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "S / M",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -61675,7 +61675,7 @@
     "product": "Arena Oversized Tee",
     "size": "S",
     "price": 49.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arena-oversized-tee",
     "previous_price": 49.99
   },
@@ -63665,7 +63665,7 @@
     "product": "Subtle Tee",
     "size": "Gray / S",
     "price": 29.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/subtle-tee",
     "previous_price": 29.99
   },
@@ -63675,7 +63675,7 @@
     "product": "Subtle Tee",
     "size": "Gray / M",
     "price": 29.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/subtle-tee",
     "previous_price": 29.99
   },
@@ -63685,7 +63685,7 @@
     "product": "Subtle Tee",
     "size": "Gray / L",
     "price": 29.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/subtle-tee",
     "previous_price": 29.99
   },
@@ -63695,7 +63695,7 @@
     "product": "Subtle Tee",
     "size": "Gray / XL",
     "price": 29.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/subtle-tee",
     "previous_price": 29.99
   },
@@ -63705,7 +63705,7 @@
     "product": "Subtle Tee",
     "size": "Gray / 2XL",
     "price": 29.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/subtle-tee",
     "previous_price": 29.99
   },
@@ -63715,7 +63715,7 @@
     "product": "Subtle Tee",
     "size": "Gray / 3XL",
     "price": 29.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/subtle-tee",
     "previous_price": 29.99
   },
@@ -76037,7 +76037,7 @@
     "price": 29.99,
     "in_stock": true,
     "url": "https://goldbjj.com/products/compression-shorts-base-layer",
-    "previous_price": null
+    "previous_price": 29.99
   },
   {
     "shop": "Gold BJJ",
@@ -76045,9 +76045,9 @@
     "product": "Compression Shorts Base Layer",
     "size": "X-Small / Boxer",
     "price": 29.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/compression-shorts-base-layer",
-    "previous_price": null
+    "previous_price": 29.99
   },
   {
     "shop": "Gold BJJ",
@@ -76057,7 +76057,7 @@
     "price": 29.99,
     "in_stock": true,
     "url": "https://goldbjj.com/products/compression-shorts-base-layer",
-    "previous_price": null
+    "previous_price": 29.99
   },
   {
     "shop": "Gold BJJ",
@@ -76065,9 +76065,9 @@
     "product": "Compression Shorts Base Layer",
     "size": "Small / Boxer",
     "price": 29.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/compression-shorts-base-layer",
-    "previous_price": null
+    "previous_price": 29.99
   },
   {
     "shop": "Gold BJJ",
@@ -76077,7 +76077,7 @@
     "price": 29.99,
     "in_stock": true,
     "url": "https://goldbjj.com/products/compression-shorts-base-layer",
-    "previous_price": null
+    "previous_price": 29.99
   },
   {
     "shop": "Gold BJJ",
@@ -76085,9 +76085,9 @@
     "product": "Compression Shorts Base Layer",
     "size": "Medium / Boxer",
     "price": 29.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/compression-shorts-base-layer",
-    "previous_price": null
+    "previous_price": 29.99
   },
   {
     "shop": "Gold BJJ",
@@ -76097,7 +76097,7 @@
     "price": 29.99,
     "in_stock": true,
     "url": "https://goldbjj.com/products/compression-shorts-base-layer",
-    "previous_price": null
+    "previous_price": 29.99
   },
   {
     "shop": "Gold BJJ",
@@ -76105,9 +76105,9 @@
     "product": "Compression Shorts Base Layer",
     "size": "Large / Boxer",
     "price": 29.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/compression-shorts-base-layer",
-    "previous_price": null
+    "previous_price": 29.99
   },
   {
     "shop": "Gold BJJ",
@@ -76117,7 +76117,7 @@
     "price": 29.99,
     "in_stock": true,
     "url": "https://goldbjj.com/products/compression-shorts-base-layer",
-    "previous_price": null
+    "previous_price": 29.99
   },
   {
     "shop": "Gold BJJ",
@@ -76125,9 +76125,9 @@
     "product": "Compression Shorts Base Layer",
     "size": "X-Large / Boxer",
     "price": 29.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/compression-shorts-base-layer",
-    "previous_price": null
+    "previous_price": 29.99
   },
   {
     "shop": "Gold BJJ",
@@ -76137,7 +76137,7 @@
     "price": 29.99,
     "in_stock": true,
     "url": "https://goldbjj.com/products/compression-shorts-base-layer",
-    "previous_price": null
+    "previous_price": 29.99
   },
   {
     "shop": "Gold BJJ",
@@ -76145,9 +76145,9 @@
     "product": "Compression Shorts Base Layer",
     "size": "XX-Large / Boxer",
     "price": 29.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/compression-shorts-base-layer",
-    "previous_price": null
+    "previous_price": 29.99
   },
   {
     "shop": "Gold BJJ",
@@ -76157,7 +76157,7 @@
     "price": 29.99,
     "in_stock": true,
     "url": "https://goldbjj.com/products/compression-shorts-base-layer",
-    "previous_price": null
+    "previous_price": 29.99
   },
   {
     "shop": "Gold BJJ",
@@ -76165,9 +76165,9 @@
     "product": "Compression Shorts Base Layer",
     "size": "XXX-Large / Boxer",
     "price": 29.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://goldbjj.com/products/compression-shorts-base-layer",
-    "previous_price": null
+    "previous_price": 29.99
   },
   {
     "shop": "Gold BJJ",
@@ -83805,7 +83805,7 @@
     "product": "Kingz Acid Wash Men's Grappling Shorts",
     "size": "XXL / Black/Acid",
     "price": 55.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/acid-wash-shorts",
     "previous_price": 55.0
   },
@@ -84655,7 +84655,7 @@
     "product": "Kingz Players Special Limited Edition Men's BJJ Gi",
     "size": "A2 / Black",
     "price": 170.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-players-special-limited-edition-gi",
     "previous_price": 170.0
   },
@@ -85835,7 +85835,7 @@
     "product": "Kore V2 Jiu Jitsu Gi -  White - 2023 Edition",
     "size": "A5 / White",
     "price": 70.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-2-0-gi-white",
     "previous_price": 70.0
   },
@@ -89565,7 +89565,7 @@
     "product": "Solo Crewneck Sweater",
     "size": "L / Dark Green",
     "price": 55.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/solo-crewneck-sweater",
     "previous_price": 55.0
   },
@@ -93545,7 +93545,7 @@
     "product": "Kingz Kore V2 Men's Grappling Shorts",
     "size": "Black / XXL",
     "price": 45.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-v2-shorts",
     "previous_price": 45.0
   },
@@ -93845,7 +93845,7 @@
     "product": "Kingz The ONE V2 Youth BJJ Gi - Black",
     "size": "M4 / Black",
     "price": 85.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-the-one-v2-kids-bjj-gi-black",
     "previous_price": 85.0
   },
@@ -96445,7 +96445,7 @@
     "product": "Kingz The ONE V2 Men's BJJ Gi - Blue",
     "size": "A2 / Blue",
     "price": 105.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-the-one-v2-jiu-jitsu-gi-blue",
     "previous_price": 105.0
   },
@@ -98245,7 +98245,7 @@
     "product": "Kingz Balistico 4.0 Men's BJJ Gi - Blue",
     "size": "A2 / Blue",
     "price": 150.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-blue-2024-edition",
     "previous_price": 150.0
   },
@@ -102065,7 +102065,7 @@
     "product": "Kingz Gold Label V2 Youth BJJ Belt - Solid Color",
     "size": "M4 / Orange",
     "price": 15.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gold-label-v2-kids-belt-solid-color",
     "previous_price": 15.0
   },
@@ -119215,7 +119215,7 @@
     "product": "Japanese Street Art Shirt Red",
     "size": "L",
     "price": 29.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/japanese-street-art-shirt-red",
     "previous_price": 29.95
   },
@@ -128345,7 +128345,7 @@
     "product": "USA Judo Euro Competition Judo Gi Blue",
     "size": "6",
     "price": 159.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/usa-judo-euro-competition-judo-gi-blue",
     "previous_price": 159.95
   },
@@ -128365,7 +128365,7 @@
     "product": "USA Judo Euro Competition Judo Gi White",
     "size": "2.5",
     "price": 159.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/usa-judo-euro-competition-judo-gi-white",
     "previous_price": 159.95
   },
@@ -129237,36 +129237,6 @@
     "price": 24.0,
     "in_stock": false,
     "url": "https://fujisports.com/products/rilion-gracie-belt-green",
-    "previous_price": 24.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "vendor-unknown",
-    "product": "Rilion Gracie Belt White/Yellow",
-    "size": "A1",
-    "price": 24.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/rilion-gracie-belt-white-yellow",
-    "previous_price": 24.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "vendor-unknown",
-    "product": "Rilion Gracie Belt White/Yellow",
-    "size": "A2",
-    "price": 24.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/rilion-gracie-belt-white-yellow",
-    "previous_price": 24.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "vendor-unknown",
-    "product": "Rilion Gracie Belt White/Yellow",
-    "size": "A3",
-    "price": 24.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/rilion-gracie-belt-white-yellow",
     "previous_price": 24.0
   },
   {
@@ -162945,7 +162915,7 @@
     "product": "Renzo Gracie Color Kids BJJ Belt",
     "size": "C1 / Grey/White",
     "price": 16.5,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/renzo-kids-bjj-belt",
     "previous_price": 16.5
   },
@@ -169365,7 +169335,7 @@
     "product": "Single Weave Judo Gi White",
     "size": "5",
     "price": 84.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/single-weave-judo-gi-white",
     "previous_price": 84.95
   },
@@ -174655,7 +174625,7 @@
     "product": "Mizuno Hayato Judo Gi",
     "size": "6",
     "price": 99.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/mizuno-hayato-single-weave-55001",
     "previous_price": 99.95
   },
@@ -176285,7 +176255,7 @@
     "product": "Single Weave Judo Gi",
     "size": "5 / White",
     "price": 84.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/fuji-sports-single-weave-judo-gi",
     "previous_price": 84.95
   },
@@ -176951,13 +176921,23 @@
   },
   {
     "shop": "Kickboxing-shop.nl",
+    "brand": "Flow",
+    "product": "Flow Airmitts - Paar - Echt leer - Zwart/Wit",
+    "size": "Default Title",
+    "price": 109.95,
+    "in_stock": true,
+    "url": "https://kickboxing-shop.nl/products/flow-airmitts-echt-leer-zwart-wit",
+    "previous_price": null
+  },
+  {
+    "shop": "Kickboxing-shop.nl",
     "brand": "Booster",
     "product": "Fairtex X Booster Scheenbeschermers - FXB SG - Navy/Goud",
     "size": "S",
     "price": 124.94,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-x-booster-scheenbeschermers-fxb-sg-navy-goud",
-    "previous_price": null
+    "previous_price": 124.94
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -176967,7 +176947,7 @@
     "price": 124.94,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-x-booster-scheenbeschermers-fxb-sg-navy-goud",
-    "previous_price": null
+    "previous_price": 124.94
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -176977,7 +176957,7 @@
     "price": 124.94,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-x-booster-scheenbeschermers-fxb-sg-navy-goud",
-    "previous_price": null
+    "previous_price": 124.94
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -176987,7 +176967,7 @@
     "price": 124.94,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-x-booster-scheenbeschermers-fxb-sg-navy-goud",
-    "previous_price": null
+    "previous_price": 124.94
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -176997,7 +176977,7 @@
     "price": 169.94,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-mma-handschoenen-7-oz-sparring-wit",
-    "previous_price": null
+    "previous_price": 169.94
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -177007,7 +176987,7 @@
     "price": 169.94,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-mma-handschoenen-7-oz-sparring-wit",
-    "previous_price": null
+    "previous_price": 169.94
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -177017,7 +176997,7 @@
     "price": 169.94,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-mma-handschoenen-7-oz-sparring-wit",
-    "previous_price": null
+    "previous_price": 169.94
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -177027,7 +177007,7 @@
     "price": 169.94,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-x-booster-bokshandschoenen-fxb-bg-v2-echt-leer-navy-goud",
-    "previous_price": null
+    "previous_price": 169.94
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -177037,7 +177017,7 @@
     "price": 169.94,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-x-booster-bokshandschoenen-fxb-bg-v2-echt-leer-navy-goud",
-    "previous_price": null
+    "previous_price": 169.94
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -177047,7 +177027,7 @@
     "price": 169.94,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-x-booster-bokshandschoenen-fxb-bg-v2-echt-leer-navy-goud",
-    "previous_price": null
+    "previous_price": 169.94
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -177057,7 +177037,7 @@
     "price": 169.94,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-x-booster-bokshandschoenen-fxb-bg-v2-echt-leer-navy-goud",
-    "previous_price": null
+    "previous_price": 169.94
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -179574,7 +179554,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V3 Bokshandschoenen - Echt Leer - Black Foil - zwart",
     "size": "12 oz",
-    "price": 149.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v3-bokshandschoenen-echt-leer-black-foil-zwart",
     "previous_price": 149.95
@@ -179584,7 +179564,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V3 Bokshandschoenen - Echt Leer - Black Foil - zwart",
     "size": "14 oz",
-    "price": 149.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v3-bokshandschoenen-echt-leer-black-foil-zwart",
     "previous_price": 149.95
@@ -179594,7 +179574,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V3 Bokshandschoenen - Echt Leer - Black Foil - zwart",
     "size": "16 oz",
-    "price": 149.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v3-bokshandschoenen-echt-leer-black-foil-zwart",
     "previous_price": 149.95
@@ -179604,7 +179584,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V3 Bokshandschoenen - Echt Leer - Foil - zwart/rood",
     "size": "12 oz",
-    "price": 149.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v3-bokshandschoenen-echt-leer-foil-zwart-rood",
     "previous_price": 149.95
@@ -179614,7 +179594,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V3 Bokshandschoenen - Echt Leer - Foil - zwart/rood",
     "size": "14 oz",
-    "price": 149.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v3-bokshandschoenen-echt-leer-foil-zwart-rood",
     "previous_price": 149.95
@@ -179624,7 +179604,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V3 Bokshandschoenen - Echt Leer - Foil - zwart/rood",
     "size": "16 oz",
-    "price": 149.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v3-bokshandschoenen-echt-leer-foil-zwart-rood",
     "previous_price": 149.95
@@ -179634,7 +179614,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V3 Bokshandschoenen - Echt Leer - Foil - zwart/zilver",
     "size": "12 oz",
-    "price": 149.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v3-bokshandschoenen-echt-leer-foil-zwart-zilver",
     "previous_price": 149.95
@@ -179644,7 +179624,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V3 Bokshandschoenen - Echt Leer - Foil - zwart/zilver",
     "size": "14 oz",
-    "price": 149.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v3-bokshandschoenen-echt-leer-foil-zwart-zilver",
     "previous_price": 149.95
@@ -179654,7 +179634,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V3 Bokshandschoenen - Echt Leer - Foil - zwart/zilver",
     "size": "16 oz",
-    "price": 149.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v3-bokshandschoenen-echt-leer-foil-zwart-zilver",
     "previous_price": 149.95
@@ -179664,7 +179644,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V9 Bokshandschoenen - Echt Leer - wit/goud",
     "size": "12 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v9-bokshandschoenen-echt-leer-wit-goud",
     "previous_price": 159.95
@@ -179674,7 +179654,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V9 Bokshandschoenen - Echt Leer - wit/goud",
     "size": "14 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v9-bokshandschoenen-echt-leer-wit-goud",
     "previous_price": 159.95
@@ -179684,7 +179664,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V9 Bokshandschoenen - Echt Leer - wit/goud",
     "size": "16 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v9-bokshandschoenen-echt-leer-wit-goud",
     "previous_price": 159.95
@@ -179694,7 +179674,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V9 Bokshandschoenen - Echt Leer - zwart/blauw",
     "size": "12 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v9-bokshandschoenen-echt-leer-zwart-blauw",
     "previous_price": 159.95
@@ -179704,7 +179684,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V9 Bokshandschoenen - Echt Leer - zwart/blauw",
     "size": "14 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v9-bokshandschoenen-echt-leer-zwart-blauw",
     "previous_price": 159.95
@@ -179714,7 +179694,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V9 Bokshandschoenen - Echt Leer - zwart/blauw",
     "size": "16 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v9-bokshandschoenen-echt-leer-zwart-blauw",
     "previous_price": 159.95
@@ -179724,7 +179704,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V9 Bokshandschoenen - Echt Leer - zwart/grijs",
     "size": "12 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v9-bokshandschoenen-echt-leer-zwart-grijs",
     "previous_price": 159.95
@@ -179734,7 +179714,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V9 Bokshandschoenen - Echt Leer - zwart/grijs",
     "size": "14 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v9-bokshandschoenen-echt-leer-zwart-grijs",
     "previous_price": 159.95
@@ -179744,7 +179724,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V9 Bokshandschoenen - Echt Leer - zwart/grijs",
     "size": "16 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v9-bokshandschoenen-echt-leer-zwart-grijs",
     "previous_price": 159.95
@@ -185714,7 +185694,7 @@
     "brand": "Twins Special",
     "product": "Twins Special HGS 3 Hoofdbeschermer - Zwart",
     "size": "M",
-    "price": 118.0,
+    "price": 126.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-hoofdbeschermer-hgl-3-zwart",
     "previous_price": 118.0
@@ -185724,7 +185704,7 @@
     "brand": "Twins Special",
     "product": "Twins Special HGS 3 Hoofdbeschermer - Zwart",
     "size": "L",
-    "price": 118.0,
+    "price": 126.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-hoofdbeschermer-hgl-3-zwart",
     "previous_price": 118.0
@@ -185734,7 +185714,7 @@
     "brand": "Twins Special",
     "product": "Twins Special HGS 3 Hoofdbeschermer - Olijfgroen",
     "size": "M",
-    "price": 118.0,
+    "price": 126.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-hgs-3-hoofdbeschermer-olijfgroen",
     "previous_price": 118.0
@@ -185744,7 +185724,7 @@
     "brand": "Twins Special",
     "product": "Twins Special HGS 3 Hoofdbeschermer - Olijfgroen",
     "size": "L",
-    "price": 118.0,
+    "price": 126.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-hgs-3-hoofdbeschermer-olijfgroen",
     "previous_price": 118.0
@@ -185754,7 +185734,7 @@
     "brand": "Twins Special",
     "product": "Twins Special HGS 3 Hoofdbeschermer - Wit",
     "size": "M",
-    "price": 118.0,
+    "price": 126.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-hgs-3-hoofdbeschermer-wit",
     "previous_price": 118.0
@@ -185764,7 +185744,7 @@
     "brand": "Twins Special",
     "product": "Twins Special HGS 3 Hoofdbeschermer - Wit",
     "size": "L",
-    "price": 118.0,
+    "price": 126.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-hgs-3-hoofdbeschermer-wit",
     "previous_price": 118.0
@@ -186344,7 +186324,7 @@
     "brand": "King Pro Boxing",
     "product": "King Pro Boxing Bokshandschoenen - BGVL 3 - Zwart / Wit",
     "size": "12 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/king-pro-boxing-bokshandschoenen-bgvl-3-zwart-wit",
     "previous_price": 159.95
@@ -186354,7 +186334,7 @@
     "brand": "King Pro Boxing",
     "product": "King Pro Boxing Bokshandschoenen - BGVL 3 - Zwart / Wit",
     "size": "14 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/king-pro-boxing-bokshandschoenen-bgvl-3-zwart-wit",
     "previous_price": 159.95
@@ -186364,7 +186344,7 @@
     "brand": "King Pro Boxing",
     "product": "King Pro Boxing Bokshandschoenen - BGVL 3 - Zwart / Wit",
     "size": "16 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/king-pro-boxing-bokshandschoenen-bgvl-3-zwart-wit",
     "previous_price": 159.95
@@ -186374,7 +186354,7 @@
     "brand": "King Pro Boxing",
     "product": "King Pro Boxing Bokshandschoenen - BGVL 3 - Olijfgroen",
     "size": "12 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/king-pro-boxing-bokshandschoenen-bgvl-3-olijfgroen",
     "previous_price": 159.95
@@ -186384,7 +186364,7 @@
     "brand": "King Pro Boxing",
     "product": "King Pro Boxing Bokshandschoenen - BGVL 3 - Olijfgroen",
     "size": "14 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/king-pro-boxing-bokshandschoenen-bgvl-3-olijfgroen",
     "previous_price": 159.95
@@ -186394,7 +186374,7 @@
     "brand": "King Pro Boxing",
     "product": "King Pro Boxing Bokshandschoenen - BGVL 3 - Olijfgroen",
     "size": "16 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/king-pro-boxing-bokshandschoenen-bgvl-3-olijfgroen",
     "previous_price": 159.95
@@ -186404,7 +186384,7 @@
     "brand": "King Pro Boxing",
     "product": "King Pro Boxing Bokshandschoenen - BGVL 3 - Wit / Zwart",
     "size": "12 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/king-pro-boxing-bokshandschoenen-bgvl-3-wit-zwart",
     "previous_price": 159.95
@@ -186414,7 +186394,7 @@
     "brand": "King Pro Boxing",
     "product": "King Pro Boxing Bokshandschoenen - BGVL 3 - Wit / Zwart",
     "size": "14 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/king-pro-boxing-bokshandschoenen-bgvl-3-wit-zwart",
     "previous_price": 159.95
@@ -186424,7 +186404,7 @@
     "brand": "King Pro Boxing",
     "product": "King Pro Boxing Bokshandschoenen - BGVL 3 - Wit / Zwart",
     "size": "16 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/king-pro-boxing-bokshandschoenen-bgvl-3-wit-zwart",
     "previous_price": 159.95
@@ -186724,7 +186704,7 @@
     "brand": "King Pro Boxing",
     "product": "King Pro Boxing SGL 7 Kickboks Scheenbeschermers - zwart/wit",
     "size": "S",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/king-pro-boxing-sgl-7-kickboks-scheenbeschermers-zwart-wit",
     "previous_price": 119.95
@@ -186734,7 +186714,7 @@
     "brand": "King Pro Boxing",
     "product": "King Pro Boxing SGL 7 Kickboks Scheenbeschermers - zwart/wit",
     "size": "M",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/king-pro-boxing-sgl-7-kickboks-scheenbeschermers-zwart-wit",
     "previous_price": 119.95
@@ -186744,7 +186724,7 @@
     "brand": "King Pro Boxing",
     "product": "King Pro Boxing SGL 7 Kickboks Scheenbeschermers - zwart/wit",
     "size": "L",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/king-pro-boxing-sgl-7-kickboks-scheenbeschermers-zwart-wit",
     "previous_price": 119.95
@@ -186754,7 +186734,7 @@
     "brand": "King Pro Boxing",
     "product": "King Pro Boxing SGL 7 Kickboks Scheenbeschermers - zwart/wit",
     "size": "XL",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/king-pro-boxing-sgl-7-kickboks-scheenbeschermers-zwart-wit",
     "previous_price": 119.95
@@ -188075,7 +188055,7 @@
     "product": "Hayabusa T3 LX 7oz Hybride Handschoenen - Vintage",
     "size": "L",
     "price": 169.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-lx-7oz-mma-handschoenen-vintage",
     "previous_price": 169.0
   },
@@ -188335,7 +188315,7 @@
     "product": "Rinkage Hades Hybride MMA Handschoenen - Zwart",
     "size": "S/M",
     "price": 33.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/rinkage-hades-hybride-mma-handschoenen-zwart",
     "previous_price": 33.5
   },
@@ -190614,7 +190594,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V3 Scheenbeschermers - Zwart / Rood",
     "size": "S",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bsg-v3-scheenbeschermers-zwart-rood",
     "previous_price": 119.95
@@ -190624,7 +190604,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V3 Scheenbeschermers - Zwart / Rood",
     "size": "M",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bsg-v3-scheenbeschermers-zwart-rood",
     "previous_price": 119.95
@@ -190634,7 +190614,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V3 Scheenbeschermers - Zwart / Rood",
     "size": "L",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bsg-v3-scheenbeschermers-zwart-rood",
     "previous_price": 119.95
@@ -190644,7 +190624,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V3 Scheenbeschermers - Zwart / Rood",
     "size": "XL",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bsg-v3-scheenbeschermers-zwart-rood",
     "previous_price": 119.95
@@ -190654,7 +190634,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V3 Scheenbeschermers - Zwart / Wit",
     "size": "S",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-scheenbeschermers-bsg-v3-zwart-wit",
     "previous_price": 119.95
@@ -190664,7 +190644,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V3 Scheenbeschermers - Zwart / Wit",
     "size": "M",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-scheenbeschermers-bsg-v3-zwart-wit",
     "previous_price": 119.95
@@ -190674,7 +190654,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V3 Scheenbeschermers - Zwart / Wit",
     "size": "L",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-scheenbeschermers-bsg-v3-zwart-wit",
     "previous_price": 119.95
@@ -190684,7 +190664,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V3 Scheenbeschermers - Zwart / Wit",
     "size": "XL",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-scheenbeschermers-bsg-v3-zwart-wit",
     "previous_price": 119.95
@@ -190694,7 +190674,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V3 Scheenbeschermers - Zwart / Zilver",
     "size": "S",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bsg-v3-scheenbeschermers-zwart-zilver",
     "previous_price": 119.95
@@ -190704,7 +190684,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V3 Scheenbeschermers - Zwart / Zilver",
     "size": "M",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bsg-v3-scheenbeschermers-zwart-zilver",
     "previous_price": 119.95
@@ -190714,7 +190694,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V3 Scheenbeschermers - Zwart / Zilver",
     "size": "L",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bsg-v3-scheenbeschermers-zwart-zilver",
     "previous_price": 119.95
@@ -190724,7 +190704,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V3 Scheenbeschermers - Zwart / Zilver",
     "size": "XL",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bsg-v3-scheenbeschermers-zwart-zilver",
     "previous_price": 119.95
@@ -190734,7 +190714,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V9 Scheenbeschermers - Wit / Goud",
     "size": "M",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-scheenbeschermers-bsg-v9-wit-goud",
     "previous_price": 119.95
@@ -190744,7 +190724,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V9 Scheenbeschermers - Wit / Goud",
     "size": "L",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-scheenbeschermers-bsg-v9-wit-goud",
     "previous_price": 119.95
@@ -190754,7 +190734,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V9 Scheenbeschermers - Zwart / Blauw",
     "size": "M",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bsg-v9-scheenbeschermers-zwart-blauw",
     "previous_price": 119.95
@@ -190764,7 +190744,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V9 Scheenbeschermers - Zwart / Blauw",
     "size": "L",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bsg-v9-scheenbeschermers-zwart-blauw",
     "previous_price": 119.95
@@ -190774,7 +190754,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V9 Scheenbeschermers - Zwart / Grijs",
     "size": "M",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bsg-v9-scheenbeschermers-zwart-grijs",
     "previous_price": 119.95
@@ -190784,7 +190764,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V9 Scheenbeschermers - Zwart / Grijs",
     "size": "L",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bsg-v9-scheenbeschermers-zwart-grijs",
     "previous_price": 119.95
@@ -191514,7 +191494,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Blauw",
     "size": "12 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-blauw",
     "previous_price": 174.95
@@ -191524,7 +191504,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Blauw",
     "size": "14 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-blauw",
     "previous_price": 174.95
@@ -191534,7 +191514,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Blauw",
     "size": "16 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-blauw",
     "previous_price": 174.95
@@ -191544,7 +191524,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Blauw / zwart",
     "size": "12 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-blauw-zwart",
     "previous_price": 174.95
@@ -191554,7 +191534,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Blauw / zwart",
     "size": "14 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-blauw-zwart",
     "previous_price": 174.95
@@ -191564,7 +191544,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Blauw / zwart",
     "size": "16 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-blauw-zwart",
     "previous_price": 174.95
@@ -191574,7 +191554,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt leer - Donkerblauw",
     "size": "12 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-donkerblauw",
     "previous_price": 174.95
@@ -191584,7 +191564,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt leer - Donkerblauw",
     "size": "14 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-donkerblauw",
     "previous_price": 174.95
@@ -191594,7 +191574,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt leer - Donkerblauw",
     "size": "16 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-donkerblauw",
     "previous_price": 174.95
@@ -191604,7 +191584,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Donkergroen",
     "size": "12 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-donkergroen",
     "previous_price": 174.95
@@ -191614,7 +191594,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Donkergroen",
     "size": "14 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-donkergroen",
     "previous_price": 174.95
@@ -191624,7 +191604,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Donkergroen",
     "size": "16 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-donkergroen",
     "previous_price": 174.95
@@ -191634,7 +191614,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Grijs",
     "size": "10 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-grijs",
     "previous_price": 174.95
@@ -191644,7 +191624,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Grijs",
     "size": "12 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-grijs",
     "previous_price": 174.95
@@ -191654,7 +191634,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Grijs",
     "size": "14 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-grijs",
     "previous_price": 174.95
@@ -191664,7 +191644,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Grijs",
     "size": "16 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-grijs",
     "previous_price": 174.95
@@ -191674,7 +191654,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Latte - Lichtbruin",
     "size": "12 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-latte-lichtbruin",
     "previous_price": 174.95
@@ -191684,7 +191664,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Latte - Lichtbruin",
     "size": "14 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-latte-lichtbruin",
     "previous_price": 174.95
@@ -191694,7 +191674,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Latte - Lichtbruin",
     "size": "16 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-latte-lichtbruin",
     "previous_price": 174.95
@@ -191704,7 +191684,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Limegroen",
     "size": "12 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-limegroen",
     "previous_price": 174.95
@@ -191714,7 +191694,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Limegroen",
     "size": "14 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-limegroen",
     "previous_price": 174.95
@@ -191724,7 +191704,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Limegroen",
     "size": "16 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-limegroen",
     "previous_price": 174.95
@@ -191734,7 +191714,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Maroon - Wijnrood",
     "size": "10 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-maroon-wijnrood",
     "previous_price": 174.95
@@ -191744,7 +191724,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Maroon - Wijnrood",
     "size": "12 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-maroon-wijnrood",
     "previous_price": 174.95
@@ -191754,7 +191734,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Maroon - Wijnrood",
     "size": "14 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-maroon-wijnrood",
     "previous_price": 174.95
@@ -191764,7 +191744,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Maroon - Wijnrood",
     "size": "16 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-maroon-wijnrood",
     "previous_price": 174.95
@@ -191774,7 +191754,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Olijfgroen",
     "size": "10 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-olijfgroen",
     "previous_price": 174.95
@@ -191784,7 +191764,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Olijfgroen",
     "size": "12 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-olijfgroen",
     "previous_price": 174.95
@@ -191794,7 +191774,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Olijfgroen",
     "size": "14 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-olijfgroen",
     "previous_price": 174.95
@@ -191804,7 +191784,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Olijfgroen",
     "size": "16 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-olijfgroen",
     "previous_price": 174.95
@@ -191814,7 +191794,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Rood",
     "size": "12 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-rood",
     "previous_price": 174.95
@@ -191824,7 +191804,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Rood",
     "size": "14 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-rood",
     "previous_price": 174.95
@@ -191834,7 +191814,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Rood",
     "size": "16 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-rood",
     "previous_price": 174.95
@@ -191844,7 +191824,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Vanilla",
     "size": "12 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-vanilla",
     "previous_price": 174.95
@@ -191854,7 +191834,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Vanilla",
     "size": "14 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-vanilla",
     "previous_price": 174.95
@@ -191864,7 +191844,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Vanilla",
     "size": "16 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-vanilla",
     "previous_price": 174.95
@@ -191874,7 +191854,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Wit",
     "size": "10 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-wit",
     "previous_price": 174.95
@@ -191884,7 +191864,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Wit",
     "size": "12 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-wit",
     "previous_price": 174.95
@@ -191894,7 +191874,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Wit",
     "size": "14 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-wit",
     "previous_price": 174.95
@@ -191904,7 +191884,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Wit",
     "size": "16 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-wit",
     "previous_price": 174.95
@@ -191914,7 +191894,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Wit / wijnrood",
     "size": "12 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-wit-wijnrood",
     "previous_price": 174.95
@@ -191924,7 +191904,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Wit / wijnrood",
     "size": "14 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-wit-wijnrood",
     "previous_price": 174.95
@@ -191934,7 +191914,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Wit / wijnrood",
     "size": "16 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-wit-wijnrood",
     "previous_price": 174.95
@@ -191944,7 +191924,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Zwart",
     "size": "10 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-zwart",
     "previous_price": 174.95
@@ -191954,7 +191934,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Zwart",
     "size": "12 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-zwart",
     "previous_price": 174.95
@@ -191964,7 +191944,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Zwart",
     "size": "14 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-zwart",
     "previous_price": 174.95
@@ -191974,7 +191954,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Zwart",
     "size": "16 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-zwart",
     "previous_price": 174.95
@@ -191984,7 +191964,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Zwart / Geel",
     "size": "12 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-zwart-geel",
     "previous_price": 174.95
@@ -191994,7 +191974,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Zwart / Geel",
     "size": "14 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-zwart-geel",
     "previous_price": 174.95
@@ -192004,7 +191984,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Zwart / Geel",
     "size": "16 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-zwart-geel",
     "previous_price": 174.95
@@ -192014,7 +191994,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Zwart / wijnrood",
     "size": "10 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-zwart-wijnrood",
     "previous_price": 174.95
@@ -192024,7 +192004,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Zwart / wijnrood",
     "size": "12 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-zwart-wijnrood",
     "previous_price": 174.95
@@ -192034,7 +192014,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Zwart / wijnrood",
     "size": "14 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-zwart-wijnrood",
     "previous_price": 174.95
@@ -192044,7 +192024,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Zwart / wijnrood",
     "size": "16 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-zwart-wijnrood",
     "previous_price": 174.95
@@ -192054,7 +192034,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGN 1 Bokshandschoenen - Echt Leer - Wit",
     "size": "12 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgn-1-bokshandschoenen-echt-leer-wit",
     "previous_price": 174.95
@@ -192064,7 +192044,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGN 1 Bokshandschoenen - Echt Leer - Wit",
     "size": "14 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgn-1-bokshandschoenen-echt-leer-wit",
     "previous_price": 174.95
@@ -192074,7 +192054,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGN 1 Bokshandschoenen - Echt Leer - Wit",
     "size": "16 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgn-1-bokshandschoenen-echt-leer-wit",
     "previous_price": 174.95
@@ -192084,7 +192064,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGN 1 Bokshandschoenen - Echt Leer - Zwart",
     "size": "12 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgn-1-bokshandschoenen-echt-leer-zwart",
     "previous_price": 174.95
@@ -192094,7 +192074,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGN 1 Bokshandschoenen - Echt Leer - Zwart",
     "size": "14 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgn-1-bokshandschoenen-echt-leer-zwart",
     "previous_price": 174.95
@@ -192104,7 +192084,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGN 1 Bokshandschoenen - Echt Leer - Zwart",
     "size": "16 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgn-1-bokshandschoenen-echt-leer-zwart",
     "previous_price": 174.95
@@ -192114,7 +192094,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGN 1 Bokshandschoenen - Echt Leer - Zwart",
     "size": "18 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgn-1-bokshandschoenen-echt-leer-zwart",
     "previous_price": 174.95
@@ -192124,7 +192104,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 8 Bokshandschoenen - Echt Leer - Wit / Grijs",
     "size": "12 oz",
-    "price": 179.95,
+    "price": 194.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-8-bokshandschoenen-echt-leer-wit-grijs",
     "previous_price": 179.95
@@ -192134,7 +192114,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 8 Bokshandschoenen - Echt Leer - Wit / Grijs",
     "size": "14 oz",
-    "price": 179.95,
+    "price": 194.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-8-bokshandschoenen-echt-leer-wit-grijs",
     "previous_price": 179.95
@@ -192144,7 +192124,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 8 Bokshandschoenen - Echt Leer - Wit / Grijs",
     "size": "16 oz",
-    "price": 179.95,
+    "price": 194.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-8-bokshandschoenen-echt-leer-wit-grijs",
     "previous_price": 179.95
@@ -192154,7 +192134,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Grijs",
     "size": "S",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-grijs",
     "previous_price": 132.0
@@ -192164,7 +192144,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Grijs",
     "size": "M",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-grijs",
     "previous_price": 132.0
@@ -192174,7 +192154,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Grijs",
     "size": "L",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-grijs",
     "previous_price": 132.0
@@ -192184,7 +192164,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Grijs",
     "size": "XL",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-grijs",
     "previous_price": 132.0
@@ -192194,7 +192174,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Maroon",
     "size": "S",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-maroon",
     "previous_price": 132.0
@@ -192204,7 +192184,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Maroon",
     "size": "M",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-maroon",
     "previous_price": 132.0
@@ -192214,7 +192194,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Maroon",
     "size": "L",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-maroon",
     "previous_price": 132.0
@@ -192224,7 +192204,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Maroon",
     "size": "XL",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-maroon",
     "previous_price": 132.0
@@ -192234,7 +192214,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Olijfgroen",
     "size": "S",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-olijfgroen",
     "previous_price": 132.0
@@ -192244,7 +192224,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Olijfgroen",
     "size": "M",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-olijfgroen",
     "previous_price": 132.0
@@ -192254,7 +192234,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Olijfgroen",
     "size": "L",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-olijfgroen",
     "previous_price": 132.0
@@ -192264,7 +192244,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Olijfgroen",
     "size": "XL",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-olijfgroen",
     "previous_price": 132.0
@@ -192274,7 +192254,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Wit",
     "size": "S",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-wit",
     "previous_price": 132.0
@@ -192284,7 +192264,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Wit",
     "size": "M",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-wit",
     "previous_price": 132.0
@@ -192294,7 +192274,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Wit",
     "size": "L",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-wit",
     "previous_price": 132.0
@@ -192304,7 +192284,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Wit",
     "size": "XL",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-wit",
     "previous_price": 132.0
@@ -192314,7 +192294,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Zwart",
     "size": "S",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-zwart",
     "previous_price": 132.0
@@ -192324,7 +192304,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Zwart",
     "size": "M",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-zwart",
     "previous_price": 132.0
@@ -192334,7 +192314,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Zwart",
     "size": "L",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-zwart",
     "previous_price": 132.0
@@ -192344,7 +192324,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Zwart",
     "size": "XL",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-zwart",
     "previous_price": 132.0
@@ -192575,7 +192555,7 @@
     "product": "Hayabusa Mayweather Champ Boksschoenen - Zwart/Goud",
     "size": "45",
     "price": 129.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-zwart-goud",
     "previous_price": 129.0
   },
@@ -193484,7 +193464,7 @@
     "brand": "Twins Special",
     "product": "Twins Special TBM 1 Zakhandschoenen - Echt Leer - zwart",
     "size": "M",
-    "price": 106.0,
+    "price": 114.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-zakhandschoenen-tbm1-zwart",
     "previous_price": 106.0
@@ -193494,7 +193474,7 @@
     "brand": "Twins Special",
     "product": "Twins Special TBM 1 Zakhandschoenen - Echt Leer - zwart",
     "size": "L",
-    "price": 106.0,
+    "price": 114.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-zakhandschoenen-tbm1-zwart",
     "previous_price": 106.0
@@ -193504,7 +193484,7 @@
     "brand": "Twins Special",
     "product": "Twins Special TBM 1 Zakhandschoenen - Echt Leer - zwart",
     "size": "XL",
-    "price": 106.0,
+    "price": 114.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-zakhandschoenen-tbm1-zwart",
     "previous_price": 106.0
@@ -194724,7 +194704,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 8 Bokshandschoenen - Echt Leer - Zwart / Grijs",
     "size": "12 oz",
-    "price": 179.95,
+    "price": 194.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-8-bokshandschoenen-echt-leer-zwart-grijs",
     "previous_price": 179.95
@@ -194734,7 +194714,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 8 Bokshandschoenen - Echt Leer - Zwart / Grijs",
     "size": "14 oz",
-    "price": 179.95,
+    "price": 194.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-8-bokshandschoenen-echt-leer-zwart-grijs",
     "previous_price": 179.95
@@ -194744,7 +194724,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 8 Bokshandschoenen - Echt Leer - Zwart / Grijs",
     "size": "16 oz",
-    "price": 179.95,
+    "price": 194.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-8-bokshandschoenen-echt-leer-zwart-grijs",
     "previous_price": 179.95
@@ -195135,7 +195115,7 @@
     "product": "Hayabusa Core Short Sleeve Rashguard voor heren - Donkergroen",
     "size": "M",
     "price": 74.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-core-short-sleeve-rashguard-voor-heren-donkergroen",
     "previous_price": 74.99
   },
@@ -195704,7 +195684,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 8 Bokshandschoenen - Echt Leer - Groen / Zwart",
     "size": "12 oz",
-    "price": 179.95,
+    "price": 194.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-8-bokshandschoenen-echt-leer-groen-zwart",
     "previous_price": 179.95
@@ -195714,7 +195694,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 8 Bokshandschoenen - Echt Leer - Groen / Zwart",
     "size": "14 oz",
-    "price": 179.95,
+    "price": 194.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-8-bokshandschoenen-echt-leer-groen-zwart",
     "previous_price": 179.95
@@ -195724,7 +195704,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 8 Bokshandschoenen - Echt Leer - Groen / Zwart",
     "size": "16 oz",
-    "price": 179.95,
+    "price": 194.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-8-bokshandschoenen-echt-leer-groen-zwart",
     "previous_price": 179.95
@@ -195744,7 +195724,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Bruin",
     "size": "12 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-bokshandschoenen-echt-leer-bruin",
     "previous_price": 174.95
@@ -195754,7 +195734,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Bruin",
     "size": "14 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-bokshandschoenen-echt-leer-bruin",
     "previous_price": 174.95
@@ -195764,7 +195744,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Bruin",
     "size": "16 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-bokshandschoenen-echt-leer-bruin",
     "previous_price": 174.95
@@ -196504,7 +196484,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V9 Bokshandschoenen - Echt Leer - zwart/geel",
     "size": "10 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v9-bokshandschoenen-echt-leer-zwart-geel",
     "previous_price": 159.95
@@ -196514,7 +196494,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V9 Bokshandschoenen - Echt Leer - zwart/geel",
     "size": "12 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v9-bokshandschoenen-echt-leer-zwart-geel",
     "previous_price": 159.95
@@ -196524,7 +196504,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V9 Bokshandschoenen - Echt Leer - zwart/geel",
     "size": "14 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v9-bokshandschoenen-echt-leer-zwart-geel",
     "previous_price": 159.95
@@ -196534,7 +196514,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V9 Bokshandschoenen - Echt Leer - zwart/geel",
     "size": "16 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v9-bokshandschoenen-echt-leer-zwart-geel",
     "previous_price": 159.95
@@ -196544,7 +196524,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V9 Scheenbeschermers - Zwart / Geel",
     "size": "M",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bsg-v9-scheenbeschermers-zwart-geel",
     "previous_price": 119.95
@@ -196554,7 +196534,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V9 Scheenbeschermers - Zwart / Geel",
     "size": "L",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bsg-v9-scheenbeschermers-zwart-geel",
     "previous_price": 119.95
@@ -197134,7 +197114,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range PRO BGL V3 Bokshandschoenen - Dark Side - Echt Leer - Zwart/Zwart",
     "size": "10 oz",
-    "price": 149.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-pro-bgl-v3-bokshandschoenen-echt-leer-foil-zwart-zwart",
     "previous_price": 149.95
@@ -197144,7 +197124,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range PRO BGL V3 Bokshandschoenen - Dark Side - Echt Leer - Zwart/Zwart",
     "size": "12 oz",
-    "price": 149.95,
+    "price": 169.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-pro-bgl-v3-bokshandschoenen-echt-leer-foil-zwart-zwart",
     "previous_price": 149.95
@@ -197154,7 +197134,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range PRO BGL V3 Bokshandschoenen - Dark Side - Echt Leer - Zwart/Zwart",
     "size": "14 oz",
-    "price": 149.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-pro-bgl-v3-bokshandschoenen-echt-leer-foil-zwart-zwart",
     "previous_price": 149.95
@@ -197164,7 +197144,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range PRO BGL V3 Bokshandschoenen - Dark Side - Echt Leer - Zwart/Zwart",
     "size": "16 oz",
-    "price": 149.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-pro-bgl-v3-bokshandschoenen-echt-leer-foil-zwart-zwart",
     "previous_price": 149.95
@@ -198184,7 +198164,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V9 Bokshandschoenen - Echt Leer - zwart/rood",
     "size": "12 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v9-bokshandschoenen-echt-leer-zwart-rood",
     "previous_price": 159.95
@@ -198194,7 +198174,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V9 Bokshandschoenen - Echt Leer - zwart/rood",
     "size": "14 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v9-bokshandschoenen-echt-leer-zwart-rood",
     "previous_price": 159.95
@@ -198204,7 +198184,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BGL V9 Bokshandschoenen - Echt Leer - zwart/rood",
     "size": "16 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v9-bokshandschoenen-echt-leer-zwart-rood",
     "previous_price": 159.95
@@ -198214,7 +198194,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V9 Scheenbeschermers - Zwart / Rood",
     "size": "M",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bsg-v9-scheenbeschermers-zwart-rood",
     "previous_price": 119.95
@@ -198224,7 +198204,7 @@
     "brand": "Booster",
     "product": "Booster Pro Range BSG V9 Scheenbeschermers - Zwart / Rood",
     "size": "L",
-    "price": 119.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bsg-v9-scheenbeschermers-zwart-rood",
     "previous_price": 119.95
@@ -198724,7 +198704,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Comic",
     "size": "12 oz",
-    "price": 188.0,
+    "price": 204.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-bokshandschoenen-echt-leer-comic",
     "previous_price": 188.0
@@ -198734,7 +198714,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Comic",
     "size": "14 oz",
-    "price": 188.0,
+    "price": 204.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-bokshandschoenen-echt-leer-comic",
     "previous_price": 188.0
@@ -198744,7 +198724,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Comic",
     "size": "16 oz",
-    "price": 188.0,
+    "price": 204.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-bokshandschoenen-echt-leer-comic",
     "previous_price": 188.0
@@ -199584,7 +199564,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Donkerblauw",
     "size": "S",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-donkerblauw",
     "previous_price": 132.0
@@ -199594,7 +199574,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Donkerblauw",
     "size": "M",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-donkerblauw",
     "previous_price": 132.0
@@ -199604,7 +199584,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Donkerblauw",
     "size": "L",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-donkerblauw",
     "previous_price": 132.0
@@ -199614,7 +199594,7 @@
     "brand": "Twins Special",
     "product": "Twins Special SGL 7 Scheenbeschermers - Donkerblauw",
     "size": "XL",
-    "price": 132.0,
+    "price": 139.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-donkerblauw",
     "previous_price": 132.0
@@ -199624,7 +199604,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Graffiti",
     "size": "12 oz",
-    "price": 188.0,
+    "price": 204.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-bokshandschoenen-echt-leer-graffiti",
     "previous_price": 188.0
@@ -199634,7 +199614,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Graffiti",
     "size": "14 oz",
-    "price": 188.0,
+    "price": 204.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-bokshandschoenen-echt-leer-graffiti",
     "previous_price": 188.0
@@ -199644,7 +199624,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Graffiti",
     "size": "16 oz",
-    "price": 188.0,
+    "price": 204.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-bokshandschoenen-echt-leer-graffiti",
     "previous_price": 188.0
@@ -199734,7 +199714,7 @@
     "brand": "Booster",
     "product": "Booster Fight Gear - Rapid Strike Bokshandschoenen - Echt Leer - zwart/grijs",
     "size": "12 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-fight-gear-rapid-strike-bokshandschoenen-echt-leer-zwart-grijs",
     "previous_price": 159.95
@@ -199744,7 +199724,7 @@
     "brand": "Booster",
     "product": "Booster Fight Gear - Rapid Strike Bokshandschoenen - Echt Leer - zwart/grijs",
     "size": "14 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-fight-gear-rapid-strike-bokshandschoenen-echt-leer-zwart-grijs",
     "previous_price": 159.95
@@ -199754,7 +199734,7 @@
     "brand": "Booster",
     "product": "Booster Fight Gear - Rapid Strike Bokshandschoenen - Echt Leer - zwart/grijs",
     "size": "16 oz",
-    "price": 159.95,
+    "price": 169.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-fight-gear-rapid-strike-bokshandschoenen-echt-leer-zwart-grijs",
     "previous_price": 159.95
@@ -199764,7 +199744,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 8 Bokshandschoenen - Echt Leer - Wit / Goud",
     "size": "10 oz",
-    "price": 179.95,
+    "price": 194.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-8-bokshandschoenen-echt-leer-wit-goud",
     "previous_price": 179.95
@@ -199774,7 +199754,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 8 Bokshandschoenen - Echt Leer - Wit / Goud",
     "size": "12 oz",
-    "price": 179.95,
+    "price": 194.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-8-bokshandschoenen-echt-leer-wit-goud",
     "previous_price": 179.95
@@ -199784,7 +199764,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 8 Bokshandschoenen - Echt Leer - Wit / Goud",
     "size": "14 oz",
-    "price": 179.95,
+    "price": 194.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-8-bokshandschoenen-echt-leer-wit-goud",
     "previous_price": 179.95
@@ -199794,7 +199774,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 8 Bokshandschoenen - Echt Leer - Wit / Goud",
     "size": "16 oz",
-    "price": 179.95,
+    "price": 194.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-8-bokshandschoenen-echt-leer-wit-goud",
     "previous_price": 179.95
@@ -199804,7 +199784,7 @@
     "brand": "Twins Special",
     "product": "Twins Special FBGVL 4 Bokshandschoenen - Echt Leer - Yant",
     "size": "12 oz",
-    "price": 188.0,
+    "price": 204.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-fbgvl-4-bokshandschoenen-echt-leer-yant",
     "previous_price": 188.0
@@ -199814,7 +199794,7 @@
     "brand": "Twins Special",
     "product": "Twins Special FBGVL 4 Bokshandschoenen - Echt Leer - Yant",
     "size": "14 oz",
-    "price": 188.0,
+    "price": 204.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-fbgvl-4-bokshandschoenen-echt-leer-yant",
     "previous_price": 188.0
@@ -199824,7 +199804,7 @@
     "brand": "Twins Special",
     "product": "Twins Special FBGVL 4 Bokshandschoenen - Echt Leer - Yant",
     "size": "16 oz",
-    "price": 188.0,
+    "price": 204.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-fbgvl-4-bokshandschoenen-echt-leer-yant",
     "previous_price": 188.0
@@ -199884,7 +199864,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 AIR Bokshandschoenen - Echt Leer - Zwart",
     "size": "10 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart",
     "previous_price": 174.95
@@ -199894,7 +199874,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 AIR Bokshandschoenen - Echt Leer - Zwart",
     "size": "12 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart",
     "previous_price": 174.95
@@ -199904,7 +199884,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 AIR Bokshandschoenen - Echt Leer - Zwart",
     "size": "14 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart",
     "previous_price": 174.95
@@ -199914,7 +199894,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 AIR Bokshandschoenen - Echt Leer - Zwart",
     "size": "16 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart",
     "previous_price": 174.95
@@ -199924,7 +199904,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 AIR Bokshandschoenen - Echt Leer - Zwart/Wit",
     "size": "10 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart-wit",
     "previous_price": 174.95
@@ -199934,7 +199914,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 AIR Bokshandschoenen - Echt Leer - Zwart/Wit",
     "size": "12 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart-wit",
     "previous_price": 174.95
@@ -199944,7 +199924,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 AIR Bokshandschoenen - Echt Leer - Zwart/Wit",
     "size": "14 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart-wit",
     "previous_price": 174.95
@@ -199954,7 +199934,7 @@
     "brand": "Twins Special",
     "product": "Twins Special BGVL 3 AIR Bokshandschoenen - Echt Leer - Zwart/Wit",
     "size": "16 oz",
-    "price": 174.95,
+    "price": 189.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/twins-special-bgvl-3-air-bokshandschoenen-echt-leer-zwart-wit",
     "previous_price": 174.95
@@ -200071,13 +200051,133 @@
   },
   {
     "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear Bokshandschoenen Essential Pro Black/Gold",
+    "size": "14oz",
+    "price": 79.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-essential-pro-black-gold/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear Bokshandschoenen Essential Pro Black/Gold",
+    "size": "16oz",
+    "price": 79.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-essential-pro-black-gold/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear Bokshandschoenen Essential Pro Black/Black",
+    "size": "16oz",
+    "price": 79.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-essential-pro-black-black/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear Bokshandschoenen Essential Pro Black/Black",
+    "size": "14oz",
+    "price": 79.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-essential-pro-black-black/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear Scheenbeschermers Pro Black/Gold",
+    "size": "s",
+    "price": 79.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-scheenbeschermers-pro-black-gold/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear Scheenbeschermers Pro Black/Gold",
+    "size": "l",
+    "price": 79.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-scheenbeschermers-pro-black-gold/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear Scheenbeschermers Pro Black/Gold",
+    "size": "m",
+    "price": 79.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-scheenbeschermers-pro-black-gold/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear Scheenbeschermers Pro Black/Gold",
+    "size": "xl",
+    "price": 79.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-scheenbeschermers-pro-black-gold/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear Scheenbeschermers Pro Black/Black",
+    "size": "l",
+    "price": 79.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-scheenbeschermers-pro-black-black/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear Scheenbeschermers Pro Black/Black",
+    "size": "m",
+    "price": 79.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-scheenbeschermers-pro-black-black/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear Scheenbeschermers Pro Black/Black",
+    "size": "xl",
+    "price": 79.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-scheenbeschermers-pro-black-black/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear Scheenbeschermers Pro Black/Black",
+    "size": "s",
+    "price": 79.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-scheenbeschermers-pro-black-black/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
     "brand": "Adidas",
     "product": "Adidas Worstelschoenen Havoc Plus White",
     "size": "40",
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-white/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200087,7 +200187,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-white/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200097,7 +200197,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-white/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200107,7 +200207,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-white/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200117,7 +200217,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-white/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200127,7 +200227,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-white/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200137,7 +200237,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-white/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200147,7 +200247,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-white/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200157,7 +200257,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-white/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200167,7 +200267,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-white/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200177,7 +200277,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-white/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200187,7 +200287,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-core-black/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200197,7 +200297,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-core-black/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200207,7 +200307,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-core-black/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200217,7 +200317,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-core-black/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200227,7 +200327,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-core-black/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200237,7 +200337,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-core-black/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200247,7 +200347,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-core-black/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200257,7 +200357,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-core-black/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200267,7 +200367,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-core-black/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200277,7 +200377,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-core-black/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200287,7 +200387,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-core-black/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200297,7 +200397,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-core-black/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200307,7 +200407,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-core-black/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -200317,7 +200417,7 @@
     "price": 219.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-kanpeki-walnut-brown/",
-    "previous_price": null
+    "previous_price": 219.0
   },
   {
     "shop": "OLB Sports",
@@ -200327,7 +200427,7 @@
     "price": 219.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-kanpeki-walnut-brown/",
-    "previous_price": null
+    "previous_price": 219.0
   },
   {
     "shop": "OLB Sports",
@@ -200337,7 +200437,7 @@
     "price": 219.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-kanpeki-walnut-brown/",
-    "previous_price": null
+    "previous_price": 219.0
   },
   {
     "shop": "OLB Sports",
@@ -200347,7 +200447,7 @@
     "price": 219.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-kanpeki-wisteria-purple/",
-    "previous_price": null
+    "previous_price": 219.0
   },
   {
     "shop": "OLB Sports",
@@ -200357,7 +200457,7 @@
     "price": 219.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-kanpeki-wisteria-purple/",
-    "previous_price": null
+    "previous_price": 219.0
   },
   {
     "shop": "OLB Sports",
@@ -200367,7 +200467,7 @@
     "price": 219.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-kanpeki-wisteria-purple/",
-    "previous_price": null
+    "previous_price": 219.0
   },
   {
     "shop": "OLB Sports",
@@ -203301,16 +203401,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "Damage",
-    "product": "Damage Control Mouthguard Bleeding Fangs Senior",
-    "size": "One Size",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/damage-control-mouthguard-bleeding-fangs-senior/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "1916",
     "product": "1916 Fight Gear Boksbandages Lest We Forget Airborne MKII",
     "size": "One Size",
@@ -204662,16 +204752,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Booster",
-    "product": "Booster Focus Mitts PML BC 5 Black/Red",
-    "size": "One Size",
-    "price": 69.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/booster-focus-mitts-pml-bc-5-black-red/",
-    "previous_price": 69.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Booster",
     "product": "Booster Speed Mitts PML BC 3 Black/Red",
     "size": "One Size",
     "price": 54.95,
@@ -204774,16 +204854,6 @@
     "brand": "Booster",
     "product": "Booster Scheenbeschermers War Black/Red",
     "size": "m",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/booster-scheenbeschermers-war-black-red/",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Booster",
-    "product": "Booster Scheenbeschermers War Black/Red",
-    "size": "l",
     "price": 119.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-scheenbeschermers-war-black-red/",
@@ -205028,6 +205098,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-orange/",
     "previous_price": 189.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Twins",
+    "product": "Twins Bokshandschoenen BGVL 3 Silver",
+    "size": "16oz",
+    "price": 189.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-3-silver/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -205807,16 +205887,6 @@
     "price": 129.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoenen-war-black-gold/",
-    "previous_price": 129.0
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Booster",
-    "product": "Booster Bokshandschoenen War Black/Green",
-    "size": "14oz",
-    "price": 129.0,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/booster-bokshandschoenen-war-black-green/",
     "previous_price": 129.0
   },
   {
@@ -206887,7 +206957,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-white-silver/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -206897,7 +206967,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-white-silver/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -206907,7 +206977,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-white-silver/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -206937,7 +207007,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-white-silver/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -206947,7 +207017,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-white-silver/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -206957,7 +207027,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-white-silver/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -206967,7 +207037,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-white-silver/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -206977,7 +207047,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-white-silver/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -206987,7 +207057,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-white-silver/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -206997,7 +207067,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-white-silver/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -207007,7 +207077,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-white-silver/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -207017,7 +207087,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-white-silver/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -207027,7 +207097,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-white-silver/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -207037,7 +207107,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-black-white-2/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -207047,7 +207117,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-black-white-2/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -207087,7 +207157,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-black-white-2/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -207107,7 +207177,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-black-white-2/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -207117,7 +207187,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-black-white-2/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -207127,7 +207197,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-black-white-2/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -207137,7 +207207,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-black-white-2/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -207147,7 +207217,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-black-white-2/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -207187,7 +207257,7 @@
     "price": 74.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-classic-black-white/",
-    "previous_price": null
+    "previous_price": 74.95
   },
   {
     "shop": "OLB Sports",
@@ -207197,7 +207267,7 @@
     "price": 74.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-classic-black-white/",
-    "previous_price": null
+    "previous_price": 74.95
   },
   {
     "shop": "OLB Sports",
@@ -207207,7 +207277,7 @@
     "price": 74.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-classic-black-white/",
-    "previous_price": null
+    "previous_price": 74.95
   },
   {
     "shop": "OLB Sports",
@@ -207267,7 +207337,7 @@
     "price": 74.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-classic-black-white/",
-    "previous_price": null
+    "previous_price": 74.95
   },
   {
     "shop": "OLB Sports",
@@ -207287,7 +207357,7 @@
     "price": 74.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-classic-black-white/",
-    "previous_price": null
+    "previous_price": 74.95
   },
   {
     "shop": "OLB Sports",
@@ -207297,7 +207367,7 @@
     "price": 74.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-classic-black-white/",
-    "previous_price": null
+    "previous_price": 74.95
   },
   {
     "shop": "OLB Sports",
@@ -207307,7 +207377,7 @@
     "price": 74.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-classic-black-white/",
-    "previous_price": null
+    "previous_price": 74.95
   },
   {
     "shop": "OLB Sports",
@@ -207337,7 +207407,7 @@
     "price": 74.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-classic-white-black/",
-    "previous_price": null
+    "previous_price": 74.95
   },
   {
     "shop": "OLB Sports",
@@ -207367,7 +207437,7 @@
     "price": 74.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-classic-white-black/",
-    "previous_price": null
+    "previous_price": 74.95
   },
   {
     "shop": "OLB Sports",
@@ -207387,7 +207457,7 @@
     "price": 74.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-classic-white-black/",
-    "previous_price": null
+    "previous_price": 74.95
   },
   {
     "shop": "OLB Sports",
@@ -207397,7 +207467,7 @@
     "price": 74.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-classic-white-black/",
-    "previous_price": null
+    "previous_price": 74.95
   },
   {
     "shop": "OLB Sports",
@@ -207407,7 +207477,7 @@
     "price": 74.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-classic-white-black/",
-    "previous_price": null
+    "previous_price": 74.95
   },
   {
     "shop": "OLB Sports",
@@ -207417,7 +207487,7 @@
     "price": 74.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-classic-white-black/",
-    "previous_price": null
+    "previous_price": 74.95
   },
   {
     "shop": "OLB Sports",
@@ -207427,7 +207497,7 @@
     "price": 74.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-classic-white-black/",
-    "previous_price": null
+    "previous_price": 74.95
   },
   {
     "shop": "OLB Sports",
@@ -207437,7 +207507,7 @@
     "price": 74.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-classic-white-black/",
-    "previous_price": null
+    "previous_price": 74.95
   },
   {
     "shop": "OLB Sports",
@@ -207447,7 +207517,7 @@
     "price": 74.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-classic-white-black/",
-    "previous_price": null
+    "previous_price": 74.95
   },
   {
     "shop": "OLB Sports",
@@ -207457,7 +207527,7 @@
     "price": 74.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-classic-white-black/",
-    "previous_price": null
+    "previous_price": 74.95
   },
   {
     "shop": "OLB Sports",
@@ -207727,7 +207797,7 @@
     "price": 49.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-elite-mma-short-black/",
-    "previous_price": null
+    "previous_price": 49.95
   },
   {
     "shop": "OLB Sports",
@@ -207737,7 +207807,7 @@
     "price": 49.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-elite-mma-short-black/",
-    "previous_price": null
+    "previous_price": 49.95
   },
   {
     "shop": "OLB Sports",
@@ -207747,7 +207817,7 @@
     "price": 49.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-elite-mma-short-black/",
-    "previous_price": null
+    "previous_price": 49.95
   },
   {
     "shop": "OLB Sports",
@@ -207787,7 +207857,7 @@
     "price": 49.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-elite-mma-short-blue/",
-    "previous_price": null
+    "previous_price": 49.95
   },
   {
     "shop": "OLB Sports",
@@ -207807,7 +207877,7 @@
     "price": 49.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-elite-mma-short-blue/",
-    "previous_price": null
+    "previous_price": 49.95
   },
   {
     "shop": "OLB Sports",
@@ -207907,7 +207977,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-elite-mma-shirt-black/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -207917,7 +207987,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-elite-mma-shirt-black/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -207927,7 +207997,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-elite-mma-shirt-black/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -207937,7 +208007,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-elite-mma-shirt-black/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -207947,7 +208017,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-elite-mma-shirt-black/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -207957,7 +208027,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-elite-mma-shirt-blue/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -207987,7 +208057,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-elite-mma-shirt-blue/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -208007,7 +208077,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-elite-mma-shirt-red/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -208037,7 +208107,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-elite-mma-shirt-red/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -208067,7 +208137,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-elite-mma-shirt-green/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -208317,7 +208387,7 @@
     "price": 79.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-bokshandschoenen-the-noble-fist-black/",
-    "previous_price": 99.95
+    "previous_price": 79.95
   },
   {
     "shop": "OLB Sports",
@@ -208327,7 +208397,7 @@
     "price": 79.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-bokshandschoenen-the-noble-fist-black/",
-    "previous_price": 99.95
+    "previous_price": 79.95
   },
   {
     "shop": "OLB Sports",
@@ -208337,7 +208407,7 @@
     "price": 79.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-bokshandschoenen-the-noble-fist-black/",
-    "previous_price": 99.95
+    "previous_price": 79.95
   },
   {
     "shop": "OLB Sports",
@@ -208347,7 +208417,7 @@
     "price": 79.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-bokshandschoenen-the-noble-fist-black/",
-    "previous_price": 99.95
+    "previous_price": 79.95
   },
   {
     "shop": "OLB Sports",
@@ -210881,16 +210951,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "1916",
-    "product": "1916 Fight Gear Car Hanger Lest We Forget Airborne",
-    "size": "One Size",
-    "price": 7.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/1916-fight-gear-car-hanger-lest-we-forget-airborne/",
-    "previous_price": 7.95
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "King",
     "product": "King Pro Boxing Kickboksbroek Thailand Blue",
     "size": "m",
@@ -211067,7 +211127,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-kickboksbroek-revo-2-black-gold/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -211138,6 +211198,46 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-kpb-revo-1-shirt-zwart-wit/",
     "previous_price": 29.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear MMA Handschoenen Performance Black/Carbon",
+    "size": "m",
+    "price": 139.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-mma-handschoenen-performance-black-carbon/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear MMA Handschoenen Performance Black/Carbon",
+    "size": "l",
+    "price": 139.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-mma-handschoenen-performance-black-carbon/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear MMA Handschoenen Performance Black/Carbon",
+    "size": "s",
+    "price": 139.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-mma-handschoenen-performance-black-carbon/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear MMA Handschoenen Performance Black/Carbon",
+    "size": "xl",
+    "price": 139.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-mma-handschoenen-performance-black-carbon/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -211827,7 +211927,7 @@
     "price": 9.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-bandage-oranje/",
-    "previous_price": null
+    "previous_price": 9.99
   },
   {
     "shop": "OLB Sports",
@@ -211837,7 +211937,7 @@
     "price": 99.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-combat-speed-4-worstelschoenen-black-white/",
-    "previous_price": null
+    "previous_price": 99.99
   },
   {
     "shop": "OLB Sports",
@@ -211897,7 +211997,7 @@
     "price": 99.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-combat-speed-4-worstelschoenen-black-white/",
-    "previous_price": null
+    "previous_price": 99.99
   },
   {
     "shop": "OLB Sports",
@@ -211907,7 +212007,7 @@
     "price": 99.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-combat-speed-4-worstelschoenen-black-white/",
-    "previous_price": null
+    "previous_price": 99.99
   },
   {
     "shop": "OLB Sports",
@@ -211917,7 +212017,7 @@
     "price": 99.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-combat-speed-4-worstelschoenen-black-white/",
-    "previous_price": null
+    "previous_price": 99.99
   },
   {
     "shop": "OLB Sports",
@@ -211927,7 +212027,7 @@
     "price": 99.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-combat-speed-4-worstelschoenen-black-white/",
-    "previous_price": null
+    "previous_price": 99.99
   },
   {
     "shop": "OLB Sports",
@@ -211937,7 +212037,7 @@
     "price": 99.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-combat-speed-4-worstelschoenen-black-white/",
-    "previous_price": null
+    "previous_price": 99.99
   },
   {
     "shop": "OLB Sports",
@@ -211974,16 +212074,6 @@
     "brand": "Adidas",
     "product": "Adidas HVC Worstelschoenen Black/White",
     "size": "44-2-3",
-    "price": 64.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/adidas-hvc-worstelschoenen-black-white/",
-    "previous_price": 64.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Adidas",
-    "product": "Adidas HVC Worstelschoenen Black/White",
-    "size": "45-1-3",
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-hvc-worstelschoenen-black-white/",
@@ -213542,6 +213632,16 @@
   {
     "shop": "OLB Sports",
     "brand": "Joya",
+    "product": "Joya Gear Bokshandschoenen Performance Velcro Red/Black V2",
+    "size": "16oz",
+    "price": 175.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-performance-velcro-red-black-v2/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
     "product": "Joya Gear Bokshandschoenen Performance Velcro Blue/Silver V2",
     "size": "14oz",
     "price": 175.0,
@@ -213558,6 +213658,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-performance-velcro-blue-silver-v2/",
     "previous_price": 175.0
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear Bokshandschoenen Performance Velcro Black/Carbon V2",
+    "size": "12oz",
+    "price": 175.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-performance-velcro-black-carbon-v2/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -216337,7 +216447,7 @@
     "price": 43.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoenen-combat-serie-kids-groen/",
-    "previous_price": null
+    "previous_price": 43.95
   },
   {
     "shop": "OLB Sports",
@@ -218212,6 +218322,26 @@
   {
     "shop": "OLB Sports",
     "brand": "Joya",
+    "product": "Joya Gear Bokshandschoenen Performance Laces  White",
+    "size": "14oz",
+    "price": 199.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-performance-laces-white/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear Bokshandschoenen Performance Laces  White",
+    "size": "16oz",
+    "price": 199.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-performance-laces-white/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
     "product": "Joya Scheenbeschermers Essential White/Gold",
     "size": "s",
     "price": 54.99,
@@ -218237,16 +218367,6 @@
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-white-gold/",
-    "previous_price": 54.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Scheenbeschermers Essential Green",
-    "size": "m",
-    "price": 54.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-green/",
     "previous_price": 54.99
   },
   {
@@ -218713,11 +218833,31 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Gear Bokshandschoenen Thai Leather Black/White",
+    "size": "12oz",
+    "price": 89.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-thai-leather-black-2/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear Bokshandschoenen Thai Leather Black/White",
     "size": "16oz",
     "price": 89.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-thai-leather-black-2/",
     "previous_price": 89.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear Bokshandschoenen Thai Leather Black/White",
+    "size": "14oz",
+    "price": 89.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-thai-leather-black-2/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -219508,6 +219648,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-dragon-pu-groen/",
     "previous_price": 34.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Scheenbeschermers Dragon PU Groen",
+    "size": "s",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-scheenbeschermers-dragon-pu-groen/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -220793,6 +220943,16 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Gear Bokshandschoenen Essential Zwart/Roze",
+    "size": "14oz",
+    "price": 54.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-essential-zwart-roze/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear Bokshandschoenen Essential Zwart/Roze",
     "size": "12oz",
     "price": 54.99,
     "in_stock": true,
@@ -221483,11 +221643,31 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Scheenbeschermers Essential Zwart/Wit",
+    "size": "s",
+    "price": 54.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-zwart-wit/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Scheenbeschermers Essential Zwart/Wit",
     "size": "m",
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-zwart-wit/",
     "previous_price": 54.99
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Scheenbeschermers Essential Zwart/Wit",
+    "size": "l",
+    "price": 54.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-zwart-wit/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -221503,11 +221683,31 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Scheenbeschermers Essential Zwart",
+    "size": "s",
+    "price": 54.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-zwart/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Scheenbeschermers Essential Zwart",
     "size": "m",
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-zwart/",
     "previous_price": 54.99
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Scheenbeschermers Essential Zwart",
+    "size": "l",
+    "price": 54.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-zwart/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -221753,6 +221953,16 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Bokshandschoen Camo V2 Goud",
+    "size": "8oz",
+    "price": 43.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-bokshandschoen-camo-v2-goud/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Bokshandschoen Camo V2 Goud",
     "size": "10oz",
     "price": 43.95,
     "in_stock": true,
@@ -221778,6 +221988,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermer-camo-v2-goud/",
     "previous_price": 34.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Scheenbeschermer Camo V2 Goud",
+    "size": "xs",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-scheenbeschermer-camo-v2-goud/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -225021,6 +225241,16 @@
   },
   {
     "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Scheenbeschermers Dragon PU Goud",
+    "size": "m",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-scheenbeschermers-dragon-pu-goud/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
     "brand": "Booster",
     "product": "Booster Bokshandschoenen Bangkok Serie 3 Groen",
     "size": "14oz",
@@ -225957,16 +226187,6 @@
     "price": 49.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolate-zero-banaan/",
-    "previous_price": null
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "XXL",
-    "product": "XXL Nutrition Whey Isolate Zero Aardbei",
-    "size": "One Size",
-    "price": 49.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolate-zero-aardbei/",
     "previous_price": 49.99
   },
   {
@@ -226192,6 +226412,16 @@
   {
     "shop": "OLB Sports",
     "brand": "Joya",
+    "product": "Joya Sporttas Camo v2 Goud",
+    "size": "One Size",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-sporttas-camo-v2-goud/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
     "product": "Joya Scheenbeschermer Camo V2 Roze",
     "size": "s",
     "price": 34.95,
@@ -226218,6 +226448,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermer-camo-v2-roze/",
     "previous_price": 34.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Scheenbeschermer Camo V2 Roze",
+    "size": "xxs",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-scheenbeschermer-camo-v2-roze/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -226268,6 +226508,26 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermer-camo-v2-rood/",
     "previous_price": 34.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Scheenbeschermer Camo V2 Rood",
+    "size": "s",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-scheenbeschermer-camo-v2-rood/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Scheenbeschermer Camo V2 Rood",
+    "size": "m",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-scheenbeschermer-camo-v2-rood/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -226348,6 +226608,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-bokshandschoen-camo-v2-zwart/",
     "previous_price": 43.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Bokshandschoen Camo V2 Zwart",
+    "size": "12oz",
+    "price": 43.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-bokshandschoen-camo-v2-zwart/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -226408,6 +226678,26 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-bokshandschoen-camo-v2-rood/",
     "previous_price": 43.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Bokshandschoen Camo V2 Rood",
+    "size": "12oz",
+    "price": 43.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-bokshandschoen-camo-v2-rood/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Bokshandschoen Camo V2 Rood",
+    "size": "6oz",
+    "price": 43.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-bokshandschoen-camo-v2-rood/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -226508,6 +226798,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-kickboksbroek-camo-v2-rood/",
     "previous_price": 39.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Kickboksbroek Camo V2 Rood",
+    "size": "m",
+    "price": 39.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-kickboksbroek-camo-v2-rood/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -227008,16 +227308,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/fairtex-x-booster-scheenbeschermer-white/",
     "previous_price": 124.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "XXL",
-    "product": "XXL Nutrition Whey Isolate Zero Vanille",
-    "size": "One Size",
-    "price": 49.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolate-zero-vanille/",
-    "previous_price": 49.99
   },
   {
     "shop": "OLB Sports",
@@ -227638,6 +227928,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-shirt-boxing-vt-black-gold/",
     "previous_price": 23.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Scheenbeschermers Butterfly Roze",
+    "size": "xxs",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-scheenbeschermers-butterfly-roze/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -228811,6 +229111,26 @@
   },
   {
     "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Velcro Scheenbeschermer Zwart",
+    "size": "l",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-velcro-scheenbeschermer-zwart/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Velcro Scheenbeschermer Zwart",
+    "size": "xl",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-velcro-scheenbeschermer-zwart/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
     "brand": "1916",
     "product": "1916 Old School Pro Bokshandschoen Zwart",
     "size": "16oz",
@@ -228927,7 +229247,7 @@
     "price": 9.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-bandage-zwart/",
-    "previous_price": null
+    "previous_price": 9.99
   },
   {
     "shop": "OLB Sports",
@@ -229333,16 +229653,6 @@
     "shop": "OLB Sports",
     "brand": "1916",
     "product": "1916 Binnenhandschoenen Zwart",
-    "size": "s",
-    "price": 13.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/1916-binnenhandschoenen-zwart/",
-    "previous_price": 13.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "1916",
-    "product": "1916 Binnenhandschoenen Zwart",
     "size": "m",
     "price": 13.95,
     "in_stock": true,
@@ -229437,7 +229747,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-groen/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -229447,7 +229757,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-groen/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -231123,11 +231433,31 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Bokshandschoenen Dragon Junior Roze",
+    "size": "8oz",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-roze/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Bokshandschoenen Dragon Junior Roze",
     "size": "6oz",
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-roze/",
     "previous_price": 34.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Bokshandschoenen Dragon Junior Wit",
+    "size": "4oz",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-wit/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -231178,6 +231508,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-elastische-scheenbeschermer-zwart/",
     "previous_price": 19.99
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Elastische Scheenbeschermer Zwart",
+    "size": "xl",
+    "price": 19.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-elastische-scheenbeschermer-zwart/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -231262,22 +231602,12 @@
   {
     "shop": "OLB Sports",
     "brand": "XXL",
-    "product": "XXL Nutrition Whey Isolaat Aardbei 1kg",
-    "size": "One Size",
-    "price": 49.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolaat-aardbei/",
-    "previous_price": null
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "XXL",
     "product": "XXL Nutrition Whey Isolaat Vanille 1kg",
     "size": "One Size",
     "price": 49.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolaat-vanille/",
-    "previous_price": null
+    "previous_price": 49.99
   },
   {
     "shop": "OLB Sports",
@@ -231297,7 +231627,7 @@
     "price": 11.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bandage-roze/",
-    "previous_price": null
+    "previous_price": 11.99
   },
   {
     "shop": "OLB Sports",
@@ -231317,7 +231647,7 @@
     "price": 11.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bandage-blauw/",
-    "previous_price": null
+    "previous_price": 11.99
   },
   {
     "shop": "OLB Sports",
@@ -231327,7 +231657,7 @@
     "price": 11.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bandage-rood/",
-    "previous_price": null
+    "previous_price": 11.99
   },
   {
     "shop": "OLB Sports",
@@ -231478,26 +231808,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-challenger-mma-handschoenen-zwart/",
     "previous_price": 47.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Kruisbeschermer Challenger",
-    "size": "m",
-    "price": 29.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-kruisbeschermer-challenger/",
-    "previous_price": 29.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Kruisbeschermer Challenger",
-    "size": "l",
-    "price": 29.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-kruisbeschermer-challenger/",
-    "previous_price": 29.99
   },
   {
     "shop": "OLB Sports",
@@ -233348,6 +233658,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-binnenhandschoen-zwart/",
     "previous_price": 13.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Bandage Roze",
+    "size": "350cm",
+    "price": 9.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-bandage-roze/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
