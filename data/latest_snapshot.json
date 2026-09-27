@@ -13915,7 +13915,7 @@
     "product": "Ground Force Ladies Basic Gi V2",
     "size": "F1 / Black",
     "price": 80.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-ladies-basic-gi-v2",
     "previous_price": 80.0
   },
@@ -18275,7 +18275,7 @@
     "product": "Ground Force Rank Rashguard Long Sleeve",
     "size": "XL / Blue",
     "price": 49.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-rank-rash-guard",
     "previous_price": 49.0
   },
@@ -18655,7 +18655,7 @@
     "product": "Fuji Premium Pearl Weave BJJ Belt",
     "size": "A2 / Brown",
     "price": 34.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/premium-pearl-weave-bjj-belt",
     "previous_price": 34.95
   },
@@ -40165,7 +40165,7 @@
     "product": "Kimono ( BJJ) Epic Roll Jett Black",
     "size": "A0",
     "price": 99.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-epic-roll-jett-black",
     "previous_price": 99.0
   },
@@ -51661,6 +51661,36 @@
   },
   {
     "shop": "Fightstyle.nl",
+    "brand": "Twins Special",
+    "product": "Twins Scheenbeschermers SGL 10 Zwart",
+    "size": "XL",
+    "price": 99.95,
+    "in_stock": true,
+    "url": "https://fightstyle.nl/products/twins-special-scheenbeschermers-sgl-10-zwart",
+    "previous_price": null
+  },
+  {
+    "shop": "Fightstyle.nl",
+    "brand": "Twins Special",
+    "product": "Twins Bokshandschoenen BGVL 3 Zwart",
+    "size": "16 oz",
+    "price": 124.95,
+    "in_stock": true,
+    "url": "https://fightstyle.nl/products/twins-bokshandschoenen-bgvl-3-zwart",
+    "previous_price": null
+  },
+  {
+    "shop": "Fightstyle.nl",
+    "brand": "Hayabusa Fightwear",
+    "product": "Hayabusa Binnenhandschoenen Elite Quick Wraps Zwart",
+    "size": "XL",
+    "price": 19.95,
+    "in_stock": true,
+    "url": "https://fightstyle.nl/products/hayabusa-binnenhandschoenen-elite-quick-wraps-zwart",
+    "previous_price": null
+  },
+  {
+    "shop": "Fightstyle.nl",
     "brand": "Fairtex",
     "product": "Fairtex Kickboks Broekje Golden Jubilee",
     "size": "S",
@@ -51698,16 +51728,6 @@
     "in_stock": true,
     "url": "https://fightstyle.nl/products/booster-scheenbeschermers-bsg-v9-rood",
     "previous_price": 99.95
-  },
-  {
-    "shop": "Fightstyle.nl",
-    "brand": "Yokkao",
-    "product": "Yokkao Scheenbeschermers Matrix Tiffany",
-    "size": "M",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://fightstyle.nl/products/yokkao-scheenbeschermers-matrix-tiffany",
-    "previous_price": 119.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -52855,7 +52875,7 @@
     "product": "Hayabusa Boksschoenen Talon Zwart/Rood",
     "size": "45",
     "price": 109.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fightstyle.nl/products/hayabusa-boksschoenen-talon-zwart-rood",
     "previous_price": 109.95
   },
@@ -79185,7 +79205,7 @@
     "product": "Aeroweave Ultralight Women's Gi",
     "size": "F2 / Blue",
     "price": 133.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/aeroweave-ultralight-womens-gi",
     "previous_price": 133.99
   },
@@ -93105,7 +93125,7 @@
     "product": "Kingz Balistico 4.0 Men's BJJ Gi - Black",
     "size": "A2L / Black",
     "price": 150.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-black-2024-edition",
     "previous_price": 150.0
   },
@@ -97415,7 +97435,7 @@
     "product": "Kingz Flow Men's Rashguard",
     "size": "L / Black",
     "price": 50.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/flow-rashguard",
     "previous_price": 50.0
   },
@@ -97785,7 +97805,7 @@
     "product": "Kingz Gold Label V2 BJJ Belts",
     "size": "A2 / Blue",
     "price": 18.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gold-label-v2-bjj-belts",
     "previous_price": 18.0
   },
@@ -99435,7 +99455,7 @@
     "product": "Kingz The ONE V2 Men's BJJ Gi - White",
     "size": "A1L / White",
     "price": 105.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-the-one-v2-jiu-jitsu-gi",
     "previous_price": 105.0
   },
@@ -100295,7 +100315,7 @@
     "product": "Kingz Ultralight 2.0 Men's BJJ Gi - Blue",
     "size": "A2L / Blue",
     "price": 140.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/ultralight-2-0-jiu-jitsu-gi-blue",
     "previous_price": 140.0
   },
@@ -206987,7 +207007,7 @@
     "price": 0.0,
     "in_stock": false,
     "url": "https://olbsports.nl/product/booster-kickboks-set-war-black-red/",
-    "previous_price": null
+    "previous_price": 0.0
   },
   {
     "shop": "OLB Sports",
@@ -207668,16 +207688,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-perfect-stretch-hand-wraps-black/",
     "previous_price": 17.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Hayabusa",
-    "product": "Hayabusa Elite Quick Wraps Black",
-    "size": "l",
-    "price": 27.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/hayabusa-elite-quick-wraps-black/",
-    "previous_price": 27.99
   },
   {
     "shop": "OLB Sports",
@@ -209537,7 +209547,7 @@
     "price": 39.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-pre-workout-quake-cola-cherry/",
-    "previous_price": null
+    "previous_price": 39.99
   },
   {
     "shop": "OLB Sports",
@@ -209547,7 +209557,7 @@
     "price": 39.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-pre-workout-quake-fruit-punch/",
-    "previous_price": null
+    "previous_price": 39.99
   },
   {
     "shop": "OLB Sports",
@@ -211097,7 +211107,7 @@
     "price": 49.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-elite-mma-short-black/",
-    "previous_price": null
+    "previous_price": 49.95
   },
   {
     "shop": "OLB Sports",
@@ -213673,16 +213683,6 @@
     "shop": "OLB Sports",
     "brand": "Youth",
     "product": "Youth Fighters Scheenbeschermers Kids Black",
-    "size": "yl",
-    "price": 49.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/youth-fighters-scheenbeschermers-kids-black/",
-    "previous_price": 49.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Youth",
-    "product": "Youth Fighters Scheenbeschermers Kids Black",
     "size": "yxl",
     "price": 49.95,
     "in_stock": true,
@@ -214464,7 +214464,7 @@
     "brand": "Joya",
     "product": "Joya Gear MMA Handschoenen Performance Black/Carbon",
     "size": "m",
-    "price": 139.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-mma-handschoenen-performance-black-carbon/",
     "previous_price": 139.95
@@ -214474,7 +214474,7 @@
     "brand": "Joya",
     "product": "Joya Gear MMA Handschoenen Performance Black/Carbon",
     "size": "l",
-    "price": 139.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-mma-handschoenen-performance-black-carbon/",
     "previous_price": 139.95
@@ -214484,7 +214484,7 @@
     "brand": "Joya",
     "product": "Joya Gear MMA Handschoenen Performance Black/Carbon",
     "size": "s",
-    "price": 139.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-mma-handschoenen-performance-black-carbon/",
     "previous_price": 139.95
@@ -214494,7 +214494,7 @@
     "brand": "Joya",
     "product": "Joya Gear MMA Handschoenen Performance Black/Carbon",
     "size": "xl",
-    "price": 139.95,
+    "price": 129.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-mma-handschoenen-performance-black-carbon/",
     "previous_price": 139.95
@@ -216882,16 +216882,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Joya",
-    "product": "Joya Gear Bokshandschoenen Performance Velcro Blue/Silver V2",
-    "size": "16oz",
-    "price": 175.0,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-performance-velcro-blue-silver-v2/",
-    "previous_price": 175.0
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
     "product": "Joya Gear Bokshandschoenen Performance Velcro Black/Carbon V2",
     "size": "12oz",
     "price": 175.0,
@@ -218201,16 +218191,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "Booster",
-    "product": "Booster Bokshandschoenen Verfrisser Deodorizer",
-    "size": "One Size",
-    "price": 16.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/booster-bokshandschoenen-verfrisser-deodorizer/",
-    "previous_price": 16.95
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "Youth",
     "product": "Youth Fighters Kickboksbroek Kids Monkey",
     "size": "xxs",
@@ -218357,7 +218337,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/youth-fighters-gymbag-kids-black/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -218658,16 +218638,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/monster-energy-juiced-bad-apple-500ml/",
     "previous_price": 3.65
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "XXL",
-    "product": "XXL Nutrition Coated Waterjug V2 1300ml Roze",
-    "size": "One Size",
-    "price": 9.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/xxl-nutrition-coated-waterjug-v2-1300ml-roze/",
-    "previous_price": 9.95
   },
   {
     "shop": "OLB Sports",
@@ -220127,16 +220097,6 @@
     "price": 149.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-scheenbeschermers-performance-lime-black/",
-    "previous_price": 149.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Gear Scheenbeschermers Performance  Blue/Silver",
-    "size": "m",
-    "price": 149.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-scheenbeschermers-performance-blue-silver/",
     "previous_price": 149.99
   },
   {
@@ -221642,16 +221602,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Joya",
-    "product": "Joya Scheenbeschermers Essential White/Gold",
-    "size": "l",
-    "price": 54.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-white-gold/",
-    "previous_price": 54.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
     "product": "Joya Scheenbeschermers Essential Green",
     "size": "m",
     "price": 54.99,
@@ -222202,16 +222152,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Joya",
-    "product": "Joya Gear Bokshandschoenen Performance Velcro Gold/White",
-    "size": "16oz",
-    "price": 165.0,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-performance-velcro-gold-white/",
-    "previous_price": 165.0
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
     "product": "Joya Gear Bokshandschoenen Performance Velcro Lime/Black",
     "size": "14oz",
     "price": 165.0,
@@ -222437,16 +222377,6 @@
     "price": 119.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-scheenbeschermers-ultimate-white/",
-    "previous_price": 119.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "1916",
-    "product": "1916 Fight Gear Bokshandschoenen Ultimate Green",
-    "size": "12oz",
-    "price": 119.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/1916-fight-gear-bokshandschoenen-ultimate-green/",
     "previous_price": 119.95
   },
   {
@@ -224873,16 +224803,6 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Scheenbeschermers Essential Zwart",
-    "size": "s",
-    "price": 54.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-zwart/",
-    "previous_price": 54.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Scheenbeschermers Essential Zwart",
     "size": "m",
     "price": 54.99,
     "in_stock": true,
@@ -224934,16 +224854,6 @@
     "brand": "Joya",
     "product": "Joya Scheenbeschermers Essential Zwart/Goud",
     "size": "l",
-    "price": 54.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-zwart-goud/",
-    "previous_price": 54.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Scheenbeschermers Essential Zwart/Goud",
-    "size": "xl",
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-essential-zwart-goud/",
@@ -225208,16 +225118,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/energia-fight-wear-bjj-gi-de-luxe-black/",
     "previous_price": 159.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Gear Kickboksbroek Essential Zwart/Goud",
-    "size": "s",
-    "price": 39.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-kickboksbroek-essential-zwart-goud/",
-    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -226043,16 +225943,6 @@
     "shop": "OLB Sports",
     "brand": "King",
     "product": "King Storm 1 Shirt Zwart/Grijs",
-    "size": "xl",
-    "price": 29.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/king-storm-1-shirt-zwart-grijs/",
-    "previous_price": 29.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "King",
-    "product": "King Storm 1 Shirt Zwart/Grijs",
     "size": "s",
     "price": 29.99,
     "in_stock": true,
@@ -226517,7 +226407,7 @@
     "price": 129.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-speedex-23-groen/",
-    "previous_price": null
+    "previous_price": 129.99
   },
   {
     "shop": "OLB Sports",
@@ -226634,16 +226524,6 @@
     "brand": "King",
     "product": "King Kickboksbroek KPB Storm 1",
     "size": "m",
-    "price": 49.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/king-kickboksbroek-kpb-storm-1/",
-    "previous_price": 49.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "King",
-    "product": "King Kickboksbroek KPB Storm 1",
-    "size": "xl",
     "price": 49.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-kickboksbroek-kpb-storm-1/",
@@ -229222,22 +229102,12 @@
   {
     "shop": "OLB Sports",
     "brand": "XXL",
-    "product": "XXL Nutrition Whey Isolate Zero Banaan",
-    "size": "One Size",
-    "price": 49.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolate-zero-banaan/",
-    "previous_price": 49.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "XXL",
     "product": "XXL Nutrition Whey Isolate Zero Aardbei",
     "size": "One Size",
     "price": 49.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolate-zero-aardbei/",
-    "previous_price": null
+    "previous_price": 49.99
   },
   {
     "shop": "OLB Sports",
@@ -229407,16 +229277,6 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-sporttas-camo-v2-rood/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Scheenbeschermer Camo V2 Roze",
-    "size": "xs",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-scheenbeschermer-camo-v2-roze/",
     "previous_price": 34.95
   },
   {
@@ -230187,7 +230047,7 @@
     "price": 49.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolate-zero-vanille/",
-    "previous_price": null
+    "previous_price": 49.99
   },
   {
     "shop": "OLB Sports",
@@ -230234,16 +230094,6 @@
     "brand": "1916",
     "product": "1916 Fight Gear Shirt Glory Zwart",
     "size": "xxl",
-    "price": 29.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/1916-fight-gear-shirt-glory-zwart/",
-    "previous_price": 29.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "1916",
-    "product": "1916 Fight Gear Shirt Glory Zwart",
-    "size": "s",
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-shirt-glory-zwart/",
@@ -230792,16 +230642,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Venum",
-    "product": "Venum Shirt Muay Thai VT Black/Gold",
-    "size": "m",
-    "price": 23.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-shirt-muay-thai-vt-black-gold/",
-    "previous_price": 23.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
     "product": "Venum Shirt Boxing VT Black/Gold",
     "size": "l",
     "price": 23.95,
@@ -231107,7 +230947,7 @@
     "price": 49.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-complex-carb-gainer-vanille-25kg/",
-    "previous_price": null
+    "previous_price": 49.99
   },
   {
     "shop": "OLB Sports",
@@ -233757,7 +233597,7 @@
     "price": 36.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-weight-gainer-chocolade/",
-    "previous_price": null
+    "previous_price": 36.99
   },
   {
     "shop": "OLB Sports",
@@ -234111,16 +233951,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Challenger Gebitsbeschermer Zwart/Grijs",
-    "size": "One Size",
-    "price": 14.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-challenger-gebitsbeschermer-zwart-zwart/",
-    "previous_price": 14.99
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "XXL",
     "product": "XXL Nutrition Crunchy Protein Bar Stracciatella",
     "size": "One Size",
@@ -234323,16 +234153,6 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Bokshandschoenen Dragon Junior Roze",
-    "size": "8oz",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-bokshandschoenen-dragon-junior-roze/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Bokshandschoenen Dragon Junior Roze",
     "size": "6oz",
     "price": 34.95,
     "in_stock": true,
@@ -234421,16 +234241,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Elastische Scheenbeschermer Zwart",
-    "size": "xl",
-    "price": 19.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-elastische-scheenbeschermer-zwart/",
-    "previous_price": 19.99
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "Booster",
     "product": "Booster Scheenbeschermers Junior Marble Rood",
     "size": "xs",
@@ -234477,7 +234287,7 @@
     "price": 36.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-weight-gainer-vanille/",
-    "previous_price": null
+    "previous_price": 36.99
   },
   {
     "shop": "OLB Sports",
@@ -234517,7 +234327,7 @@
     "price": 49.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolaat-aardbei/",
-    "previous_price": null
+    "previous_price": 49.99
   },
   {
     "shop": "OLB Sports",
@@ -234838,16 +234648,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-challenger-3-0-bokshandschoen-zwart-goud/",
     "previous_price": 54.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Predator Gebitsbeschermer Zwart/Grijs",
-    "size": "One Size",
-    "price": 21.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-predator-gebitsbeschermer-zwart-grijs/",
-    "previous_price": 21.95
   },
   {
     "shop": "OLB Sports",
