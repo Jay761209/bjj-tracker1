@@ -18955,7 +18955,7 @@
     "product": "Ground Force BJJ Belt",
     "size": "A3 / Purple",
     "price": 14.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-bjj-belt",
     "previous_price": 14.0
   },
@@ -19315,7 +19315,7 @@
     "product": "Defense Shower Gel Peppermint Oil Travel Size",
     "size": "Default Title",
     "price": 3.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/defense-shower-gel-peppermint-oil-travel-size",
     "previous_price": 3.5
   },
@@ -23035,7 +23035,7 @@
     "product": "Cliff Keen Fusion Headgear",
     "size": "Black & Gold",
     "price": 79.9,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/cliff-keen-fusion-headgear",
     "previous_price": 79.9
   },
@@ -24015,7 +24015,7 @@
     "product": "Kingz JJ Dept Hoodie- Negro",
     "size": "L",
     "price": 55.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kingz-jj-dept-hoodie-negro",
     "previous_price": 55.0
   },
@@ -25645,7 +25645,7 @@
     "product": "Kingz Casual Rip Stop Gi Pant- Negro",
     "size": "A1",
     "price": 58.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kingz-casual-rip-stop-gi-pant-black",
     "previous_price": 58.0
   },
@@ -36737,7 +36737,7 @@
     "price": 85.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-kingz-kore-v2-negro-2024-edition",
-    "previous_price": null
+    "previous_price": 85.0
   },
   {
     "shop": "StockBJJ",
@@ -47265,7 +47265,7 @@
     "product": "Cinturones Kingz Gold Label V2- Marrón",
     "size": "A4 / Marrón",
     "price": 16.9,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-kingz-gold-label-v2-marron",
     "previous_price": 16.9
   },
@@ -52705,7 +52705,7 @@
     "product": "Hayabusa Rashguard for Women Short Sleeve Apex Ash Wit",
     "size": "XS",
     "price": 49.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fightstyle.nl/products/hayabusa-rash-guard-for-women-short-sleeve-apex-ash-wit",
     "previous_price": 49.95
   },
@@ -52717,16 +52717,6 @@
     "price": 49.95,
     "in_stock": true,
     "url": "https://fightstyle.nl/products/hayabusa-rash-guard-for-women-short-sleeve-apex-ash-wit",
-    "previous_price": 49.95
-  },
-  {
-    "shop": "Fightstyle.nl",
-    "brand": "Hayabusa Fightwear",
-    "product": "Hayabusa Rashguard for Women Short Sleeve Apex Carbon Black",
-    "size": "XS",
-    "price": 49.95,
-    "in_stock": true,
-    "url": "https://fightstyle.nl/products/hayabusa-rashguard-for-women-short-sleeve-apex-carbon-black",
     "previous_price": 49.95
   },
   {
@@ -82065,7 +82055,7 @@
     "product": "Kingz The ONE V2 Men's BJJ Gi - Black",
     "size": "A1L / Black",
     "price": 105.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-the-one-v2-jiu-jitsu-gi-black",
     "previous_price": 105.0
   },
@@ -83885,7 +83875,7 @@
     "product": "Kingz Kore V2 Men's Tee",
     "size": "Oliver / XL",
     "price": 30.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-v2-tee",
     "previous_price": 30.0
   },
@@ -93815,7 +93805,7 @@
     "product": "Jersey Rashguard - UK",
     "size": "XS",
     "price": 35.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/jersey-rashguard-uk",
     "previous_price": 35.0
   },
@@ -99785,7 +99775,7 @@
     "product": "Kingz Hybrid Women's Grappling Shorts - Black",
     "size": "XS",
     "price": 50.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/hybrid-womens-shorts-black",
     "previous_price": 50.0
   },
@@ -102475,7 +102465,7 @@
     "product": "Kingz Canvas Men's Jacket",
     "size": "Desert / XL",
     "price": 90.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/canvas-jacket",
     "previous_price": 90.0
   },
@@ -103955,7 +103945,7 @@
     "product": "Kingz Absolute Premium BJJ Belt",
     "size": "A4 / Purple",
     "price": 30.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-performance-belt",
     "previous_price": 30.0
   },
@@ -106455,7 +106445,7 @@
     "product": "Kingz Classic 3.0 Men's BJJ Gi - Black",
     "size": "A2L / Black",
     "price": 110.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/classic-2-0-jiu-jitsu-gi-black",
     "previous_price": 110.0
   },
@@ -112842,72 +112832,72 @@
   {
     "shop": "Fuji Sports",
     "brand": "WeDefy",
-    "product": "We Defy Retro Star Blue",
+    "product": "We Defy Retro Star T-Shirt Blue",
     "size": "XS",
     "price": 30.0,
     "in_stock": true,
-    "url": "https://fujisports.com/products/we-defy-retro-star-blue",
-    "previous_price": 30.0
+    "url": "https://fujisports.com/products/we-defy-retro-star-t-shirt-blue",
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
     "brand": "WeDefy",
-    "product": "We Defy Retro Star Blue",
+    "product": "We Defy Retro Star T-Shirt Blue",
     "size": "S",
     "price": 30.0,
     "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-retro-star-blue",
-    "previous_price": 30.0
+    "url": "https://fujisports.com/products/we-defy-retro-star-t-shirt-blue",
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
     "brand": "WeDefy",
-    "product": "We Defy Retro Star Blue",
+    "product": "We Defy Retro Star T-Shirt Blue",
     "size": "M",
     "price": 30.0,
     "in_stock": true,
-    "url": "https://fujisports.com/products/we-defy-retro-star-blue",
-    "previous_price": 30.0
+    "url": "https://fujisports.com/products/we-defy-retro-star-t-shirt-blue",
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
     "brand": "WeDefy",
-    "product": "We Defy Retro Star Blue",
+    "product": "We Defy Retro Star T-Shirt Blue",
     "size": "L",
     "price": 30.0,
     "in_stock": true,
-    "url": "https://fujisports.com/products/we-defy-retro-star-blue",
-    "previous_price": 30.0
+    "url": "https://fujisports.com/products/we-defy-retro-star-t-shirt-blue",
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
     "brand": "WeDefy",
-    "product": "We Defy Retro Star Blue",
+    "product": "We Defy Retro Star T-Shirt Blue",
     "size": "XL",
     "price": 30.0,
     "in_stock": true,
-    "url": "https://fujisports.com/products/we-defy-retro-star-blue",
-    "previous_price": 30.0
+    "url": "https://fujisports.com/products/we-defy-retro-star-t-shirt-blue",
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
     "brand": "WeDefy",
-    "product": "We Defy Retro Star Blue",
+    "product": "We Defy Retro Star T-Shirt Blue",
     "size": "2XL",
     "price": 30.0,
     "in_stock": false,
-    "url": "https://fujisports.com/products/we-defy-retro-star-blue",
-    "previous_price": 30.0
+    "url": "https://fujisports.com/products/we-defy-retro-star-t-shirt-blue",
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
     "brand": "WeDefy",
-    "product": "We Defy Retro Star Blue",
+    "product": "We Defy Retro Star T-Shirt Blue",
     "size": "3XL",
     "price": 30.0,
     "in_stock": true,
-    "url": "https://fujisports.com/products/we-defy-retro-star-blue",
-    "previous_price": 30.0
+    "url": "https://fujisports.com/products/we-defy-retro-star-t-shirt-blue",
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
@@ -125915,7 +125905,7 @@
     "product": "Oni Samurai Flex Lite Rashguard Blue",
     "size": "XS",
     "price": 62.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/oni-samurai-flex-lite-rashguard-blue",
     "previous_price": 62.95
   },
@@ -134705,7 +134695,7 @@
     "product": "Ryujin T-Shirt Heather Grey",
     "size": "M",
     "price": 29.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ryujin-t-shirt-heather-grey",
     "previous_price": 29.95
   },
@@ -139525,7 +139515,7 @@
     "product": "Kids Six Blades Long Sleeve Rashguard White",
     "size": "YL",
     "price": 42.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/kids-six-blades-long-sleeve-rashguard-white",
     "previous_price": 42.0
   },
@@ -167595,7 +167585,7 @@
     "product": "Orange Mizuno Belt",
     "size": "4",
     "price": 19.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/orange-mizuno-belt",
     "previous_price": 19.95
   },
@@ -168065,7 +168055,7 @@
     "product": "Euro Competition Judo Gi White",
     "size": "4.5",
     "price": 139.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/euro-competition-judo-gi",
     "previous_price": 139.95
   },
@@ -173115,7 +173105,7 @@
     "product": "All Around BJJ Gi Blackout (Unisex Size)",
     "size": "A3",
     "price": 119.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/all-around-bjj-gi-blackout-unisex-size",
     "previous_price": 119.95
   },
@@ -173405,7 +173395,7 @@
     "product": "All Around BJJ Gi Blue (Unisex Size)",
     "size": "A6",
     "price": 119.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/all-around-bjj-gi-blue-unisex-size",
     "previous_price": 119.95
   },
@@ -173465,7 +173455,7 @@
     "product": "All Around BJJ Gi Blackout",
     "size": "A3",
     "price": 119.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/all-around-bjj-gi-blackout",
     "previous_price": 119.95
   },
@@ -173635,7 +173625,7 @@
     "product": "All Around BJJ Gi Blue",
     "size": "A6",
     "price": 119.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/all-around-bjj-gi-blue",
     "previous_price": 119.95
   },
@@ -176265,7 +176255,7 @@
     "product": "All Around BJJ Gi (Unisex Size)",
     "size": "A3 / Black/Black",
     "price": 119.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/all-around-bjj-gi",
     "previous_price": 119.95
   },
@@ -176485,7 +176475,7 @@
     "product": "All Around BJJ Gi (Unisex Size)",
     "size": "A6 / Blue",
     "price": 119.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/all-around-bjj-gi",
     "previous_price": 119.95
   },
@@ -180035,7 +180025,7 @@
     "product": "Adidas Power 100 Bokshandschoenen voor kinderen - Zwart/Zwart",
     "size": "8 oz",
     "price": 39.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/adidas-power-100-bokshandschoenen-voor-kinderen-zwart-zwart",
     "previous_price": 39.95
   },
@@ -180045,7 +180035,7 @@
     "product": "Adidas Power 100 Bokshandschoenen voor kinderen - Zwart/Zwart",
     "size": "10 oz",
     "price": 39.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/adidas-power-100-bokshandschoenen-voor-kinderen-zwart-zwart",
     "previous_price": 39.95
   },
@@ -180055,7 +180045,7 @@
     "product": "Adidas Power 100 Bokshandschoenen - Zwart/Zwart",
     "size": "12 oz",
     "price": 39.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/adidas-power-100-bokshandschoenen-zwart-zwart",
     "previous_price": 39.95
   },
@@ -180065,7 +180055,7 @@
     "product": "Adidas Power 100 Bokshandschoenen - Zwart/Zwart",
     "size": "14 oz",
     "price": 39.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/adidas-power-100-bokshandschoenen-zwart-zwart",
     "previous_price": 39.95
   },
@@ -180075,7 +180065,7 @@
     "product": "Adidas Power 100 Bokshandschoenen - Zwart/Zwart",
     "size": "16 oz",
     "price": 39.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/adidas-power-100-bokshandschoenen-zwart-zwart",
     "previous_price": 39.95
   },
@@ -180085,7 +180075,7 @@
     "product": "Adidas Scheenbeschermers - Zwart/Wit",
     "size": "S",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/adidas-scheenbeschermers-shin-instep-guard-zwart-wit",
     "previous_price": 59.95
   },
@@ -180095,7 +180085,7 @@
     "product": "Adidas Scheenbeschermers - Zwart/Wit",
     "size": "M",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/adidas-scheenbeschermers-shin-instep-guard-zwart-wit",
     "previous_price": 59.95
   },
@@ -180105,7 +180095,7 @@
     "product": "Adidas Scheenbeschermers - Zwart/Wit",
     "size": "L",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/adidas-scheenbeschermers-shin-instep-guard-zwart-wit",
     "previous_price": 59.95
   },
@@ -180115,7 +180105,7 @@
     "product": "Adidas Scheenbeschermers - Zwart/Wit",
     "size": "XL",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/adidas-scheenbeschermers-shin-instep-guard-zwart-wit",
     "previous_price": 59.95
   },
@@ -180125,7 +180115,7 @@
     "product": "Adidas Boxing Crepe Handwraps - 450 cm - Zwart",
     "size": "450 cm",
     "price": 11.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/adidas-boxing-crepe-handwraps-450-cm-zwart",
     "previous_price": 11.95
   },
@@ -180135,7 +180125,7 @@
     "product": "Adidas Power 50 Bokshandschoenen - Zwart/Zwart",
     "size": "12 oz",
     "price": 45.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/adidas-power-50-bokshandschoenen-zwart-zwart",
     "previous_price": 45.0
   },
@@ -180185,7 +180175,7 @@
     "product": "Adidas Speed 501 Bokshandschoenen - Zwart/Goud",
     "size": "14 oz",
     "price": 139.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/adidas-speed-501-bokshandschoenen-zwart-goud",
     "previous_price": 139.95
   },
@@ -180195,7 +180185,7 @@
     "product": "Adidas Speed 501 Bokshandschoenen - Zwart/Goud",
     "size": "16 oz",
     "price": 139.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/adidas-speed-501-bokshandschoenen-zwart-goud",
     "previous_price": 139.95
   },
@@ -182585,7 +182575,7 @@
     "product": "Hayabusa Strike Boksschoenen - Wit",
     "size": "43",
     "price": 189.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-strike-boksschoenen-wit",
     "previous_price": 189.0
   },
@@ -195255,7 +195245,7 @@
     "product": "Twins Special BGVL 3 Bokshandschoenen - Echt Leer - Zwart / Geel",
     "size": "12 oz",
     "price": 189.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-bokshandschoenen-bgvl-3-echt-leer-zwart-geel",
     "previous_price": 189.95
   },
@@ -197835,7 +197825,7 @@
     "product": "Sukkiri Spray - Deodorizer 300 ml",
     "size": "Default Title",
     "price": 14.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/sukkiri-spray-deodorizer-300-ml",
     "previous_price": 14.95
   },
@@ -198885,7 +198875,7 @@
     "product": "Primo Classic Muay Thai Scheenbeschermer - Paars",
     "size": "S",
     "price": 119.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/primo-classic-muay-thai-scheenbeschermer-paars",
     "previous_price": 119.95
   },
@@ -200785,7 +200775,7 @@
     "product": "Booster Bokschoenen - Rapid Strike Pro series 1 - Zwart",
     "size": "44",
     "price": 139.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-1-zwart",
     "previous_price": 139.95
   },
@@ -201955,7 +201945,7 @@
     "product": "Flow Classic Thai Scheenbeschermers - Zwart",
     "size": "S",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/flow-thai-scheenbeschermers-zwart",
     "previous_price": 99.99
   },
@@ -201985,7 +201975,7 @@
     "product": "Flow Classic Thai Scheenbeschermers - Zwart",
     "size": "XL",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/flow-thai-scheenbeschermers-zwart",
     "previous_price": 99.99
   },
@@ -202155,7 +202145,7 @@
     "product": "Booster Bokshandschoenen voor kinderen - BT Champion - Zwart",
     "size": "6 oz",
     "price": 32.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bokshandschoenen-voor-kinderen-bt-champion-zwart",
     "previous_price": 32.95
   },
@@ -203514,16 +203504,6 @@
     "brand": "Joya",
     "product": "Joya Gear Bokshandschoenen Elite Performance White",
     "size": "12oz",
-    "price": 199.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-elite-performance-white/",
-    "previous_price": 199.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Gear Bokshandschoenen Elite Performance White",
-    "size": "14oz",
     "price": 199.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-elite-performance-white/",
@@ -207078,16 +207058,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-dura-pads-ultimate-black-2-0/",
     "previous_price": 219.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "1916",
-    "product": "1916 Fight Gear Hoofdbeschermer Ultimate  Black",
-    "size": "m",
-    "price": 99.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/1916-fight-gear-hoofdbeschermer-ultimate-black/",
-    "previous_price": 99.95
   },
   {
     "shop": "OLB Sports",
@@ -213763,16 +213733,6 @@
     "shop": "OLB Sports",
     "brand": "Venum",
     "product": "Venum Matupa Muay Thai Shorts Black/Red/Silver",
-    "size": "m",
-    "price": 69.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-matupa-muay-thai-shorts-black-red-silver/",
-    "previous_price": 69.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Matupa Muay Thai Shorts Black/Red/Silver",
     "size": "l",
     "price": 69.99,
     "in_stock": true,
@@ -218802,16 +218762,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Youth",
-    "product": "Youth Fighters Gymbag Kids Black",
-    "size": "One Size",
-    "price": 39.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/youth-fighters-gymbag-kids-black/",
-    "previous_price": null
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Youth",
     "product": "Youth Fighters T-Shirt Kids Monkey",
     "size": "128",
     "price": 29.95,
@@ -219343,16 +219293,6 @@
     "shop": "OLB Sports",
     "brand": "Stanno",
     "product": "Stanno Functionals Training Shirt II Zwart",
-    "size": "xl",
-    "price": 29.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/stanno-functionals-training-shirt-ii-zwart/",
-    "previous_price": 29.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Stanno",
-    "product": "Stanno Functionals Training Shirt II Zwart",
     "size": "s",
     "price": 29.99,
     "in_stock": true,
@@ -219584,16 +219524,6 @@
     "brand": "1916",
     "product": "1916 Fight Gear Bokshandschoen Legend Pu Zwart/Roze",
     "size": "10oz",
-    "price": 59.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/1916-fight-gear-bokshandschoen-legend-pu-zwart-roze/",
-    "previous_price": 59.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "1916",
-    "product": "1916 Fight Gear Bokshandschoen Legend Pu Zwart/Roze",
-    "size": "12oz",
     "price": 59.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-bokshandschoen-legend-pu-zwart-roze/",
@@ -223133,6 +223063,16 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Scheenbeschermers Dragon PU Roze",
+    "size": "xxs",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-scheenbeschermers-dragon-pu-roze/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Scheenbeschermers Dragon PU Roze",
     "size": "xs",
     "price": 34.95,
     "in_stock": true,
@@ -224222,16 +224162,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Venum",
-    "product": "Venum G-Fit Air Dry Tech T-shirt Black",
-    "size": "l",
-    "price": 39.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-g-fit-air-dry-tech-t-shirt-black/",
-    "previous_price": 39.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
     "product": "Venum Attack Spats Black",
     "size": "l",
     "price": 39.99,
@@ -224504,16 +224434,6 @@
     "brand": "Joya",
     "product": "Joya Gear Kickboksbroek Evolution Zwart/Wit",
     "size": "l",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-kickboksbroek-evolution-zwart-wit/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Gear Kickboksbroek Evolution Zwart/Wit",
-    "size": "s",
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-kickboksbroek-evolution-zwart-wit/",
@@ -226288,6 +226208,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-kpb-flag-shirt-1-grijs-zwart/",
     "previous_price": 29.99
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "King",
+    "product": "King Storm 1 Shirt Zwart/Grijs",
+    "size": "xl",
+    "price": 29.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/king-storm-1-shirt-zwart-grijs/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -228941,6 +228871,16 @@
   },
   {
     "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Sporttas Camo V2 Blauw",
+    "size": "One Size",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-sporttas-camo-v2-blauw/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
     "brand": "Venum",
     "product": "Venum MMA Trainingshandschoen Challenger 3.0 Zwart/Wit",
     "size": "s",
@@ -229538,6 +229478,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-sporttas-camo-v2-rood/",
     "previous_price": 34.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Sporttas Camo v2 Goud",
+    "size": "One Size",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-sporttas-camo-v2-goud/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -230407,7 +230357,7 @@
     "price": 79.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermer-hawk-black-white/",
-    "previous_price": null
+    "previous_price": 79.95
   },
   {
     "shop": "OLB Sports",
@@ -234828,6 +234778,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-pads-xtrem-f2-zwart/",
     "previous_price": 44.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Hoofdbeschermer BHG 2 Zwart",
+    "size": "m",
+    "price": 114.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/boost-hoofdbeschermer-bhg-2-zwart/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
