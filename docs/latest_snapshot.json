@@ -1195,7 +1195,7 @@
     "product": "Ground Force Aero 300 Gi - White",
     "size": "A2L",
     "price": 110.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-aero-300-gi-white",
     "previous_price": 110.0
   },
@@ -14075,7 +14075,7 @@
     "product": "Ground Force Ladies Basic Gi V2",
     "size": "F1 / White",
     "price": 80.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-ladies-basic-gi-v2",
     "previous_price": 80.0
   },
@@ -32355,7 +32355,7 @@
     "product": "Kingz MI-K Roots Gi- Azul",
     "size": "A3",
     "price": 160.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kingz-mi-k-roots-gi-azul",
     "previous_price": 160.0
   },
@@ -37415,7 +37415,7 @@
     "product": "Kimono BJJ (Gi) Kingz Kore V2- Negro-Con cinturón blanco incluido",
     "size": "A3L",
     "price": 85.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-kingz-kore-v2-negro-2024-edition",
     "previous_price": 85.0
   },
@@ -52251,16 +52251,6 @@
   },
   {
     "shop": "Fightstyle.nl",
-    "brand": "Booster Fight Gear",
-    "product": "Booster Bokshandschoenen Bangkok Series Zwart",
-    "size": "14 oz",
-    "price": 39.95,
-    "in_stock": true,
-    "url": "https://fightstyle.nl/products/booster-bokshandschoenen-bangkok-series-zwart",
-    "previous_price": 39.95
-  },
-  {
-    "shop": "Fightstyle.nl",
     "brand": "Fairtex",
     "product": "Fairtex Kickboks Broekje Stamp",
     "size": "M",
@@ -53138,26 +53128,6 @@
     "in_stock": true,
     "url": "https://fightstyle.nl/products/hayabusa-rash-guard-for-women-short-sleeve-apex-ash-wit",
     "previous_price": 49.95
-  },
-  {
-    "shop": "Fightstyle.nl",
-    "brand": "Adidas",
-    "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
-    "size": "42 2/3",
-    "price": 69.95,
-    "in_stock": false,
-    "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 69.95
-  },
-  {
-    "shop": "Fightstyle.nl",
-    "brand": "Adidas",
-    "product": "Adidas Worstelschoenen Tech Fall 2.0 Zwart",
-    "size": "46",
-    "price": 69.95,
-    "in_stock": true,
-    "url": "https://fightstyle.nl/products/adidas-worstelschoenen-tech-fall-2-0-zwart",
-    "previous_price": 69.95
   },
   {
     "shop": "Fightstyle.nl",
@@ -58145,7 +58115,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "XS / L",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -58215,7 +58185,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "S / L",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -58285,7 +58255,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "M / L",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -58355,7 +58325,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "L / L",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -58425,7 +58395,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "XL / L",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -58485,7 +58455,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "2XL / M",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -58495,7 +58465,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "2XL / L",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -58505,7 +58475,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "2XL / XL",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -58515,7 +58485,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "2XL / 2XL",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -58525,7 +58495,7 @@
     "product": "Arctic Topo No-Gi Kit",
     "size": "2XL / 3XL",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arctic-topo-kit",
     "previous_price": 89.99
   },
@@ -62035,7 +62005,7 @@
     "product": "Topo Rash Guard",
     "size": "2XL / Arctic",
     "price": 49.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/topo-rash-guard",
     "previous_price": 49.99
   },
@@ -62135,7 +62105,7 @@
     "product": "Topo Shorts",
     "size": "L / Arctic",
     "price": 49.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/topo-shorts",
     "previous_price": 49.99
   },
@@ -81205,7 +81175,7 @@
     "product": "Kingz Legends Never Die Respect Women's BJJ Gi - Black",
     "size": "Black / F2",
     "price": 180.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-legends-never-die-respect-womens-gi-black",
     "previous_price": 180.0
   },
@@ -81225,7 +81195,7 @@
     "product": "Kingz Legends Never Die Respect Women's BJJ Gi - Black",
     "size": "Black / F4",
     "price": 180.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-legends-never-die-respect-womens-gi-black",
     "previous_price": 180.0
   },
@@ -85055,7 +85025,7 @@
     "product": "Kore Womens Grappling Spats - Black",
     "size": "XS",
     "price": 30.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-kore-womens-grappling-spats",
     "previous_price": 30.0
   },
@@ -88195,7 +88165,7 @@
     "product": "Kingz The ONE V2 Limited Edition Men's BJJ Gi - Black/Green",
     "size": "A4",
     "price": 120.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/the-one-v2-limited-edition-black-green-jiu-jitsu-gi",
     "previous_price": 120.0
   },
@@ -91675,7 +91645,7 @@
     "product": "Kingz Nano 3.0 Terra Limited Edition Men's BJJ Gi",
     "size": "A3 / White",
     "price": 120.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/nano-3-0-terra-limited-edition-jiu-jitsu-gi",
     "previous_price": 120.0
   },
@@ -94485,7 +94455,7 @@
     "product": "Kingz Ranked Youth Short Sleeve Rashguard",
     "size": "XL / Orange",
     "price": 40.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/youth-ranked-rashguard",
     "previous_price": 40.0
   },
@@ -95805,7 +95775,7 @@
     "product": "Kingz Kore V2 Youth Grappling Shorts",
     "size": "XS / Black",
     "price": 45.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-v2-youth-shorts",
     "previous_price": 45.0
   },
@@ -95845,7 +95815,7 @@
     "product": "Kingz Kore V2 Youth Grappling Shorts",
     "size": "XL / Black",
     "price": 45.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-v2-youth-shorts",
     "previous_price": 45.0
   },
@@ -97205,7 +97175,7 @@
     "product": "Kingz Nano 3.0 Men's BJJ Gi - Black",
     "size": "A2H / Black",
     "price": 110.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/nano-2-0-jiu-jitsu-gi-black-1",
     "previous_price": 110.0
   },
@@ -100035,7 +100005,7 @@
     "product": "Kingz Ultralight 2.0 Men's BJJ Gi - Black",
     "size": "A0L / Black",
     "price": 140.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/ultralight-2-0-jiu-jitsu-gi-black",
     "previous_price": 140.0
   },
@@ -111495,7 +111465,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "Black / A0",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111505,7 +111475,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "Black / A1",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111515,7 +111485,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "Black / A2",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111535,7 +111505,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "Black / A4",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111555,7 +111525,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "Blue / A0",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111565,7 +111535,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "Blue / A1",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111575,7 +111545,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "Blue / A2",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111585,7 +111555,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "Blue / A3",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111595,7 +111565,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "Blue / A4",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111605,7 +111575,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "Blue / A5",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111615,7 +111585,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "Brown / A0",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111625,7 +111595,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "Brown / A1",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111635,7 +111605,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "Brown / A2",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111645,7 +111615,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "Brown / A3",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111655,7 +111625,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "Brown / A4",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111685,7 +111655,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "Purple / A1",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111695,7 +111665,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "Purple / A2",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111705,7 +111675,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "Purple / A3",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111715,7 +111685,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "Purple / A4",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111725,7 +111695,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "Purple / A5",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111735,7 +111705,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "White / A0",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111745,7 +111715,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "White / A1",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111755,7 +111725,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "White / A2",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111765,7 +111735,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "White / A3",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111775,7 +111745,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "White / A4",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -111785,7 +111755,7 @@
     "product": "BRAUS BJJ Belts Adults",
     "size": "White / A5",
     "price": 20.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://eu.brausfight.com/products/jiu-jitsu-belts-adults",
     "previous_price": 20.0
   },
@@ -117535,7 +117505,7 @@
     "product": "Renzo Gracie '96 Jersey Short Sleeve Rashguard Red",
     "size": "XS",
     "price": 55.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/renzo-gracie-96-jersey-short-sleeve-rashguard-red",
     "previous_price": 55.0
   },
@@ -120185,7 +120155,7 @@
     "product": "FUJI Authentic Tatami Sandals Grey",
     "size": "9.5",
     "price": 29.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/fuji-authentic-tatami-sandals-grey",
     "previous_price": 29.95
   },
@@ -123035,7 +123005,7 @@
     "product": "Grappling Division Hoodie Black",
     "size": "XL",
     "price": 59.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/grappling-division-hoodie-black",
     "previous_price": 59.95
   },
@@ -126365,7 +126335,7 @@
     "product": "FUJI Quick Fit Mouth Guard with case – Red Gold Cloud",
     "size": "Default Title",
     "price": 34.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/fuji-quick-fit-mouth-guard-with-case-red-gold-cloud",
     "previous_price": 34.95
   },
@@ -162875,7 +162845,7 @@
     "product": "BTT Lightweight BJJ Gi White",
     "size": "A2",
     "price": 139.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/new-btt-lightweight-bjj-gi-white-5515",
     "previous_price": 139.99
   },
@@ -181585,7 +181555,7 @@
     "product": "Hayabusa Jiu Jitsu Band - Blauw",
     "size": "A1",
     "price": 27.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-jiu-jitsu-band-blauw",
     "previous_price": 27.99
   },
@@ -185415,7 +185385,7 @@
     "product": "Fairtex BGV16 Bokshandschoenen -Echt Leer - Maroon",
     "size": "16 oz",
     "price": 139.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bokshandschoenen-echt-leer-bgv16-maroon",
     "previous_price": 139.0
   },
@@ -188905,7 +188875,7 @@
     "product": "Hayabusa T3 LX Bokshandschoenen - Slate",
     "size": "16 oz",
     "price": 229.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-lx-bokshandschoenen-slate",
     "previous_price": 229.0
   },
@@ -190745,7 +190715,7 @@
     "product": "King Pro Boxing Storm 3 Muay Thai Shorts - rood/donkerblauw",
     "size": "XL",
     "price": 49.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/king-pro-boxing-storm-3-muay-thai-shorts-rood-donkerblauw",
     "previous_price": 49.95
   },
@@ -194805,7 +194775,7 @@
     "product": "Danger Thai Pro Scheenbeschermers - Echt Leer - Wit",
     "size": "XL",
     "price": 70.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/danger-thai-pro-scheenbeschermers-leer-wit",
     "previous_price": 70.0
   },
@@ -200745,7 +200715,7 @@
     "product": "Fairtex X Booster Bokshandschoenen - FXB BG V2 - Echt leer - Rood/Zwart/Goud",
     "size": "10 oz",
     "price": 169.94,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-x-fairtex-bokshandschoenen-bg-v2-echt-leer-rood-zwart-goud",
     "previous_price": 169.94
   },
@@ -203705,7 +203675,7 @@
     "product": "Hayabusa Perfect Stretch Handwraps - Zwart - 4,5 meter",
     "size": "Default Title",
     "price": 17.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-perfect-stretch-handwraps-zwart-4-5-meter",
     "previous_price": 17.99
   },
@@ -209957,7 +209927,7 @@
     "price": 43.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoenen-kids-bg-youth-elite-v2-2-white-gold/",
-    "previous_price": null
+    "previous_price": 43.95
   },
   {
     "shop": "OLB Sports",
@@ -216372,16 +216342,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Joya",
-    "product": "Joya Gear Kickboks Set Essential Green",
-    "size": "One Size",
-    "price": 0.0,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-kickboks-set-essential-green/",
-    "previous_price": 0.0
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
     "product": "Joya Gear Kickboks Set Essential White/Gold",
     "size": "One Size",
     "price": 0.0,
@@ -220877,7 +220837,7 @@
     "price": 74.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-scheenbeschermers-bangkok-serie-black-black/",
-    "previous_price": null
+    "previous_price": 74.95
   },
   {
     "shop": "OLB Sports",
@@ -222011,26 +221971,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Gear Bokshandschoenen Essential Green",
-    "size": "14oz",
-    "price": 54.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-essential-green/",
-    "previous_price": 54.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Gear Bokshandschoenen Essential Green",
-    "size": "16oz",
-    "price": 54.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-essential-green/",
-    "previous_price": 54.99
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "1916",
     "product": "1916 Fight Gear Scheenbeschermers Legend Advanced Black",
     "size": "s",
@@ -223134,16 +223074,6 @@
     "brand": "Joya",
     "product": "Joya Scheenbeschermers Dragon PU Roze",
     "size": "xxs",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-scheenbeschermers-dragon-pu-roze/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Scheenbeschermers Dragon PU Roze",
-    "size": "xs",
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermers-dragon-pu-roze/",
@@ -232753,16 +232683,6 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Junior Kickboksbroek Dragon Groen",
-    "size": "xs",
-    "price": 29.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-junior-kickboksbroek-dragon-groen/",
-    "previous_price": 29.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Junior Kickboksbroek Dragon Groen",
     "size": "s",
     "price": 29.95,
     "in_stock": true,
@@ -234117,16 +234037,6 @@
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-junior-kickboksbroek-dragon-wit/",
-    "previous_price": 29.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Junior Kickboksbroek Dragon Roze",
-    "size": "xxs",
-    "price": 29.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-junior-kickboksbroek-dragon-roze/",
     "previous_price": 29.95
   },
   {
