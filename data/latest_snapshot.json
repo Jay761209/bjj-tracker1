@@ -3335,7 +3335,7 @@
     "product": "Ground Force Aero Shorts - Black",
     "size": "M",
     "price": 49.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/aero-shorts-black",
     "previous_price": 49.0
   },
@@ -3515,7 +3515,7 @@
     "product": "Ground Force Para Bellum V2 Rashguard - Short Sleeve",
     "size": "XL",
     "price": 47.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/para-bellum-v2-rashguard-short-sleeve",
     "previous_price": 47.0
   },
@@ -4635,7 +4635,7 @@
     "product": "Hayabusa Men’s Apex Mid-Thigh Fight Shorts",
     "size": "L / White",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/hayabusa-men-s-apex-mid-thigh-fight-shorts",
     "previous_price": 89.99
   },
@@ -4795,7 +4795,7 @@
     "product": "Hayabusa Men’s Apex Short Sleeve Rash Guard",
     "size": "L / White",
     "price": 74.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/hayabusa-men-s-apex-short-sleeve-rash-guard",
     "previous_price": 74.99
   },
@@ -23518,6 +23518,166 @@
     "in_stock": true,
     "url": "https://bjjfightgear.com/products/defense-soap-bar",
     "previous_price": 7.95
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Kingz",
+    "product": "Kimono Kingz Legends Never Die Respect - Negro",
+    "size": "A0",
+    "price": 180.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-kingz-legends-never-die-respect-negro",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Kingz",
+    "product": "Kimono Kingz Legends Never Die Respect - Negro",
+    "size": "A0L",
+    "price": 180.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-kingz-legends-never-die-respect-negro",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Kingz",
+    "product": "Kimono Kingz Legends Never Die Respect - Negro",
+    "size": "A1",
+    "price": 180.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-kingz-legends-never-die-respect-negro",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Kingz",
+    "product": "Kimono Kingz Legends Never Die Respect - Negro",
+    "size": "A1L",
+    "price": 180.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-kingz-legends-never-die-respect-negro",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Kingz",
+    "product": "Kimono Kingz Legends Never Die Respect - Negro",
+    "size": "A2",
+    "price": 180.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-kingz-legends-never-die-respect-negro",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Kingz",
+    "product": "Kimono Kingz Legends Never Die Respect - Negro",
+    "size": "A2L",
+    "price": 180.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-kingz-legends-never-die-respect-negro",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Kingz",
+    "product": "Kimono Kingz Legends Never Die Respect - Negro",
+    "size": "A3",
+    "price": 180.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-kingz-legends-never-die-respect-negro",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Kingz",
+    "product": "Kimono Kingz Legends Never Die Respect - Negro",
+    "size": "A3L",
+    "price": 180.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kimono-kingz-legends-never-die-respect-negro",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Kingz",
+    "product": "Kimono Kingz Legends Never Die Respect - Blanco",
+    "size": "A0",
+    "price": 180.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kingz-legends-never-die-respect-blanco",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Kingz",
+    "product": "Kimono Kingz Legends Never Die Respect - Blanco",
+    "size": "A0L",
+    "price": 180.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kingz-legends-never-die-respect-blanco",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Kingz",
+    "product": "Kimono Kingz Legends Never Die Respect - Blanco",
+    "size": "A1",
+    "price": 180.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kingz-legends-never-die-respect-blanco",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Kingz",
+    "product": "Kimono Kingz Legends Never Die Respect - Blanco",
+    "size": "A1L",
+    "price": 180.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kingz-legends-never-die-respect-blanco",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Kingz",
+    "product": "Kimono Kingz Legends Never Die Respect - Blanco",
+    "size": "A2",
+    "price": 180.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kingz-legends-never-die-respect-blanco",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Kingz",
+    "product": "Kimono Kingz Legends Never Die Respect - Blanco",
+    "size": "A2L",
+    "price": 180.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kingz-legends-never-die-respect-blanco",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Kingz",
+    "product": "Kimono Kingz Legends Never Die Respect - Blanco",
+    "size": "A3",
+    "price": 180.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kingz-legends-never-die-respect-blanco",
+    "previous_price": null
+  },
+  {
+    "shop": "StockBJJ",
+    "brand": "Kingz",
+    "product": "Kimono Kingz Legends Never Die Respect - Blanco",
+    "size": "A3L",
+    "price": 180.0,
+    "in_stock": true,
+    "url": "https://www.stockbjj.com/products/kingz-legends-never-die-respect-blanco",
+    "previous_price": null
   },
   {
     "shop": "StockBJJ",
@@ -45885,7 +46045,7 @@
     "product": "Kimono BJJ ( Gi) Progress Women´s Academy - Negro- CINTURON BLANCO INCLUIDO",
     "size": "F2",
     "price": 80.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-progress-women-s-academy-negro-cinturon-blanco-incluido",
     "previous_price": 80.0
   },
@@ -53632,12 +53792,1432 @@
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XS / XS / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XS / XS / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XS / S / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XS / S / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XS / M / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XS / M / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XS / L / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XS / L / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XS / XL / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XS / XL / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XS / XXL / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XS / XXL / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XS / XXXL / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XS / XXXL / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "S / XS / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "S / XS / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "S / S / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "S / S / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "S / M / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "S / M / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "S / L / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "S / L / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "S / XL / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "S / XL / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "S / XXL / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "S / XXL / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "S / XXXL / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "S / XXXL / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "M / XS / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "M / XS / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "M / S / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "M / S / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "M / M / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "M / M / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "M / L / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "M / L / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "M / XL / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "M / XL / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "M / XXL / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "M / XXL / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "M / XXXL / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "M / XXXL / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "L / XS / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "L / XS / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "L / S / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "L / S / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "L / M / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "L / M / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "L / L / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "L / L / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "L / XL / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "L / XL / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "L / XXL / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "L / XXL / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "L / XXXL / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "L / XXXL / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XL / XS / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XL / XS / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XL / S / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XL / S / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XL / M / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XL / M / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XL / L / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XL / L / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XL / XL / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XL / XL / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XL / XXL / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XL / XXL / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XL / XXXL / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XL / XXXL / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXL / XS / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXL / XS / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXL / S / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXL / S / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXL / M / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXL / M / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXL / L / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXL / L / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXL / XL / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXL / XL / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXL / XXL / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXL / XXL / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXL / XXXL / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXL / XXXL / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXXL / XS / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXXL / XS / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXXL / S / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXXL / S / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXXL / M / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXXL / M / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXXL / L / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXXL / L / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXXL / XL / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXXL / XL / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXXL / XXL / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXXL / XXL / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXXL / XXXL / Black",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "XXXL / XXXL / Pink",
+    "price": 89.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "4XL / XS / Black",
+    "price": 89.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "4XL / XS / Pink",
+    "price": 89.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "4XL / S / Black",
+    "price": 89.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "4XL / S / Pink",
+    "price": 89.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "4XL / M / Black",
+    "price": 89.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "4XL / M / Pink",
+    "price": 89.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "4XL / L / Black",
+    "price": 89.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "4XL / L / Pink",
+    "price": 89.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "4XL / XL / Black",
+    "price": 89.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "4XL / XL / Pink",
+    "price": 89.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "4XL / XXL / Black",
+    "price": 89.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "4XL / XXL / Pink",
+    "price": 89.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "4XL / XXXL / Black",
+    "price": 89.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot No-Gi Kit",
+    "size": "4XL / XXXL / Pink",
+    "price": 89.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/riot-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Rash Guard",
+    "size": "Black / XS",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-rash-guard",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Rash Guard",
+    "size": "Black / S",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-rash-guard",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Rash Guard",
+    "size": "Black / M",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-rash-guard",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Rash Guard",
+    "size": "Black / L",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-rash-guard",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Rash Guard",
+    "size": "Black / XL",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-rash-guard",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Rash Guard",
+    "size": "Black / XXL",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-rash-guard",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Rash Guard",
+    "size": "Black / XXXL",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-rash-guard",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Rash Guard",
+    "size": "Black / 4XL",
+    "price": 49.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/riot-rash-guard",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Rash Guard",
+    "size": "Pink / XS",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-rash-guard",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Rash Guard",
+    "size": "Pink / S",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-rash-guard",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Rash Guard",
+    "size": "Pink / M",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-rash-guard",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Rash Guard",
+    "size": "Pink / L",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-rash-guard",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Rash Guard",
+    "size": "Pink / XL",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-rash-guard",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Rash Guard",
+    "size": "Pink / XXL",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-rash-guard",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Rash Guard",
+    "size": "Pink / XXXL",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-rash-guard",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Rash Guard",
+    "size": "Pink / 4XL",
+    "price": 49.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/riot-rash-guard",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Shorts",
+    "size": "Black / XS",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Shorts",
+    "size": "Black / S",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Shorts",
+    "size": "Black / M",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Shorts",
+    "size": "Black / L",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Shorts",
+    "size": "Black / XL",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Shorts",
+    "size": "Black / XXL",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Shorts",
+    "size": "Black / XXXL",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Shorts",
+    "size": "Pink / XS",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Shorts",
+    "size": "Pink / S",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Shorts",
+    "size": "Pink / M",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Shorts",
+    "size": "Pink / L",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Shorts",
+    "size": "Pink / XL",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Shorts",
+    "size": "Pink / XXL",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Riot Shorts",
+    "size": "Pink / XXXL",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/riot-shorts",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
     "product": "Final Judgement Tee",
     "size": "S",
     "price": 34.99,
     "in_stock": true,
     "url": "https://goldbjj.com/products/final-judgement-tee",
-    "previous_price": null
+    "previous_price": 34.99
   },
   {
     "shop": "Gold BJJ",
@@ -53647,7 +55227,7 @@
     "price": 34.99,
     "in_stock": true,
     "url": "https://goldbjj.com/products/final-judgement-tee",
-    "previous_price": null
+    "previous_price": 34.99
   },
   {
     "shop": "Gold BJJ",
@@ -53657,7 +55237,7 @@
     "price": 34.99,
     "in_stock": true,
     "url": "https://goldbjj.com/products/final-judgement-tee",
-    "previous_price": null
+    "previous_price": 34.99
   },
   {
     "shop": "Gold BJJ",
@@ -53667,7 +55247,7 @@
     "price": 34.99,
     "in_stock": true,
     "url": "https://goldbjj.com/products/final-judgement-tee",
-    "previous_price": null
+    "previous_price": 34.99
   },
   {
     "shop": "Gold BJJ",
@@ -53677,7 +55257,7 @@
     "price": 34.99,
     "in_stock": true,
     "url": "https://goldbjj.com/products/final-judgement-tee",
-    "previous_price": null
+    "previous_price": 34.99
   },
   {
     "shop": "Gold BJJ",
@@ -53687,7 +55267,7 @@
     "price": 34.99,
     "in_stock": true,
     "url": "https://goldbjj.com/products/final-judgement-tee",
-    "previous_price": null
+    "previous_price": 34.99
   },
   {
     "shop": "Gold BJJ",
@@ -61665,7 +63245,7 @@
     "product": "Rematch Gi",
     "size": "A2H",
     "price": 199.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/rematch-gi",
     "previous_price": 199.99
   },
@@ -64125,7 +65705,7 @@
     "product": "C4 Foundation No-Gi Kit",
     "size": "2XL / XS",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/c4-foundation-no-gi-kit",
     "previous_price": 99.99
   },
@@ -64135,7 +65715,7 @@
     "product": "C4 Foundation No-Gi Kit",
     "size": "2XL / S",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/c4-foundation-no-gi-kit",
     "previous_price": 99.99
   },
@@ -64175,7 +65755,7 @@
     "product": "C4 Foundation No-Gi Kit",
     "size": "2XL / 2XL",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/c4-foundation-no-gi-kit",
     "previous_price": 99.99
   },
@@ -64185,7 +65765,7 @@
     "product": "C4 Foundation No-Gi Kit",
     "size": "2XL / 3XL",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/c4-foundation-no-gi-kit",
     "previous_price": 99.99
   },
@@ -64385,7 +65965,7 @@
     "product": "C4 Rash Guard",
     "size": "2XL",
     "price": 54.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/c4-rash-guard",
     "previous_price": 54.99
   },
@@ -84674,7 +86254,7 @@
     "brand": "Kingz",
     "product": "Flow Snapback",
     "size": "One Size / Black",
-    "price": 18.0,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/flow-snapback",
     "previous_price": 18.0
@@ -84684,7 +86264,7 @@
     "brand": "Kingz",
     "product": "Flow Snapback",
     "size": "One Size / Khaki",
-    "price": 18.0,
+    "price": 25.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/flow-snapback",
     "previous_price": 18.0
@@ -87834,7 +89414,7 @@
     "brand": "Kingz",
     "product": "Kingz Player Special Snapback",
     "size": "One Size / Natural",
-    "price": 29.95,
+    "price": 25.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/tainan-dalpra-player-special-snapback",
     "previous_price": 29.95
@@ -91224,7 +92804,7 @@
     "brand": "Kingz",
     "product": "Casual Gi Shorts - Sage",
     "size": "A0 / Sage",
-    "price": 35.0,
+    "price": 45.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-sage",
     "previous_price": 35.0
@@ -91234,7 +92814,7 @@
     "brand": "Kingz",
     "product": "Casual Gi Shorts - Sage",
     "size": "A1 / Sage",
-    "price": 35.0,
+    "price": 45.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-sage",
     "previous_price": 35.0
@@ -91244,7 +92824,7 @@
     "brand": "Kingz",
     "product": "Casual Gi Shorts - Sage",
     "size": "A2 / Sage",
-    "price": 35.0,
+    "price": 45.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-sage",
     "previous_price": 35.0
@@ -91254,7 +92834,7 @@
     "brand": "Kingz",
     "product": "Casual Gi Shorts - Sage",
     "size": "A3 / Sage",
-    "price": 35.0,
+    "price": 45.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-sage",
     "previous_price": 35.0
@@ -91264,7 +92844,7 @@
     "brand": "Kingz",
     "product": "Casual Gi Shorts - Sage",
     "size": "A4 / Sage",
-    "price": 35.0,
+    "price": 45.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-sage",
     "previous_price": 35.0
@@ -91274,7 +92854,7 @@
     "brand": "Kingz",
     "product": "Casual Gi Shorts - Sage",
     "size": "A5 / Sage",
-    "price": 35.0,
+    "price": 45.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-sage",
     "previous_price": 35.0
@@ -91284,7 +92864,7 @@
     "brand": "Kingz",
     "product": "Casual Gi Shorts - Grey",
     "size": "A00 / Grey",
-    "price": 35.0,
+    "price": 45.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-grey",
     "previous_price": 35.0
@@ -91294,7 +92874,7 @@
     "brand": "Kingz",
     "product": "Casual Gi Shorts - Grey",
     "size": "A0 / Grey",
-    "price": 35.0,
+    "price": 45.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-grey",
     "previous_price": 35.0
@@ -91304,7 +92884,7 @@
     "brand": "Kingz",
     "product": "Casual Gi Shorts - Grey",
     "size": "A1 / Grey",
-    "price": 35.0,
+    "price": 45.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-grey",
     "previous_price": 35.0
@@ -91314,7 +92894,7 @@
     "brand": "Kingz",
     "product": "Casual Gi Shorts - Grey",
     "size": "A2 / Grey",
-    "price": 35.0,
+    "price": 45.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-grey",
     "previous_price": 35.0
@@ -91324,7 +92904,7 @@
     "brand": "Kingz",
     "product": "Casual Gi Shorts - Grey",
     "size": "A3 / Grey",
-    "price": 35.0,
+    "price": 45.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-grey",
     "previous_price": 35.0
@@ -91334,7 +92914,7 @@
     "brand": "Kingz",
     "product": "Casual Gi Shorts - Grey",
     "size": "A4 / Grey",
-    "price": 35.0,
+    "price": 45.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-grey",
     "previous_price": 35.0
@@ -91344,7 +92924,7 @@
     "brand": "Kingz",
     "product": "Casual Gi Shorts - Grey",
     "size": "A5 / Grey",
-    "price": 35.0,
+    "price": 45.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-grey",
     "previous_price": 35.0
@@ -91354,7 +92934,7 @@
     "brand": "Kingz",
     "product": "Casual Gi Shorts - Brown",
     "size": "A00 / Brown",
-    "price": 35.0,
+    "price": 45.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-brown",
     "previous_price": 35.0
@@ -91364,7 +92944,7 @@
     "brand": "Kingz",
     "product": "Casual Gi Shorts - Brown",
     "size": "A0 / Brown",
-    "price": 35.0,
+    "price": 45.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-brown",
     "previous_price": 35.0
@@ -91374,7 +92954,7 @@
     "brand": "Kingz",
     "product": "Casual Gi Shorts - Brown",
     "size": "A1 / Brown",
-    "price": 35.0,
+    "price": 45.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-brown",
     "previous_price": 35.0
@@ -91384,7 +92964,7 @@
     "brand": "Kingz",
     "product": "Casual Gi Shorts - Brown",
     "size": "A2 / Brown",
-    "price": 35.0,
+    "price": 45.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-brown",
     "previous_price": 35.0
@@ -91394,7 +92974,7 @@
     "brand": "Kingz",
     "product": "Casual Gi Shorts - Brown",
     "size": "A3 / Brown",
-    "price": 35.0,
+    "price": 45.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-brown",
     "previous_price": 35.0
@@ -91404,7 +92984,7 @@
     "brand": "Kingz",
     "product": "Casual Gi Shorts - Brown",
     "size": "A4 / Brown",
-    "price": 35.0,
+    "price": 45.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-brown",
     "previous_price": 35.0
@@ -91414,7 +92994,7 @@
     "brand": "Kingz",
     "product": "Casual Gi Shorts - Brown",
     "size": "A5 / Brown",
-    "price": 35.0,
+    "price": 45.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-brown",
     "previous_price": 35.0
@@ -92245,7 +93825,7 @@
     "product": "Kingz Nano 3.0 Terra Limited Edition Men's BJJ Gi",
     "size": "A00 / White",
     "price": 120.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/nano-3-0-terra-limited-edition-jiu-jitsu-gi",
     "previous_price": 120.0
   },
@@ -94615,7 +96195,7 @@
     "product": "Kingz Casual Men's Gi Shorts - Khaki",
     "size": "A1 / Khaki",
     "price": 45.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-tan",
     "previous_price": 45.0
   },
@@ -114565,7 +116145,7 @@
     "product": "FIAS Combat Sambo Shorts Blue",
     "size": "M",
     "price": 29.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/fias-combat-sambo-shorts-blue",
     "previous_price": 29.95
   },
@@ -119555,7 +121135,7 @@
     "product": "Baseline 2.0 Long Sleeve Rashguard White",
     "size": "XL",
     "price": 54.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/baseline-2-0-long-sleeve-rashguard-white",
     "previous_price": 54.95
   },
@@ -120825,7 +122405,7 @@
     "product": "FUJI Authentic Tatami Sandals Green",
     "size": "10",
     "price": 29.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/fuji-authentic-tatami-sandals-green",
     "previous_price": 29.95
   },
@@ -123425,7 +125005,7 @@
     "product": "Iconic Jiu Jitsu Hoodie Black",
     "size": "XL",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/iconic-jiu-jitsu-hoodie-black",
     "previous_price": 59.95
   },
@@ -129375,7 +130955,7 @@
     "product": "Karate Color Belt",
     "size": "4 / Blue/Purple",
     "price": 14.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/karate-color-belt",
     "previous_price": 14.95
   },
@@ -131055,7 +132635,7 @@
     "product": "Kids Renzo Gracie Ultra Lite BJJ Gi Black",
     "size": "C00",
     "price": 110.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/kids-renzo-gracie-ultra-lite-bjj-gi-black",
     "previous_price": 110.0
   },
@@ -142555,7 +144135,7 @@
     "product": "Raijin Boxing Glove",
     "size": "16oz",
     "price": 79.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/raijin-boxing-glove",
     "previous_price": 79.95
   },
@@ -161525,7 +163105,7 @@
     "product": "BTT Adult Fight Shorts Black",
     "size": "28",
     "price": 46.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/btt-adult-fight-shorts-black",
     "previous_price": 46.99
   },
@@ -163605,7 +165185,7 @@
     "product": "BTT Lightweight BJJ Gi White",
     "size": "A1",
     "price": 139.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/new-btt-lightweight-bjj-gi-white-5515",
     "previous_price": 139.99
   },
@@ -175775,7 +177355,7 @@
     "product": "Jiu Jitsu Adult Belt Blue",
     "size": "A6",
     "price": 17.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/jiu-jitsu-adult-belt-blue",
     "previous_price": 17.95
   },
@@ -176105,7 +177685,7 @@
     "product": "Blue/Purple Judo Belt",
     "size": "3",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/blue-purple-judo-belt",
     "previous_price": 14.95
   },
@@ -176115,7 +177695,7 @@
     "product": "Blue/Purple Judo Belt",
     "size": "4",
     "price": 14.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/blue-purple-judo-belt",
     "previous_price": 14.95
   },
@@ -179175,7 +180755,7 @@
     "product": "SBG Super Lite Gi",
     "size": "A1 / White",
     "price": 178.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/sbg-super-lite-competition-gi",
     "previous_price": 178.0
   },
@@ -181647,7 +183227,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-joggingbroek-voor-heren-donkergrijs",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -181657,7 +183237,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-joggingbroek-voor-heren-donkergrijs",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -181667,7 +183247,7 @@
     "price": 79.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-joggingbroek-voor-heren-donkergrijs",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -181677,7 +183257,7 @@
     "price": 79.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-joggingbroek-voor-heren-donkergrijs",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -181687,7 +183267,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-joggingbroek-voor-heren-donkergrijs",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -181697,7 +183277,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-joggingbroek-voor-heren-lichtgrijs",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -181707,7 +183287,7 @@
     "price": 79.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-joggingbroek-voor-heren-lichtgrijs",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -181717,7 +183297,7 @@
     "price": 79.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-joggingbroek-voor-heren-lichtgrijs",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -181727,7 +183307,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-joggingbroek-voor-heren-lichtgrijs",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -181737,7 +183317,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-joggingbroek-voor-heren-zwart",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -181747,7 +183327,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-joggingbroek-voor-heren-zwart",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -181757,7 +183337,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-joggingbroek-voor-heren-zwart",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -181767,7 +183347,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-joggingbroek-voor-heren-zwart",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -183807,7 +185387,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-talon-boksschoenen-unisex-groen-bruin",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -183817,7 +185397,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-talon-boksschoenen-unisex-groen-bruin",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -183827,7 +185407,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-talon-boksschoenen-unisex-groen-bruin",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -183837,7 +185417,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-talon-boksschoenen-unisex-groen-bruin",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -183847,7 +185427,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-talon-boksschoenen-unisex-groen-bruin",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -183857,7 +185437,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-talon-boksschoenen-unisex-groen-bruin",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -183867,7 +185447,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-talon-boksschoenen-unisex-groen-bruin",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -183877,7 +185457,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-talon-boksschoenen-unisex-groen-bruin",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -183887,7 +185467,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-talon-boksschoenen-unisex-groen-bruin",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -183897,7 +185477,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-talon-boksschoenen-unisex-groen-bruin",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -183907,7 +185487,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-talon-boksschoenen-unisex-zwart",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -183917,7 +185497,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-talon-boksschoenen-unisex-zwart",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -183927,7 +185507,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-talon-boksschoenen-unisex-zwart",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -183937,7 +185517,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-talon-boksschoenen-unisex-zwart",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -183947,7 +185527,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-talon-boksschoenen-unisex-zwart",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -183957,7 +185537,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-talon-boksschoenen-unisex-zwart",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -183967,7 +185547,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-talon-boksschoenen-unisex-zwart",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -183977,7 +185557,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-talon-boksschoenen-unisex-zwart",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -183987,7 +185567,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-talon-boksschoenen-unisex-zwart",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -183997,7 +185577,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-talon-boksschoenen-unisex-zwart",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184477,7 +186057,7 @@
     "price": 49.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-lichtgewicht-trainingsshirt-heren-donkergrijs",
-    "previous_price": 29.99
+    "previous_price": 49.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184487,7 +186067,7 @@
     "price": 49.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-lichtgewicht-trainingsshirt-heren-donkergrijs",
-    "previous_price": 29.99
+    "previous_price": 49.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184497,7 +186077,7 @@
     "price": 49.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-lichtgewicht-trainingsshirt-heren-donkergrijs",
-    "previous_price": 29.99
+    "previous_price": 49.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184507,7 +186087,7 @@
     "price": 49.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-lichtgewicht-trainingsshirt-heren-donkergrijs",
-    "previous_price": 29.99
+    "previous_price": 49.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184517,7 +186097,7 @@
     "price": 49.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-lichtgewicht-trainingsshirt-heren-donkergrijs",
-    "previous_price": 29.99
+    "previous_price": 49.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184527,7 +186107,7 @@
     "price": 49.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-lichtgewicht-trainingsshirt-heren-lichtgrijs",
-    "previous_price": 29.99
+    "previous_price": 49.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184537,7 +186117,7 @@
     "price": 49.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-lichtgewicht-trainingsshirt-heren-lichtgrijs",
-    "previous_price": 29.99
+    "previous_price": 49.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184547,7 +186127,7 @@
     "price": 49.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-lichtgewicht-trainingsshirt-heren-lichtgrijs",
-    "previous_price": 29.99
+    "previous_price": 49.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184557,7 +186137,7 @@
     "price": 49.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-lichtgewicht-trainingsshirt-heren-lichtgrijs",
-    "previous_price": 29.99
+    "previous_price": 49.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184567,7 +186147,7 @@
     "price": 49.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-lichtgewicht-trainingsshirt-heren-lichtgrijs",
-    "previous_price": 29.99
+    "previous_price": 49.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184577,7 +186157,7 @@
     "price": 49.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-lichtgewicht-trainingsshirt-heren-zwart",
-    "previous_price": 29.99
+    "previous_price": 49.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184587,7 +186167,7 @@
     "price": 49.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-lichtgewicht-trainingsshirt-heren-zwart",
-    "previous_price": 29.99
+    "previous_price": 49.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184597,7 +186177,7 @@
     "price": 49.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-lichtgewicht-trainingsshirt-heren-zwart",
-    "previous_price": 29.99
+    "previous_price": 49.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184607,7 +186187,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-long-sleeve-trainingshirt-heren-donkergrijs",
-    "previous_price": 49.99
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184617,7 +186197,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-long-sleeve-trainingshirt-heren-donkergrijs",
-    "previous_price": 49.99
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184627,7 +186207,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-long-sleeve-trainingshirt-heren-donkergrijs",
-    "previous_price": 49.99
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184637,7 +186217,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-long-sleeve-trainingshirt-heren-donkergrijs",
-    "previous_price": 49.99
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184647,7 +186227,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-long-sleeve-trainingshirt-heren-donkergrijs",
-    "previous_price": 49.99
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184657,7 +186237,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-long-sleeve-trainingshirt-heren-lichtgrijs",
-    "previous_price": 49.99
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184667,7 +186247,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-long-sleeve-trainingshirt-heren-lichtgrijs",
-    "previous_price": 49.99
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184677,7 +186257,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-long-sleeve-trainingshirt-heren-lichtgrijs",
-    "previous_price": 49.99
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184687,7 +186267,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-long-sleeve-trainingshirt-heren-lichtgrijs",
-    "previous_price": 49.99
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184697,7 +186277,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-long-sleeve-trainingshirt-heren-lichtgrijs",
-    "previous_price": 49.99
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184707,7 +186287,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-long-sleeve-trainingshirt-heren-zwart",
-    "previous_price": 49.99
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184717,7 +186297,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-long-sleeve-trainingshirt-heren-zwart",
-    "previous_price": 49.99
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184727,7 +186307,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-long-sleeve-trainingshirt-heren-zwart",
-    "previous_price": 49.99
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184737,7 +186317,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-long-sleeve-trainingshirt-heren-zwart",
-    "previous_price": 49.99
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184747,7 +186327,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-long-sleeve-trainingshirt-heren-zwart",
-    "previous_price": 49.99
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184757,7 +186337,7 @@
     "price": 130.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-midweight-pullover-hoodie-voor-heren-donker-grijs",
-    "previous_price": 89.99
+    "previous_price": 130.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184767,7 +186347,7 @@
     "price": 130.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-midweight-pullover-hoodie-voor-heren-lichtgrijs",
-    "previous_price": 89.99
+    "previous_price": 130.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184777,7 +186357,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-midweight-pullover-hoodie-voor-heren-zwart",
-    "previous_price": 89.99
+    "previous_price": 130.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184787,7 +186367,7 @@
     "price": 130.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-midweight-pullover-hoodie-voor-heren-zwart",
-    "previous_price": 89.99
+    "previous_price": 130.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184797,7 +186377,7 @@
     "price": 159.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-zip-up-performance-hoodie-heren-donkergrijs",
-    "previous_price": 111.3
+    "previous_price": 159.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184807,7 +186387,7 @@
     "price": 159.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-zip-up-performance-hoodie-heren-donkergrijs",
-    "previous_price": 111.3
+    "previous_price": 159.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184817,7 +186397,7 @@
     "price": 159.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-zip-up-performance-hoodie-heren-donkergrijs",
-    "previous_price": 111.3
+    "previous_price": 159.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184827,7 +186407,7 @@
     "price": 159.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-zip-up-performance-hoodie-heren-lichtgrijs",
-    "previous_price": 111.3
+    "previous_price": 159.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184837,7 +186417,7 @@
     "price": 159.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-zip-up-performance-hoodie-heren-lichtgrijs",
-    "previous_price": 111.3
+    "previous_price": 159.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184847,7 +186427,7 @@
     "price": 159.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-zip-up-performance-hoodie-heren-zwart",
-    "previous_price": 111.3
+    "previous_price": 159.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184857,7 +186437,7 @@
     "price": 159.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-zip-up-performance-hoodie-heren-zwart",
-    "previous_price": 111.3
+    "previous_price": 159.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184867,7 +186447,7 @@
     "price": 159.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-zip-up-performance-hoodie-heren-zwart",
-    "previous_price": 111.3
+    "previous_price": 159.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -184997,7 +186577,7 @@
     "price": 59.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-layered-performance-short-heren-donkergrijs",
-    "previous_price": 41.99
+    "previous_price": 59.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -185007,7 +186587,7 @@
     "price": 59.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-layered-performance-short-heren-lichtgrijs",
-    "previous_price": 41.99
+    "previous_price": 59.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -185167,7 +186747,7 @@
     "price": 89.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-geo-jiu-jitsu-spats-zwart-blauw",
-    "previous_price": 62.99
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -185177,7 +186757,7 @@
     "price": 89.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-geo-jiu-jitsu-spats-zwart-blauw",
-    "previous_price": 62.99
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -185187,7 +186767,7 @@
     "price": 89.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-geo-jiu-jitsu-spats-zwart-grijs",
-    "previous_price": 62.99
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -185197,7 +186777,7 @@
     "price": 89.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-geo-jiu-jitsu-spats-zwart-rood",
-    "previous_price": 62.99
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -185207,7 +186787,7 @@
     "price": 89.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-geo-jiu-jitsu-spats-zwart-rood",
-    "previous_price": 62.99
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -188077,7 +189657,7 @@
     "price": 220.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-bokshandschoenen-wit-goud",
-    "previous_price": 199.99
+    "previous_price": 220.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -188087,7 +189667,7 @@
     "price": 220.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-bokshandschoenen-wit-goud",
-    "previous_price": 199.99
+    "previous_price": 220.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -188097,7 +189677,7 @@
     "price": 220.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-bokshandschoenen-wit-goud",
-    "previous_price": 199.99
+    "previous_price": 220.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -188107,7 +189687,7 @@
     "price": 220.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-bokshandschoenen-zwart",
-    "previous_price": 199.99
+    "previous_price": 220.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -188117,7 +189697,7 @@
     "price": 220.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-bokshandschoenen-zwart",
-    "previous_price": 199.99
+    "previous_price": 220.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -188127,7 +189707,7 @@
     "price": 220.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-bokshandschoenen-zwart",
-    "previous_price": 199.99
+    "previous_price": 220.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -188137,7 +189717,7 @@
     "price": 220.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-bokshandschoenen-zwart-goud",
-    "previous_price": 199.99
+    "previous_price": 220.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -188147,7 +189727,7 @@
     "price": 220.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-bokshandschoenen-zwart-goud",
-    "previous_price": 199.99
+    "previous_price": 220.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -188157,7 +189737,7 @@
     "price": 220.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-bokshandschoenen-zwart-goud",
-    "previous_price": 199.99
+    "previous_price": 220.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -188645,7 +190225,7 @@
     "product": "Hayabusa S4 Bokshandschoenen - Echt Leer - Zwart",
     "size": "14 oz",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-s4-bokshandschoenen-echt-leer-zwart",
     "previous_price": 99.99
   },
@@ -189217,7 +190797,7 @@
     "price": 179.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-neon-bokshandschoenen-neon-blauw",
-    "previous_price": 159.0
+    "previous_price": 179.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189227,7 +190807,7 @@
     "price": 179.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-neon-bokshandschoenen-neon-blauw",
-    "previous_price": 159.0
+    "previous_price": 179.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189237,7 +190817,7 @@
     "price": 179.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-neon-bokshandschoenen-neon-geel",
-    "previous_price": 159.0
+    "previous_price": 179.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189247,7 +190827,7 @@
     "price": 179.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-neon-bokshandschoenen-neon-geel",
-    "previous_price": 159.0
+    "previous_price": 179.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189257,7 +190837,7 @@
     "price": 179.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-neon-bokshandschoenen-neon-groen",
-    "previous_price": 159.0
+    "previous_price": 179.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189267,7 +190847,7 @@
     "price": 179.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-neon-bokshandschoenen-neon-groen",
-    "previous_price": 159.0
+    "previous_price": 179.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189277,7 +190857,7 @@
     "price": 179.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-neon-bokshandschoenen-neon-oranje",
-    "previous_price": 159.0
+    "previous_price": 179.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189287,7 +190867,7 @@
     "price": 179.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-neon-bokshandschoenen-neon-oranje",
-    "previous_price": 159.0
+    "previous_price": 179.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189297,7 +190877,7 @@
     "price": 179.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-neon-bokshandschoenen-neon-purper",
-    "previous_price": 159.0
+    "previous_price": 179.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189307,7 +190887,7 @@
     "price": 179.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-neon-bokshandschoenen-neon-purper",
-    "previous_price": 159.0
+    "previous_price": 179.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189345,7 +190925,7 @@
     "product": "Hayabusa T3 Kanpeki Bokshandschoenen - Leer - Arctisch Wit",
     "size": "14 oz",
     "price": 219.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-kanpeki-bokshandschoenen-leer-arctisch-wit",
     "previous_price": 219.0
   },
@@ -189537,7 +191117,7 @@
     "price": 229.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-lx-bokshandschoenen-indigo",
-    "previous_price": 189.0
+    "previous_price": 229.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189547,7 +191127,7 @@
     "price": 229.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-lx-bokshandschoenen-indigo",
-    "previous_price": 189.0
+    "previous_price": 229.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189557,7 +191137,7 @@
     "price": 229.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-lx-bokshandschoenen-indigo",
-    "previous_price": 189.0
+    "previous_price": 229.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189657,7 +191237,7 @@
     "price": 229.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-lx-bokshandschoenen-tan",
-    "previous_price": 189.0
+    "previous_price": 229.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189667,7 +191247,7 @@
     "price": 229.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-lx-bokshandschoenen-tan",
-    "previous_price": 189.0
+    "previous_price": 229.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189677,7 +191257,7 @@
     "price": 229.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-lx-bokshandschoenen-tan",
-    "previous_price": 189.0
+    "previous_price": 229.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189717,7 +191297,7 @@
     "price": 229.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-lx-bokshandschoenen-wine",
-    "previous_price": 189.0
+    "previous_price": 229.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189727,7 +191307,7 @@
     "price": 229.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-lx-bokshandschoenen-wine",
-    "previous_price": 189.0
+    "previous_price": 229.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189737,7 +191317,7 @@
     "price": 229.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-lx-bokshandschoenen-wine",
-    "previous_price": 189.0
+    "previous_price": 229.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189777,7 +191357,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-full-back-scheenbeschermers-zwart",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189787,7 +191367,7 @@
     "price": 169.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-full-back-scheenbeschermers-zwart",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189797,7 +191377,7 @@
     "price": 169.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-full-back-scheenbeschermers-zwart",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189807,7 +191387,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-full-back-scheenbeschermers-zwart",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189817,7 +191397,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-full-back-scheenbeschermers-wit-goud",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189827,7 +191407,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-full-back-scheenbeschermers-wit-goud",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189837,7 +191417,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-full-back-scheenbeschermers-wit-goud",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189847,7 +191427,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-full-back-scheenbeschermers-wit-goud",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189857,7 +191437,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-full-back-scheenbeschermers-zwart-goud",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189867,7 +191447,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-full-back-scheenbeschermers-zwart-goud",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189877,7 +191457,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-full-back-scheenbeschermers-zwart-goud",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189887,7 +191467,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-full-back-scheenbeschermers-zwart-goud",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189977,7 +191557,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-striking-scheenbeschermers-wit-goud",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189987,7 +191567,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-striking-scheenbeschermers-wit-goud",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -189997,7 +191577,7 @@
     "price": 169.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-striking-scheenbeschermers-wit-goud",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190007,7 +191587,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-striking-scheenbeschermers-wit-goud",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190017,7 +191597,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-striking-scheenbeschermers-zwart",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190027,7 +191607,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-striking-scheenbeschermers-zwart",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190037,7 +191617,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-striking-scheenbeschermers-zwart",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190047,7 +191627,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-striking-scheenbeschermers-zwart",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190057,7 +191637,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-striking-scheenbeschermers-zwart-goud",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190067,7 +191647,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-striking-scheenbeschermers-zwart-goud",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190077,7 +191657,7 @@
     "price": 169.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-striking-scheenbeschermers-zwart-goud",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190087,7 +191667,7 @@
     "price": 169.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-striking-scheenbeschermers-zwart-goud",
-    "previous_price": 149.0
+    "previous_price": 169.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190327,7 +191907,7 @@
     "price": 60.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-kickboks-broekje-blauw",
-    "previous_price": 40.0
+    "previous_price": 60.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190337,7 +191917,7 @@
     "price": 60.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-kickboks-broekje-blauw",
-    "previous_price": 40.0
+    "previous_price": 60.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190347,7 +191927,7 @@
     "price": 60.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-kickboks-broekje-rood",
-    "previous_price": 40.0
+    "previous_price": 60.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190357,7 +191937,7 @@
     "price": 60.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-kickboks-broekje-rood",
-    "previous_price": 40.0
+    "previous_price": 60.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190367,7 +191947,7 @@
     "price": 69.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-falcon-muay-thai-shorts-zwart",
-    "previous_price": 48.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190377,7 +191957,7 @@
     "price": 69.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-falcon-muay-thai-shorts-zwart",
-    "previous_price": 48.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190387,7 +191967,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-blauw-geel",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190397,7 +191977,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-blauw-geel",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190407,7 +191987,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-blauw-geel",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190417,7 +191997,7 @@
     "price": 69.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-blauw-geel",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190427,7 +192007,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-blauw-wit",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190437,7 +192017,7 @@
     "price": 69.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-blauw-wit",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190447,7 +192027,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-blauw-wit",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190457,7 +192037,7 @@
     "price": 69.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-blauw-wit",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190467,7 +192047,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-blauw-wit",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190477,7 +192057,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-paars-wit",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190487,7 +192067,7 @@
     "price": 69.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-paars-wit",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190497,7 +192077,7 @@
     "price": 69.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-paars-wit",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190507,7 +192087,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-paars-wit",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190517,7 +192097,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-paars-wit",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190527,7 +192107,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-rood-wit",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190537,7 +192117,7 @@
     "price": 69.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-rood-wit",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190547,7 +192127,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-rood-wit",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190557,7 +192137,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-rood-wit",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190567,7 +192147,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-zwart-neon",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190577,7 +192157,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-zwart-neon",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190587,7 +192167,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-zwart-neon",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190597,7 +192177,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-zwart-neon",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190607,7 +192187,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-zwart-neon",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190617,7 +192197,7 @@
     "price": 69.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-zwart-wit",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190627,7 +192207,7 @@
     "price": 69.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-zwart-wit",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190637,7 +192217,7 @@
     "price": 69.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-zwart-wit",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190647,7 +192227,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-zwart-wit",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -190657,7 +192237,7 @@
     "price": 69.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-zwart-wit",
-    "previous_price": 55.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -191807,7 +193387,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-blauw-wit",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -191817,7 +193397,7 @@
     "price": 79.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-blauw-wit",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -191827,7 +193407,7 @@
     "price": 79.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-blauw-wit",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -191837,7 +193417,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-blauw-wit",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -191927,7 +193507,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-geel-blauw",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -191937,7 +193517,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-geel-blauw",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -191947,7 +193527,7 @@
     "price": 79.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-geel-blauw",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -191957,7 +193537,7 @@
     "price": 79.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-geel-blauw",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -191967,7 +193547,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-teal-wit",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -191977,7 +193557,7 @@
     "price": 79.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-teal-wit",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -191987,7 +193567,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-teal-wit",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -191997,7 +193577,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-teal-wit",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192007,7 +193587,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-teal-wit",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192017,7 +193597,7 @@
     "price": 79.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-wit-zwart",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192027,7 +193607,7 @@
     "price": 79.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-wit-zwart",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192037,7 +193617,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-wit-zwart",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192047,7 +193627,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-zwart-neon",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192057,7 +193637,7 @@
     "price": 79.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-zwart-neon",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192067,7 +193647,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-zwart-neon",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192077,7 +193657,7 @@
     "price": 79.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-zwart-neon",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192087,7 +193667,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-zwart-neon",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192097,7 +193677,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-zwart-wit",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192107,7 +193687,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-zwart-wit",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192117,7 +193697,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-zwart-wit",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192127,7 +193707,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-zwart-wit",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192137,7 +193717,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-fight-shorts-zwart-wit",
-    "previous_price": 59.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192237,7 +193817,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-mid-length-fight-shorts-teal-wit",
-    "previous_price": 55.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192247,7 +193827,7 @@
     "price": 79.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-mid-length-fight-shorts-teal-wit",
-    "previous_price": 55.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192257,7 +193837,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-mid-length-fight-shorts-teal-wit",
-    "previous_price": 55.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192267,7 +193847,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-mid-length-fight-shorts-teal-wit",
-    "previous_price": 55.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192277,7 +193857,7 @@
     "price": 79.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-mid-length-fight-shorts-zwart-neon",
-    "previous_price": 55.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192287,7 +193867,7 @@
     "price": 79.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-mid-length-fight-shorts-zwart-neon",
-    "previous_price": 55.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192297,7 +193877,7 @@
     "price": 79.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-mid-length-fight-shorts-zwart-neon",
-    "previous_price": 55.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192307,7 +193887,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-mid-length-fight-shorts-zwart-wit",
-    "previous_price": 55.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192317,7 +193897,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-mid-length-fight-shorts-zwart-wit",
-    "previous_price": 55.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -192327,7 +193907,7 @@
     "price": 79.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-mid-length-fight-shorts-zwart-wit",
-    "previous_price": 55.99
+    "previous_price": 79.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -193957,7 +195537,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-geo-long-sleeve-rashguard-zwart-blauw",
-    "previous_price": 59.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -193967,7 +195547,7 @@
     "price": 69.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-geo-long-sleeve-rashguard-zwart-blauw",
-    "previous_price": 59.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -193977,7 +195557,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-geo-long-sleeve-rashguard-zwart-grijs",
-    "previous_price": 59.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -193987,7 +195567,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-geo-long-sleeve-rashguard-zwart-grijs",
-    "previous_price": 59.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -193997,7 +195577,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-geo-long-sleeve-rashguard-zwart-rood",
-    "previous_price": 59.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194007,7 +195587,7 @@
     "price": 69.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-geo-long-sleeve-rashguard-zwart-rood",
-    "previous_price": 59.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194017,7 +195597,7 @@
     "price": 69.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-geo-long-sleeve-rashguard-zwart-rood",
-    "previous_price": 59.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194047,7 +195627,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-long-sleeve-rashguard-blauw",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194057,7 +195637,7 @@
     "price": 70.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-long-sleeve-rashguard-blauw",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194067,7 +195647,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-long-sleeve-rashguard-blauw",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194077,7 +195657,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-long-sleeve-rashguard-blauw",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194087,7 +195667,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-long-sleeve-rashguard-bruin",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194097,7 +195677,7 @@
     "price": 70.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-long-sleeve-rashguard-bruin",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194107,7 +195687,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-long-sleeve-rashguard-bruin",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194117,7 +195697,7 @@
     "price": 70.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-long-sleeve-rashguard-paars",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194127,7 +195707,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-long-sleeve-rashguard-paars",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194137,7 +195717,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-long-sleeve-rashguard-paars",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194147,7 +195727,7 @@
     "price": 70.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-long-sleeve-rashguard-paars",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194157,7 +195737,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-long-sleeve-rashguard-wit",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194167,7 +195747,7 @@
     "price": 70.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-long-sleeve-rashguard-wit",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194177,7 +195757,7 @@
     "price": 70.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-long-sleeve-rashguard-wit",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194187,7 +195767,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-long-sleeve-rashguard-zwart",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194197,7 +195777,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-short-sleeve-rashguard-blauw",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194207,7 +195787,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-short-sleeve-rashguard-blauw",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194217,7 +195797,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-short-sleeve-rashguard-blauw",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194227,7 +195807,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-short-sleeve-rashguard-blauw",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194237,7 +195817,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-short-sleeve-rashguard-bruin",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194247,7 +195827,7 @@
     "price": 70.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-short-sleeve-rashguard-bruin",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194257,7 +195837,7 @@
     "price": 70.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-short-sleeve-rashguard-bruin",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194267,7 +195847,7 @@
     "price": 70.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-short-sleeve-rashguard-bruin",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194277,7 +195857,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-short-sleeve-rashguard-paars",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194287,7 +195867,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-short-sleeve-rashguard-paars",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194297,7 +195877,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-short-sleeve-rashguard-wit",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194307,7 +195887,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-short-sleeve-rashguard-wit",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194317,7 +195897,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-short-sleeve-rashguard-zwart",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194327,7 +195907,7 @@
     "price": 70.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-short-sleeve-rashguard-zwart",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194337,7 +195917,7 @@
     "price": 70.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-arrow-ranked-short-sleeve-rashguard-zwart",
-    "previous_price": 55.0
+    "previous_price": 70.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194347,7 +195927,7 @@
     "price": 59.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-fusion-long-sleeve-rashguard-blauw-groen",
-    "previous_price": 45.0
+    "previous_price": 59.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194357,7 +195937,7 @@
     "price": 59.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-fusion-long-sleeve-rashguard-blauw-groen",
-    "previous_price": 45.0
+    "previous_price": 59.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194367,7 +195947,7 @@
     "price": 59.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-fusion-long-sleeve-rashguard-blauw-groen",
-    "previous_price": 45.0
+    "previous_price": 59.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194377,7 +195957,7 @@
     "price": 59.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-fusion-long-sleeve-rashguard-blauw-groen",
-    "previous_price": 45.0
+    "previous_price": 59.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194387,7 +195967,7 @@
     "price": 59.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-fusion-long-sleeve-rashguard-grijs-aquablauw",
-    "previous_price": 45.0
+    "previous_price": 59.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194397,7 +195977,7 @@
     "price": 59.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-fusion-long-sleeve-rashguard-grijs-aquablauw",
-    "previous_price": 45.0
+    "previous_price": 59.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194407,7 +195987,7 @@
     "price": 59.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-fusion-long-sleeve-rashguard-grijs-aquablauw",
-    "previous_price": 45.0
+    "previous_price": 59.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194417,7 +195997,7 @@
     "price": 59.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-fusion-long-sleeve-rashguard-grijs-aquablauw",
-    "previous_price": 45.0
+    "previous_price": 59.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194427,7 +196007,7 @@
     "price": 59.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-fusion-long-sleeve-rashguard-paars-groen",
-    "previous_price": 45.0
+    "previous_price": 59.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194437,7 +196017,7 @@
     "price": 59.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-fusion-long-sleeve-rashguard-paars-groen",
-    "previous_price": 45.0
+    "previous_price": 59.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194447,7 +196027,7 @@
     "price": 59.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-fusion-long-sleeve-rashguard-paars-groen",
-    "previous_price": 45.0
+    "previous_price": 59.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194457,7 +196037,7 @@
     "price": 59.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-fusion-long-sleeve-rashguard-paars-groen",
-    "previous_price": 45.0
+    "previous_price": 59.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194467,7 +196047,7 @@
     "price": 59.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-fusion-long-sleeve-rashguard-zwart-paars",
-    "previous_price": 45.0
+    "previous_price": 59.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194477,7 +196057,7 @@
     "price": 59.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-fusion-long-sleeve-rashguard-zwart-paars",
-    "previous_price": 45.0
+    "previous_price": 59.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194487,7 +196067,7 @@
     "price": 59.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-fusion-long-sleeve-rashguard-zwart-paars",
-    "previous_price": 45.0
+    "previous_price": 59.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194497,7 +196077,7 @@
     "price": 59.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-fusion-long-sleeve-rashguard-zwart-paars",
-    "previous_price": 45.0
+    "previous_price": 59.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194657,7 +196237,7 @@
     "price": 69.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-geo-short-sleeve-rashguard-zwart-blauw",
-    "previous_price": 48.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194667,7 +196247,7 @@
     "price": 69.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-geo-short-sleeve-rashguard-zwart-grijs",
-    "previous_price": 48.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -194677,7 +196257,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-geo-short-sleeve-rashguard-zwart-rood",
-    "previous_price": 48.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -196887,7 +198467,7 @@
     "price": 149.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-wit-goud",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -196897,7 +198477,7 @@
     "price": 149.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-wit-goud",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -196907,7 +198487,7 @@
     "price": 149.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-wit-goud",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -196917,7 +198497,7 @@
     "price": 149.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-wit-goud",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -196927,7 +198507,7 @@
     "price": 149.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-wit-goud",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -196937,7 +198517,7 @@
     "price": 149.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-wit-goud",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -196947,7 +198527,7 @@
     "price": 149.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-wit-goud",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -196957,7 +198537,7 @@
     "price": 149.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-wit-goud",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -196967,7 +198547,7 @@
     "price": 149.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-zwart-goud",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -196977,7 +198557,7 @@
     "price": 149.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-zwart-goud",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -196987,7 +198567,7 @@
     "price": 149.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-zwart-goud",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -196997,7 +198577,7 @@
     "price": 149.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-zwart-goud",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197007,7 +198587,7 @@
     "price": 149.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-zwart-goud",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197017,7 +198597,7 @@
     "price": 149.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-zwart-goud",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197027,7 +198607,7 @@
     "price": 149.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-zwart-goud",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197037,7 +198617,7 @@
     "price": 149.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-zwart-grijs",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197047,7 +198627,7 @@
     "price": 149.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-zwart-grijs",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197057,7 +198637,7 @@
     "price": 149.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-zwart-grijs",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197067,7 +198647,7 @@
     "price": 149.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-zwart-grijs",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197077,7 +198657,7 @@
     "price": 149.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-zwart-grijs",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197087,7 +198667,7 @@
     "price": 149.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-zwart-grijs",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197097,7 +198677,7 @@
     "price": 149.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-zwart-grijs",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197107,7 +198687,7 @@
     "price": 149.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-champ-boksschoenen-zwart-grijs",
-    "previous_price": 129.0
+    "previous_price": 149.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197117,7 +198697,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-blauw",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197127,7 +198707,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-blauw",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197137,7 +198717,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-blauw",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197147,7 +198727,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-blauw",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197157,7 +198737,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-blauw",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197167,7 +198747,7 @@
     "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-blauw",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197177,7 +198757,7 @@
     "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-blauw",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197187,7 +198767,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-blauw",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197197,7 +198777,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-donkerrood-grijs",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197207,7 +198787,7 @@
     "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-donkerrood-grijs",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197217,7 +198797,7 @@
     "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-donkerrood-grijs",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197227,7 +198807,7 @@
     "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-grijs",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197237,7 +198817,7 @@
     "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-lichtblauw",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197247,7 +198827,7 @@
     "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-lichtblauw",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197257,7 +198837,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-lichtblauw",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197267,7 +198847,7 @@
     "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-lichtblauw",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197277,7 +198857,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-rood",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197287,7 +198867,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-rood",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197297,7 +198877,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-rood",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197307,7 +198887,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-rood",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197317,7 +198897,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-rood",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197327,7 +198907,7 @@
     "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-rood",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197337,7 +198917,7 @@
     "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-rood",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197347,7 +198927,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-wit",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197357,7 +198937,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-wit",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197367,7 +198947,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-wit",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197377,7 +198957,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-wit",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197387,7 +198967,7 @@
     "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-wit",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197397,7 +198977,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-wit",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197407,7 +198987,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-wit",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197417,7 +198997,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-wit",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197427,7 +199007,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-zwart",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197437,7 +199017,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-zwart",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197447,7 +199027,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-zwart",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197457,7 +199037,7 @@
     "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-zwart",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197467,7 +199047,7 @@
     "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-zwart",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197477,7 +199057,7 @@
     "price": 139.0,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-zwart",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197487,7 +199067,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-zwart",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -197497,7 +199077,7 @@
     "price": 139.0,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pro-boksschoenen-zwart",
-    "previous_price": 119.0
+    "previous_price": 139.0
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -198487,7 +200067,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-e1-bokshandschoenen-voor-kinderen-blauw-zwart",
-    "previous_price": 59.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -198497,7 +200077,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-e1-bokshandschoenen-voor-kinderen-grijs-zwart",
-    "previous_price": 59.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -198507,7 +200087,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-e1-bokshandschoenen-voor-kinderen-rood-zwart",
-    "previous_price": 59.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -198517,7 +200097,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-e1-bokshandschoenen-voor-kinderen-wit-zilver",
-    "previous_price": 59.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -198527,7 +200107,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-e1-bokshandschoenen-voor-kinderen-zwart-goud",
-    "previous_price": 59.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -198537,7 +200117,7 @@
     "price": 69.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-e1-bokshandschoenen-voor-kinderen-zwart-grijs",
-    "previous_price": 59.99
+    "previous_price": 69.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -198647,7 +200227,7 @@
     "price": 23.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-stretch-handwraps-zwart-4-5-meter",
-    "previous_price": 20.0
+    "previous_price": 23.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -198657,7 +200237,7 @@
     "price": 23.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-stretch-handwraps-wit-goud-4-5-meter",
-    "previous_price": 20.0
+    "previous_price": 23.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -198667,7 +200247,7 @@
     "price": 23.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-mayweather-stretch-handwraps-zwart-goud-4-5-meter",
-    "previous_price": 20.0
+    "previous_price": 23.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -198735,7 +200315,7 @@
     "product": "Hayabusa PTS3 Focus Mitts - Zwart",
     "size": "Default Title",
     "price": 89.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-pts3-focus-mitts-zwart",
     "previous_price": 89.99
   },
@@ -203557,7 +205137,7 @@
     "price": 89.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-ufc-bjj-heren-spats-zwart-rood",
-    "previous_price": 75.0
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -203567,7 +205147,7 @@
     "price": 89.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-ufc-bjj-heren-spats-zwart-rood",
-    "previous_price": 75.0
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -203577,7 +205157,7 @@
     "price": 89.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-ufc-bjj-heren-spats-zwart-rood",
-    "previous_price": 75.0
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -203587,7 +205167,7 @@
     "price": 89.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-ufc-bjj-heren-spats-zwart-blauw",
-    "previous_price": 75.0
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -203597,7 +205177,7 @@
     "price": 89.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-ufc-bjj-heren-spats-zwart-blauw",
-    "previous_price": 75.0
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -203607,7 +205187,7 @@
     "price": 89.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-ufc-bjj-heren-spats-zwart-blauw",
-    "previous_price": 75.0
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -203617,7 +205197,7 @@
     "price": 89.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-ufc-bjj-rash-guard-zwart-rood",
-    "previous_price": 75.0
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -203627,7 +205207,7 @@
     "price": 89.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-ufc-bjj-rash-guard-zwart-rood",
-    "previous_price": 75.0
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -203637,7 +205217,7 @@
     "price": 89.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-ufc-bjj-rash-guard-zwart-rood",
-    "previous_price": 75.0
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -203647,7 +205227,7 @@
     "price": 89.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-ufc-bjj-rash-guard-zwart-blauw",
-    "previous_price": 75.0
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -203657,7 +205237,7 @@
     "price": 89.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-ufc-bjj-rash-guard-zwart-blauw",
-    "previous_price": 75.0
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -203667,7 +205247,7 @@
     "price": 89.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-ufc-bjj-rash-guard-zwart-blauw",
-    "previous_price": 75.0
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -203677,7 +205257,7 @@
     "price": 89.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/ufc-bjj-heren-grappling-shorts-zwart-rood",
-    "previous_price": 75.0
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -203687,7 +205267,7 @@
     "price": 89.99,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/ufc-bjj-heren-grappling-shorts-zwart-rood",
-    "previous_price": 75.0
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -203697,7 +205277,7 @@
     "price": 89.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/ufc-bjj-heren-grappling-shorts-zwart-rood",
-    "previous_price": 75.0
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -203727,7 +205307,7 @@
     "price": 89.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/ufc-bjj-heren-grappling-shorts-zwart-blauw",
-    "previous_price": 75.0
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -203737,7 +205317,7 @@
     "price": 89.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/ufc-bjj-heren-grappling-shorts-zwart-blauw",
-    "previous_price": 75.0
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -203747,7 +205327,7 @@
     "price": 89.99,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/ufc-bjj-heren-grappling-shorts-zwart-blauw",
-    "previous_price": 75.0
+    "previous_price": 89.99
   },
   {
     "shop": "Kickboxing-shop.nl",
@@ -208441,16 +210021,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "Stanno",
-    "product": "Stanno Ace MMA Elleboog Beschermer",
-    "size": "m",
-    "price": 16.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/stanno-ace-mma-elleboog-beschermer/",
-    "previous_price": 16.99
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "Booster",
     "product": "Booster Kickboks Set BGL V9 White/Gold",
     "size": "One Size",
@@ -211182,6 +212752,16 @@
   {
     "shop": "OLB Sports",
     "brand": "XXL",
+    "product": "XXL Nutrition Pre Workout Quake Cola Cherry",
+    "size": "One Size",
+    "price": 39.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-pre-workout-quake-cola-cherry/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "XXL",
     "product": "XXL Nutrition Pre Workout Quake Fruit Punch",
     "size": "One Size",
     "price": 39.99,
@@ -212933,16 +214513,6 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Gear Elite MMA Shirt Red",
-    "size": "xl",
-    "price": 39.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-elite-mma-shirt-red/",
-    "previous_price": 39.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Gear Elite MMA Shirt Red",
     "size": "xxl",
     "price": 39.95,
     "in_stock": true,
@@ -213937,7 +215507,7 @@
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/youth-fighters-t-shirt-kids-wolves/",
-    "previous_price": null
+    "previous_price": 29.95
   },
   {
     "shop": "OLB Sports",
@@ -214204,16 +215774,6 @@
     "brand": "Adidas",
     "product": "Adidas Sporttas 2 In 1 PU Black/White",
     "size": "m",
-    "price": 79.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/adidas-sporttas-2-in-1-pu-black-white/",
-    "previous_price": 79.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Adidas",
-    "product": "Adidas Sporttas 2 In 1 PU Black/White",
-    "size": "l",
     "price": 79.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-sporttas-2-in-1-pu-black-white/",
@@ -217352,16 +218912,6 @@
   {
     "shop": "OLB Sports",
     "brand": "1916",
-    "product": "1916 Fight Gear Kickboks Set Kids Youth Fighters Gold",
-    "size": "One Size",
-    "price": 0.0,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/1916-fight-gear-kickboks-set-kids-youth-fighters-gold/",
-    "previous_price": 0.0
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "1916",
     "product": "1916 Fight Gear Kickboks Set Kids Youth Fighters Blue",
     "size": "One Size",
     "price": 0.0,
@@ -218438,6 +219988,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-performance-velcro-black-gold-v2/",
     "previous_price": 184.99
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear Bokshandschoenen Performance Velcro Black/Gold V2",
+    "size": "16oz",
+    "price": 184.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-performance-velcro-black-gold-v2/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -220463,16 +222023,6 @@
     "shop": "OLB Sports",
     "brand": "Stanno",
     "product": "Stanno Field Shirt Maroon",
-    "size": "l",
-    "price": 22.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/stanno-field-shirt-maroon/",
-    "previous_price": 22.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Stanno",
-    "product": "Stanno Field Shirt Maroon",
     "size": "xl",
     "price": 22.95,
     "in_stock": true,
@@ -220637,7 +222187,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-kickboksbroek-camo-v2-goud/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -222437,7 +223987,7 @@
     "price": 29.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-ultimate-shirt-wit/",
-    "previous_price": null
+    "previous_price": 29.99
   },
   {
     "shop": "OLB Sports",
@@ -223108,16 +224658,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-fightshort-tempest-black-grey/",
     "previous_price": 69.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Fightshort G-Fit Air Black",
-    "size": "l",
-    "price": 59.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-fightshort-g-fit-air-black/",
-    "previous_price": 59.99
   },
   {
     "shop": "OLB Sports",
@@ -228352,16 +229892,6 @@
   {
     "shop": "OLB Sports",
     "brand": "1916",
-    "product": "1916 Scheenbeschermers Youth Fighter Gold",
-    "size": "xxs",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/1916-scheenbeschermers-youth-fighter-gold/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "1916",
     "product": "1916 Scheenbeschermers Youth Fighter Blue",
     "size": "xxs",
     "price": 34.95,
@@ -230291,6 +231821,16 @@
   },
   {
     "shop": "OLB Sports",
+    "brand": "XXL",
+    "product": "XXL Nutrition Whey Isolate Zero Aardbei",
+    "size": "One Size",
+    "price": 54.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolate-zero-aardbei/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Shirt Camo V2 Goud",
     "size": "128",
@@ -231452,6 +232992,16 @@
   {
     "shop": "OLB Sports",
     "brand": "XXL",
+    "product": "XXL Nutrition Whey Isolate Zero Vanille",
+    "size": "One Size",
+    "price": 54.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolate-zero-vanille/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "XXL",
     "product": "XXL Nutrition Fat Metabolic Support 120caps",
     "size": "One Size",
     "price": 34.99,
@@ -232061,6 +233611,16 @@
   },
   {
     "shop": "OLB Sports",
+    "brand": "XXL",
+    "product": "XXL Nutrition Caffeine Booster",
+    "size": "One Size",
+    "price": 10.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-cafeine-booster/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Scheenbeschermers Butterfly Roze",
     "size": "xxs",
@@ -232488,6 +234048,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-rashguard-stormking-2/",
     "previous_price": 29.99
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "XXL",
+    "product": "XXL Nutrition Pro 85 Protein Banaan 5kg",
+    "size": "One Size",
+    "price": 169.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-pro-85-protein-banaan-5kg/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -232951,6 +234521,16 @@
   },
   {
     "shop": "OLB Sports",
+    "brand": "XXL",
+    "product": "XXL Nutrition Pro 85 Protein Coconut 1kg",
+    "size": "One Size",
+    "price": 44.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-pro-85-protein-coconut-1kg/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
     "brand": "Twins",
     "product": "Twins Zakhandschoen TBM 1 Zwart",
     "size": "m",
@@ -232978,6 +234558,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-zakhandschoen-tbm-1-zwart/",
     "previous_price": 113.99
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "XXL",
+    "product": "XXL Nutrition Pro 85 Protein Vanille 5kg",
+    "size": "One Size",
+    "price": 169.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-pro-85-protein-vanille-5kg/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -234251,6 +235841,16 @@
   },
   {
     "shop": "OLB Sports",
+    "brand": "XXL",
+    "product": "XXL Nutrition Weight Gainer Cookies &amp; Cream 2.5kg",
+    "size": "One Size",
+    "price": 36.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-weight-gainer-cookies-cream/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
     "brand": "Booster",
     "product": "Booster Sporttas B-Force Duffle Small Zwart",
     "size": "One Size",
@@ -234968,6 +236568,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-weight-gainer-chocolade/",
     "previous_price": 36.99
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "XXL",
+    "product": "XXL Nutrition Weight Gainer Banaan 2.5kg",
+    "size": "One Size",
+    "price": 36.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-weight-gainer-banaan/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -237523,16 +239133,6 @@
     "shop": "OLB Sports",
     "brand": "Twins",
     "product": "Twins Bokshandschoen Bgvl 3 Rood",
-    "size": "14oz",
-    "price": 189.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/twins-bokshandschoen-bgvl-3-rood/",
-    "previous_price": 189.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Twins",
-    "product": "Twins Bokshandschoen Bgvl 3 Rood",
     "size": "16oz",
     "price": 189.95,
     "in_stock": true,
@@ -238024,16 +239624,6 @@
     "brand": "Joya",
     "product": "Joya Hoofdbeschermer Zwart",
     "size": "m",
-    "price": 44.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-hoofdbeschermer-zwart/",
-    "previous_price": 44.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Hoofdbeschermer Zwart",
-    "size": "xs",
     "price": 44.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-hoofdbeschermer-zwart/",
