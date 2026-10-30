@@ -13715,7 +13715,7 @@
     "product": "Ground Force Basic Kids Gi",
     "size": "M00 / White",
     "price": 49.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-basic-kids-gi",
     "previous_price": 49.0
   },
@@ -23695,7 +23695,7 @@
     "product": "Defense Baby Wash",
     "size": "Default Title",
     "price": 14.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/defense-baby-wash",
     "previous_price": 14.95
   },
@@ -27425,7 +27425,7 @@
     "product": "Scramble Elemental Belt- Blanco",
     "size": "A1 / Blanco",
     "price": 27.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/elemental-belt-blanco",
     "previous_price": 27.0
   },
@@ -29725,7 +29725,7 @@
     "product": "V2 Rashguard Try Hard Kyubi Black",
     "size": "XL",
     "price": 44.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/v2-rashguard-try-hard-kyubi-black",
     "previous_price": 44.0
   },
@@ -41805,7 +41805,7 @@
     "product": "Kimono BJJ (Gi) Kingz Kore Youth 2.0. Negro con cinturón blanco",
     "size": "M00",
     "price": 70.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-kingz-kore-youth-2-0-negro-con-cinturon-blanco",
     "previous_price": 70.0
   },
@@ -54125,7 +54125,7 @@
     "product": "Super Pro Kickboks Broekje Brave Roze",
     "size": "L",
     "price": 24.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fightstyle.nl/products/super-pro-kickboks-broekje-brave-zwart-roze",
     "previous_price": 24.95
   },
@@ -60662,982 +60662,1122 @@
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "XS / XS",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "XS / S",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "XS / M",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "XS / L",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "XS / XL",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "XS / 2XL",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "XS / 3XL",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "S / XS",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "S / S",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "S / M",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "S / L",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "S / XL",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "S / 2XL",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "S / 3XL",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "M / XS",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "M / S",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "M / M",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "M / L",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "M / XL",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "M / 2XL",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "M / 3XL",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "L / XS",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "L / S",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "L / M",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "L / L",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "L / XL",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "L / 2XL",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "L / 3XL",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "XL / XS",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "XL / S",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "XL / M",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "XL / L",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "XL / XL",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "XL / 2XL",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "XL / 3XL",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "2XL / XS",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "2XL / S",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "2XL / M",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "2XL / L",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "2XL / XL",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "2XL / 2XL",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "2XL / 3XL",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "3XL / XS",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "3XL / S",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "3XL / M",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "3XL / L",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "3XL / XL",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "3XL / 2XL",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Arctic Topo No-Gi Kit",
-    "size": "3XL / 3XL",
-    "price": 89.99,
-    "in_stock": false,
-    "url": "https://goldbjj.com/products/arctic-topo-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "XS / XS",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "XS / XS / Green",
+    "price": 99.98,
     "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "XS / S",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "XS / XS / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "XS / S / Green",
+    "price": 99.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "XS / M",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "XS / L",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "XS / XL",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "XS / S / Arctic",
+    "price": 99.98,
     "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "XS / 2XL",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "XS / M / Green",
+    "price": 99.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "XS / 3XL",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "S / XS",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "XS / M / Arctic",
+    "price": 99.98,
     "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "S / S",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "XS / L / Green",
+    "price": 99.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "S / M",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "S / L",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "S / XL",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "XS / L / Arctic",
+    "price": 99.98,
     "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "S / 2XL",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "S / 3XL",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "M / XS",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "XS / XL / Green",
+    "price": 99.98,
     "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "M / S",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "M / M",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "M / L",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "M / XL",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "XS / XL / Arctic",
+    "price": 99.98,
     "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "M / 2XL",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "XS / 2XL / Green",
+    "price": 99.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "M / 3XL",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "L / XS",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "XS / 2XL / Arctic",
+    "price": 99.98,
     "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "L / S",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "XS / 3XL / Green",
+    "price": 99.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "L / M",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "L / L",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "L / XL",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "XS / 3XL / Arctic",
+    "price": 99.98,
     "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "L / 2XL",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "L / 3XL",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "XL / XS",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "S / XS / Green",
+    "price": 99.98,
     "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "XL / S",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "XL / M",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "XL / L",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "XL / XL",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "S / XS / Arctic",
+    "price": 99.98,
     "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "XL / 2XL",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "S / S / Green",
+    "price": 99.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "XL / 3XL",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "2XL / XS",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "S / S / Arctic",
+    "price": 99.98,
     "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "2XL / S",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "S / M / Green",
+    "price": 99.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "2XL / M",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "2XL / L",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "2XL / XL",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "S / M / Arctic",
+    "price": 99.98,
     "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "2XL / 2XL",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "S / L / Green",
+    "price": 99.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "2XL / 3XL",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "3XL / XS",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "S / L / Arctic",
+    "price": 99.98,
     "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "3XL / S",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "3XL / M",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "3XL / L",
-    "price": 89.99,
-    "in_stock": true,
-    "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
-  },
-  {
-    "shop": "Gold BJJ",
-    "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "3XL / XL",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "S / XL / Green",
+    "price": 99.98,
     "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "3XL / 2XL",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "S / XL / Arctic",
+    "price": 99.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
-    "product": "Green Topo No-Gi Kit",
-    "size": "3XL / 3XL",
-    "price": 89.99,
+    "product": "Topo No-Gi Kit",
+    "size": "S / 2XL / Green",
+    "price": 99.98,
     "in_stock": true,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
-    "previous_price": 89.99
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "S / 2XL / Arctic",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "S / 3XL / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "S / 3XL / Arctic",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "M / XS / Green",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "M / XS / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "M / S / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "M / S / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "M / M / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "M / M / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "M / L / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "M / L / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "M / XL / Green",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "M / XL / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "M / 2XL / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "M / 2XL / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "M / 3XL / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "M / 3XL / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "L / XS / Green",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "L / XS / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "L / S / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "L / S / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "L / M / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "L / M / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "L / L / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "L / L / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "L / XL / Green",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "L / XL / Arctic",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "L / 2XL / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "L / 2XL / Arctic",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "L / 3XL / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "L / 3XL / Arctic",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "XL / XS / Green",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "XL / XS / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "XL / S / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "XL / S / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "XL / M / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "XL / M / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "XL / L / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "XL / L / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "XL / XL / Green",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "XL / XL / Arctic",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "XL / 2XL / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "XL / 2XL / Arctic",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "XL / 3XL / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "XL / 3XL / Arctic",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "2XL / XS / Green",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "2XL / XS / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "2XL / S / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "2XL / S / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "2XL / M / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "2XL / M / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "2XL / L / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "2XL / L / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "2XL / XL / Green",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "2XL / XL / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "2XL / 2XL / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "2XL / 2XL / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "2XL / 3XL / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "2XL / 3XL / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "3XL / XS / Green",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "3XL / XS / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "3XL / S / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "3XL / S / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "3XL / M / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "3XL / M / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "3XL / L / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "3XL / L / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "3XL / XL / Green",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "3XL / XL / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "3XL / 2XL / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "3XL / 2XL / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "3XL / 3XL / Green",
+    "price": 99.98,
+    "in_stock": true,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "3XL / 3XL / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "4XL / XS / Green",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "4XL / XS / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "4XL / S / Green",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "4XL / S / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "4XL / M / Green",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "4XL / M / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "4XL / L / Green",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "4XL / L / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "4XL / XL / Green",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "4XL / XL / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "4XL / 2XL / Green",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "4XL / 2XL / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "4XL / 3XL / Green",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo No-Gi Kit",
+    "size": "4XL / 3XL / Arctic",
+    "price": 99.98,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-no-gi-kit",
+    "previous_price": null
   },
   {
     "shop": "Gold BJJ",
@@ -64612,6 +64752,26 @@
   {
     "shop": "Gold BJJ",
     "brand": "Gold BJJ",
+    "product": "Topo Rash Guard",
+    "size": "4XL / Green",
+    "price": 49.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-rash-guard",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
+    "product": "Topo Rash Guard",
+    "size": "4XL / Arctic",
+    "price": 49.99,
+    "in_stock": false,
+    "url": "https://goldbjj.com/products/topo-rash-guard",
+    "previous_price": null
+  },
+  {
+    "shop": "Gold BJJ",
+    "brand": "Gold BJJ",
     "product": "Topo Shorts",
     "size": "XS / Green",
     "price": 49.99,
@@ -67475,7 +67635,7 @@
     "product": "Women's No-Gi Bundle",
     "size": "XS / Short Sleeve / L",
     "price": 80.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/womens-no-gi-bundle",
     "previous_price": 80.99
   },
@@ -67525,7 +67685,7 @@
     "product": "Women's No-Gi Bundle",
     "size": "XS / Long Sleeve / L",
     "price": 80.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/womens-no-gi-bundle",
     "previous_price": 80.99
   },
@@ -67575,7 +67735,7 @@
     "product": "Women's No-Gi Bundle",
     "size": "S / Short Sleeve / L",
     "price": 80.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/womens-no-gi-bundle",
     "previous_price": 80.99
   },
@@ -67625,7 +67785,7 @@
     "product": "Women's No-Gi Bundle",
     "size": "S / Long Sleeve / L",
     "price": 80.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/womens-no-gi-bundle",
     "previous_price": 80.99
   },
@@ -67675,7 +67835,7 @@
     "product": "Women's No-Gi Bundle",
     "size": "M / Short Sleeve / L",
     "price": 80.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/womens-no-gi-bundle",
     "previous_price": 80.99
   },
@@ -67725,7 +67885,7 @@
     "product": "Women's No-Gi Bundle",
     "size": "M / Long Sleeve / L",
     "price": 80.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/womens-no-gi-bundle",
     "previous_price": 80.99
   },
@@ -67775,7 +67935,7 @@
     "product": "Women's No-Gi Bundle",
     "size": "L / Short Sleeve / L",
     "price": 80.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/womens-no-gi-bundle",
     "previous_price": 80.99
   },
@@ -67825,7 +67985,7 @@
     "product": "Women's No-Gi Bundle",
     "size": "L / Long Sleeve / L",
     "price": 80.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/womens-no-gi-bundle",
     "previous_price": 80.99
   },
@@ -67875,7 +68035,7 @@
     "product": "Women's No-Gi Bundle",
     "size": "XL / Short Sleeve / L",
     "price": 80.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/womens-no-gi-bundle",
     "previous_price": 80.99
   },
@@ -67925,7 +68085,7 @@
     "product": "Women's No-Gi Bundle",
     "size": "XL / Long Sleeve / L",
     "price": 80.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/womens-no-gi-bundle",
     "previous_price": 80.99
   },
@@ -67975,7 +68135,7 @@
     "product": "Women's No-Gi Bundle",
     "size": "XXL / Short Sleeve / L",
     "price": 80.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/womens-no-gi-bundle",
     "previous_price": 80.99
   },
@@ -68025,7 +68185,7 @@
     "product": "Women's No-Gi Bundle",
     "size": "XXL / Long Sleeve / L",
     "price": 80.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/womens-no-gi-bundle",
     "previous_price": 80.99
   },
@@ -68255,7 +68415,7 @@
     "product": "Collegiate Sweatshirt",
     "size": "Beige / XL",
     "price": 79.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/collegiate-sweatshirt",
     "previous_price": 79.99
   },
@@ -68825,7 +68985,7 @@
     "product": "Womens' Leggings and Sports Bra Bundle",
     "size": "L / XS",
     "price": 76.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/womens-leggings-and-sports-bra-bundle",
     "previous_price": 76.49
   },
@@ -68835,7 +68995,7 @@
     "product": "Womens' Leggings and Sports Bra Bundle",
     "size": "L / S",
     "price": 76.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/womens-leggings-and-sports-bra-bundle",
     "previous_price": 76.49
   },
@@ -68845,7 +69005,7 @@
     "product": "Womens' Leggings and Sports Bra Bundle",
     "size": "L / M",
     "price": 76.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/womens-leggings-and-sports-bra-bundle",
     "previous_price": 76.49
   },
@@ -68855,7 +69015,7 @@
     "product": "Womens' Leggings and Sports Bra Bundle",
     "size": "L / L",
     "price": 76.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/womens-leggings-and-sports-bra-bundle",
     "previous_price": 76.49
   },
@@ -70245,7 +70405,7 @@
     "product": "Women's No-Gi Leggings",
     "size": "L",
     "price": 49.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/womens-no-gi-leggings",
     "previous_price": 49.99
   },
@@ -78085,7 +78245,7 @@
     "product": "Foundation Women's Gi",
     "size": "F2 / Blue",
     "price": 144.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/foundation-womens-gi",
     "previous_price": 144.99
   },
@@ -87285,7 +87445,7 @@
     "product": "Flame Shorts",
     "size": "L",
     "price": 40.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/flame-shorts",
     "previous_price": 40.0
   },
@@ -89885,7 +90045,7 @@
     "product": "Kingz Player Special Men's Hoodie",
     "size": "M / Black",
     "price": 70.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/tainan-dalpra-player-special-hoodie",
     "previous_price": 70.0
   },
@@ -93835,7 +93995,7 @@
     "product": "Kingz Ranked Performance V3 Men's Short Sleeve Rashguard",
     "size": "L / Blue",
     "price": 48.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/ranked-performance-v3-s-s-rashguard",
     "previous_price": 48.0
   },
@@ -100425,7 +100585,7 @@
     "product": "Kingz Gold Label V2 BJJ Belts",
     "size": "A2 / Blue",
     "price": 18.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gold-label-v2-bjj-belts",
     "previous_price": 18.0
   },
@@ -101375,7 +101535,7 @@
     "product": "Ultralight 2.0 Jiu Jitsu Gi - Blue (2023 version)",
     "size": "A0 / Blue",
     "price": 100.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/copy-of-ultralight-2-0-jiu-jitsu-gi-blue-eu",
     "previous_price": 100.0
   },
@@ -104085,7 +104245,7 @@
     "product": "Kingz Casual Men's Gi Pants - Light Denim",
     "size": "A3 / Light Denim",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-rip-stop-gi-pant-light-denim",
     "previous_price": 60.0
   },
@@ -105075,7 +105235,7 @@
     "product": "Kingz Canvas Men's Jacket",
     "size": "Navy / L",
     "price": 90.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/canvas-jacket",
     "previous_price": 90.0
   },
@@ -105545,7 +105705,7 @@
     "product": "Kingz Nano 3.0 Men's BJJ Gi - Blue",
     "size": "A2L",
     "price": 110.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/nano-3-0-jiu-jitsu-gi-blue",
     "previous_price": 110.0
   },
@@ -115098,6 +115258,126 @@
     "in_stock": true,
     "url": "https://eu.brausfight.com/products/rash-guard-long-sleeve",
     "previous_price": 65.0
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "BTT Essential Zip-Up Navy",
+    "size": "XS",
+    "price": 56.5,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/btt-essential-zip-up-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "BTT Essential Zip-Up Navy",
+    "size": "S",
+    "price": 56.5,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/btt-essential-zip-up-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "BTT Essential Zip-Up Navy",
+    "size": "M",
+    "price": 56.5,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/btt-essential-zip-up-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "BTT Essential Zip-Up Navy",
+    "size": "L",
+    "price": 56.5,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/btt-essential-zip-up-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "BTT Essential Zip-Up Navy",
+    "size": "XL",
+    "price": 56.5,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/btt-essential-zip-up-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "BTT Essential Zip-Up Navy",
+    "size": "2XL",
+    "price": 56.5,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/btt-essential-zip-up-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "BTT Essential Hoodie Storm Blue",
+    "size": "XS",
+    "price": 56.5,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/btt-essential-hoodie-storm-blue",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "BTT Essential Hoodie Storm Blue",
+    "size": "S",
+    "price": 56.5,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/btt-essential-hoodie-storm-blue",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "BTT Essential Hoodie Storm Blue",
+    "size": "M",
+    "price": 56.5,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/btt-essential-hoodie-storm-blue",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "BTT Essential Hoodie Storm Blue",
+    "size": "L",
+    "price": 56.5,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/btt-essential-hoodie-storm-blue",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "BTT Essential Hoodie Storm Blue",
+    "size": "XL",
+    "price": 56.5,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/btt-essential-hoodie-storm-blue",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "BTT Essential Hoodie Storm Blue",
+    "size": "2XL",
+    "price": 56.5,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/btt-essential-hoodie-storm-blue",
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
@@ -125385,7 +125665,7 @@
     "product": "Iconic Jiu Jitsu Hoodie Black",
     "size": "XL",
     "price": 59.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/iconic-jiu-jitsu-hoodie-black",
     "previous_price": 59.95
   },
@@ -133025,7 +133305,7 @@
     "product": "Kids Renzo Gracie Ultra Lite BJJ Gi Black",
     "size": "C0",
     "price": 110.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/kids-renzo-gracie-ultra-lite-bjj-gi-black",
     "previous_price": 110.0
   },
@@ -139265,7 +139545,7 @@
     "product": "Mizuno Olympic Judo Gi Blue",
     "size": "3.5",
     "price": 269.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/mizuno-olympic-judo-gi-blue",
     "previous_price": 269.95
   },
@@ -147585,7 +147865,7 @@
     "product": "Signature Crewneck Grey",
     "size": "XL",
     "price": 54.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/signature-crewneck-grey",
     "previous_price": 54.95
   },
@@ -158855,7 +159135,7 @@
     "product": "Ippon Gear IJF Legends 2 Slim Fit Blue (Jacket Only)",
     "size": "2.5",
     "price": 185.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-slim-fit-blue-jacket-only",
     "previous_price": 185.95
   },
@@ -158875,7 +159155,7 @@
     "product": "Ippon Gear IJF Legends 2 Slim Fit Blue (Jacket Only)",
     "size": "3.5",
     "price": 185.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/ippon-gear-ijf-legends-2-slim-fit-blue-jacket-only",
     "previous_price": 185.95
   },
@@ -168425,7 +168705,7 @@
     "product": "Royce Gracie Official Long Sleeve Rashguard",
     "size": "XS",
     "price": 64.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/royce-gracie-official-long-sleeve-rashguard-4986",
     "previous_price": 64.95
   },
@@ -170865,7 +171145,7 @@
     "product": "Euro Competition Judo Gi Blue",
     "size": "1.5",
     "price": 139.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/euro-competition-judo-gi-blue",
     "previous_price": 139.95
   },
@@ -174285,7 +174565,7 @@
     "product": "Premium Pearl Weave BJJ Belt Purple",
     "size": "A3",
     "price": 34.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/premium-pearl-weave-bjj-belt-purple",
     "previous_price": 34.95
   },
@@ -180135,7 +180415,7 @@
     "product": "Baseline Grappling Spats V2",
     "size": "L",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/baseline-grappling-spats-v2",
     "previous_price": 59.95
   },
@@ -180515,7 +180795,7 @@
     "product": "Judo White Belt",
     "size": "7",
     "price": 14.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/judo-white-belt",
     "previous_price": 14.95
   },
@@ -182265,7 +182545,7 @@
     "product": "Renzo Gracie White Kids Belt",
     "size": "C00",
     "price": 16.5,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/renzo-gracie-white-kids-belt",
     "previous_price": 16.5
   },
@@ -183085,7 +183365,7 @@
     "product": "Kids Jiu Jitsu White Belt",
     "size": "C0",
     "price": 14.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/fuji-sports-bjj-white-belt-youth",
     "previous_price": 14.95
   },
@@ -191445,7 +191725,7 @@
     "product": "Hayabusa T3 Kanpeki Bokshandschoenen - Leer - Zwart",
     "size": "12 oz",
     "price": 219.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-kanpeki-bokshandschoenen-leer-zwart",
     "previous_price": 219.0
   },
@@ -192955,7 +193235,7 @@
     "product": "King Pro Boxing - Shogun Bokshandschoenen - Zwart/zwart",
     "size": "12 oz",
     "price": 79.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/king-pro-boxing-shogun-bokshandschoenen-zwart-zwart",
     "previous_price": 79.95
   },
@@ -192995,7 +193275,7 @@
     "product": "King Pro Boxing Revo 5 Kickboks Scheenbeschermers - Olijfgroen",
     "size": "M",
     "price": 74.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/king-pro-boxing-revo-kickboks-scheenbeschermers-olijfgroen",
     "previous_price": 74.95
   },
@@ -198745,7 +199025,7 @@
     "product": "Twins Special SGL 7 Scheenbeschermers - Zwart",
     "size": "M",
     "price": 139.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/twins-special-sgl-7-scheenbeschermers-zwart",
     "previous_price": 139.95
   },
@@ -204935,7 +205215,7 @@
     "product": "Booster Rapid Strike Pro 1 - Sokken - Zwart/Grijs",
     "size": "43-46",
     "price": 14.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-rapid-strike-pro-1-sokken-zwart-wit",
     "previous_price": 14.0
   },
@@ -206492,12 +206772,32 @@
   {
     "shop": "OLB Sports",
     "brand": "XXL",
+    "product": "XXL Nutrition Creatine Monohydraat Orange 500gr",
+    "size": "One Size",
+    "price": 16.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-creatine-monohydraat-orange-500gr/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "XXL",
+    "product": "XXL Nutrition Creatine Monohydraat Lemon 500gr",
+    "size": "One Size",
+    "price": 16.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-creatine-monohydraat-lemon-500gr/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "XXL",
     "product": "XXL Nutrition Energize Sugar Free Energy Drink Green",
     "size": "One Size",
     "price": 1.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-energize-sugar-free-energy-drink-green/",
-    "previous_price": null
+    "previous_price": 1.99
   },
   {
     "shop": "OLB Sports",
@@ -206507,7 +206807,7 @@
     "price": 2.5,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-crunchy-protein-bar-pistachio-praline/",
-    "previous_price": null
+    "previous_price": 2.5
   },
   {
     "shop": "OLB Sports",
@@ -206517,7 +206817,7 @@
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolate-zero-chocolade/",
-    "previous_price": null
+    "previous_price": 54.99
   },
   {
     "shop": "OLB Sports",
@@ -206527,7 +206827,7 @@
     "price": 24.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-whey-delicious-strawberry-450gr/",
-    "previous_price": null
+    "previous_price": 24.99
   },
   {
     "shop": "OLB Sports",
@@ -206537,7 +206837,7 @@
     "price": 124.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/fairtex-scheenbeschermer-fxb-sg-black-pink/",
-    "previous_price": null
+    "previous_price": 124.95
   },
   {
     "shop": "OLB Sports",
@@ -206547,7 +206847,7 @@
     "price": 124.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/fairtex-scheenbeschermer-fxb-sg-black-pink/",
-    "previous_price": null
+    "previous_price": 124.95
   },
   {
     "shop": "OLB Sports",
@@ -206557,7 +206857,7 @@
     "price": 124.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/fairtex-scheenbeschermer-fxb-sg-black-pink/",
-    "previous_price": null
+    "previous_price": 124.95
   },
   {
     "shop": "OLB Sports",
@@ -206567,7 +206867,7 @@
     "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/fairtex-bokshandschoenen-fxb-bg-v2-black-pink/",
-    "previous_price": null
+    "previous_price": 169.95
   },
   {
     "shop": "OLB Sports",
@@ -206577,7 +206877,7 @@
     "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/fairtex-bokshandschoenen-fxb-bg-v2-black-pink/",
-    "previous_price": null
+    "previous_price": 169.95
   },
   {
     "shop": "OLB Sports",
@@ -206587,17 +206887,7 @@
     "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/fairtex-bokshandschoenen-fxb-bg-v2-black-pink/",
-    "previous_price": null
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Fairtex",
-    "product": "Fairtex Bokshandschoenen FXB BG V2 Black/Pink",
-    "size": "16oz",
-    "price": 169.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/fairtex-bokshandschoenen-fxb-bg-v2-black-pink/",
-    "previous_price": null
+    "previous_price": 169.95
   },
   {
     "shop": "OLB Sports",
@@ -206607,7 +206897,7 @@
     "price": 44.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-whey-delicious-strawberry-1kg/",
-    "previous_price": null
+    "previous_price": 44.99
   },
   {
     "shop": "OLB Sports",
@@ -206617,7 +206907,7 @@
     "price": 44.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-whey-delicious-cookies-cream-1kg/",
-    "previous_price": null
+    "previous_price": 44.99
   },
   {
     "shop": "OLB Sports",
@@ -206627,7 +206917,7 @@
     "price": 129.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolaat-aardbei-2-5kg/",
-    "previous_price": null
+    "previous_price": 129.99
   },
   {
     "shop": "OLB Sports",
@@ -206637,7 +206927,7 @@
     "price": 129.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolaat-chocolade-2-5kg/",
-    "previous_price": null
+    "previous_price": 129.99
   },
   {
     "shop": "OLB Sports",
@@ -206647,7 +206937,7 @@
     "price": 24.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-kickboksbroek-splash-groen/",
-    "previous_price": null
+    "previous_price": 24.99
   },
   {
     "shop": "OLB Sports",
@@ -206657,7 +206947,7 @@
     "price": 24.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-kickboksbroek-splash-groen/",
-    "previous_price": null
+    "previous_price": 24.99
   },
   {
     "shop": "OLB Sports",
@@ -206667,7 +206957,7 @@
     "price": 19.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/applied-nutrition-aakg-3200mg/",
-    "previous_price": null
+    "previous_price": 19.99
   },
   {
     "shop": "OLB Sports",
@@ -206677,7 +206967,7 @@
     "price": 29.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/stacker-amino-xplode-10-000/",
-    "previous_price": null
+    "previous_price": 29.99
   },
   {
     "shop": "OLB Sports",
@@ -206687,7 +206977,7 @@
     "price": 39.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/stacker-testo-booster-4hd/",
-    "previous_price": null
+    "previous_price": 39.99
   },
   {
     "shop": "OLB Sports",
@@ -207644,16 +207934,6 @@
     "brand": "Joya",
     "product": "Joya Gear Scheenbeschermers Pro Black/Gold",
     "size": "l",
-    "price": 79.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-scheenbeschermers-pro-black-gold/",
-    "previous_price": 79.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Gear Scheenbeschermers Pro Black/Gold",
-    "size": "m",
     "price": 79.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-scheenbeschermers-pro-black-gold/",
@@ -211147,7 +211427,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-bokshandschoenen-power-100-black-pink/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -215892,6 +216172,16 @@
   {
     "shop": "OLB Sports",
     "brand": "1916",
+    "product": "1916 Fight Gear Bokshandschoenen The Tattooed Legend Brown",
+    "size": "14oz",
+    "price": 129.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-fight-gear-bokshandschoenen-the-tattooed-legend-brown/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "1916",
     "product": "1916 Fight Gear Bokshandschoenen The Tattooed Legend Black",
     "size": "16oz",
     "price": 129.95,
@@ -216094,16 +216384,6 @@
     "brand": "Youth",
     "product": "Youth Fighters T-Shirt Kids Wolves",
     "size": "128",
-    "price": 29.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/youth-fighters-t-shirt-kids-wolves/",
-    "previous_price": 29.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Youth",
-    "product": "Youth Fighters T-Shirt Kids Wolves",
-    "size": "140",
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/youth-fighters-t-shirt-kids-wolves/",
@@ -216477,7 +216757,7 @@
     "price": 39.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-bokshandschoenen-combat-50-black-black/",
-    "previous_price": null
+    "previous_price": 39.99
   },
   {
     "shop": "OLB Sports",
@@ -216497,7 +216777,7 @@
     "price": 39.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-bokshandschoenen-combat-50-green-black/",
-    "previous_price": null
+    "previous_price": 39.99
   },
   {
     "shop": "OLB Sports",
@@ -216507,7 +216787,7 @@
     "price": 39.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-bokshandschoenen-combat-50-green-black/",
-    "previous_price": null
+    "previous_price": 39.99
   },
   {
     "shop": "OLB Sports",
@@ -216793,16 +217073,6 @@
     "shop": "OLB Sports",
     "brand": "Adidas",
     "product": "Adidas Binnenhandschoenen Speed Padded  black/black",
-    "size": "m",
-    "price": 14.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/adidas-binnenhandschoenen-speed-padded-black-black/",
-    "previous_price": 14.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Adidas",
-    "product": "Adidas Binnenhandschoenen Speed Padded  black/black",
     "size": "xl",
     "price": 14.95,
     "in_stock": true,
@@ -217028,6 +217298,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-matupa-muay-thai-shorts-black-red-silver/",
     "previous_price": 69.99
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Venum",
+    "product": "Venum Matupa Muay Thai Shorts Black/Red/Silver",
+    "size": "xxl",
+    "price": 69.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/venum-matupa-muay-thai-shorts-black-red-silver/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -217498,6 +217778,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/youth-fighters-scheenbeschermers-kids-queen-panda/",
     "previous_price": 49.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Youth",
+    "product": "Youth Fighters Scheenbeschermers Kids Queen Panda",
+    "size": "yxl",
+    "price": 49.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/youth-fighters-scheenbeschermers-kids-queen-panda/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -218411,13 +218701,13 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "King",
-    "product": "King Springtouw Titan",
-    "size": "One Size",
-    "price": 29.95,
+    "brand": "Venum",
+    "product": "Venum G-Fit Air Rashguard Long Sleeve Black",
+    "size": "l",
+    "price": 54.99,
     "in_stock": true,
-    "url": "https://olbsports.nl/product/king-springtouw-titan/",
-    "previous_price": 29.95
+    "url": "https://olbsports.nl/product/venum-g-fit-air-rashguard-long-sleeve-black/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -218654,16 +218944,6 @@
     "brand": "Venum",
     "product": "Venum Wolf Atak T-Shirt Black/Red",
     "size": "s",
-    "price": 29.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-wolf-atak-t-shirt-black-red/",
-    "previous_price": 29.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Wolf Atak T-Shirt Black/Red",
-    "size": "m",
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-wolf-atak-t-shirt-black-red/",
@@ -220441,16 +220721,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Sporttas Butterfly Junior Goud",
-    "size": "One Size",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-sporttas-butterfly-junior-goud/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "Super",
     "product": "Super Pro Bokshandschoenen Bruiser Zwart",
     "size": "12oz",
@@ -220648,6 +220918,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-black-white/",
     "previous_price": 119.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Everlast",
+    "product": "Everlast Boksschoenen Elite 2 Navy",
+    "size": "43",
+    "price": 139.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/everlast-boksschoenen-elite-2-navy/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -221611,16 +221891,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "Shock",
-    "product": "Shock Doctor Gebitsbeschermer Brace Roze",
-    "size": "One Size",
-    "price": 25.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/shock-doctor-gebitsbeschermer-brace-roze/",
-    "previous_price": 25.95
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "1916",
     "product": "1916 Fight Gear Bokshandschoenen Ultimate Black/White",
     "size": "12oz",
@@ -221684,7 +221954,7 @@
     "brand": "1916",
     "product": "1916 Fight Gear Premium Elite Bokszak 170cm Black",
     "size": "One Size",
-    "price": 450.0,
+    "price": 350.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-premium-elite-bokszak-170cm-black/",
     "previous_price": 450.0
@@ -221918,6 +222188,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/youth-fighters-scheenbeschermers-kids-monkey/",
     "previous_price": 49.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Youth",
+    "product": "Youth Fighters Gymbag Kids Black",
+    "size": "One Size",
+    "price": 39.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/youth-fighters-gymbag-kids-black/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -222218,6 +222498,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/enfusion-faded-t-shirt-pink/",
     "previous_price": 29.99
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Enfusion",
+    "product": "Enfusion Basic T-shirt White",
+    "size": "m",
+    "price": 29.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/enfusion-basic-t-shirt-white/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -222577,7 +222867,7 @@
     "price": 249.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fightgear-anglebag-zwart-120cm/",
-    "previous_price": null
+    "previous_price": 249.95
   },
   {
     "shop": "OLB Sports",
@@ -222668,6 +222958,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/energia-fightwear-rashguard-long-sleeve-akai/",
     "previous_price": 59.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Venum",
+    "product": "Venum T-Shirt Dragon Flight Charcoal Grey/Cream White",
+    "size": "l",
+    "price": 34.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/venum-t-shirt-dragon-flight-charcoal-grey-cream-white/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -222853,16 +223153,6 @@
     "shop": "OLB Sports",
     "brand": "Venum",
     "product": "Venum Rashguard Long Sleeve Tactical XT Black/Fire Red",
-    "size": "l",
-    "price": 59.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-rashguard-long-sleeve-tactical-xt-black-fire-red/",
-    "previous_price": 59.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Rashguard Long Sleeve Tactical XT Black/Fire Red",
     "size": "m",
     "price": 59.95,
     "in_stock": true,
@@ -222888,6 +223178,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-scheenbeschermers-tactical-xt-black-fire-red/",
     "previous_price": 119.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Venum",
+    "product": "Venum Vale Tudo Shorts Tactical XT Black/Fire Red",
+    "size": "m",
+    "price": 44.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/venum-vale-tudo-shorts-tactical-xt-black-fire-red/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -224797,7 +225097,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-bokshandschoenen-kpb-bg-hanya-red/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -224807,7 +225107,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-bokshandschoenen-kpb-bg-hanya-red/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -224817,7 +225117,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-bokshandschoenen-kpb-bg-hanya-gold/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -224827,7 +225127,7 @@
     "price": 109.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-bokshandschoenen-kpb-bg-hanya-gold/",
-    "previous_price": null
+    "previous_price": 109.95
   },
   {
     "shop": "OLB Sports",
@@ -225193,6 +225493,16 @@
     "shop": "OLB Sports",
     "brand": "Venum",
     "product": "Venum Fightshort G-Fit Air Black",
+    "size": "l",
+    "price": 59.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/venum-fightshort-g-fit-air-black/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Venum",
+    "product": "Venum Fightshort G-Fit Air Black",
     "size": "xxl",
     "price": 59.99,
     "in_stock": true,
@@ -225257,7 +225567,7 @@
     "price": 29.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-spats-santa-muerte-5-0-deep-black-gold/",
-    "previous_price": 29.95
+    "previous_price": 29.99
   },
   {
     "shop": "OLB Sports",
@@ -225277,7 +225587,7 @@
     "price": 29.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-spats-gladiator-5-0-black-silver/",
-    "previous_price": 39.99
+    "previous_price": 29.99
   },
   {
     "shop": "OLB Sports",
@@ -225354,16 +225664,6 @@
     "brand": "Booster",
     "product": "Booster Bokshandschoenen BGF Alpha Black",
     "size": "12oz",
-    "price": 39.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/booster-bokshandschoenen-bgf-alpha-black/",
-    "previous_price": 39.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Booster",
-    "product": "Booster Bokshandschoenen BGF Alpha Black",
-    "size": "4oz",
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoenen-bgf-alpha-black/",
@@ -225637,7 +225937,7 @@
     "price": 34.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/ufc-venum-spats-blue/",
-    "previous_price": 39.99
+    "previous_price": 34.99
   },
   {
     "shop": "OLB Sports",
@@ -225647,7 +225947,7 @@
     "price": 34.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/ufc-venum-spats-blue/",
-    "previous_price": 39.99
+    "previous_price": 34.99
   },
   {
     "shop": "OLB Sports",
@@ -225957,7 +226257,7 @@
     "price": 24.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-scheenbeschermers-combat-series-kids-rood/",
-    "previous_price": null
+    "previous_price": 24.99
   },
   {
     "shop": "OLB Sports",
@@ -225967,7 +226267,7 @@
     "price": 24.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-scheenbeschermers-combat-series-kids-rood/",
-    "previous_price": null
+    "previous_price": 24.99
   },
   {
     "shop": "OLB Sports",
@@ -225977,7 +226277,7 @@
     "price": 24.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-scheenbeschermers-combat-series-kids-rood/",
-    "previous_price": null
+    "previous_price": 24.99
   },
   {
     "shop": "OLB Sports",
@@ -226334,7 +226634,7 @@
     "brand": "Stanno",
     "product": "Stanno Plaza Brush Trainingsbroek Stormy Grey",
     "size": "s",
-    "price": 47.99,
+    "price": 34.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/stanno-plaza-brush-trainingsbroek-stormy-grey/",
     "previous_price": 47.99
@@ -226344,7 +226644,7 @@
     "brand": "Stanno",
     "product": "Stanno Plaza Brush Hooded Half Zip Top Stormy Grey",
     "size": "m",
-    "price": 54.99,
+    "price": 44.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/stanno-plaza-brush-hooded-half-zip-top-stormy-grey/",
     "previous_price": 54.99
@@ -226354,7 +226654,7 @@
     "brand": "Stanno",
     "product": "Stanno Plaza Brush Hooded Half Zip Top Stormy Grey",
     "size": "s",
-    "price": 54.99,
+    "price": 44.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/stanno-plaza-brush-hooded-half-zip-top-stormy-grey/",
     "previous_price": 54.99
@@ -226718,6 +227018,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/everlast-boksschoenen-elite-2-red/",
     "previous_price": 139.99
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Everlast",
+    "product": "Everlast Boksschoenen Elite 2 Red",
+    "size": "43",
+    "price": 139.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/everlast-boksschoenen-elite-2-red/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -227197,7 +227507,7 @@
     "price": 29.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-attack-spats-black/",
-    "previous_price": 39.99
+    "previous_price": 29.99
   },
   {
     "shop": "OLB Sports",
@@ -227632,16 +227942,6 @@
   {
     "shop": "OLB Sports",
     "brand": "UFC",
-    "product": "UFC Venum Classic T-Shirt Black/Gold",
-    "size": "m",
-    "price": 26.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/ufc-venum-classic-t-shirt-black-gold/",
-    "previous_price": 26.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "UFC",
     "product": "UFC Venum Classic T-Shirt Black/Red",
     "size": "xxl",
     "price": 26.99,
@@ -227757,7 +228057,7 @@
     "price": 29.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/ufc-venum-fight-week-spats-urban-camo/",
-    "previous_price": 39.99
+    "previous_price": 29.99
   },
   {
     "shop": "OLB Sports",
@@ -227767,7 +228067,7 @@
     "price": 29.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/ufc-venum-fight-week-spats-urban-camo/",
-    "previous_price": 39.99
+    "previous_price": 29.99
   },
   {
     "shop": "OLB Sports",
@@ -227778,6 +228078,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-contender-spats-grey/",
     "previous_price": 49.99
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Venum",
+    "product": "Venum Contender Rashguard Long Sleeve Black/White",
+    "size": "m",
+    "price": 54.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/venum-contender-rashguard-long-sleeve-black-white/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -228987,7 +229297,7 @@
     "price": 119.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoenen-kpb-bg-baron/",
-    "previous_price": null
+    "previous_price": 119.95
   },
   {
     "shop": "OLB Sports",
@@ -229607,7 +229917,7 @@
     "price": 19.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/super-pro-shirt-kids-wolf/",
-    "previous_price": 24.95
+    "previous_price": 19.99
   },
   {
     "shop": "OLB Sports",
@@ -229637,7 +229947,7 @@
     "price": 29.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/super-pro-kickboksbroek-kids-bear/",
-    "previous_price": null
+    "previous_price": 29.99
   },
   {
     "shop": "OLB Sports",
@@ -229647,7 +229957,7 @@
     "price": 29.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/super-pro-kickboksbroek-kids-bear/",
-    "previous_price": 34.95
+    "previous_price": 29.99
   },
   {
     "shop": "OLB Sports",
@@ -229657,7 +229967,7 @@
     "price": 29.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/super-pro-kickboksbroek-kids-bear/",
-    "previous_price": null
+    "previous_price": 29.99
   },
   {
     "shop": "OLB Sports",
@@ -229852,12 +230162,42 @@
   {
     "shop": "OLB Sports",
     "brand": "King",
+    "product": "King Kickboksbroek KPB Storm 2",
+    "size": "l",
+    "price": 49.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/king-kickboksbroek-kpb-storm-2/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "King",
     "product": "King Kickboksbroek KPB Storm 1",
     "size": "m",
     "price": 49.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-kickboksbroek-kpb-storm-1/",
     "previous_price": 49.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "King",
+    "product": "King Kickboksbroek KPB Storm 1",
+    "size": "l",
+    "price": 49.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/king-kickboksbroek-kpb-storm-1/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Kickboksbroek AD Explosion 2",
+    "size": "s",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-kickboksbroek-ad-explosion-2/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -230078,6 +230418,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/shock-doctor-pelvic-protector/",
     "previous_price": 16.99
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "1916",
+    "product": "1916 Sporttas Youth Fighter Blue",
+    "size": "One Size",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-sporttas-youth-fighter-blue/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -230973,8 +231323,18 @@
     "shop": "OLB Sports",
     "brand": "1916",
     "product": "1916 Fight Gear Sleeveless Hoodie Black",
+    "size": "m",
+    "price": 49.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-fight-gear-sleeveless-hoodie-black/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "1916",
+    "product": "1916 Fight Gear Sleeveless Hoodie Black",
     "size": "l",
-    "price": 69.95,
+    "price": 49.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-sleeveless-hoodie-black/",
     "previous_price": 69.95
@@ -231092,6 +231452,16 @@
   {
     "shop": "OLB Sports",
     "brand": "1916",
+    "product": "1916 Fight Gear Shirt Glory Grijs",
+    "size": "l",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-fight-gear-shirt-glory-grijs/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "1916",
     "product": "1916 Fight Gear Kickboksbroek Glory Zwart/Grijs",
     "size": "m",
     "price": 39.95,
@@ -231158,6 +231528,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-bjj-gi-reorg-sand/",
     "previous_price": 119.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Venum",
+    "product": "Venum BJJ Gi Reorg White",
+    "size": "a2",
+    "price": 119.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/venum-bjj-gi-reorg-white/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -233482,6 +233862,16 @@
   {
     "shop": "OLB Sports",
     "brand": "1916",
+    "product": "1916 Fight Gear Kickboksbroek Glory Zwart/Groen",
+    "size": "m",
+    "price": 39.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-fight-gear-kickboksbroek-glory-zwart-groen/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "1916",
     "product": "1916 Fight Gear Shirt Glory Zwart",
     "size": "xxl",
     "price": 29.95,
@@ -234282,6 +234672,16 @@
   {
     "shop": "OLB Sports",
     "brand": "1916",
+    "product": "1916 Fight Gear Hoofdkap Leer Zwart",
+    "size": "m",
+    "price": 99.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-fight-gear-hoofdkap-leer-zwart/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "1916",
     "product": "1916 Fight Gear Legend Bandage Zwart/Wit",
     "size": "350cm",
     "price": 10.99,
@@ -234468,6 +234868,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/energia-fight-wear-gi-blue/",
     "previous_price": 119.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Energia",
+    "product": "Energia Fight Wear BJJ Gi Blue",
+    "size": "a4",
+    "price": 119.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/energia-fight-wear-gi-blue/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -235107,7 +235517,7 @@
     "price": 24.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-kickboksbroek-dino-zilver/",
-    "previous_price": 29.95
+    "previous_price": 24.99
   },
   {
     "shop": "OLB Sports",
@@ -237617,7 +238027,7 @@
     "price": 34.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-scheenbeschermers-junior-marble-rood/",
-    "previous_price": 41.95
+    "previous_price": 34.99
   },
   {
     "shop": "OLB Sports",
@@ -237707,7 +238117,7 @@
     "price": 4.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-bidon/",
-    "previous_price": null
+    "previous_price": 4.95
   },
   {
     "shop": "OLB Sports",
@@ -237814,16 +238224,6 @@
     "brand": "Essimo",
     "product": "Essimo Judopak Koka Schouderembleem",
     "size": "130cm",
-    "price": 41.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/essimo-judopak-koka-schouderembleem/",
-    "previous_price": 41.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Essimo",
-    "product": "Essimo Judopak Koka Schouderembleem",
-    "size": "160cm",
     "price": 41.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/essimo-judopak-koka-schouderembleem/",
@@ -238491,6 +238891,16 @@
   },
   {
     "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Standaard Sporttas Zwart",
+    "size": "One Size",
+    "price": 45.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-standaard-sporttas-zwart-2-2/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
     "brand": "Shock",
     "product": "Shock Doctor Supporter Bioflex Cup",
     "size": "s",
@@ -238578,16 +238988,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-bokshandschoen-falcon-zwart/",
     "previous_price": 99.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "1916",
-    "product": "1916 Trapkussen Pro",
-    "size": "One Size",
-    "price": 79.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/1916-trapkussen-pro/",
-    "previous_price": 79.95
   },
   {
     "shop": "OLB Sports",
@@ -239767,7 +240167,7 @@
     "price": 19.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-camo-t-shirt-camo-2/",
-    "previous_price": 24.95
+    "previous_price": 19.99
   },
   {
     "shop": "OLB Sports",
@@ -239777,7 +240177,7 @@
     "price": 19.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-camo-t-shirt-camo-2/",
-    "previous_price": null
+    "previous_price": 19.99
   },
   {
     "shop": "OLB Sports",
@@ -239787,7 +240187,7 @@
     "price": 19.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-camo-t-shirt-camo-2/",
-    "previous_price": 24.95
+    "previous_price": 19.99
   },
   {
     "shop": "OLB Sports",
@@ -239797,7 +240197,7 @@
     "price": 19.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-camo-t-shirt-camo-3/",
-    "previous_price": 24.95
+    "previous_price": 19.99
   },
   {
     "shop": "OLB Sports",
@@ -239807,7 +240207,7 @@
     "price": 19.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-camo-t-shirt-camo-3/",
-    "previous_price": 24.95
+    "previous_price": 19.99
   },
   {
     "shop": "OLB Sports",
