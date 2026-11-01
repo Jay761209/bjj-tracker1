@@ -59815,7 +59815,7 @@
     "product": "Arrhichion Shorts",
     "size": "L",
     "price": 54.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-shorts",
     "previous_price": 54.99
   },
@@ -59955,7 +59955,7 @@
     "product": "Arrhichion No-Gi Kit",
     "size": "S / L",
     "price": 99.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/arrhichion-no-gi-kit",
     "previous_price": 99.99
   },
@@ -81695,7 +81695,7 @@
     "product": "Aeroweave Ultralight Gi",
     "size": "A2H / White",
     "price": 133.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/aeroweave-ultralight-gi",
     "previous_price": 133.99
   },
@@ -81895,7 +81895,7 @@
     "product": "Aeroweave Ultralight Gi",
     "size": "A3L / White",
     "price": 133.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/aeroweave-ultralight-gi",
     "previous_price": 133.99
   },
@@ -85225,7 +85225,7 @@
     "product": "Kingz Jiu Jitsu Squad V2 Men's Hoodie",
     "size": "Sea Foam / M",
     "price": 70.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/jiu-jitsu-squad-v2-hoodie",
     "previous_price": 70.0
   },
@@ -91375,7 +91375,7 @@
     "product": "Kore V2 Jiu Jitsu Gi Gi - Blue - 2023 Edition",
     "size": "A0 / Blue",
     "price": 70.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-2-0-gi-blue",
     "previous_price": 70.0
   },
@@ -93725,7 +93725,7 @@
     "product": "Kingz Ranked Performance V3 Men's Long Sleeve Rashguard",
     "size": "XL / Purple",
     "price": 50.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/ranked-performance-v3-l-s-rashguard",
     "previous_price": 50.0
   },
@@ -105705,7 +105705,7 @@
     "product": "Kingz Nano 3.0 Men's BJJ Gi - Blue",
     "size": "A2L",
     "price": 110.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/nano-3-0-jiu-jitsu-gi-blue",
     "previous_price": 110.0
   },
@@ -108027,7 +108027,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108037,7 +108037,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108047,7 +108047,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108057,7 +108057,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108067,7 +108067,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108077,7 +108077,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108087,7 +108087,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108097,7 +108097,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108107,7 +108107,7 @@
     "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108117,7 +108117,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108127,7 +108127,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108137,7 +108137,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108147,7 +108147,7 @@
     "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108157,7 +108157,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108167,7 +108167,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108177,7 +108177,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108187,7 +108187,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108197,7 +108197,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108207,7 +108207,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108217,7 +108217,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108227,7 +108227,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108237,7 +108237,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108247,7 +108247,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -108257,7 +108257,7 @@
     "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/lite-comp-belt",
-    "previous_price": null
+    "previous_price": 20.0
   },
   {
     "shop": "Kingz Europe",
@@ -125865,7 +125865,7 @@
     "product": "Japanese Street Art Shirt Red",
     "size": "L",
     "price": 29.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/japanese-street-art-shirt-red",
     "previous_price": 29.95
   },
@@ -171425,7 +171425,7 @@
     "product": "Euro Competition Judo Gi White",
     "size": "3.5",
     "price": 139.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/euro-competition-judo-gi",
     "previous_price": 139.95
   },
@@ -180415,7 +180415,7 @@
     "product": "Baseline Grappling Spats V2",
     "size": "L",
     "price": 59.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/baseline-grappling-spats-v2",
     "previous_price": 59.95
   },
@@ -183495,7 +183495,7 @@
     "product": "Adidas Power 100 Bokshandschoenen - Zwart/Zwart",
     "size": "14 oz",
     "price": 39.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/adidas-power-100-bokshandschoenen-zwart-zwart",
     "previous_price": 39.95
   },
@@ -187095,7 +187095,7 @@
     "product": "Hayabusa Athletic Zip-Up Performance Hoodie - Heren - Lichtgrijs",
     "size": "M",
     "price": 159.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-athletic-zip-up-performance-hoodie-heren-lichtgrijs",
     "previous_price": 159.99
   },
@@ -208101,16 +208101,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "Adidas",
-    "product": "Adidas Worstelschoenen Havoc Plus Core Black",
-    "size": "47-1-3",
-    "price": 64.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-core-black/",
-    "previous_price": 64.95
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "Hayabusa",
     "product": "Hayabusa Bokshandschoenen T3 Kanpeki Walnut Brown",
     "size": "12oz",
@@ -215277,7 +215267,7 @@
     "price": 49.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-elite-mma-short-red/",
-    "previous_price": null
+    "previous_price": 49.95
   },
   {
     "shop": "OLB Sports",
@@ -215337,7 +215327,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-elite-mma-shirt-black/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -215357,7 +215347,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-elite-mma-shirt-blue/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -216977,7 +216967,7 @@
     "price": 49.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-mma-handschoenen-combat-50-black-black/",
-    "previous_price": null
+    "previous_price": 49.95
   },
   {
     "shop": "OLB Sports",
@@ -217247,7 +217237,7 @@
     "price": 59.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-matupa-long-sleeve-rashguard-black-grey-gold/",
-    "previous_price": null
+    "previous_price": 59.99
   },
   {
     "shop": "OLB Sports",
@@ -217267,7 +217257,7 @@
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-matupa-spats-black-grey-gold/",
-    "previous_price": null
+    "previous_price": 54.99
   },
   {
     "shop": "OLB Sports",
@@ -218627,7 +218617,7 @@
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-kpb-revo-2-shirt-zwart-goud/",
-    "previous_price": null
+    "previous_price": 29.95
   },
   {
     "shop": "OLB Sports",
@@ -220457,7 +220447,7 @@
     "price": 49.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-x-rws-2-0-muay-thai-shorts-black-red/",
-    "previous_price": null
+    "previous_price": 49.99
   },
   {
     "shop": "OLB Sports",
@@ -220467,7 +220457,7 @@
     "price": 49.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-x-rws-2-0-muay-thai-shorts-black-red/",
-    "previous_price": null
+    "previous_price": 49.99
   },
   {
     "shop": "OLB Sports",
@@ -220507,7 +220497,7 @@
     "price": 39.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-x-mike-tyson-tiger-trainingshort-white-deep-black/",
-    "previous_price": null
+    "previous_price": 39.99
   },
   {
     "shop": "OLB Sports",
@@ -220944,16 +220934,6 @@
     "brand": "Adidas",
     "product": "Adidas Boksschoenen Speedex 23 Black",
     "size": "44",
-    "price": 169.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/adidas-boksschoenen-speedex-23-black/",
-    "previous_price": 169.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Adidas",
-    "product": "Adidas Boksschoenen Speedex 23 Black",
-    "size": "45-1-3",
     "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-speedex-23-black/",
@@ -221827,7 +221807,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-kickboksbroek-legend-army-green-black/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -221997,7 +221977,7 @@
     "price": 350.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-premium-elite-bokszak-170cm-white/",
-    "previous_price": 450.0
+    "previous_price": 350.0
   },
   {
     "shop": "OLB Sports",
@@ -222007,7 +221987,7 @@
     "price": 369.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-premium-elite-bokszak-170cm-maroon/",
-    "previous_price": 479.95
+    "previous_price": 369.95
   },
   {
     "shop": "OLB Sports",
@@ -222027,7 +222007,7 @@
     "price": 299.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-premium-elite-bokszak-135cm-white/",
-    "previous_price": 379.95
+    "previous_price": 299.95
   },
   {
     "shop": "OLB Sports",
@@ -222037,7 +222017,7 @@
     "price": 299.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-premium-elite-bokszak-135cm-black/",
-    "previous_price": 379.95
+    "previous_price": 299.95
   },
   {
     "shop": "OLB Sports",
@@ -222487,7 +222467,7 @@
     "price": 28.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-muscle-grow-watermelon/",
-    "previous_price": null
+    "previous_price": 28.99
   },
   {
     "shop": "OLB Sports",
@@ -223087,7 +223067,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-kickboksbroek-camo-v2-goud/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -223487,7 +223467,7 @@
     "price": 43.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoenen-combat-serie-kids-groen/",
-    "previous_price": null
+    "previous_price": 43.95
   },
   {
     "shop": "OLB Sports",
@@ -224467,7 +224447,7 @@
     "price": 119.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-bokshandschoenen-ultimate-black/",
-    "previous_price": null
+    "previous_price": 119.95
   },
   {
     "shop": "OLB Sports",
@@ -224518,16 +224498,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/shock-doctor-gebitsbeschermer-brace-blauw/",
     "previous_price": 25.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Opro",
-    "product": "Opro Gebitsbeschermers Instant Custom Dentist Fit Ogen Groen",
-    "size": "One Size",
-    "price": 49.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/opro-gebitsbeschermers-instant-custom-dentist-fit-ogen/",
-    "previous_price": 49.99
   },
   {
     "shop": "OLB Sports",
@@ -224817,7 +224787,7 @@
     "price": 29.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/enfusion-t-shirt-black-green/",
-    "previous_price": null
+    "previous_price": 29.99
   },
   {
     "shop": "OLB Sports",
@@ -224867,7 +224837,7 @@
     "price": 29.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-ultimate-shirt-wit/",
-    "previous_price": null
+    "previous_price": 29.99
   },
   {
     "shop": "OLB Sports",
@@ -225017,7 +224987,7 @@
     "price": 42.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-pro-boxing-kickboksbroek-bangkok-1-black/",
-    "previous_price": null
+    "previous_price": 42.95
   },
   {
     "shop": "OLB Sports",
@@ -225137,7 +225107,7 @@
     "price": 69.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-bokshandschoenen-hybrid-2-0-zwart-wit/",
-    "previous_price": null
+    "previous_price": 69.95
   },
   {
     "shop": "OLB Sports",
@@ -225523,16 +225493,6 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Kickboksbroek Butterfly Goud",
-    "size": "xs",
-    "price": 29.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-kickboksbroek-butterfly-goud/",
-    "previous_price": 29.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Kickboksbroek Butterfly Goud",
     "size": "s",
     "price": 29.95,
     "in_stock": true,
@@ -225597,7 +225557,7 @@
     "price": 89.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-scheenbeschermers-eagle-black/",
-    "previous_price": null
+    "previous_price": 89.95
   },
   {
     "shop": "OLB Sports",
@@ -225757,7 +225717,7 @@
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-scheenbeschermers-alpha-kids-black/",
-    "previous_price": null
+    "previous_price": 29.95
   },
   {
     "shop": "OLB Sports",
@@ -225847,7 +225807,7 @@
     "price": 99.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-bokshandschoen-falcon-white-gold/",
-    "previous_price": null
+    "previous_price": 99.95
   },
   {
     "shop": "OLB Sports",
@@ -225908,16 +225868,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-speed-mitts-pads-ultimate-black/",
     "previous_price": 119.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "King",
-    "product": "King Pro Boxing Kickboksbroek Hanya Red",
-    "size": "xl",
-    "price": 39.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/king-pro-boxing-kickboksbroek-hanya-red/",
-    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -226127,7 +226077,7 @@
     "price": 119.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-scheenbeschermers-ultimate-green/",
-    "previous_price": null
+    "previous_price": 119.95
   },
   {
     "shop": "OLB Sports",
@@ -226177,7 +226127,7 @@
     "price": 119.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-bokshandschoenen-ultimate-green/",
-    "previous_price": null
+    "previous_price": 119.95
   },
   {
     "shop": "OLB Sports",
@@ -226357,7 +226307,7 @@
     "price": 43.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoenen-combat-serie-kids-goud/",
-    "previous_price": null
+    "previous_price": 43.95
   },
   {
     "shop": "OLB Sports",
@@ -226647,7 +226597,7 @@
     "price": 2.5,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-crunchy-protein-bar-peanut-butter/",
-    "previous_price": null
+    "previous_price": 2.5
   },
   {
     "shop": "OLB Sports",
@@ -229167,7 +229117,7 @@
     "price": 139.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-scheenbeschermer-sgl-7-rood/",
-    "previous_price": null
+    "previous_price": 139.95
   },
   {
     "shop": "OLB Sports",
@@ -230187,7 +230137,7 @@
     "price": 205.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/rival-bokshandschoen-rs11v-blauw/",
-    "previous_price": null
+    "previous_price": 205.0
   },
   {
     "shop": "OLB Sports",
@@ -230247,7 +230197,7 @@
     "price": 129.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-speedex-23-groen/",
-    "previous_price": null
+    "previous_price": 129.99
   },
   {
     "shop": "OLB Sports",
@@ -230797,7 +230747,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-kickboksbroek-youth-fighter-pink/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -230937,7 +230887,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-scheenbeschermers-youth-fighter-gold/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -230977,7 +230927,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-scheenbeschermers-youth-fighter-black/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -231007,7 +230957,7 @@
     "price": 43.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-bokshandschoenen-youth-fighter-gold/",
-    "previous_price": null
+    "previous_price": 43.95
   },
   {
     "shop": "OLB Sports",
@@ -231397,7 +231347,7 @@
     "price": 69.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-bokshandschoen-hybrid-2-0-grijs/",
-    "previous_price": null
+    "previous_price": 69.95
   },
   {
     "shop": "OLB Sports",
@@ -234067,7 +234017,7 @@
     "price": 54.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolate-zero-vanille/",
-    "previous_price": null
+    "previous_price": 54.99
   },
   {
     "shop": "OLB Sports",
@@ -234187,7 +234137,7 @@
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-shirt-glory-rood/",
-    "previous_price": null
+    "previous_price": 29.95
   },
   {
     "shop": "OLB Sports",
@@ -234197,7 +234147,7 @@
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-shirt-glory-rood/",
-    "previous_price": null
+    "previous_price": 29.95
   },
   {
     "shop": "OLB Sports",
@@ -234277,7 +234227,7 @@
     "price": 29.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-creatine-caps-1250mg/",
-    "previous_price": null
+    "previous_price": 29.99
   },
   {
     "shop": "OLB Sports",
@@ -234417,7 +234367,7 @@
     "price": 129.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-trainingspak-bordeaux/",
-    "previous_price": null
+    "previous_price": 129.95
   },
   {
     "shop": "OLB Sports",
@@ -236557,7 +236507,7 @@
     "price": 24.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-whey-delicious-cookies-cream-450gr/",
-    "previous_price": null
+    "previous_price": 24.99
   },
   {
     "shop": "OLB Sports",
@@ -237137,7 +237087,7 @@
     "price": 17.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/lmx-springtouw-leer/",
-    "previous_price": null
+    "previous_price": 17.95
   },
   {
     "shop": "OLB Sports",
@@ -237147,7 +237097,7 @@
     "price": 28.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-mega-grow-orange/",
-    "previous_price": null
+    "previous_price": 28.99
   },
   {
     "shop": "OLB Sports",
@@ -237687,7 +237637,7 @@
     "price": 36.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-weight-gainer-strawberry/",
-    "previous_price": null
+    "previous_price": 36.99
   },
   {
     "shop": "OLB Sports",
@@ -237707,7 +237657,7 @@
     "price": 36.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-weight-gainer-banaan/",
-    "previous_price": null
+    "previous_price": 36.99
   },
   {
     "shop": "OLB Sports",
@@ -238387,7 +238337,7 @@
     "price": 36.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-weight-gainer-vanille/",
-    "previous_price": null
+    "previous_price": 36.99
   },
   {
     "shop": "OLB Sports",
@@ -239287,7 +239237,7 @@
     "price": 24.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/shock-doctor-supporter-bioflex-cup/",
-    "previous_price": null
+    "previous_price": 24.95
   },
   {
     "shop": "OLB Sports",
@@ -239737,7 +239687,7 @@
     "price": 40.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/matsuru-superhand-zwart/",
-    "previous_price": null
+    "previous_price": 40.95
   },
   {
     "shop": "OLB Sports",
@@ -239767,7 +239717,7 @@
     "price": 45.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/matsuru-superfoot-zwart/",
-    "previous_price": null
+    "previous_price": 45.95
   },
   {
     "shop": "OLB Sports",
@@ -239847,7 +239797,7 @@
     "price": 41.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/matsuru-juvo-met-label/",
-    "previous_price": null
+    "previous_price": 41.95
   },
   {
     "shop": "OLB Sports",
@@ -239877,7 +239827,7 @@
     "price": 69.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/matsuru-judo-club-wit/",
-    "previous_price": null
+    "previous_price": 69.95
   },
   {
     "shop": "OLB Sports",
@@ -239887,7 +239837,7 @@
     "price": 69.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/matsuru-judo-club-wit/",
-    "previous_price": 73.95
+    "previous_price": 69.95
   },
   {
     "shop": "OLB Sports",
@@ -239897,7 +239847,7 @@
     "price": 69.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/matsuru-judo-club-wit/",
-    "previous_price": 73.95
+    "previous_price": 69.95
   },
   {
     "shop": "OLB Sports",
@@ -239907,7 +239857,7 @@
     "price": 69.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/matsuru-judo-club-wit/",
-    "previous_price": 73.95
+    "previous_price": 69.95
   },
   {
     "shop": "OLB Sports",
@@ -240138,16 +240088,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-bandage-wit-4m/",
     "previous_price": 9.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Bokshandschoen Elite Black",
-    "size": "14oz",
-    "price": 89.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-elite-bokshandschoen-zwart/",
-    "previous_price": 89.95
   },
   {
     "shop": "OLB Sports",
