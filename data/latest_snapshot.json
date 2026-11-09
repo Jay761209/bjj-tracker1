@@ -1645,7 +1645,7 @@
     "product": "Ground Force Blue Label BJJ Belt",
     "size": "A1 / Brown",
     "price": 12.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://bjjfightgear.com/products/ground-force-blue-label-bjj-belt",
     "previous_price": 12.0
   },
@@ -16135,7 +16135,7 @@
     "product": "Ground Game Samurai 2.0 Kids Rashguard Short Sleeve",
     "size": "158 cm",
     "price": 39.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-game-samurai-2-0-kids-rashguard-short-sleeve",
     "previous_price": 39.0
   },
@@ -18175,7 +18175,7 @@
     "product": "Ground Game Pro Pants Groin Guard",
     "size": "L",
     "price": 18.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-game-pro-pants-groin-guard",
     "previous_price": 18.0
   },
@@ -25527,7 +25527,7 @@
     "price": 47.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-2026-bjj-x-football-world-cup-brazil-short-sleeve",
-    "previous_price": 59.0
+    "previous_price": 47.0
   },
   {
     "shop": "StockBJJ",
@@ -25537,7 +25537,7 @@
     "price": 47.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-2026-bjj-x-football-world-cup-brazil-short-sleeve",
-    "previous_price": 59.0
+    "previous_price": 47.0
   },
   {
     "shop": "StockBJJ",
@@ -25547,7 +25547,7 @@
     "price": 47.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-2026-bjj-x-football-world-cup-brazil-short-sleeve",
-    "previous_price": 59.0
+    "previous_price": 47.0
   },
   {
     "shop": "StockBJJ",
@@ -25557,7 +25557,7 @@
     "price": 47.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-2026-bjj-x-football-world-cup-brazil-short-sleeve",
-    "previous_price": 59.0
+    "previous_price": 47.0
   },
   {
     "shop": "StockBJJ",
@@ -25567,7 +25567,7 @@
     "price": 47.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-2026-bjj-x-football-world-cup-france-short-sleeve-copia",
-    "previous_price": 59.0
+    "previous_price": 47.0
   },
   {
     "shop": "StockBJJ",
@@ -25577,7 +25577,7 @@
     "price": 47.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-2026-bjj-x-football-world-cup-france-short-sleeve-copia",
-    "previous_price": 59.0
+    "previous_price": 47.0
   },
   {
     "shop": "StockBJJ",
@@ -25587,7 +25587,7 @@
     "price": 47.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-2026-bjj-x-football-world-cup-france-short-sleeve-copia",
-    "previous_price": 59.0
+    "previous_price": 47.0
   },
   {
     "shop": "StockBJJ",
@@ -25597,7 +25597,7 @@
     "price": 47.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-2026-bjj-x-football-world-cup-france-short-sleeve-copia",
-    "previous_price": 59.0
+    "previous_price": 47.0
   },
   {
     "shop": "StockBJJ",
@@ -25607,7 +25607,7 @@
     "price": 47.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-2026-bjj-x-football-world-cup-spain-short-sleeve",
-    "previous_price": 59.0
+    "previous_price": 47.0
   },
   {
     "shop": "StockBJJ",
@@ -25617,7 +25617,7 @@
     "price": 47.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-2026-bjj-x-football-world-cup-spain-short-sleeve",
-    "previous_price": 59.0
+    "previous_price": 47.0
   },
   {
     "shop": "StockBJJ",
@@ -25627,7 +25627,7 @@
     "price": 47.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-2026-bjj-x-football-world-cup-spain-short-sleeve",
-    "previous_price": 59.0
+    "previous_price": 47.0
   },
   {
     "shop": "StockBJJ",
@@ -25637,7 +25637,7 @@
     "price": 47.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-2026-bjj-x-football-world-cup-spain-short-sleeve",
-    "previous_price": 59.0
+    "previous_price": 47.0
   },
   {
     "shop": "StockBJJ",
@@ -27907,7 +27907,7 @@
     "price": 50.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-moya-25-manga-corta-morado",
-    "previous_price": 59.9
+    "previous_price": 50.9
   },
   {
     "shop": "StockBJJ",
@@ -27917,7 +27917,7 @@
     "price": 50.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-moya-25-manga-corta-morado",
-    "previous_price": 59.9
+    "previous_price": 50.9
   },
   {
     "shop": "StockBJJ",
@@ -27927,7 +27927,7 @@
     "price": 50.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-moya-25-manga-corta-morado",
-    "previous_price": 59.9
+    "previous_price": 50.9
   },
   {
     "shop": "StockBJJ",
@@ -27937,7 +27937,7 @@
     "price": 50.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-moya-25-manga-corta-morado",
-    "previous_price": 59.9
+    "previous_price": 50.9
   },
   {
     "shop": "StockBJJ",
@@ -28027,7 +28027,7 @@
     "price": 54.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/moya-25-training-shorts-morado",
-    "previous_price": 64.9
+    "previous_price": 54.9
   },
   {
     "shop": "StockBJJ",
@@ -28037,7 +28037,7 @@
     "price": 54.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/moya-25-training-shorts-morado",
-    "previous_price": 64.9
+    "previous_price": 54.9
   },
   {
     "shop": "StockBJJ",
@@ -28047,7 +28047,7 @@
     "price": 54.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/moya-25-training-shorts-morado",
-    "previous_price": 64.9
+    "previous_price": 54.9
   },
   {
     "shop": "StockBJJ",
@@ -28057,7 +28057,7 @@
     "price": 54.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/moya-25-training-shorts-morado",
-    "previous_price": 64.9
+    "previous_price": 54.9
   },
   {
     "shop": "StockBJJ",
@@ -28067,7 +28067,7 @@
     "price": 54.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/moya-25-training-shorts-morado",
-    "previous_price": 64.9
+    "previous_price": 54.9
   },
   {
     "shop": "StockBJJ",
@@ -28077,7 +28077,7 @@
     "price": 54.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/moya-25-training-shorts-marron",
-    "previous_price": 64.9
+    "previous_price": 54.9
   },
   {
     "shop": "StockBJJ",
@@ -28087,7 +28087,7 @@
     "price": 54.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/moya-25-training-shorts-marron",
-    "previous_price": 64.9
+    "previous_price": 54.9
   },
   {
     "shop": "StockBJJ",
@@ -28097,7 +28097,7 @@
     "price": 54.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/moya-25-training-shorts-marron",
-    "previous_price": 64.9
+    "previous_price": 54.9
   },
   {
     "shop": "StockBJJ",
@@ -28107,7 +28107,7 @@
     "price": 54.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/moya-25-training-shorts-marron",
-    "previous_price": 64.9
+    "previous_price": 54.9
   },
   {
     "shop": "StockBJJ",
@@ -28117,7 +28117,7 @@
     "price": 54.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/moya-25-training-shorts-marron",
-    "previous_price": 64.9
+    "previous_price": 54.9
   },
   {
     "shop": "StockBJJ",
@@ -29905,7 +29905,7 @@
     "product": "Calm Tee",
     "size": "M",
     "price": 39.9,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/calm-tee",
     "previous_price": 39.9
   },
@@ -30057,7 +30057,7 @@
     "price": 67.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-kams-25-desert-ls",
-    "previous_price": 79.9
+    "previous_price": 67.9
   },
   {
     "shop": "StockBJJ",
@@ -30067,7 +30067,7 @@
     "price": 67.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-kams-25-desert-ls",
-    "previous_price": 79.9
+    "previous_price": 67.9
   },
   {
     "shop": "StockBJJ",
@@ -30077,7 +30077,7 @@
     "price": 67.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-kams-25-desert-ls",
-    "previous_price": 79.9
+    "previous_price": 67.9
   },
   {
     "shop": "StockBJJ",
@@ -30087,7 +30087,7 @@
     "price": 67.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-kams-25-desert-ls",
-    "previous_price": 79.9
+    "previous_price": 67.9
   },
   {
     "shop": "StockBJJ",
@@ -30097,7 +30097,7 @@
     "price": 54.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/moya-25-training-shorts-blanco",
-    "previous_price": 64.9
+    "previous_price": 54.9
   },
   {
     "shop": "StockBJJ",
@@ -30107,7 +30107,7 @@
     "price": 54.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/moya-25-training-shorts-blanco",
-    "previous_price": 64.9
+    "previous_price": 54.9
   },
   {
     "shop": "StockBJJ",
@@ -30117,7 +30117,7 @@
     "price": 54.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/moya-25-training-shorts-blanco",
-    "previous_price": 64.9
+    "previous_price": 54.9
   },
   {
     "shop": "StockBJJ",
@@ -30127,7 +30127,7 @@
     "price": 54.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/moya-25-training-shorts-blanco",
-    "previous_price": 64.9
+    "previous_price": 54.9
   },
   {
     "shop": "StockBJJ",
@@ -30137,7 +30137,7 @@
     "price": 54.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/moya-25-training-shorts-blanco",
-    "previous_price": 64.9
+    "previous_price": 54.9
   },
   {
     "shop": "StockBJJ",
@@ -30147,7 +30147,7 @@
     "price": 50.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-moya-25-manga-corta-blanco",
-    "previous_price": 59.9
+    "previous_price": 50.9
   },
   {
     "shop": "StockBJJ",
@@ -30157,7 +30157,7 @@
     "price": 50.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-moya-25-manga-corta-blanco",
-    "previous_price": 59.9
+    "previous_price": 50.9
   },
   {
     "shop": "StockBJJ",
@@ -30167,7 +30167,7 @@
     "price": 50.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-moya-25-manga-corta-blanco",
-    "previous_price": 59.9
+    "previous_price": 50.9
   },
   {
     "shop": "StockBJJ",
@@ -30177,7 +30177,7 @@
     "price": 50.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-moya-25-manga-corta-blanco",
-    "previous_price": 59.9
+    "previous_price": 50.9
   },
   {
     "shop": "StockBJJ",
@@ -30187,7 +30187,7 @@
     "price": 50.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-moya-25-manga-corta-blanco",
-    "previous_price": 59.9
+    "previous_price": 50.9
   },
   {
     "shop": "StockBJJ",
@@ -30237,7 +30237,7 @@
     "price": 179.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-kams-desert",
-    "previous_price": 209.9
+    "previous_price": 179.9
   },
   {
     "shop": "StockBJJ",
@@ -30247,7 +30247,7 @@
     "price": 179.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-kams-desert",
-    "previous_price": 209.9
+    "previous_price": 179.9
   },
   {
     "shop": "StockBJJ",
@@ -30257,7 +30257,7 @@
     "price": 179.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-kams-desert",
-    "previous_price": 209.9
+    "previous_price": 179.9
   },
   {
     "shop": "StockBJJ",
@@ -30267,7 +30267,7 @@
     "price": 179.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-kams-desert",
-    "previous_price": 209.9
+    "previous_price": 179.9
   },
   {
     "shop": "StockBJJ",
@@ -30277,7 +30277,7 @@
     "price": 179.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-kams-desert",
-    "previous_price": 209.9
+    "previous_price": 179.9
   },
   {
     "shop": "StockBJJ",
@@ -30287,7 +30287,7 @@
     "price": 179.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-kams-desert",
-    "previous_price": 209.9
+    "previous_price": 179.9
   },
   {
     "shop": "StockBJJ",
@@ -30297,7 +30297,7 @@
     "price": 179.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-kams-desert",
-    "previous_price": 209.9
+    "previous_price": 179.9
   },
   {
     "shop": "StockBJJ",
@@ -30307,7 +30307,7 @@
     "price": 179.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-kams-desert",
-    "previous_price": 209.9
+    "previous_price": 179.9
   },
   {
     "shop": "StockBJJ",
@@ -30317,7 +30317,7 @@
     "price": 179.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-kams-desert",
-    "previous_price": 209.9
+    "previous_price": 179.9
   },
   {
     "shop": "StockBJJ",
@@ -30327,7 +30327,7 @@
     "price": 179.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-hola-elvia-25",
-    "previous_price": 209.9
+    "previous_price": 179.9
   },
   {
     "shop": "StockBJJ",
@@ -30337,7 +30337,7 @@
     "price": 179.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-hola-elvia-25",
-    "previous_price": 209.9
+    "previous_price": 179.9
   },
   {
     "shop": "StockBJJ",
@@ -30347,7 +30347,7 @@
     "price": 179.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-hola-elvia-25",
-    "previous_price": 209.9
+    "previous_price": 179.9
   },
   {
     "shop": "StockBJJ",
@@ -30357,7 +30357,7 @@
     "price": 179.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-hola-elvia-25",
-    "previous_price": 209.9
+    "previous_price": 179.9
   },
   {
     "shop": "StockBJJ",
@@ -30367,7 +30367,7 @@
     "price": 179.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-hola-elvia-25",
-    "previous_price": 209.9
+    "previous_price": 179.9
   },
   {
     "shop": "StockBJJ",
@@ -30377,7 +30377,7 @@
     "price": 179.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-hola-elvia-25",
-    "previous_price": 209.9
+    "previous_price": 179.9
   },
   {
     "shop": "StockBJJ",
@@ -30387,7 +30387,7 @@
     "price": 179.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-hola-elvia-25",
-    "previous_price": 209.9
+    "previous_price": 179.9
   },
   {
     "shop": "StockBJJ",
@@ -30397,7 +30397,7 @@
     "price": 179.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-hola-elvia-25",
-    "previous_price": 209.9
+    "previous_price": 179.9
   },
   {
     "shop": "StockBJJ",
@@ -30407,7 +30407,7 @@
     "price": 179.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-hola-elvia-25",
-    "previous_price": 209.9
+    "previous_price": 179.9
   },
   {
     "shop": "StockBJJ",
@@ -30877,7 +30877,7 @@
     "price": 152.5,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2026-limited-edition-coral-gi-black",
-    "previous_price": 185.0
+    "previous_price": 152.5
   },
   {
     "shop": "StockBJJ",
@@ -30887,7 +30887,7 @@
     "price": 152.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2026-limited-edition-coral-gi-black",
-    "previous_price": 185.0
+    "previous_price": 152.5
   },
   {
     "shop": "StockBJJ",
@@ -30897,7 +30897,7 @@
     "price": 152.5,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2026-limited-edition-coral-gi-black",
-    "previous_price": 185.0
+    "previous_price": 152.5
   },
   {
     "shop": "StockBJJ",
@@ -30907,7 +30907,7 @@
     "price": 152.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2026-limited-edition-coral-gi-black",
-    "previous_price": 185.0
+    "previous_price": 152.5
   },
   {
     "shop": "StockBJJ",
@@ -30917,7 +30917,7 @@
     "price": 152.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2026-limited-edition-coral-gi-black",
-    "previous_price": 185.0
+    "previous_price": 152.5
   },
   {
     "shop": "StockBJJ",
@@ -30927,7 +30927,7 @@
     "price": 152.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2026-limited-edition-coral-gi-black",
-    "previous_price": 185.0
+    "previous_price": 152.5
   },
   {
     "shop": "StockBJJ",
@@ -30937,7 +30937,7 @@
     "price": 152.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2026-limited-edition-coral-gi-black",
-    "previous_price": 185.0
+    "previous_price": 152.5
   },
   {
     "shop": "StockBJJ",
@@ -30947,7 +30947,7 @@
     "price": 152.5,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2026-limited-edition-coral-gi-white",
-    "previous_price": 185.0
+    "previous_price": 152.5
   },
   {
     "shop": "StockBJJ",
@@ -30957,7 +30957,7 @@
     "price": 152.5,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2026-limited-edition-coral-gi-white",
-    "previous_price": 185.0
+    "previous_price": 152.5
   },
   {
     "shop": "StockBJJ",
@@ -30967,7 +30967,7 @@
     "price": 152.5,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2026-limited-edition-coral-gi-white",
-    "previous_price": 185.0
+    "previous_price": 152.5
   },
   {
     "shop": "StockBJJ",
@@ -30977,7 +30977,7 @@
     "price": 152.5,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2026-limited-edition-coral-gi-white",
-    "previous_price": 185.0
+    "previous_price": 152.5
   },
   {
     "shop": "StockBJJ",
@@ -30987,7 +30987,7 @@
     "price": 152.5,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2026-limited-edition-coral-gi-white",
-    "previous_price": 185.0
+    "previous_price": 152.5
   },
   {
     "shop": "StockBJJ",
@@ -30997,7 +30997,7 @@
     "price": 152.5,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2026-limited-edition-coral-gi-white",
-    "previous_price": 185.0
+    "previous_price": 152.5
   },
   {
     "shop": "StockBJJ",
@@ -31007,7 +31007,7 @@
     "price": 152.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2026-limited-edition-coral-gi-white",
-    "previous_price": 185.0
+    "previous_price": 152.5
   },
   {
     "shop": "StockBJJ",
@@ -31817,7 +31817,7 @@
     "price": 169.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-tenoch-iv",
-    "previous_price": 199.9
+    "previous_price": 169.9
   },
   {
     "shop": "StockBJJ",
@@ -31827,7 +31827,7 @@
     "price": 169.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-tenoch-iv",
-    "previous_price": 199.9
+    "previous_price": 169.9
   },
   {
     "shop": "StockBJJ",
@@ -31837,7 +31837,7 @@
     "price": 169.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-tenoch-iv",
-    "previous_price": 199.9
+    "previous_price": 169.9
   },
   {
     "shop": "StockBJJ",
@@ -31847,7 +31847,7 @@
     "price": 169.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-tenoch-iv",
-    "previous_price": 199.9
+    "previous_price": 169.9
   },
   {
     "shop": "StockBJJ",
@@ -31857,7 +31857,7 @@
     "price": 169.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-tenoch-iv",
-    "previous_price": 199.9
+    "previous_price": 169.9
   },
   {
     "shop": "StockBJJ",
@@ -31867,7 +31867,7 @@
     "price": 169.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-tenoch-iv",
-    "previous_price": 199.9
+    "previous_price": 169.9
   },
   {
     "shop": "StockBJJ",
@@ -31877,7 +31877,7 @@
     "price": 169.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-tenoch-iv",
-    "previous_price": 199.9
+    "previous_price": 169.9
   },
   {
     "shop": "StockBJJ",
@@ -31887,7 +31887,7 @@
     "price": 169.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-tenoch-iv",
-    "previous_price": 199.9
+    "previous_price": 169.9
   },
   {
     "shop": "StockBJJ",
@@ -31897,7 +31897,7 @@
     "price": 169.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-tenoch-iv",
-    "previous_price": 199.9
+    "previous_price": 169.9
   },
   {
     "shop": "StockBJJ",
@@ -31907,7 +31907,7 @@
     "price": 169.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-tenoch-iv",
-    "previous_price": 199.9
+    "previous_price": 169.9
   },
   {
     "shop": "StockBJJ",
@@ -33237,7 +33237,7 @@
     "price": 47.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/moya-24-ranked-training-shorts-marron",
-    "previous_price": 59.9
+    "previous_price": 47.9
   },
   {
     "shop": "StockBJJ",
@@ -33247,7 +33247,7 @@
     "price": 47.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/moya-24-ranked-training-shorts-marron",
-    "previous_price": 59.9
+    "previous_price": 47.9
   },
   {
     "shop": "StockBJJ",
@@ -33257,7 +33257,7 @@
     "price": 47.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/moya-24-ranked-training-shorts-marron",
-    "previous_price": 59.9
+    "previous_price": 47.9
   },
   {
     "shop": "StockBJJ",
@@ -33267,7 +33267,7 @@
     "price": 47.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/moya-24-ranked-training-shorts-marron",
-    "previous_price": 59.9
+    "previous_price": 47.9
   },
   {
     "shop": "StockBJJ",
@@ -33277,7 +33277,7 @@
     "price": 47.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/moya-24-ranked-training-shorts-marron",
-    "previous_price": 59.9
+    "previous_price": 47.9
   },
   {
     "shop": "StockBJJ",
@@ -33287,7 +33287,7 @@
     "price": 47.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/moya-24-ranked-training-shorts-morado",
-    "previous_price": 59.9
+    "previous_price": 47.9
   },
   {
     "shop": "StockBJJ",
@@ -33297,7 +33297,7 @@
     "price": 47.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/moya-24-ranked-training-shorts-morado",
-    "previous_price": 59.9
+    "previous_price": 47.9
   },
   {
     "shop": "StockBJJ",
@@ -33307,7 +33307,7 @@
     "price": 47.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/moya-24-ranked-training-shorts-morado",
-    "previous_price": 59.9
+    "previous_price": 47.9
   },
   {
     "shop": "StockBJJ",
@@ -33317,7 +33317,7 @@
     "price": 47.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/moya-24-ranked-training-shorts-morado",
-    "previous_price": 59.9
+    "previous_price": 47.9
   },
   {
     "shop": "StockBJJ",
@@ -33327,7 +33327,7 @@
     "price": 47.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/moya-24-ranked-training-shorts-morado",
-    "previous_price": 59.9
+    "previous_price": 47.9
   },
   {
     "shop": "StockBJJ",
@@ -33627,7 +33627,7 @@
     "price": 29.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/healpix-tee",
-    "previous_price": 34.9
+    "previous_price": 29.9
   },
   {
     "shop": "StockBJJ",
@@ -33637,7 +33637,7 @@
     "price": 29.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/healpix-tee",
-    "previous_price": 34.9
+    "previous_price": 29.9
   },
   {
     "shop": "StockBJJ",
@@ -33647,7 +33647,7 @@
     "price": 29.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/healpix-tee",
-    "previous_price": 34.9
+    "previous_price": 29.9
   },
   {
     "shop": "StockBJJ",
@@ -33657,7 +33657,7 @@
     "price": 29.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/healpix-tee",
-    "previous_price": 34.9
+    "previous_price": 29.9
   },
   {
     "shop": "StockBJJ",
@@ -33667,7 +33667,7 @@
     "price": 29.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/wgd-tee",
-    "previous_price": 34.9
+    "previous_price": 29.9
   },
   {
     "shop": "StockBJJ",
@@ -33677,7 +33677,7 @@
     "price": 29.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/wgd-tee",
-    "previous_price": 34.9
+    "previous_price": 29.9
   },
   {
     "shop": "StockBJJ",
@@ -33687,7 +33687,7 @@
     "price": 29.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/wgd-tee",
-    "previous_price": 34.9
+    "previous_price": 29.9
   },
   {
     "shop": "StockBJJ",
@@ -33697,7 +33697,7 @@
     "price": 29.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/wgd-tee",
-    "previous_price": 34.9
+    "previous_price": 29.9
   },
   {
     "shop": "StockBJJ",
@@ -33747,7 +33747,7 @@
     "price": 29.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/petals-tee",
-    "previous_price": 34.9
+    "previous_price": 29.9
   },
   {
     "shop": "StockBJJ",
@@ -33757,7 +33757,7 @@
     "price": 29.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/petals-tee",
-    "previous_price": 34.9
+    "previous_price": 29.9
   },
   {
     "shop": "StockBJJ",
@@ -33767,7 +33767,7 @@
     "price": 29.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/petals-tee",
-    "previous_price": 34.9
+    "previous_price": 29.9
   },
   {
     "shop": "StockBJJ",
@@ -33777,7 +33777,7 @@
     "price": 29.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/petals-tee",
-    "previous_price": 34.9
+    "previous_price": 29.9
   },
   {
     "shop": "StockBJJ",
@@ -33787,7 +33787,7 @@
     "price": 29.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/tokyo-tee",
-    "previous_price": 34.9
+    "previous_price": 29.9
   },
   {
     "shop": "StockBJJ",
@@ -33797,7 +33797,7 @@
     "price": 29.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/tokyo-tee",
-    "previous_price": 34.9
+    "previous_price": 29.9
   },
   {
     "shop": "StockBJJ",
@@ -33807,7 +33807,7 @@
     "price": 29.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/tokyo-tee",
-    "previous_price": 34.9
+    "previous_price": 29.9
   },
   {
     "shop": "StockBJJ",
@@ -33817,7 +33817,7 @@
     "price": 29.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/tokyo-tee",
-    "previous_price": 34.9
+    "previous_price": 29.9
   },
   {
     "shop": "StockBJJ",
@@ -33827,7 +33827,7 @@
     "price": 29.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/shark-pit-tee",
-    "previous_price": 34.9
+    "previous_price": 29.9
   },
   {
     "shop": "StockBJJ",
@@ -33835,9 +33835,9 @@
     "product": "Shark Pit Tee",
     "size": "M",
     "price": 29.9,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/shark-pit-tee",
-    "previous_price": 34.9
+    "previous_price": 29.9
   },
   {
     "shop": "StockBJJ",
@@ -33847,7 +33847,7 @@
     "price": 29.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/shark-pit-tee",
-    "previous_price": 34.9
+    "previous_price": 29.9
   },
   {
     "shop": "StockBJJ",
@@ -33857,7 +33857,7 @@
     "price": 29.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/shark-pit-tee",
-    "previous_price": 34.9
+    "previous_price": 29.9
   },
   {
     "shop": "StockBJJ",
@@ -33867,7 +33867,7 @@
     "price": 159.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-rivals-azul",
-    "previous_price": 199.9
+    "previous_price": 159.9
   },
   {
     "shop": "StockBJJ",
@@ -33877,7 +33877,7 @@
     "price": 159.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-rivals-azul",
-    "previous_price": 199.9
+    "previous_price": 159.9
   },
   {
     "shop": "StockBJJ",
@@ -33887,7 +33887,7 @@
     "price": 159.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-rivals-azul",
-    "previous_price": 199.9
+    "previous_price": 159.9
   },
   {
     "shop": "StockBJJ",
@@ -33897,7 +33897,7 @@
     "price": 159.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-rivals-azul",
-    "previous_price": 199.9
+    "previous_price": 159.9
   },
   {
     "shop": "StockBJJ",
@@ -33907,7 +33907,7 @@
     "price": 159.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-rivals-azul",
-    "previous_price": 199.9
+    "previous_price": 159.9
   },
   {
     "shop": "StockBJJ",
@@ -33917,7 +33917,7 @@
     "price": 159.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-rivals-azul",
-    "previous_price": 199.9
+    "previous_price": 159.9
   },
   {
     "shop": "StockBJJ",
@@ -33927,7 +33927,7 @@
     "price": 159.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-rivals-azul",
-    "previous_price": 199.9
+    "previous_price": 159.9
   },
   {
     "shop": "StockBJJ",
@@ -33937,7 +33937,7 @@
     "price": 159.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-rivals-azul",
-    "previous_price": 199.9
+    "previous_price": 159.9
   },
   {
     "shop": "StockBJJ",
@@ -33947,7 +33947,7 @@
     "price": 159.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moya-brand-rivals-azul",
-    "previous_price": 199.9
+    "previous_price": 159.9
   },
   {
     "shop": "StockBJJ",
@@ -34037,7 +34037,7 @@
     "price": 65.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/hoodie-full-black-khaki-hooded-sweatshirt",
-    "previous_price": 80.0
+    "previous_price": 65.0
   },
   {
     "shop": "StockBJJ",
@@ -34047,7 +34047,7 @@
     "price": 65.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/hoodie-full-black-khaki-hooded-sweatshirt",
-    "previous_price": 80.0
+    "previous_price": 65.0
   },
   {
     "shop": "StockBJJ",
@@ -34057,7 +34057,7 @@
     "price": 65.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/hoodie-full-black-khaki-hooded-sweatshirt",
-    "previous_price": 80.0
+    "previous_price": 65.0
   },
   {
     "shop": "StockBJJ",
@@ -34067,7 +34067,7 @@
     "price": 65.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/hoodie-full-black-khaki-hooded-sweatshirt",
-    "previous_price": 80.0
+    "previous_price": 65.0
   },
   {
     "shop": "StockBJJ",
@@ -34387,7 +34387,7 @@
     "price": 35.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/scramble-x-pancrase-pankration-tee",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -34397,7 +34397,7 @@
     "price": 35.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/scramble-x-pancrase-pankration-tee",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -34407,7 +34407,7 @@
     "price": 35.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/scramble-x-pancrase-pankration-tee",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -34417,7 +34417,7 @@
     "price": 35.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/scramble-x-pancrase-pankration-tee",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -34607,7 +34607,7 @@
     "price": 69.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/world-grapplers-jacket",
-    "previous_price": 89.9
+    "previous_price": 69.9
   },
   {
     "shop": "StockBJJ",
@@ -34617,7 +34617,7 @@
     "price": 69.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/world-grapplers-jacket",
-    "previous_price": 89.9
+    "previous_price": 69.9
   },
   {
     "shop": "StockBJJ",
@@ -34627,7 +34627,7 @@
     "price": 69.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/world-grapplers-jacket",
-    "previous_price": 89.9
+    "previous_price": 69.9
   },
   {
     "shop": "StockBJJ",
@@ -34637,7 +34637,7 @@
     "price": 69.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/world-grapplers-jacket",
-    "previous_price": 89.9
+    "previous_price": 69.9
   },
   {
     "shop": "StockBJJ",
@@ -34647,7 +34647,7 @@
     "price": 63.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/wgd-hoodie",
-    "previous_price": 79.9
+    "previous_price": 63.9
   },
   {
     "shop": "StockBJJ",
@@ -34657,7 +34657,7 @@
     "price": 63.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/wgd-hoodie",
-    "previous_price": 79.9
+    "previous_price": 63.9
   },
   {
     "shop": "StockBJJ",
@@ -34667,7 +34667,7 @@
     "price": 63.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/wgd-hoodie",
-    "previous_price": 79.9
+    "previous_price": 63.9
   },
   {
     "shop": "StockBJJ",
@@ -34677,7 +34677,7 @@
     "price": 63.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/wgd-hoodie",
-    "previous_price": 79.9
+    "previous_price": 63.9
   },
   {
     "shop": "StockBJJ",
@@ -34687,7 +34687,7 @@
     "price": 59.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/hola-elvia-choco-crewneck",
-    "previous_price": 74.9
+    "previous_price": 59.9
   },
   {
     "shop": "StockBJJ",
@@ -34697,7 +34697,7 @@
     "price": 59.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/hola-elvia-choco-crewneck",
-    "previous_price": 74.9
+    "previous_price": 59.9
   },
   {
     "shop": "StockBJJ",
@@ -34707,7 +34707,7 @@
     "price": 59.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/hola-elvia-choco-crewneck",
-    "previous_price": 74.9
+    "previous_price": 59.9
   },
   {
     "shop": "StockBJJ",
@@ -34717,7 +34717,7 @@
     "price": 59.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/hola-elvia-choco-crewneck",
-    "previous_price": 74.9
+    "previous_price": 59.9
   },
   {
     "shop": "StockBJJ",
@@ -34727,7 +34727,7 @@
     "price": 39.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/love-hate-midnight-tee",
-    "previous_price": 49.9
+    "previous_price": 39.9
   },
   {
     "shop": "StockBJJ",
@@ -34737,7 +34737,7 @@
     "price": 39.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/love-hate-midnight-tee",
-    "previous_price": 49.9
+    "previous_price": 39.9
   },
   {
     "shop": "StockBJJ",
@@ -34747,7 +34747,7 @@
     "price": 39.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/love-hate-midnight-tee",
-    "previous_price": 49.9
+    "previous_price": 39.9
   },
   {
     "shop": "StockBJJ",
@@ -34757,7 +34757,7 @@
     "price": 39.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/love-hate-midnight-tee",
-    "previous_price": 49.9
+    "previous_price": 39.9
   },
   {
     "shop": "StockBJJ",
@@ -35817,7 +35817,7 @@
     "price": 149.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2025-limited-edition-camo-black-sand-army",
-    "previous_price": 179.0
+    "previous_price": 149.0
   },
   {
     "shop": "StockBJJ",
@@ -35827,7 +35827,7 @@
     "price": 149.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2025-limited-edition-camo-black-sand-army",
-    "previous_price": 179.0
+    "previous_price": 149.0
   },
   {
     "shop": "StockBJJ",
@@ -35837,7 +35837,7 @@
     "price": 149.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2025-limited-edition-camo-black-sand-army",
-    "previous_price": 179.0
+    "previous_price": 149.0
   },
   {
     "shop": "StockBJJ",
@@ -35847,7 +35847,7 @@
     "price": 149.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2025-limited-edition-camo-black-sand-army",
-    "previous_price": 179.0
+    "previous_price": 149.0
   },
   {
     "shop": "StockBJJ",
@@ -35857,7 +35857,7 @@
     "price": 149.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2025-limited-edition-camo-black-sand-army",
-    "previous_price": 179.0
+    "previous_price": 149.0
   },
   {
     "shop": "StockBJJ",
@@ -35867,7 +35867,7 @@
     "price": 149.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2025-limited-edition-camo-black-sand-army",
-    "previous_price": 179.0
+    "previous_price": 149.0
   },
   {
     "shop": "StockBJJ",
@@ -35877,7 +35877,7 @@
     "price": 149.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2025-limited-edition-camo-black-sand-army",
-    "previous_price": 179.0
+    "previous_price": 149.0
   },
   {
     "shop": "StockBJJ",
@@ -37187,7 +37187,7 @@
     "price": 55.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-kams-ss",
-    "previous_price": 69.9
+    "previous_price": 55.9
   },
   {
     "shop": "StockBJJ",
@@ -37197,7 +37197,7 @@
     "price": 55.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-kams-ss",
-    "previous_price": 69.9
+    "previous_price": 55.9
   },
   {
     "shop": "StockBJJ",
@@ -37207,7 +37207,7 @@
     "price": 55.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-kams-ss",
-    "previous_price": 69.9
+    "previous_price": 55.9
   },
   {
     "shop": "StockBJJ",
@@ -37217,7 +37217,7 @@
     "price": 55.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-kams-ss",
-    "previous_price": 69.9
+    "previous_price": 55.9
   },
   {
     "shop": "StockBJJ",
@@ -37227,7 +37227,7 @@
     "price": 47.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-moya-24-manga-larga-marron",
-    "previous_price": 59.9
+    "previous_price": 47.9
   },
   {
     "shop": "StockBJJ",
@@ -37237,7 +37237,7 @@
     "price": 47.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-moya-24-manga-larga-marron",
-    "previous_price": 59.9
+    "previous_price": 47.9
   },
   {
     "shop": "StockBJJ",
@@ -37247,7 +37247,7 @@
     "price": 47.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/rashguard-moya-24-manga-larga-marron",
-    "previous_price": 59.9
+    "previous_price": 47.9
   },
   {
     "shop": "StockBJJ",
@@ -37257,7 +37257,7 @@
     "price": 47.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/rashguard-moya-24-manga-larga-marron",
-    "previous_price": 59.9
+    "previous_price": 47.9
   },
   {
     "shop": "StockBJJ",
@@ -38107,7 +38107,7 @@
     "price": 27.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/recall-tee",
-    "previous_price": 34.9
+    "previous_price": 27.9
   },
   {
     "shop": "StockBJJ",
@@ -38117,7 +38117,7 @@
     "price": 27.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/recall-tee",
-    "previous_price": 34.9
+    "previous_price": 27.9
   },
   {
     "shop": "StockBJJ",
@@ -38127,7 +38127,7 @@
     "price": 27.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/recall-tee",
-    "previous_price": 34.9
+    "previous_price": 27.9
   },
   {
     "shop": "StockBJJ",
@@ -38137,7 +38137,7 @@
     "price": 27.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/recall-tee",
-    "previous_price": 34.9
+    "previous_price": 27.9
   },
   {
     "shop": "StockBJJ",
@@ -38187,7 +38187,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-camo-sand",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -38197,7 +38197,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-camo-sand",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -38207,7 +38207,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-camo-sand",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -38217,7 +38217,7 @@
     "price": 22.5,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-camo-sand",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -38227,7 +38227,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-camo-sand",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -38237,7 +38237,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-red-skulls",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -38247,7 +38247,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-red-skulls",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -38257,7 +38257,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-red-skulls",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -38267,7 +38267,7 @@
     "price": 22.5,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-red-skulls",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -38277,7 +38277,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-red-skulls",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -39537,7 +39537,7 @@
     "price": 63.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/global-hoodie",
-    "previous_price": 79.9
+    "previous_price": 63.0
   },
   {
     "shop": "StockBJJ",
@@ -39547,7 +39547,7 @@
     "price": 63.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/global-hoodie",
-    "previous_price": 79.9
+    "previous_price": 63.0
   },
   {
     "shop": "StockBJJ",
@@ -39557,7 +39557,7 @@
     "price": 63.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/global-hoodie",
-    "previous_price": 79.9
+    "previous_price": 63.0
   },
   {
     "shop": "StockBJJ",
@@ -39567,7 +39567,7 @@
     "price": 63.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/global-hoodie",
-    "previous_price": 79.9
+    "previous_price": 63.0
   },
   {
     "shop": "StockBJJ",
@@ -40317,7 +40317,7 @@
     "price": 35.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/ladies-pro-seamless-grappling-leggings-negro",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -40327,7 +40327,7 @@
     "price": 35.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/ladies-pro-seamless-grappling-leggings-negro",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -40337,7 +40337,7 @@
     "price": 35.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/ladies-pro-seamless-grappling-leggings-negro",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -40347,7 +40347,7 @@
     "price": 21.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2-algodon-chevron-light-blue",
-    "previous_price": 29.95
+    "previous_price": 21.0
   },
   {
     "shop": "StockBJJ",
@@ -40357,7 +40357,7 @@
     "price": 21.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2-algodon-chevron-light-blue",
-    "previous_price": 29.95
+    "previous_price": 21.0
   },
   {
     "shop": "StockBJJ",
@@ -40367,7 +40367,7 @@
     "price": 21.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2-algodon-chevron-light-blue",
-    "previous_price": 29.95
+    "previous_price": 21.0
   },
   {
     "shop": "StockBJJ",
@@ -40377,7 +40377,7 @@
     "price": 21.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2-algodon-chevron-light-blue",
-    "previous_price": 29.95
+    "previous_price": 21.0
   },
   {
     "shop": "StockBJJ",
@@ -40387,7 +40387,7 @@
     "price": 21.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2-algodon-chevron-light-blue",
-    "previous_price": 29.95
+    "previous_price": 21.0
   },
   {
     "shop": "StockBJJ",
@@ -40447,7 +40447,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-black-gold-pineapples",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -40457,7 +40457,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-black-gold-pineapples",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -40467,7 +40467,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-black-gold-pineapples",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -40477,7 +40477,7 @@
     "price": 22.5,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-black-gold-pineapples",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -40487,7 +40487,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-black-gold-pineapples",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -41217,7 +41217,7 @@
     "price": 25.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/moskova-tank-top-sport-dryfit-negro-camo",
-    "previous_price": 27.0
+    "previous_price": 25.0
   },
   {
     "shop": "StockBJJ",
@@ -41227,7 +41227,7 @@
     "price": 25.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/moskova-tank-top-sport-dryfit-negro-camo",
-    "previous_price": 27.0
+    "previous_price": 25.0
   },
   {
     "shop": "StockBJJ",
@@ -41237,7 +41237,7 @@
     "price": 25.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/moskova-tank-top-sport-dryfit-negro-camo",
-    "previous_price": 27.0
+    "previous_price": 25.0
   },
   {
     "shop": "StockBJJ",
@@ -41247,7 +41247,7 @@
     "price": 25.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/moskova-tank-top-sport-dryfit-negro-camo",
-    "previous_price": 27.0
+    "previous_price": 25.0
   },
   {
     "shop": "StockBJJ",
@@ -41817,7 +41817,7 @@
     "price": 21.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2-algodon-heather-turquoise",
-    "previous_price": 29.95
+    "previous_price": 21.0
   },
   {
     "shop": "StockBJJ",
@@ -41827,7 +41827,7 @@
     "price": 21.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2-algodon-heather-turquoise",
-    "previous_price": 29.95
+    "previous_price": 21.0
   },
   {
     "shop": "StockBJJ",
@@ -41837,7 +41837,7 @@
     "price": 21.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2-algodon-heather-turquoise",
-    "previous_price": 29.95
+    "previous_price": 21.0
   },
   {
     "shop": "StockBJJ",
@@ -41847,7 +41847,7 @@
     "price": 21.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2-algodon-heather-turquoise",
-    "previous_price": 29.95
+    "previous_price": 21.0
   },
   {
     "shop": "StockBJJ",
@@ -41857,7 +41857,7 @@
     "price": 21.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2-algodon-heather-turquoise",
-    "previous_price": 29.95
+    "previous_price": 21.0
   },
   {
     "shop": "StockBJJ",
@@ -41867,7 +41867,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-summer-camo",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -41877,7 +41877,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-summer-camo",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -41887,7 +41887,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-summer-camo",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -41897,7 +41897,7 @@
     "price": 22.5,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-summer-camo",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -41907,7 +41907,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-summer-camo",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -41917,7 +41917,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-tint-splash",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -41927,7 +41927,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-tint-splash",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -41937,7 +41937,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-tint-splash",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -41947,7 +41947,7 @@
     "price": 22.5,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-tint-splash",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -41957,7 +41957,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-tint-splash",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -42467,7 +42467,7 @@
     "price": 35.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kingz-kore-women-s-sports-bra-azul",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -42477,7 +42477,7 @@
     "price": 35.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kingz-kore-women-s-sports-bra-azul",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -42487,7 +42487,7 @@
     "price": 35.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kingz-kore-women-s-sports-bra-azul",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -42497,7 +42497,7 @@
     "price": 35.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kingz-kore-women-s-sports-bra-azul",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -42507,7 +42507,7 @@
     "price": 35.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kingz-kore-women-s-sports-bra-azul",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -42517,7 +42517,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kingz-kore-women-s-grappling-spats-azul",
-    "previous_price": 50.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -42527,7 +42527,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kingz-kore-women-s-grappling-spats-azul",
-    "previous_price": 50.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -42537,7 +42537,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kingz-kore-women-s-grappling-spats-azul",
-    "previous_price": 50.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -42547,7 +42547,7 @@
     "price": 40.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kingz-kore-women-s-grappling-spats-azul",
-    "previous_price": 50.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -42557,7 +42557,7 @@
     "price": 40.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kingz-kore-women-s-grappling-spats-azul",
-    "previous_price": 50.0
+    "previous_price": 40.0
   },
   {
     "shop": "StockBJJ",
@@ -42627,7 +42627,7 @@
     "price": 35.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kingz-kore-women-s-sports-bra-negro",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -42637,7 +42637,7 @@
     "price": 35.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kingz-kore-women-s-sports-bra-negro",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -42647,7 +42647,7 @@
     "price": 35.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kingz-kore-women-s-sports-bra-negro",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -42657,7 +42657,7 @@
     "price": 35.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kingz-kore-women-s-sports-bra-negro",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -42667,7 +42667,7 @@
     "price": 35.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kingz-kore-women-s-sports-bra-negro",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -42677,7 +42677,7 @@
     "price": 35.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kingz-kore-women-s-training-shorts-negro",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -42687,7 +42687,7 @@
     "price": 35.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kingz-kore-women-s-training-shorts-negro",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -42697,7 +42697,7 @@
     "price": 35.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kingz-kore-women-s-training-shorts-negro",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -42707,7 +42707,7 @@
     "price": 35.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kingz-kore-women-s-training-shorts-negro",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -42717,7 +42717,7 @@
     "price": 35.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kingz-kore-women-s-training-shorts-negro",
-    "previous_price": 45.0
+    "previous_price": 35.0
   },
   {
     "shop": "StockBJJ",
@@ -43067,7 +43067,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-giraffe-green",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -43077,7 +43077,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-giraffe-green",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -43087,7 +43087,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-giraffe-green",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -43097,7 +43097,7 @@
     "price": 22.5,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-giraffe-green",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -43107,7 +43107,7 @@
     "price": 22.5,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/boxer-moskova-m2s-polyamide-giraffe-green",
-    "previous_price": 32.0
+    "previous_price": 22.5
   },
   {
     "shop": "StockBJJ",
@@ -43985,7 +43985,7 @@
     "product": "Kimono BJJ ( Gi) Progress Kids The Academy- Negro- CINTURON BLANCO INCLUIDO",
     "size": "M4",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-progress-kids-the-academy-negro-cinturon-blanco-incluido",
     "previous_price": 60.0
   },
@@ -44757,7 +44757,7 @@
     "price": 93.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-progress-ladies-featherlight-lightweight-competition-blanco",
-    "previous_price": 134.0
+    "previous_price": 93.0
   },
   {
     "shop": "StockBJJ",
@@ -44767,7 +44767,7 @@
     "price": 93.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-progress-ladies-featherlight-lightweight-competition-blanco",
-    "previous_price": 134.0
+    "previous_price": 93.0
   },
   {
     "shop": "StockBJJ",
@@ -44777,7 +44777,7 @@
     "price": 93.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-progress-ladies-featherlight-lightweight-competition-blanco",
-    "previous_price": 134.0
+    "previous_price": 93.0
   },
   {
     "shop": "StockBJJ",
@@ -44787,7 +44787,7 @@
     "price": 93.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-progress-ladies-featherlight-lightweight-competition-blanco",
-    "previous_price": 134.0
+    "previous_price": 93.0
   },
   {
     "shop": "StockBJJ",
@@ -45187,7 +45187,7 @@
     "price": 28.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/bruce-lee-x-moya-bolsa-para-el-gi-preorder",
-    "previous_price": 35.0
+    "previous_price": 28.0
   },
   {
     "shop": "StockBJJ",
@@ -45645,7 +45645,7 @@
     "product": "Cross Body Bag",
     "size": "Default Title",
     "price": 45.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/cross-body-bag",
     "previous_price": 45.0
   },
@@ -46187,7 +46187,7 @@
     "price": 63.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/moya-brand-t20-jogger",
-    "previous_price": 79.9
+    "previous_price": 63.9
   },
   {
     "shop": "StockBJJ",
@@ -46197,7 +46197,7 @@
     "price": 63.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/moya-brand-t20-jogger",
-    "previous_price": 79.9
+    "previous_price": 63.9
   },
   {
     "shop": "StockBJJ",
@@ -47307,7 +47307,7 @@
     "price": 15.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-tatami-adult-bjj-rank-negro",
-    "previous_price": 19.9
+    "previous_price": 15.9
   },
   {
     "shop": "StockBJJ",
@@ -47317,7 +47317,7 @@
     "price": 15.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/cinturones-tatami-adult-bjj-rank-negro",
-    "previous_price": 19.9
+    "previous_price": 15.9
   },
   {
     "shop": "StockBJJ",
@@ -47327,7 +47327,7 @@
     "price": 15.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-tatami-adult-bjj-rank-negro",
-    "previous_price": 19.9
+    "previous_price": 15.9
   },
   {
     "shop": "StockBJJ",
@@ -47337,7 +47337,7 @@
     "price": 15.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-tatami-adult-bjj-rank-negro",
-    "previous_price": 19.9
+    "previous_price": 15.9
   },
   {
     "shop": "StockBJJ",
@@ -47347,7 +47347,7 @@
     "price": 15.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-tatami-adult-bjj-rank-negro",
-    "previous_price": 19.9
+    "previous_price": 15.9
   },
   {
     "shop": "StockBJJ",
@@ -47357,7 +47357,7 @@
     "price": 13.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-tatami-adult-bjj-rank-morado",
-    "previous_price": 19.9
+    "previous_price": 13.9
   },
   {
     "shop": "StockBJJ",
@@ -47367,7 +47367,7 @@
     "price": 13.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/cinturones-tatami-adult-bjj-rank-morado",
-    "previous_price": 19.9
+    "previous_price": 13.9
   },
   {
     "shop": "StockBJJ",
@@ -47377,7 +47377,7 @@
     "price": 13.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-tatami-adult-bjj-rank-morado",
-    "previous_price": 19.9
+    "previous_price": 13.9
   },
   {
     "shop": "StockBJJ",
@@ -47387,7 +47387,7 @@
     "price": 13.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-tatami-adult-bjj-rank-morado",
-    "previous_price": 19.9
+    "previous_price": 13.9
   },
   {
     "shop": "StockBJJ",
@@ -47397,7 +47397,7 @@
     "price": 13.9,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-tatami-adult-bjj-rank-morado",
-    "previous_price": 19.9
+    "previous_price": 13.9
   },
   {
     "shop": "StockBJJ",
@@ -47557,7 +47557,7 @@
     "price": 14.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-kingz-mega-light-competition-marron",
-    "previous_price": 20.0
+    "previous_price": 14.0
   },
   {
     "shop": "StockBJJ",
@@ -47567,7 +47567,7 @@
     "price": 14.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-kingz-mega-light-competition-marron",
-    "previous_price": 20.0
+    "previous_price": 14.0
   },
   {
     "shop": "StockBJJ",
@@ -47577,7 +47577,7 @@
     "price": 14.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-kingz-mega-light-competition-marron",
-    "previous_price": 20.0
+    "previous_price": 14.0
   },
   {
     "shop": "StockBJJ",
@@ -47587,7 +47587,7 @@
     "price": 14.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/cinturones-kingz-mega-light-competition-marron",
-    "previous_price": 20.0
+    "previous_price": 14.0
   },
   {
     "shop": "StockBJJ",
@@ -47597,7 +47597,7 @@
     "price": 14.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-kingz-mega-light-competition-marron",
-    "previous_price": 20.0
+    "previous_price": 14.0
   },
   {
     "shop": "StockBJJ",
@@ -48797,7 +48797,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -48807,7 +48807,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -48817,7 +48817,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -48827,7 +48827,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -48837,7 +48837,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -48847,7 +48847,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -48857,7 +48857,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -48867,7 +48867,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -48877,7 +48877,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -48887,7 +48887,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -48897,7 +48897,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -48907,7 +48907,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -48917,7 +48917,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -48927,7 +48927,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -48937,7 +48937,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -48947,7 +48947,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -48957,7 +48957,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -48967,7 +48967,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -48977,7 +48977,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -48987,7 +48987,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -48997,7 +48997,7 @@
     "price": 19.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -49007,7 +49007,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -49017,7 +49017,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -49027,7 +49027,7 @@
     "price": 19.0,
     "in_stock": false,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -49037,7 +49037,7 @@
     "price": 19.0,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/cinturones-maeda-gi-material",
-    "previous_price": 26.0
+    "previous_price": 19.0
   },
   {
     "shop": "StockBJJ",
@@ -49357,7 +49357,7 @@
     "price": 9.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/parche-lifestyle-goods-moya-brand",
-    "previous_price": 14.9
+    "previous_price": 9.9
   },
   {
     "shop": "StockBJJ",
@@ -49367,7 +49367,7 @@
     "price": 9.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/parche-worldwide-moya-brand",
-    "previous_price": 14.9
+    "previous_price": 9.9
   },
   {
     "shop": "StockBJJ",
@@ -49377,7 +49377,7 @@
     "price": 9.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/parche-phantom-branded-moya-brand",
-    "previous_price": 14.9
+    "previous_price": 9.9
   },
   {
     "shop": "StockBJJ",
@@ -49387,7 +49387,7 @@
     "price": 9.9,
     "in_stock": true,
     "url": "https://www.stockbjj.com/products/parche-branded-moya-brand",
-    "previous_price": 14.9
+    "previous_price": 9.9
   },
   {
     "shop": "StockBJJ",
@@ -56835,7 +56835,7 @@
     "product": "Finest City Rash Guard",
     "size": "XL / Brown",
     "price": 37.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/finest-city-rash-guard",
     "previous_price": 37.49
   },
@@ -57125,7 +57125,7 @@
     "product": "Topo No-Gi Kit",
     "size": "S / S / Arctic",
     "price": 74.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 74.99
   },
@@ -57185,7 +57185,7 @@
     "product": "Topo No-Gi Kit",
     "size": "S / XL / Arctic",
     "price": 74.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 74.99
   },
@@ -57205,7 +57205,7 @@
     "product": "Topo No-Gi Kit",
     "size": "S / 2XL / Arctic",
     "price": 74.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 74.99
   },
@@ -57225,7 +57225,7 @@
     "product": "Topo No-Gi Kit",
     "size": "S / 3XL / Arctic",
     "price": 74.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 74.99
   },
@@ -60935,7 +60935,7 @@
     "product": "Topo Rash Guard",
     "size": "S / Arctic",
     "price": 37.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/topo-rash-guard",
     "previous_price": 37.49
   },
@@ -79395,7 +79395,7 @@
     "product": "Calavera Gold Weave Gi",
     "size": "A0H / Black",
     "price": 119.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/calavera-gold-weave-gi",
     "previous_price": 119.99
   },
@@ -81815,7 +81815,7 @@
     "product": "Kingz Kore V2 Men's Hoodie",
     "size": "Latte / L",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-v2-hoodie",
     "previous_price": 60.0
   },
@@ -89235,7 +89235,7 @@
     "product": "Kingz Gold Label V2 Youth BJJ Belt - White Stripe",
     "size": "M0 / Grey/White",
     "price": 15.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gold-label-v2-kids-belt-white-stripe-1",
     "previous_price": 15.0
   },
@@ -89275,7 +89275,7 @@
     "product": "Kingz Gold Label V2 Youth BJJ Belt - White Stripe",
     "size": "M1 / Grey/White",
     "price": 15.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gold-label-v2-kids-belt-white-stripe-1",
     "previous_price": 15.0
   },
@@ -91205,7 +91205,7 @@
     "product": "Kingz JJ Dept Men's Hoodie",
     "size": "M / Black",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/jj-dept-hoodie",
     "previous_price": 60.0
   },
@@ -95885,7 +95885,7 @@
     "product": "Kingz Kore V2 Men's BJJ Gi - Black",
     "size": "A3H / Black",
     "price": 85.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-v2-jiu-jitsu-gi-black-2024-edition",
     "previous_price": 85.0
   },
@@ -99575,7 +99575,7 @@
     "product": "Kingz Kore V2 Men's BJJ Gi - White",
     "size": "A2L / White",
     "price": 85.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-v2-jiu-jitsu-gi-white-2024-edition",
     "previous_price": 85.0
   },
@@ -122415,7 +122415,7 @@
     "product": "Kids Pearl Weave BJJ Belt Grey White",
     "size": "A1",
     "price": 24.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/kids-pearl-weave-bjj-belt-grey-white",
     "previous_price": 24.95
   },
@@ -122985,7 +122985,7 @@
     "product": "SEKAI 3.0 BJJ Gi Black Grey",
     "size": "A3",
     "price": 179.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/sekai-3-0-bjj-gi-black-grey",
     "previous_price": 179.95
   },
@@ -122995,7 +122995,7 @@
     "product": "SEKAI 3.0 BJJ Gi Black Grey",
     "size": "A3H",
     "price": 179.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/sekai-3-0-bjj-gi-black-grey",
     "previous_price": 179.95
   },
@@ -123045,7 +123045,7 @@
     "product": "Baseline 2.0 Slim Fit BJJ Gi White Navy",
     "size": "A1",
     "price": 99.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/baseline-2-0-slim-fit-bjj-gi-white-navy",
     "previous_price": 99.95
   },
@@ -123065,7 +123065,7 @@
     "product": "Baseline 2.0 Slim Fit BJJ Gi White Navy",
     "size": "A2",
     "price": 99.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/baseline-2-0-slim-fit-bjj-gi-white-navy",
     "previous_price": 99.95
   },
@@ -123075,7 +123075,7 @@
     "product": "Baseline 2.0 Slim Fit BJJ Gi White Navy",
     "size": "A2H",
     "price": 99.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/baseline-2-0-slim-fit-bjj-gi-white-navy",
     "previous_price": 99.95
   },
@@ -123125,7 +123125,7 @@
     "product": "Baseline 2.0 Slim Fit BJJ Gi White Navy",
     "size": "A4",
     "price": 99.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/baseline-2-0-slim-fit-bjj-gi-white-navy",
     "previous_price": 99.95
   },
@@ -123135,7 +123135,7 @@
     "product": "Baseline 2.0 Slim Fit BJJ Gi White Navy",
     "size": "A5",
     "price": 99.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/baseline-2-0-slim-fit-bjj-gi-white-navy",
     "previous_price": 99.95
   },
@@ -123445,7 +123445,7 @@
     "product": "Womens Baseline 2.0 Slim Fit BJJ Gi White Navy",
     "size": "W2",
     "price": 99.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/womens-baseline-2-0-slim-fit-bjj-gi-white-navy",
     "previous_price": 99.95
   },
@@ -123645,7 +123645,7 @@
     "product": "Baseline 2.0 Slim Fit BJJ Gi Black Grey",
     "size": "A2",
     "price": 99.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/baseline-2-0-slim-fit-bjj-gi-black-grey",
     "previous_price": 99.95
   },
@@ -124105,7 +124105,7 @@
     "product": "SEKAI 3.0 BJJ Gi Blue Yellow",
     "size": "A3H",
     "price": 179.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/sekai-3-0-bjj-gi-blue-yellow",
     "previous_price": 179.95
   },
@@ -126005,7 +126005,7 @@
     "product": "Kids BTT 25th Anniversary Ultra Lite White",
     "size": "C0",
     "price": 109.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/kids-btt-25th-anniversary-ultra-lite-white",
     "previous_price": 109.95
   },
@@ -127445,7 +127445,7 @@
     "product": "Karate Color Belt",
     "size": "0 / Orange/Green",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/karate-color-belt",
     "previous_price": 14.95
   },
@@ -127665,7 +127665,7 @@
     "product": "Karate Color Belt",
     "size": "2 / Green/Blue",
     "price": 9.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/karate-color-belt",
     "previous_price": 9.95
   },
@@ -127915,7 +127915,7 @@
     "product": "Karate Color Belt",
     "size": "4 / Blue",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/karate-color-belt",
     "previous_price": 14.95
   },
@@ -129775,7 +129775,7 @@
     "product": "All Around BJJ Gi Natural",
     "size": "A2",
     "price": 119.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/all-around-bjj-gi-natural",
     "previous_price": 119.95
   },
@@ -131165,7 +131165,7 @@
     "product": "USA Judo Euro Competition Judo Gi Blue",
     "size": "3.5",
     "price": 159.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/usa-judo-euro-competition-judo-gi-blue",
     "previous_price": 159.95
   },
@@ -133307,36 +133307,6 @@
     "price": 32.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/kids-royce-gracie-classic-t-shirt-2-0-navy",
-    "previous_price": 32.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "vendor-unknown",
-    "product": "Kids Royce Gracie Classic T-Shirt 2.0 White",
-    "size": "YS",
-    "price": 32.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/kids-royce-gracie-classic-t-shirt-2-0-white",
-    "previous_price": 32.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "vendor-unknown",
-    "product": "Kids Royce Gracie Classic T-Shirt 2.0 White",
-    "size": "YM",
-    "price": 32.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/kids-royce-gracie-classic-t-shirt-2-0-white",
-    "previous_price": 32.0
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "vendor-unknown",
-    "product": "Kids Royce Gracie Classic T-Shirt 2.0 White",
-    "size": "YL",
-    "price": 32.0,
-    "in_stock": false,
-    "url": "https://fujisports.com/products/kids-royce-gracie-classic-t-shirt-2-0-white",
     "previous_price": 32.0
   },
   {
@@ -137695,7 +137665,7 @@
     "product": "Competition BJJ Gi Blue",
     "size": "A0",
     "price": 179.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/competition-bjj-gi-blue",
     "previous_price": 179.95
   },
@@ -141045,7 +141015,7 @@
     "product": "Raijin Shin Guards",
     "size": "XL/2XL",
     "price": 89.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/raijin-shin-guards",
     "previous_price": 89.95
   },
@@ -146765,7 +146735,7 @@
     "product": "Womens Ultra Lite 300 BJJ Gi Blue",
     "size": "W1",
     "price": 149.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/womens-ultra-lite-300-bjj-gi-blue",
     "previous_price": 149.95
   },
@@ -146775,7 +146745,7 @@
     "product": "Womens Ultra Lite 300 BJJ Gi Blue",
     "size": "W2",
     "price": 149.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/womens-ultra-lite-300-bjj-gi-blue",
     "previous_price": 149.95
   },
@@ -147025,7 +146995,7 @@
     "product": "Kids Ultra Lite 300 BJJ Gi White",
     "size": "C1",
     "price": 109.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/kids-ultra-lite-300-bjj-gi-white",
     "previous_price": 109.95
   },
@@ -147255,7 +147225,7 @@
     "product": "Ultra Lite 300 BJJ Gi Black",
     "size": "A1",
     "price": 149.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/ultra-lite-300-bjj-gi-black",
     "previous_price": 149.95
   },
@@ -147725,7 +147695,7 @@
     "product": "Battle Flex Lite Shorts Black",
     "size": "S",
     "price": 59.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/battle-flex-lite-shorts-black",
     "previous_price": 59.95
   },
@@ -151575,7 +151545,7 @@
     "product": "Womens All Around Blossom BJJ Gi Black",
     "size": "W1",
     "price": 119.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/womens-all-around-blossom-bjj-gi-black",
     "previous_price": 119.95
   },
@@ -151585,7 +151555,7 @@
     "product": "Womens All Around Blossom BJJ Gi Black",
     "size": "W2",
     "price": 119.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/womens-all-around-blossom-bjj-gi-black",
     "previous_price": 119.95
   },
@@ -151605,7 +151575,7 @@
     "product": "Womens All Around Blossom BJJ Gi Black",
     "size": "W4",
     "price": 119.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/womens-all-around-blossom-bjj-gi-black",
     "previous_price": 119.95
   },
@@ -151735,7 +151705,7 @@
     "product": "FUJI x Alliance Standard BJJ Gi Black",
     "size": "A3",
     "price": 152.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/fuji-x-alliance-standard-bjj-gi-black",
     "previous_price": 152.0
   },
@@ -154285,7 +154255,7 @@
     "product": "Starter Kids BJJ Gi Colored",
     "size": "C00 / Black",
     "price": 89.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/starter-kids-bjj-gi-colored",
     "previous_price": 89.95
   },
@@ -155985,7 +155955,7 @@
     "product": "Starter Kids BJJ Gi Black",
     "size": "C00",
     "price": 89.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/starter-kids-bjj-gi-black",
     "previous_price": 89.95
   },
@@ -162135,7 +162105,7 @@
     "product": "BTT Lightweight BJJ Gi White",
     "size": "A00",
     "price": 139.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/new-btt-lightweight-bjj-gi-white-5515",
     "previous_price": 139.99
   },
@@ -164445,7 +164415,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C2 / Orange/White",
     "price": 16.5,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -164535,7 +164505,7 @@
     "product": "Royce Gracie Color Kids BJJ Belt",
     "size": "C3 / Orange/White",
     "price": 16.5,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/royce-gracie-official-bjj-belt",
     "previous_price": 16.5
   },
@@ -165095,7 +165065,7 @@
     "product": "Official Royce Gracie Kids BJJ Gi White",
     "size": "C00",
     "price": 119.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/official-royce-gracie-kids-bjj-gi-white-8770r",
     "previous_price": 119.95
   },
@@ -165105,7 +165075,7 @@
     "product": "Official Royce Gracie Kids BJJ Gi White",
     "size": "C0",
     "price": 119.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/official-royce-gracie-kids-bjj-gi-white-8770r",
     "previous_price": 119.95
   },
@@ -165115,7 +165085,7 @@
     "product": "Official Royce Gracie Kids BJJ Gi White",
     "size": "C1",
     "price": 119.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/official-royce-gracie-kids-bjj-gi-white-8770r",
     "previous_price": 119.95
   },
@@ -166625,7 +166595,7 @@
     "product": "Precision Striking Shin Guards",
     "size": "S/M",
     "price": 69.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/precision-striking-shin-guards",
     "previous_price": 69.95
   },
@@ -167425,7 +167395,7 @@
     "product": "FUJI Baby Judo Gi",
     "size": "White",
     "price": 44.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/fuji-baby-judo-gi",
     "previous_price": 44.95
   },
@@ -167495,7 +167465,7 @@
     "product": "Euro Competition Judo Gi Blue",
     "size": "3.5",
     "price": 139.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/euro-competition-judo-gi-blue",
     "previous_price": 139.95
   },
@@ -167505,7 +167475,7 @@
     "product": "Euro Competition Judo Gi Blue",
     "size": "4",
     "price": 139.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/euro-competition-judo-gi-blue",
     "previous_price": 139.95
   },
@@ -167525,7 +167495,7 @@
     "product": "Euro Competition Judo Gi Blue",
     "size": "5",
     "price": 149.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/euro-competition-judo-gi-blue",
     "previous_price": 149.95
   },
@@ -167535,7 +167505,7 @@
     "product": "Euro Competition Judo Gi Blue",
     "size": "5.5",
     "price": 149.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/euro-competition-judo-gi-blue",
     "previous_price": 149.95
   },
@@ -167725,7 +167695,7 @@
     "product": "Euro Competition Judo Gi White",
     "size": "3",
     "price": 139.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/euro-competition-judo-gi",
     "previous_price": 139.95
   },
@@ -167735,7 +167705,7 @@
     "product": "Euro Competition Judo Gi White",
     "size": "3.5",
     "price": 139.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/euro-competition-judo-gi",
     "previous_price": 139.95
   },
@@ -167745,7 +167715,7 @@
     "product": "Euro Competition Judo Gi White",
     "size": "4",
     "price": 139.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/euro-competition-judo-gi",
     "previous_price": 139.95
   },
@@ -167765,7 +167735,7 @@
     "product": "Euro Competition Judo Gi White",
     "size": "5",
     "price": 139.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/euro-competition-judo-gi",
     "previous_price": 139.95
   },
@@ -169245,7 +169215,7 @@
     "product": "Blossom Kids Jiu Jitsu Gi Blue",
     "size": "WC3",
     "price": 89.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/blossom-kids-jiu-jitsu-gi-blue",
     "previous_price": 89.95
   },
@@ -170355,7 +170325,7 @@
     "product": "Baseline Ranked Short Sleeve Rashguard White",
     "size": "XS",
     "price": 49.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/baseline-ranked-short-sleeve-rashguard-white",
     "previous_price": 49.95
   },
@@ -170395,7 +170365,7 @@
     "product": "Baseline Ranked Short Sleeve Rashguard White",
     "size": "XL",
     "price": 49.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/baseline-ranked-short-sleeve-rashguard-white",
     "previous_price": 49.95
   },
@@ -172515,7 +172485,7 @@
     "product": "All Around BJJ Gi White",
     "size": "A8",
     "price": 115.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/all-around-bjj-gi-white",
     "previous_price": 115.95
   },
@@ -172525,7 +172495,7 @@
     "product": "All Around BJJ Gi White",
     "size": "A9",
     "price": 115.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/all-around-bjj-gi-white",
     "previous_price": 115.95
   },
@@ -174735,7 +174705,7 @@
     "product": "Blue Judo Belt",
     "size": "4",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/blue-judo-belt",
     "previous_price": 14.95
   },
@@ -174935,7 +174905,7 @@
     "product": "Orange/Green Judo Belt",
     "size": "0",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/orange-green-judo-belt",
     "previous_price": 14.95
   },
@@ -179885,7 +179855,7 @@
     "product": "Fairtex BGV9C-PLUS Bokshandschoenen - Mexican Style - Zwart",
     "size": "12 oz",
     "price": 149.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv9c-plus-bokshandschoenen-mexican-style",
     "previous_price": 149.95
   },
@@ -179895,7 +179865,7 @@
     "product": "Fairtex BGV9C-PLUS Bokshandschoenen - Mexican Style - Zwart",
     "size": "14 oz",
     "price": 149.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv9c-plus-bokshandschoenen-mexican-style",
     "previous_price": 149.95
   },
@@ -179905,7 +179875,7 @@
     "product": "Fairtex BGV9C-PLUS Bokshandschoenen - Mexican Style - Zwart",
     "size": "16 oz",
     "price": 149.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv9c-plus-bokshandschoenen-mexican-style",
     "previous_price": 149.95
   },
@@ -179915,7 +179885,7 @@
     "product": "Fairtex SP10 Calfkick Pads - Zwart - Paar - One size",
     "size": "Default Title",
     "price": 225.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp10-calfkick-pads-zwart-paar",
     "previous_price": 225.0
   },
@@ -180065,7 +180035,7 @@
     "product": "Fairtex X Booster Bokshandschoenen - FXB BG V2 - Echt leer - Navy/Goud",
     "size": "16 oz",
     "price": 169.94,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-x-booster-bokshandschoenen-fxb-bg-v2-echt-leer-navy-goud",
     "previous_price": 169.94
   },
@@ -184215,7 +184185,7 @@
     "product": "Fairtex BGV14PT Microfiber Bokshandschoenen - Art Collections - Painter - Wit",
     "size": "14 oz",
     "price": 135.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14pt-microfiber-bokshandschoenen-art-collections-painter-wit",
     "previous_price": 135.0
   },
@@ -184225,7 +184195,7 @@
     "product": "Fairtex BGV14PT Microfiber Bokshandschoenen - Art Collections - Painter - Wit",
     "size": "16 oz",
     "price": 135.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14pt-microfiber-bokshandschoenen-art-collections-painter-wit",
     "previous_price": 135.0
   },
@@ -184295,7 +184265,7 @@
     "product": "Fairtex BGV14SB Microfiber Bokshandschoenen - Art Collections - Solid Black",
     "size": "12 oz",
     "price": 135.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv14sb-microfiber-bokshandschoenen-art-collections-solid-black",
     "previous_price": 135.0
   },
@@ -184455,7 +184425,7 @@
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Blauw",
     "size": "14 oz",
     "price": 139.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-blauw",
     "previous_price": 139.0
   },
@@ -184465,7 +184435,7 @@
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Blauw",
     "size": "16 oz",
     "price": 139.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-blauw",
     "previous_price": 139.0
   },
@@ -184485,7 +184455,7 @@
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Geel",
     "size": "14 oz",
     "price": 139.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-geel",
     "previous_price": 139.0
   },
@@ -184505,7 +184475,7 @@
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Rood",
     "size": "12 oz",
     "price": 139.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-rood",
     "previous_price": 139.0
   },
@@ -184515,7 +184485,7 @@
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Rood",
     "size": "14 oz",
     "price": 139.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-rood",
     "previous_price": 139.0
   },
@@ -184525,7 +184495,7 @@
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Rood",
     "size": "16 oz",
     "price": 139.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-rood",
     "previous_price": 139.0
   },
@@ -184575,7 +184545,7 @@
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Wit",
     "size": "14 oz",
     "price": 139.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-wit",
     "previous_price": 139.0
   },
@@ -184595,7 +184565,7 @@
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Zwart",
     "size": "12 oz",
     "price": 139.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-zwart",
     "previous_price": 139.0
   },
@@ -184605,7 +184575,7 @@
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Zwart",
     "size": "14 oz",
     "price": 139.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-zwart",
     "previous_price": 139.0
   },
@@ -184615,7 +184585,7 @@
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Zwart",
     "size": "16 oz",
     "price": 139.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-zwart",
     "previous_price": 139.0
   },
@@ -184685,7 +184655,7 @@
     "product": "Fairtex BGV16 Bokshandschoenen - Echt Leer - Khaki",
     "size": "12 oz",
     "price": 139.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bokshandschoenen-echt-leer-bgv16-khaki",
     "previous_price": 139.0
   },
@@ -184695,7 +184665,7 @@
     "product": "Fairtex BGV16 Bokshandschoenen - Echt Leer - Khaki",
     "size": "14 oz",
     "price": 139.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bokshandschoenen-echt-leer-bgv16-khaki",
     "previous_price": 139.0
   },
@@ -184705,7 +184675,7 @@
     "product": "Fairtex BGV16 Bokshandschoenen - Echt Leer - Khaki",
     "size": "16 oz",
     "price": 139.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bokshandschoenen-echt-leer-bgv16-khaki",
     "previous_price": 139.0
   },
@@ -184715,7 +184685,7 @@
     "product": "Fairtex BGV16 Bokshandschoenen -Echt Leer - Maroon",
     "size": "12 oz",
     "price": 139.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bokshandschoenen-echt-leer-bgv16-maroon",
     "previous_price": 139.0
   },
@@ -184725,7 +184695,7 @@
     "product": "Fairtex BGV16 Bokshandschoenen -Echt Leer - Maroon",
     "size": "14 oz",
     "price": 139.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bokshandschoenen-echt-leer-bgv16-maroon",
     "previous_price": 139.0
   },
@@ -184735,7 +184705,7 @@
     "product": "Fairtex BGV16 Bokshandschoenen -Echt Leer - Maroon",
     "size": "16 oz",
     "price": 139.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bokshandschoenen-echt-leer-bgv16-maroon",
     "previous_price": 139.0
   },
@@ -184945,7 +184915,7 @@
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Wit",
     "size": "S",
     "price": 109.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-wit",
     "previous_price": 109.0
   },
@@ -184955,7 +184925,7 @@
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Wit",
     "size": "M",
     "price": 109.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-wit",
     "previous_price": 109.0
   },
@@ -184965,7 +184935,7 @@
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Wit",
     "size": "L",
     "price": 109.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-wit",
     "previous_price": 109.0
   },
@@ -185035,7 +185005,7 @@
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Zwart",
     "size": "M",
     "price": 109.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-zwart",
     "previous_price": 109.0
   },
@@ -185045,7 +185015,7 @@
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Zwart",
     "size": "L",
     "price": 109.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-zwart",
     "previous_price": 109.0
   },
@@ -185205,7 +185175,7 @@
     "product": "Fairtex BS1901 Muay Thai Shorts - Stealth - Zwart",
     "size": "M",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1901-muay-thai-shorts-stealth-zwart",
     "previous_price": 59.95
   },
@@ -185225,7 +185195,7 @@
     "product": "Fairtex BS1901 Muay Thai Shorts - Stealth - Zwart",
     "size": "XL",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1901-muay-thai-shorts-stealth-zwart",
     "previous_price": 59.95
   },
@@ -185235,7 +185205,7 @@
     "product": "Fairtex BS1901 Muay Thai Shorts - Stealth - Zwart",
     "size": "XXL",
     "price": 65.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1901-muay-thai-shorts-stealth-zwart",
     "previous_price": 65.0
   },
@@ -185265,7 +185235,7 @@
     "product": "Fairtex BS1902 Muay Thai Shorts - Stealth - Grijs",
     "size": "L",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1902-muay-thai-shorts-stealth-grijs",
     "previous_price": 59.95
   },
@@ -185275,7 +185245,7 @@
     "product": "Fairtex BS1902 Muay Thai Shorts - Stealth - Grijs",
     "size": "XL",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1902-muay-thai-shorts-stealth-grijs",
     "previous_price": 59.95
   },
@@ -185405,7 +185375,7 @@
     "product": "Fairtex BS1910 Muay Thai Shorts - Golden River - rood",
     "size": "M",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1910-muay-thai-shorts-golden-river-rood",
     "previous_price": 59.95
   },
@@ -185415,7 +185385,7 @@
     "product": "Fairtex BS1910 Muay Thai Shorts - Golden River - rood",
     "size": "L",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1910-muay-thai-shorts-golden-river-rood",
     "previous_price": 59.95
   },
@@ -185425,7 +185395,7 @@
     "product": "Fairtex BS1910 Muay Thai Shorts - Golden River - rood",
     "size": "XL",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1910-muay-thai-shorts-golden-river-rood",
     "previous_price": 59.95
   },
@@ -185605,7 +185575,7 @@
     "product": "Fairtex BS1920 Muay Thai Shorts - Lava - Zwart/Goud",
     "size": "S",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1920-muay-thai-shorts-lava-zwart-goud",
     "previous_price": 59.95
   },
@@ -185665,7 +185635,7 @@
     "product": "Fairtex BS1924 Muay Thai Shorts Racer - Zwart/Groen",
     "size": "M",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1924-muay-thai-shorts-racer-zwart-groen",
     "previous_price": 59.95
   },
@@ -185675,7 +185645,7 @@
     "product": "Fairtex BS1924 Muay Thai Shorts Racer - Zwart/Groen",
     "size": "L",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1924-muay-thai-shorts-racer-zwart-groen",
     "previous_price": 59.95
   },
@@ -185695,7 +185665,7 @@
     "product": "Fairtex BS1924 Muay Thai Shorts Racer - Zwart/Groen",
     "size": "XXL",
     "price": 65.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1924-muay-thai-shorts-racer-zwart-groen",
     "previous_price": 65.0
   },
@@ -185715,7 +185685,7 @@
     "product": "Fairtex BS1925 Muay Thai Shorts - Mr.X - zwart/goud",
     "size": "M",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1925-muay-thai-shorts-mrx-zwart-goud",
     "previous_price": 59.95
   },
@@ -185725,7 +185695,7 @@
     "product": "Fairtex BS1925 Muay Thai Shorts - Mr.X - zwart/goud",
     "size": "L",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1925-muay-thai-shorts-mrx-zwart-goud",
     "previous_price": 59.95
   },
@@ -185735,7 +185705,7 @@
     "product": "Fairtex BS1925 Muay Thai Shorts - Mr.X - zwart/goud",
     "size": "XL",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1925-muay-thai-shorts-mrx-zwart-goud",
     "previous_price": 59.95
   },
@@ -185775,7 +185745,7 @@
     "product": "Fairtex BS1926 Muay Thai Shorts - Magma 'Red'",
     "size": "L",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1926-muay-thai-shorts-magma-red",
     "previous_price": 59.95
   },
@@ -185875,7 +185845,7 @@
     "product": "Fairtex BS1931 Muay Thai Shorts - Heart of Gold - zwart/goud",
     "size": "L",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1931-muay-thai-shorts-heart-of-gold-zwart-goud",
     "previous_price": 59.95
   },
@@ -185885,7 +185855,7 @@
     "product": "Fairtex BS1931 Muay Thai Shorts - Heart of Gold - zwart/goud",
     "size": "XL",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1931-muay-thai-shorts-heart-of-gold-zwart-goud",
     "previous_price": 59.95
   },
@@ -186355,7 +186325,7 @@
     "product": "Flow - Challenge Bokshandschoenen - Echt Leer - Rood",
     "size": "14 oz",
     "price": 119.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/flow-challenge-bokshandschoenen-echt-leer-rood",
     "previous_price": 119.95
   },
@@ -187405,7 +187375,7 @@
     "product": "Hayabusa T360 Bokshandschoenen - Zwart",
     "size": "16 oz",
     "price": 179.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t360-bokshandschoenen-zwart",
     "previous_price": 179.0
   },
@@ -189015,7 +188985,7 @@
     "product": "Hayabusa Icon Kickboxing Shorts - Blauw / Wit",
     "size": "M",
     "price": 69.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-blauw-wit",
     "previous_price": 69.99
   },
@@ -189035,7 +189005,7 @@
     "product": "Hayabusa Icon Kickboxing Shorts - Blauw / Wit",
     "size": "XL",
     "price": 69.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-blauw-wit",
     "previous_price": 69.99
   },
@@ -189075,7 +189045,7 @@
     "product": "Hayabusa Icon Kickboxing Shorts - Paars / Wit",
     "size": "L",
     "price": 69.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-kickboxing-shorts-paars-wit",
     "previous_price": 69.99
   },
@@ -190785,7 +190755,7 @@
     "product": "Hayabusa Icon Mid-Length Fight Shorts - Blauw / Wit",
     "size": "L",
     "price": 79.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-mid-length-fight-shorts-blauw-wit",
     "previous_price": 79.99
   },
@@ -190795,7 +190765,7 @@
     "product": "Hayabusa Icon Mid-Length Fight Shorts - Blauw / Wit",
     "size": "XL",
     "price": 79.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-mid-length-fight-shorts-blauw-wit",
     "previous_price": 79.99
   },
@@ -190855,7 +190825,7 @@
     "product": "Hayabusa Icon Mid-Length Fight Shorts - Zwart / Neon",
     "size": "S",
     "price": 79.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-mid-length-fight-shorts-zwart-neon",
     "previous_price": 79.99
   },
@@ -190865,7 +190835,7 @@
     "product": "Hayabusa Icon Mid-Length Fight Shorts - Zwart / Neon",
     "size": "M",
     "price": 79.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-mid-length-fight-shorts-zwart-neon",
     "previous_price": 79.99
   },
@@ -190875,7 +190845,7 @@
     "product": "Hayabusa Icon Mid-Length Fight Shorts - Zwart / Neon",
     "size": "XL",
     "price": 79.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-mid-length-fight-shorts-zwart-neon",
     "previous_price": 79.99
   },
@@ -190885,7 +190855,7 @@
     "product": "Hayabusa Icon Mid-Length Fight Shorts - Zwart / Wit",
     "size": "S",
     "price": 79.99,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/hayabusa-icon-mid-length-fight-shorts-zwart-wit",
     "previous_price": 79.99
   },
@@ -191575,7 +191545,7 @@
     "product": "Primo Emblem 2.0 Shaolin Yellow Bokshandschoenen - Echt Leer - Geel",
     "size": "16 oz",
     "price": 151.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/primo-emblem-2-shaolin-yellow-bokshandschoenen-echt-leer-geel",
     "previous_price": 151.95
   },
@@ -196575,7 +196545,7 @@
     "product": "Fairtex BAG2 Sporttas - Zwart",
     "size": "Default Title",
     "price": 95.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bag2-sporttas-zwart",
     "previous_price": 95.0
   },
@@ -196735,7 +196705,7 @@
     "product": "Fairtex HW2 Handwraps - Zwart",
     "size": "Default Title",
     "price": 17.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-handwraps-zwart",
     "previous_price": 17.0
   },
@@ -196785,7 +196755,7 @@
     "product": "Fairtex BPV2 Lightweight Belly Pad (A.K.A. \"The Champion Belt\") - Blauw",
     "size": "Default Title",
     "price": 150.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bpv2-lightweight-belly-pad-aka-the-champion-belt-blauw",
     "previous_price": 150.0
   },
@@ -196825,7 +196795,7 @@
     "product": "Fairtex KPLC5 Microfiber Curved Kick Pads - Standard size",
     "size": "Default Title",
     "price": 199.9,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-microfiber-curved-kick-pads-standard-size",
     "previous_price": 199.9
   },
@@ -196835,7 +196805,7 @@
     "product": "Fairtex HB6 Muay Thai Banana Bag - 180 cm - Ongevuld - Blauw",
     "size": "Default Title",
     "price": 165.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-hb6-muay-thai-banana-bag-180-cm-ongevuld-blauw",
     "previous_price": 165.0
   },
@@ -196845,7 +196815,7 @@
     "product": "Fairtex HB6 Muay Thai Banana Bag - 180 cm - Ongevuld - Geel",
     "size": "Default Title",
     "price": 165.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-hb6-muay-thai-banana-bag-180-cm-ongevuld-geel",
     "previous_price": 165.0
   },
@@ -196865,7 +196835,7 @@
     "product": "Fairtex HB6 Muay Thai Banana Bag - 180 cm - Ongevuld - Rood",
     "size": "Default Title",
     "price": 165.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-hb6-muay-thai-banana-bag-180-cm-ongevuld-rood",
     "previous_price": 165.0
   },
@@ -196875,7 +196845,7 @@
     "product": "Fairtex HB6 Muay Thai Banana Bag - 180 cm - Ongevuld - Zwart",
     "size": "Default Title",
     "price": 165.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-hb6-muay-thai-banana-bag-180-cm-ongevuld-zwart",
     "previous_price": 165.0
   },
@@ -196885,7 +196855,7 @@
     "product": "Fairtex FMV15 Speed and Accuracy Focus Mitts",
     "size": "Default Title",
     "price": 120.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-fmv15-speed-and-accuracy-focus-mitts",
     "previous_price": 120.0
   },
@@ -197575,7 +197545,7 @@
     "product": "Sukkiri Spray - Deodorizer 300 ml",
     "size": "Default Title",
     "price": 14.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/sukkiri-spray-deodorizer-300-ml",
     "previous_price": 14.95
   },
@@ -199155,7 +199125,7 @@
     "product": "Fairtex FGV18 Super Sparring MMA Handschoenen - Zwart / Blauw",
     "size": "L",
     "price": 109.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/faitex-fgv18-super-sparring-mma-gloves-zwart-blauw",
     "previous_price": 109.0
   },
@@ -199215,7 +199185,7 @@
     "product": "Fairtex BS1930 Muay Thai Shorts - Blue Ocean - Blauw",
     "size": "S",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1930-muay-thai-shorts-blue-ocean-blauw",
     "previous_price": 59.95
   },
@@ -199225,7 +199195,7 @@
     "product": "Fairtex BS1930 Muay Thai Shorts - Blue Ocean - Blauw",
     "size": "M",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1930-muay-thai-shorts-blue-ocean-blauw",
     "previous_price": 59.95
   },
@@ -199235,7 +199205,7 @@
     "product": "Fairtex BS1930 Muay Thai Shorts - Blue Ocean - Blauw",
     "size": "L",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1930-muay-thai-shorts-blue-ocean-blauw",
     "previous_price": 59.95
   },
@@ -199255,7 +199225,7 @@
     "product": "Fairtex BS1930 Muay Thai Shorts - Blue Ocean - Blauw",
     "size": "XXL",
     "price": 65.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bs1930-muay-thai-shorts-blue-ocean-blauw",
     "previous_price": 65.0
   },
@@ -199265,7 +199235,7 @@
     "product": "Fairtex Muay Thai Shorts - BS1947 Black Marble - zwart/goud",
     "size": "S",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1947-black-marble-zwart-goud",
     "previous_price": 59.95
   },
@@ -199275,7 +199245,7 @@
     "product": "Fairtex Muay Thai Shorts - BS1947 Black Marble - zwart/goud",
     "size": "M",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1947-black-marble-zwart-goud",
     "previous_price": 59.95
   },
@@ -199285,7 +199255,7 @@
     "product": "Fairtex Muay Thai Shorts - BS1947 Black Marble - zwart/goud",
     "size": "L",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1947-black-marble-zwart-goud",
     "previous_price": 59.95
   },
@@ -199295,7 +199265,7 @@
     "product": "Fairtex Muay Thai Shorts - BS1947 Black Marble - zwart/goud",
     "size": "XL",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1947-black-marble-zwart-goud",
     "previous_price": 59.95
   },
@@ -199305,7 +199275,7 @@
     "product": "Fairtex Muay Thai Shorts - BS1947 Black Marble - zwart/goud",
     "size": "XXL",
     "price": 65.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1947-black-marble-zwart-goud",
     "previous_price": 65.0
   },
@@ -199315,7 +199285,7 @@
     "product": "Fairtex Muay Thai Shorts - BS1948 Grunge White - Wit / Zwart",
     "size": "S",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1948-grunge-white-wit-zwart",
     "previous_price": 59.95
   },
@@ -199325,7 +199295,7 @@
     "product": "Fairtex Muay Thai Shorts - BS1948 Grunge White - Wit / Zwart",
     "size": "M",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1948-grunge-white-wit-zwart",
     "previous_price": 59.95
   },
@@ -199335,7 +199305,7 @@
     "product": "Fairtex Muay Thai Shorts - BS1948 Grunge White - Wit / Zwart",
     "size": "L",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1948-grunge-white-wit-zwart",
     "previous_price": 59.95
   },
@@ -199345,7 +199315,7 @@
     "product": "Fairtex Muay Thai Shorts - BS1948 Grunge White - Wit / Zwart",
     "size": "XL",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1948-grunge-white-wit-zwart",
     "previous_price": 59.95
   },
@@ -199355,7 +199325,7 @@
     "product": "Fairtex Muay Thai Shorts - BS1948 Grunge White - Wit / Zwart",
     "size": "XXL",
     "price": 65.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1948-grunge-white-wit-zwart",
     "previous_price": 65.0
   },
@@ -199365,7 +199335,7 @@
     "product": "Fairtex Muay Thai Shorts - BS1949 Grunge Black - Zwart / Wit",
     "size": "S",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1948-grunge-black-zwart",
     "previous_price": 59.95
   },
@@ -199375,7 +199345,7 @@
     "product": "Fairtex Muay Thai Shorts - BS1949 Grunge Black - Zwart / Wit",
     "size": "M",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1948-grunge-black-zwart",
     "previous_price": 59.95
   },
@@ -199395,7 +199365,7 @@
     "product": "Fairtex Muay Thai Shorts - BS1949 Grunge Black - Zwart / Wit",
     "size": "XL",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1948-grunge-black-zwart",
     "previous_price": 59.95
   },
@@ -199405,7 +199375,7 @@
     "product": "Fairtex Muay Thai Shorts - BS1949 Grunge Black - Zwart / Wit",
     "size": "XXL",
     "price": 65.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-muay-thai-shorts-bs1948-grunge-black-zwart",
     "previous_price": 65.0
   },
@@ -201075,7 +201045,7 @@
     "product": "Booster Bokshandschoenen - Bangkok Series 4 - Blauw / Zilver",
     "size": "14 oz",
     "price": 64.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bokshandschoenen-bangkok-series-4-blauw-zilver",
     "previous_price": 64.95
   },
@@ -201375,7 +201345,7 @@
     "product": "Fairtex BGV1C-Plus Microvezel Bokshandschoenen - Zwart",
     "size": "12 oz",
     "price": 125.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1c-plus-microvezel-bokshandschoenen-zwart",
     "previous_price": 125.0
   },
@@ -201385,7 +201355,7 @@
     "product": "Fairtex BGV1C-Plus Microvezel Bokshandschoenen - Zwart",
     "size": "14 oz",
     "price": 125.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1c-plus-microvezel-bokshandschoenen-zwart",
     "previous_price": 125.0
   },
@@ -201395,7 +201365,7 @@
     "product": "Fairtex BGV1C-Plus Microvezel Bokshandschoenen - Zwart",
     "size": "16 oz",
     "price": 125.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1c-plus-microvezel-bokshandschoenen-zwart",
     "previous_price": 125.0
   },
@@ -201415,7 +201385,7 @@
     "product": "Fairtex BGV9 Bokshandschoenen - \"Mexican Heavy Hitter\" - Zwart",
     "size": "14 oz",
     "price": 160.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv9-bokshandschoenen-mexican-heavy-hitter-zwart",
     "previous_price": 160.0
   },
@@ -201425,7 +201395,7 @@
     "product": "Fairtex BGV9 Bokshandschoenen - \"Mexican Heavy Hitter\" - Zwart",
     "size": "16 oz",
     "price": 160.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv9-bokshandschoenen-mexican-heavy-hitter-zwart",
     "previous_price": 160.0
   },
@@ -202435,7 +202405,7 @@
     "product": "Fairtex BGV11 F-Day Bokshandschoenen - Groen",
     "size": "12 oz",
     "price": 150.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv11-f-day-bokshandschoenen-groen",
     "previous_price": 150.0
   },
@@ -202445,7 +202415,7 @@
     "product": "Fairtex BGV11 F-Day Bokshandschoenen - Groen",
     "size": "14 oz",
     "price": 150.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv11-f-day-bokshandschoenen-groen",
     "previous_price": 150.0
   },
@@ -202455,7 +202425,7 @@
     "product": "Fairtex BGV11 F-Day Bokshandschoenen - Groen",
     "size": "16 oz",
     "price": 150.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv11-f-day-bokshandschoenen-groen",
     "previous_price": 150.0
   },
@@ -202465,7 +202435,7 @@
     "product": "Fairtex BPV3 Lightweight Belly Pad  - Zwart",
     "size": "Default Title",
     "price": 150.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/fairtex-bpv3-lightweight-belly-pad-zwart",
     "previous_price": 150.0
   },
@@ -202485,7 +202455,7 @@
     "product": "Adidas HVC 2 Boksen- & Worstelschoenen – Zwart",
     "size": "40 2/3",
     "price": 65.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/adidas-hvc-2-boksen-worstelschoenen-zwart",
     "previous_price": 65.0
   },
@@ -202495,7 +202465,7 @@
     "product": "Adidas HVC 2 Boksen- & Worstelschoenen – Zwart",
     "size": "41 1/3",
     "price": 65.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/adidas-hvc-2-boksen-worstelschoenen-zwart",
     "previous_price": 65.0
   },
@@ -202555,7 +202525,7 @@
     "product": "Adidas HVC 2 Boksen- & Worstelschoenen – Zwart",
     "size": "45 1/3",
     "price": 65.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/adidas-hvc-2-boksen-worstelschoenen-zwart",
     "previous_price": 65.0
   },
@@ -202565,7 +202535,7 @@
     "product": "Adidas HVC 2 Boksen- & Worstelschoenen – Zwart",
     "size": "46",
     "price": 65.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/adidas-hvc-2-boksen-worstelschoenen-zwart",
     "previous_price": 65.0
   },
@@ -202575,7 +202545,7 @@
     "product": "Adidas HVC 2 Boksen- & Worstelschoenen – Zwart",
     "size": "46 2/3",
     "price": 65.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/adidas-hvc-2-boksen-worstelschoenen-zwart",
     "previous_price": 65.0
   },
@@ -203045,7 +203015,7 @@
     "product": "Booster Scheenbeschermers - Bangkok Series 5 - Zwart / Zwart",
     "size": "S",
     "price": 74.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-scheenbeschermers-bangkok-series-5-zwart-zwart",
     "previous_price": 74.95
   },
@@ -205487,7 +205457,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-white/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -205517,7 +205487,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-white/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -205527,7 +205497,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-white/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -205567,7 +205537,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-white/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -205587,7 +205557,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-white/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -205607,7 +205577,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-core-black/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -205617,7 +205587,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-core-black/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -205647,7 +205617,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-core-black/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -205677,7 +205647,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-core-black/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -205697,7 +205667,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-core-black/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -205707,7 +205677,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-core-black/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -205717,7 +205687,7 @@
     "price": 64.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-worstelschoenen-havoc-plus-core-black/",
-    "previous_price": null
+    "previous_price": 64.95
   },
   {
     "shop": "OLB Sports",
@@ -214808,16 +214778,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-predator-gebitsbeschermer-black-turquoise/",
     "previous_price": 21.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Challenger Gebitsbeschermer Turquoise/Black",
-    "size": "One Size",
-    "price": 14.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-challenger-gebitsbeschermer-turquoise-black/",
-    "previous_price": 14.99
   },
   {
     "shop": "OLB Sports",
@@ -224812,6 +224772,16 @@
   {
     "shop": "OLB Sports",
     "brand": "Opro",
+    "product": "Opro UFC Gebitsbeschermer Gold Ultra Fit Zwart/Goud",
+    "size": "One Size",
+    "price": 24.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/opro-ufc-gebitsbeschermer-gold-ultra-fit-zwart-goud/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Opro",
     "product": "Opro UFC Gebitsbeschermer Silver Superior Fit Wit/Zilver",
     "size": "One Size",
     "price": 16.99,
@@ -228502,6 +228472,16 @@
   {
     "shop": "OLB Sports",
     "brand": "Opro",
+    "product": "Opro Gebitsbeschermer Custom Dentist Fit Zwart/Wit",
+    "size": "senior",
+    "price": 44.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/opro-gebitsbeschermer-custom-dentist-fit-zwart-wit/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Opro",
     "product": "Opro Gebitsbeschermer Custom Dentist Fit Wit/Goud",
     "size": "senior",
     "price": 44.99,
@@ -230351,13 +230331,23 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Shirt Camo V2 Goud",
-    "size": "128",
-    "price": 24.95,
+    "brand": "XXL",
+    "product": "XXL Nutrition Whey Isolate Zero Banaan",
+    "size": "One Size",
+    "price": 54.99,
     "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-shirt-camo-v2-goud/",
-    "previous_price": 24.95
+    "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolate-zero-banaan/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "XXL",
+    "product": "XXL Nutrition Whey Isolate Zero Aardbei",
+    "size": "One Size",
+    "price": 54.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolate-zero-aardbei/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -230914,16 +230904,6 @@
     "brand": "Joya",
     "product": "Joya Bokshandschoen Camo V2 Blauw",
     "size": "4oz",
-    "price": 43.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-bokshandschoen-camo-v2-blauw/",
-    "previous_price": 43.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Bokshandschoen Camo V2 Blauw",
-    "size": "10oz",
     "price": 43.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-bokshandschoen-camo-v2-blauw/",
@@ -233511,6 +233491,16 @@
   },
   {
     "shop": "OLB Sports",
+    "brand": "XXL",
+    "product": "XXL Bcaa Poeder Watermeloen 500gr",
+    "size": "One Size",
+    "price": 24.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-bcaa-poeder-watermeloen-500gr/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
     "brand": "Stanno",
     "product": "Stanno Ease Full Zip Hoodie Grijs",
     "size": "xxxl",
@@ -234642,6 +234632,16 @@
   {
     "shop": "OLB Sports",
     "brand": "XXL",
+    "product": "XXL Bcaa Poeder Tropical 500gr",
+    "size": "One Size",
+    "price": 24.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-bcaa-poeder-tropical/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "XXL",
     "product": "XXL Nutrition Whey Isolaat Banaan 2.5kg",
     "size": "One Size",
     "price": 129.99,
@@ -235487,16 +235487,6 @@
     "price": 16.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/shock-doctor-gebitsbeschermer-gel-max-wit/",
-    "previous_price": 16.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Shock",
-    "product": "Shock Doctor Gebitsbeschermer Gel Max Transparant",
-    "size": "senior",
-    "price": 16.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/shock-doctor-gebitsbeschermer-gel-max-transparant/",
     "previous_price": 16.95
   },
   {
@@ -237943,16 +237933,6 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Dames Tok de Luxe Zwart",
-    "size": "xs",
-    "price": 19.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-dames-tok-de-luxe-zwart/",
-    "previous_price": 19.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Dames Tok de Luxe Zwart",
     "size": "m",
     "price": 19.95,
     "in_stock": true,
@@ -237978,16 +237958,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-dames-tok-de-luxe-zwart/",
     "previous_price": 19.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Binnenhandschoenen Zwart",
-    "size": "l",
-    "price": 13.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-binnenhandschoen-zwart/",
-    "previous_price": 13.95
   },
   {
     "shop": "OLB Sports",
@@ -238057,7 +238027,7 @@
     "price": 44.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-hoofdbeschermer-zwart/",
-    "previous_price": null
+    "previous_price": 44.95
   },
   {
     "shop": "OLB Sports",
