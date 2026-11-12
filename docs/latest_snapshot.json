@@ -2105,7 +2105,7 @@
     "product": "Ground Force Basic Gi V3 - White",
     "size": "A0",
     "price": 80.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-basic-gi-v3-white",
     "previous_price": 80.0
   },
@@ -2905,7 +2905,7 @@
     "product": "RollPro BJJ Belt",
     "size": "Blue / A2",
     "price": 12.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/rollpro-bjj-belt",
     "previous_price": 12.5
   },
@@ -13775,7 +13775,7 @@
     "product": "Ground Force Basic Kids Gi",
     "size": "M1 / Black",
     "price": 49.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-basic-kids-gi",
     "previous_price": 49.0
   },
@@ -13955,7 +13955,7 @@
     "product": "Ground Force Basic Kids Gi",
     "size": "M5 / White",
     "price": 49.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-basic-kids-gi",
     "previous_price": 49.0
   },
@@ -18805,7 +18805,7 @@
     "product": "Ground Force Rank Rashguard Long Sleeve",
     "size": "M / Purple",
     "price": 49.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-rank-rash-guard",
     "previous_price": 49.0
   },
@@ -18865,7 +18865,7 @@
     "product": "Ground Force Rank Rashguard Long Sleeve",
     "size": "L / Brown",
     "price": 49.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-rank-rash-guard",
     "previous_price": 49.0
   },
@@ -19905,7 +19905,7 @@
     "product": "Fuji Submit Everyone BJJ Gi",
     "size": "A0 / Black",
     "price": 129.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/fuji-submit-everyone-gi",
     "previous_price": 129.95
   },
@@ -22235,7 +22235,7 @@
     "product": "Fuji Suparaito BJJ Gi",
     "size": "A1L / White",
     "price": 149.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://bjjfightgear.com/products/fuji-suparaito-bjj-gi",
     "previous_price": 149.95
   },
@@ -30875,7 +30875,7 @@
     "product": "Kimono BJJ (Gi) Moskova 2026 Limited Edition- Coral Gi Black",
     "size": "A0",
     "price": 152.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-moskova-2026-limited-edition-coral-gi-black",
     "previous_price": 152.5
   },
@@ -41715,7 +41715,7 @@
     "product": "Kimono BJJ (Gi) Kingz Balístico 4.0 - Negro",
     "size": "A3L",
     "price": 150.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-kingz-balistico-4-0-negro",
     "previous_price": 150.0
   },
@@ -50785,7 +50785,7 @@
     "product": "Super Pro Binnenhandschoenen Mexican Wrap Zwart",
     "size": "S",
     "price": 14.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fightstyle.nl/products/super-pro-binnenhandschoenen-mexican-wrap-zwart",
     "previous_price": 14.95
   },
@@ -52645,7 +52645,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "S / S / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -52665,7 +52665,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "S / M / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -52765,7 +52765,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "M / XS / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -52785,7 +52785,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "M / S / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -52805,7 +52805,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "M / M / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -52825,7 +52825,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "M / L / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -52845,7 +52845,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "M / XL / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -52865,7 +52865,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "M / XXL / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -52885,7 +52885,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "M / XXXL / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -52925,7 +52925,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "L / S / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -52945,7 +52945,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "L / M / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -53065,7 +53065,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "XL / S / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -53085,7 +53085,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "XL / M / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -53205,7 +53205,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "XXL / S / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -53225,7 +53225,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "XXL / M / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -53345,7 +53345,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "XXXL / S / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -53365,7 +53365,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "XXXL / M / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -53615,7 +53615,7 @@
     "product": "Instinct Shorts",
     "size": "Rose / S",
     "price": 41.24,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-shorts",
     "previous_price": 41.24
   },
@@ -53625,7 +53625,7 @@
     "product": "Instinct Shorts",
     "size": "Rose / M",
     "price": 41.24,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-shorts",
     "previous_price": 41.24
   },
@@ -53765,7 +53765,7 @@
     "product": "Instinct Rash Guard",
     "size": "Rose / M",
     "price": 41.24,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-rash-guard",
     "previous_price": 41.24
   },
@@ -56635,7 +56635,7 @@
     "product": "La Ciudad Rash Guard",
     "size": "M",
     "price": 37.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/la-ciudad-rash-guard",
     "previous_price": 37.49
   },
@@ -57385,7 +57385,7 @@
     "product": "Topo No-Gi Kit",
     "size": "L / S / Arctic",
     "price": 74.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 74.99
   },
@@ -57525,7 +57525,7 @@
     "product": "Topo No-Gi Kit",
     "size": "XL / S / Arctic",
     "price": 74.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/topo-no-gi-kit",
     "previous_price": 74.99
   },
@@ -61075,7 +61075,7 @@
     "product": "Topo Shorts",
     "size": "S / Arctic",
     "price": 37.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/topo-shorts",
     "previous_price": 37.49
   },
@@ -66735,7 +66735,7 @@
     "product": "Yin and Yang Gi Bundle",
     "size": "A1H / A1",
     "price": 235.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/yin-and-yang-gi-bundle",
     "previous_price": 235.49
   },
@@ -66745,7 +66745,7 @@
     "product": "Yin and Yang Gi Bundle",
     "size": "A1H / A1H",
     "price": 235.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/yin-and-yang-gi-bundle",
     "previous_price": 235.49
   },
@@ -66755,7 +66755,7 @@
     "product": "Yin and Yang Gi Bundle",
     "size": "A1H / A1L",
     "price": 235.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/yin-and-yang-gi-bundle",
     "previous_price": 235.49
   },
@@ -66765,7 +66765,7 @@
     "product": "Yin and Yang Gi Bundle",
     "size": "A1H / A2",
     "price": 235.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/yin-and-yang-gi-bundle",
     "previous_price": 235.49
   },
@@ -66775,7 +66775,7 @@
     "product": "Yin and Yang Gi Bundle",
     "size": "A1H / A2H",
     "price": 235.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/yin-and-yang-gi-bundle",
     "previous_price": 235.49
   },
@@ -66785,7 +66785,7 @@
     "product": "Yin and Yang Gi Bundle",
     "size": "A1H / A2L",
     "price": 235.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/yin-and-yang-gi-bundle",
     "previous_price": 235.49
   },
@@ -66795,7 +66795,7 @@
     "product": "Yin and Yang Gi Bundle",
     "size": "A1H / A3",
     "price": 235.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/yin-and-yang-gi-bundle",
     "previous_price": 235.49
   },
@@ -66805,7 +66805,7 @@
     "product": "Yin and Yang Gi Bundle",
     "size": "A1H / A3H",
     "price": 235.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/yin-and-yang-gi-bundle",
     "previous_price": 235.49
   },
@@ -66815,7 +66815,7 @@
     "product": "Yin and Yang Gi Bundle",
     "size": "A1H / A3L",
     "price": 235.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/yin-and-yang-gi-bundle",
     "previous_price": 235.49
   },
@@ -66825,7 +66825,7 @@
     "product": "Yin and Yang Gi Bundle",
     "size": "A1H / A4",
     "price": 235.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/yin-and-yang-gi-bundle",
     "previous_price": 235.49
   },
@@ -67965,7 +67965,7 @@
     "product": "Yin and Yang Gi Bundle",
     "size": "A1H / A0",
     "price": 235.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/yin-and-yang-gi-bundle",
     "previous_price": 235.49
   },
@@ -67975,7 +67975,7 @@
     "product": "Yin and Yang Gi Bundle",
     "size": "A1H / A0H",
     "price": 235.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/yin-and-yang-gi-bundle",
     "previous_price": 235.49
   },
@@ -67985,7 +67985,7 @@
     "product": "Yin and Yang Gi Bundle",
     "size": "A1H / A5",
     "price": 235.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/yin-and-yang-gi-bundle",
     "previous_price": 235.49
   },
@@ -73895,7 +73895,7 @@
     "product": "Valiant Gi",
     "size": "A1H / White",
     "price": 134.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/valiant-gi",
     "previous_price": 134.99
   },
@@ -81585,7 +81585,7 @@
     "product": "Kingz Kore V2 Men's Hoodie",
     "size": "Oliver / XS",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-v2-hoodie",
     "previous_price": 60.0
   },
@@ -82895,7 +82895,7 @@
     "product": "Kingz Original Snapback",
     "size": "One Size / Green",
     "price": 28.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/original-snapback",
     "previous_price": 28.0
   },
@@ -83554,7 +83554,7 @@
     "brand": "Kingz",
     "product": "Endless Roll Womens Jiu Jitsu Gi - White (F0 only)",
     "size": "White / F0",
-    "price": 80.0,
+    "price": 100.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/endless-roll-womens-jiu-jitsu-gi-white",
     "previous_price": 80.0
@@ -83564,7 +83564,7 @@
     "brand": "Kingz",
     "product": "Endless Roll Womens Jiu Jitsu Gi - White (F0 only)",
     "size": "White / F1",
-    "price": 80.0,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/endless-roll-womens-jiu-jitsu-gi-white",
     "previous_price": 80.0
@@ -83574,7 +83574,7 @@
     "brand": "Kingz",
     "product": "Endless Roll Womens Jiu Jitsu Gi - White (F0 only)",
     "size": "White / F2",
-    "price": 80.0,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/endless-roll-womens-jiu-jitsu-gi-white",
     "previous_price": 80.0
@@ -83584,7 +83584,7 @@
     "brand": "Kingz",
     "product": "Endless Roll Womens Jiu Jitsu Gi - White (F0 only)",
     "size": "White / F3",
-    "price": 80.0,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/endless-roll-womens-jiu-jitsu-gi-white",
     "previous_price": 80.0
@@ -83594,7 +83594,7 @@
     "brand": "Kingz",
     "product": "Endless Roll Womens Jiu Jitsu Gi - White (F0 only)",
     "size": "White / F4",
-    "price": 80.0,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/endless-roll-womens-jiu-jitsu-gi-white",
     "previous_price": 80.0
@@ -83604,7 +83604,7 @@
     "brand": "Kingz",
     "product": "Endless Roll Womens Jiu Jitsu Gi - White (F0 only)",
     "size": "White / F5",
-    "price": 80.0,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/endless-roll-womens-jiu-jitsu-gi-white",
     "previous_price": 80.0
@@ -83694,7 +83694,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Grappling Spats - Red",
     "size": "XS",
-    "price": 29.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-grappling-spats-red",
     "previous_price": 29.0
@@ -83704,7 +83704,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Grappling Spats - Red",
     "size": "S",
-    "price": 29.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-grappling-spats-red",
     "previous_price": 29.0
@@ -83714,7 +83714,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Grappling Spats - Red",
     "size": "M",
-    "price": 29.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-grappling-spats-red",
     "previous_price": 29.0
@@ -83724,7 +83724,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Grappling Spats - Red",
     "size": "L",
-    "price": 29.0,
+    "price": 35.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-grappling-spats-red",
     "previous_price": 29.0
@@ -83734,7 +83734,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Grappling Spats - Red",
     "size": "XL",
-    "price": 29.0,
+    "price": 35.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-grappling-spats-red",
     "previous_price": 29.0
@@ -83794,7 +83794,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Grappling Spats - Green",
     "size": "XS",
-    "price": 29.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-grappling-spats-green",
     "previous_price": 29.0
@@ -83804,7 +83804,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Grappling Spats - Green",
     "size": "S",
-    "price": 29.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-grappling-spats-green",
     "previous_price": 29.0
@@ -83814,7 +83814,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Grappling Spats - Green",
     "size": "M",
-    "price": 29.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-grappling-spats-green",
     "previous_price": 29.0
@@ -83824,7 +83824,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Grappling Spats - Green",
     "size": "L",
-    "price": 29.0,
+    "price": 35.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-grappling-spats-green",
     "previous_price": 29.0
@@ -83834,7 +83834,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Grappling Spats - Green",
     "size": "XL",
-    "price": 29.0,
+    "price": 45.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-grappling-spats-green",
     "previous_price": 29.0
@@ -83894,7 +83894,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Sports Bra - Red",
     "size": "XS",
-    "price": 21.0,
+    "price": 30.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-sports-bra-red",
     "previous_price": 21.0
@@ -83904,7 +83904,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Sports Bra - Red",
     "size": "S",
-    "price": 21.0,
+    "price": 30.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-sports-bra-red",
     "previous_price": 21.0
@@ -83914,7 +83914,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Sports Bra - Red",
     "size": "M",
-    "price": 21.0,
+    "price": 30.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-sports-bra-red",
     "previous_price": 21.0
@@ -83924,7 +83924,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Sports Bra - Red",
     "size": "L",
-    "price": 21.0,
+    "price": 30.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-sports-bra-red",
     "previous_price": 21.0
@@ -83934,7 +83934,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Sports Bra - Red",
     "size": "XL",
-    "price": 21.0,
+    "price": 30.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-sports-bra-red",
     "previous_price": 21.0
@@ -83944,7 +83944,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Sports Bra - Smoke Blue",
     "size": "XS",
-    "price": 24.0,
+    "price": 30.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-sports-bra-grey",
     "previous_price": 24.0
@@ -83954,7 +83954,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Sports Bra - Smoke Blue",
     "size": "S",
-    "price": 24.0,
+    "price": 30.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-sports-bra-grey",
     "previous_price": 24.0
@@ -83964,7 +83964,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Sports Bra - Smoke Blue",
     "size": "M",
-    "price": 24.0,
+    "price": 30.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-sports-bra-grey",
     "previous_price": 24.0
@@ -83974,7 +83974,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Sports Bra - Smoke Blue",
     "size": "L",
-    "price": 24.0,
+    "price": 30.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-sports-bra-grey",
     "previous_price": 24.0
@@ -83984,7 +83984,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Sports Bra - Smoke Blue",
     "size": "XL",
-    "price": 24.0,
+    "price": 30.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-sports-bra-grey",
     "previous_price": 24.0
@@ -83994,7 +83994,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Sports Bra - Green",
     "size": "XS",
-    "price": 27.0,
+    "price": 30.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-sports-bra-green",
     "previous_price": 27.0
@@ -84004,7 +84004,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Sports Bra - Green",
     "size": "S",
-    "price": 27.0,
+    "price": 30.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-sports-bra-green",
     "previous_price": 27.0
@@ -84014,7 +84014,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Sports Bra - Green",
     "size": "M",
-    "price": 27.0,
+    "price": 30.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-sports-bra-green",
     "previous_price": 27.0
@@ -84024,7 +84024,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Sports Bra - Green",
     "size": "L",
-    "price": 27.0,
+    "price": 30.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-sports-bra-green",
     "previous_price": 27.0
@@ -84034,7 +84034,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Sports Bra - Green",
     "size": "XL",
-    "price": 27.0,
+    "price": 30.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-sports-bra-green",
     "previous_price": 27.0
@@ -84284,7 +84284,7 @@
     "brand": "Kingz",
     "product": "Kingz Comp 450 V6 Women's BJJ Gi - White",
     "size": "F0 / White",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-comp-450-v6-womens-gi-white",
     "previous_price": 80.0
@@ -84294,7 +84294,7 @@
     "brand": "Kingz",
     "product": "Kingz Comp 450 V6 Women's BJJ Gi - White",
     "size": "F1 / White",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-comp-450-v6-womens-gi-white",
     "previous_price": 80.0
@@ -84304,7 +84304,7 @@
     "brand": "Kingz",
     "product": "Kingz Comp 450 V6 Women's BJJ Gi - White",
     "size": "F2 / White",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-comp-450-v6-womens-gi-white",
     "previous_price": 80.0
@@ -84314,7 +84314,7 @@
     "brand": "Kingz",
     "product": "Kingz Comp 450 V6 Women's BJJ Gi - White",
     "size": "F3 / White",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-comp-450-v6-womens-gi-white",
     "previous_price": 80.0
@@ -84324,7 +84324,7 @@
     "brand": "Kingz",
     "product": "Kingz Comp 450 V6 Women's BJJ Gi - White",
     "size": "F4 / White",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-comp-450-v6-womens-gi-white",
     "previous_price": 80.0
@@ -84334,7 +84334,7 @@
     "brand": "Kingz",
     "product": "Kingz Comp 450 V6 Women's BJJ Gi - White",
     "size": "F5 / White",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-comp-450-v6-womens-gi-white",
     "previous_price": 80.0
@@ -87124,7 +87124,7 @@
     "brand": "Kingz",
     "product": "Kingz Viper Men's Grappling Shorts",
     "size": "XS / Viper/Purple",
-    "price": 35.0,
+    "price": 50.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/viper-shorts",
     "previous_price": 35.0
@@ -87134,7 +87134,7 @@
     "brand": "Kingz",
     "product": "Kingz Viper Men's Grappling Shorts",
     "size": "S / Viper/Purple",
-    "price": 35.0,
+    "price": 50.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/viper-shorts",
     "previous_price": 35.0
@@ -87144,7 +87144,7 @@
     "brand": "Kingz",
     "product": "Kingz Viper Men's Grappling Shorts",
     "size": "M / Viper/Purple",
-    "price": 35.0,
+    "price": 50.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/viper-shorts",
     "previous_price": 35.0
@@ -87154,7 +87154,7 @@
     "brand": "Kingz",
     "product": "Kingz Viper Men's Grappling Shorts",
     "size": "L / Viper/Purple",
-    "price": 35.0,
+    "price": 50.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/viper-shorts",
     "previous_price": 35.0
@@ -87164,7 +87164,7 @@
     "brand": "Kingz",
     "product": "Kingz Viper Men's Grappling Shorts",
     "size": "XL / Viper/Purple",
-    "price": 35.0,
+    "price": 50.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/viper-shorts",
     "previous_price": 35.0
@@ -87174,7 +87174,7 @@
     "brand": "Kingz",
     "product": "Kingz Viper Men's Grappling Shorts",
     "size": "XXL / Viper/Purple",
-    "price": 35.0,
+    "price": 50.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/viper-shorts",
     "previous_price": 35.0
@@ -87624,7 +87624,7 @@
     "brand": "Kingz",
     "product": "Casual Cotton Gi Pant - Military Green",
     "size": "A00 / Military Green",
-    "price": 18.0,
+    "price": 40.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-casual-cotton-gi-pant-military-green",
     "previous_price": 18.0
@@ -87634,7 +87634,7 @@
     "brand": "Kingz",
     "product": "Casual Cotton Gi Pant - Military Green",
     "size": "A0 / Military Green",
-    "price": 18.0,
+    "price": 40.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-casual-cotton-gi-pant-military-green",
     "previous_price": 18.0
@@ -87644,7 +87644,7 @@
     "brand": "Kingz",
     "product": "Casual Cotton Gi Pant - Military Green",
     "size": "A1 / Military Green",
-    "price": 18.0,
+    "price": 40.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-casual-cotton-gi-pant-military-green",
     "previous_price": 18.0
@@ -87654,7 +87654,7 @@
     "brand": "Kingz",
     "product": "Casual Cotton Gi Pant - Military Green",
     "size": "A2 / Military Green",
-    "price": 18.0,
+    "price": 40.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-casual-cotton-gi-pant-military-green",
     "previous_price": 18.0
@@ -87664,7 +87664,7 @@
     "brand": "Kingz",
     "product": "Casual Cotton Gi Pant - Military Green",
     "size": "A3 / Military Green",
-    "price": 18.0,
+    "price": 40.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-casual-cotton-gi-pant-military-green",
     "previous_price": 18.0
@@ -87674,7 +87674,7 @@
     "brand": "Kingz",
     "product": "Casual Cotton Gi Pant - Military Green",
     "size": "A4 / Military Green",
-    "price": 18.0,
+    "price": 40.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-casual-cotton-gi-pant-military-green",
     "previous_price": 18.0
@@ -87684,7 +87684,7 @@
     "brand": "Kingz",
     "product": "Conquer Tee",
     "size": "XS / Dark Green",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/conquer-tee-1",
     "previous_price": 17.0
@@ -87694,7 +87694,7 @@
     "brand": "Kingz",
     "product": "Conquer Tee",
     "size": "XS / Black",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/conquer-tee-1",
     "previous_price": 17.0
@@ -87704,7 +87704,7 @@
     "brand": "Kingz",
     "product": "Conquer Tee",
     "size": "S / Dark Green",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/conquer-tee-1",
     "previous_price": 17.0
@@ -87714,7 +87714,7 @@
     "brand": "Kingz",
     "product": "Conquer Tee",
     "size": "S / Black",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/conquer-tee-1",
     "previous_price": 17.0
@@ -87724,7 +87724,7 @@
     "brand": "Kingz",
     "product": "Conquer Tee",
     "size": "M / Dark Green",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/conquer-tee-1",
     "previous_price": 17.0
@@ -87734,7 +87734,7 @@
     "brand": "Kingz",
     "product": "Conquer Tee",
     "size": "M / Black",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/conquer-tee-1",
     "previous_price": 17.0
@@ -87744,7 +87744,7 @@
     "brand": "Kingz",
     "product": "Conquer Tee",
     "size": "L / Dark Green",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/conquer-tee-1",
     "previous_price": 17.0
@@ -87754,7 +87754,7 @@
     "brand": "Kingz",
     "product": "Conquer Tee",
     "size": "L / Black",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/conquer-tee-1",
     "previous_price": 17.0
@@ -87764,7 +87764,7 @@
     "brand": "Kingz",
     "product": "Conquer Tee",
     "size": "XL / Dark Green",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/conquer-tee-1",
     "previous_price": 17.0
@@ -87774,7 +87774,7 @@
     "brand": "Kingz",
     "product": "Conquer Tee",
     "size": "XL / Black",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/conquer-tee-1",
     "previous_price": 17.0
@@ -87784,7 +87784,7 @@
     "brand": "Kingz",
     "product": "Conquer Tee",
     "size": "XXL / Dark Green",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/conquer-tee-1",
     "previous_price": 17.0
@@ -87794,7 +87794,7 @@
     "brand": "Kingz",
     "product": "Conquer Tee",
     "size": "XXL / Black",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/conquer-tee-1",
     "previous_price": 17.0
@@ -87804,7 +87804,7 @@
     "brand": "Kingz",
     "product": "Conquer Tee",
     "size": "XXXL / Dark Green",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/conquer-tee-1",
     "previous_price": 17.0
@@ -87814,7 +87814,7 @@
     "brand": "Kingz",
     "product": "Conquer Tee",
     "size": "XXXL / Black",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/conquer-tee-1",
     "previous_price": 17.0
@@ -88064,7 +88064,7 @@
     "brand": "Kingz",
     "product": "Krown Tee",
     "size": "XS / Black",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/krown-tee",
     "previous_price": 18.0
@@ -88074,7 +88074,7 @@
     "brand": "Kingz",
     "product": "Krown Tee",
     "size": "XS / White",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/krown-tee",
     "previous_price": 18.0
@@ -88084,7 +88084,7 @@
     "brand": "Kingz",
     "product": "Krown Tee",
     "size": "S / Black",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/krown-tee",
     "previous_price": 18.0
@@ -88094,7 +88094,7 @@
     "brand": "Kingz",
     "product": "Krown Tee",
     "size": "S / White",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/krown-tee",
     "previous_price": 18.0
@@ -88104,7 +88104,7 @@
     "brand": "Kingz",
     "product": "Krown Tee",
     "size": "M / Black",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/krown-tee",
     "previous_price": 18.0
@@ -88114,7 +88114,7 @@
     "brand": "Kingz",
     "product": "Krown Tee",
     "size": "M / White",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/krown-tee",
     "previous_price": 18.0
@@ -88124,7 +88124,7 @@
     "brand": "Kingz",
     "product": "Krown Tee",
     "size": "L / Black",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/krown-tee",
     "previous_price": 18.0
@@ -88134,7 +88134,7 @@
     "brand": "Kingz",
     "product": "Krown Tee",
     "size": "L / White",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/krown-tee",
     "previous_price": 18.0
@@ -88144,7 +88144,7 @@
     "brand": "Kingz",
     "product": "Krown Tee",
     "size": "XL / Black",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/krown-tee",
     "previous_price": 18.0
@@ -88154,7 +88154,7 @@
     "brand": "Kingz",
     "product": "Krown Tee",
     "size": "XL / White",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/krown-tee",
     "previous_price": 18.0
@@ -88164,7 +88164,7 @@
     "brand": "Kingz",
     "product": "Krown Tee",
     "size": "XXL / Black",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/krown-tee",
     "previous_price": 18.0
@@ -88174,7 +88174,7 @@
     "brand": "Kingz",
     "product": "Krown Tee",
     "size": "XXL / White",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/krown-tee",
     "previous_price": 18.0
@@ -89775,7 +89775,7 @@
     "product": "Kingz Ranked Performance V3 Men's Long Sleeve Rashguard",
     "size": "L / Brown",
     "price": 50.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/ranked-performance-v3-l-s-rashguard",
     "previous_price": 50.0
   },
@@ -92235,7 +92235,7 @@
     "product": "Kingz Ultralight 2.0 Men's BJJ Gi - Black Out Limited Edition",
     "size": "A0 / Black",
     "price": 150.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/ultralight-2-0-jiu-jitsu-gi-black-out-limited-edition",
     "previous_price": 150.0
   },
@@ -93125,7 +93125,7 @@
     "product": "Kingz Casual Rip Stop Men's Gi Pants - Grey",
     "size": "A3H / Grey",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-rip-stop-gi-pant-grey",
     "previous_price": 60.0
   },
@@ -94604,7 +94604,7 @@
     "brand": "Kingz",
     "product": "Kore Women's Tee",
     "size": "XS / Black",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-tee",
     "previous_price": 17.0
@@ -94614,7 +94614,7 @@
     "brand": "Kingz",
     "product": "Kore Women's Tee",
     "size": "XS / Indigo",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-tee",
     "previous_price": 17.0
@@ -94624,7 +94624,7 @@
     "brand": "Kingz",
     "product": "Kore Women's Tee",
     "size": "XS / Natural",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-tee",
     "previous_price": 17.0
@@ -94634,7 +94634,7 @@
     "brand": "Kingz",
     "product": "Kore Women's Tee",
     "size": "S / Black",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-tee",
     "previous_price": 17.0
@@ -94644,7 +94644,7 @@
     "brand": "Kingz",
     "product": "Kore Women's Tee",
     "size": "S / Indigo",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-tee",
     "previous_price": 17.0
@@ -94654,7 +94654,7 @@
     "brand": "Kingz",
     "product": "Kore Women's Tee",
     "size": "S / Natural",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-tee",
     "previous_price": 17.0
@@ -94664,7 +94664,7 @@
     "brand": "Kingz",
     "product": "Kore Women's Tee",
     "size": "M / Black",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-tee",
     "previous_price": 17.0
@@ -94674,7 +94674,7 @@
     "brand": "Kingz",
     "product": "Kore Women's Tee",
     "size": "M / Indigo",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-tee",
     "previous_price": 17.0
@@ -94684,7 +94684,7 @@
     "brand": "Kingz",
     "product": "Kore Women's Tee",
     "size": "M / Natural",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-tee",
     "previous_price": 17.0
@@ -94694,7 +94694,7 @@
     "brand": "Kingz",
     "product": "Kore Women's Tee",
     "size": "L / Black",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-tee",
     "previous_price": 17.0
@@ -94704,7 +94704,7 @@
     "brand": "Kingz",
     "product": "Kore Women's Tee",
     "size": "L / Indigo",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-tee",
     "previous_price": 17.0
@@ -94714,7 +94714,7 @@
     "brand": "Kingz",
     "product": "Kore Women's Tee",
     "size": "L / Natural",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-tee",
     "previous_price": 17.0
@@ -94724,7 +94724,7 @@
     "brand": "Kingz",
     "product": "Kore Women's Tee",
     "size": "XL / Black",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-tee",
     "previous_price": 17.0
@@ -94734,7 +94734,7 @@
     "brand": "Kingz",
     "product": "Kore Women's Tee",
     "size": "XL / Indigo",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-tee",
     "previous_price": 17.0
@@ -94744,7 +94744,7 @@
     "brand": "Kingz",
     "product": "Kore Women's Tee",
     "size": "XL / Natural",
-    "price": 17.0,
+    "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-tee",
     "previous_price": 17.0
@@ -94974,7 +94974,7 @@
     "brand": "Kingz",
     "product": "Jiu Jitsu Club Crewneck",
     "size": "XS / Light Gray",
-    "price": 40.0,
+    "price": 55.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/jiu-jitsu-club-crewneck",
     "previous_price": 40.0
@@ -94984,7 +94984,7 @@
     "brand": "Kingz",
     "product": "Jiu Jitsu Club Crewneck",
     "size": "S / Light Gray",
-    "price": 40.0,
+    "price": 55.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/jiu-jitsu-club-crewneck",
     "previous_price": 40.0
@@ -94994,7 +94994,7 @@
     "brand": "Kingz",
     "product": "Jiu Jitsu Club Crewneck",
     "size": "M / Light Gray",
-    "price": 40.0,
+    "price": 55.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/jiu-jitsu-club-crewneck",
     "previous_price": 40.0
@@ -95004,7 +95004,7 @@
     "brand": "Kingz",
     "product": "Jiu Jitsu Club Crewneck",
     "size": "L / Light Gray",
-    "price": 40.0,
+    "price": 55.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/jiu-jitsu-club-crewneck",
     "previous_price": 40.0
@@ -95014,7 +95014,7 @@
     "brand": "Kingz",
     "product": "Jiu Jitsu Club Crewneck",
     "size": "XL / Light Gray",
-    "price": 40.0,
+    "price": 55.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/jiu-jitsu-club-crewneck",
     "previous_price": 40.0
@@ -95024,7 +95024,7 @@
     "brand": "Kingz",
     "product": "Jiu Jitsu Club Crewneck",
     "size": "XXL / Light Gray",
-    "price": 40.0,
+    "price": 55.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/jiu-jitsu-club-crewneck",
     "previous_price": 40.0
@@ -95034,7 +95034,7 @@
     "brand": "Kingz",
     "product": "Jiu Jitsu Club Crewneck",
     "size": "XXXL / Light Gray",
-    "price": 40.0,
+    "price": 55.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/jiu-jitsu-club-crewneck",
     "previous_price": 40.0
@@ -97254,7 +97254,7 @@
     "brand": "Kingz",
     "product": "Kingz Flow Men's Grappling Shorts",
     "size": "XS / Black",
-    "price": 35.0,
+    "price": 50.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/flow-shorts-1",
     "previous_price": 35.0
@@ -97264,7 +97264,7 @@
     "brand": "Kingz",
     "product": "Kingz Flow Men's Grappling Shorts",
     "size": "XS / Blue/Pink",
-    "price": 35.0,
+    "price": 50.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/flow-shorts-1",
     "previous_price": 35.0
@@ -97274,7 +97274,7 @@
     "brand": "Kingz",
     "product": "Kingz Flow Men's Grappling Shorts",
     "size": "S / Black",
-    "price": 35.0,
+    "price": 50.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/flow-shorts-1",
     "previous_price": 35.0
@@ -97284,7 +97284,7 @@
     "brand": "Kingz",
     "product": "Kingz Flow Men's Grappling Shorts",
     "size": "S / Blue/Pink",
-    "price": 35.0,
+    "price": 50.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/flow-shorts-1",
     "previous_price": 35.0
@@ -97294,7 +97294,7 @@
     "brand": "Kingz",
     "product": "Kingz Flow Men's Grappling Shorts",
     "size": "M / Black",
-    "price": 35.0,
+    "price": 50.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/flow-shorts-1",
     "previous_price": 35.0
@@ -97304,7 +97304,7 @@
     "brand": "Kingz",
     "product": "Kingz Flow Men's Grappling Shorts",
     "size": "M / Blue/Pink",
-    "price": 35.0,
+    "price": 50.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/flow-shorts-1",
     "previous_price": 35.0
@@ -97314,7 +97314,7 @@
     "brand": "Kingz",
     "product": "Kingz Flow Men's Grappling Shorts",
     "size": "L / Black",
-    "price": 35.0,
+    "price": 50.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/flow-shorts-1",
     "previous_price": 35.0
@@ -97324,7 +97324,7 @@
     "brand": "Kingz",
     "product": "Kingz Flow Men's Grappling Shorts",
     "size": "L / Blue/Pink",
-    "price": 35.0,
+    "price": 50.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/flow-shorts-1",
     "previous_price": 35.0
@@ -97334,7 +97334,7 @@
     "brand": "Kingz",
     "product": "Kingz Flow Men's Grappling Shorts",
     "size": "XL / Black",
-    "price": 35.0,
+    "price": 50.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/flow-shorts-1",
     "previous_price": 35.0
@@ -97344,7 +97344,7 @@
     "brand": "Kingz",
     "product": "Kingz Flow Men's Grappling Shorts",
     "size": "XL / Blue/Pink",
-    "price": 35.0,
+    "price": 50.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/flow-shorts-1",
     "previous_price": 35.0
@@ -97354,7 +97354,7 @@
     "brand": "Kingz",
     "product": "Kingz Flow Men's Grappling Shorts",
     "size": "XXL / Black",
-    "price": 35.0,
+    "price": 50.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/flow-shorts-1",
     "previous_price": 35.0
@@ -97364,7 +97364,7 @@
     "brand": "Kingz",
     "product": "Kingz Flow Men's Grappling Shorts",
     "size": "XXL / Blue/Pink",
-    "price": 35.0,
+    "price": 50.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/flow-shorts-1",
     "previous_price": 35.0
@@ -98404,7 +98404,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - Blue",
     "size": "A00 / Blue",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-black-copy",
     "previous_price": 85.0
@@ -98414,7 +98414,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - Blue",
     "size": "A0 / Blue",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-black-copy",
     "previous_price": 85.0
@@ -98424,7 +98424,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - Blue",
     "size": "A1 / Blue",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-black-copy",
     "previous_price": 85.0
@@ -98434,7 +98434,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - Blue",
     "size": "A1L / Blue",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-black-copy",
     "previous_price": 85.0
@@ -98444,7 +98444,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - Blue",
     "size": "A2 / Blue",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-black-copy",
     "previous_price": 85.0
@@ -98454,7 +98454,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - Blue",
     "size": "A2L / Blue",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-black-copy",
     "previous_price": 85.0
@@ -98464,7 +98464,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - Blue",
     "size": "A2H / Blue",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-black-copy",
     "previous_price": 85.0
@@ -98474,7 +98474,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - Blue",
     "size": "A3 / Blue",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-black-copy",
     "previous_price": 85.0
@@ -98484,7 +98484,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - Blue",
     "size": "A3L / Blue",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-black-copy",
     "previous_price": 85.0
@@ -98494,7 +98494,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - Blue",
     "size": "A3H / Blue",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-black-copy",
     "previous_price": 85.0
@@ -98504,7 +98504,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - Blue",
     "size": "A4 / Blue",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-black-copy",
     "previous_price": 85.0
@@ -98514,7 +98514,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - Blue",
     "size": "A5 / Blue",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-black-copy",
     "previous_price": 85.0
@@ -100315,7 +100315,7 @@
     "product": "Kingz Casual Men's Gi Pants - Light Denim",
     "size": "A2L / Light Denim",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-rip-stop-gi-pant-light-denim",
     "previous_price": 60.0
   },
@@ -100555,7 +100555,7 @@
     "product": "Kingz Casual Rip Stop Men's Gi Pants - Khaki",
     "size": "A2L / Khaki",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-rip-stop-gi-pant-khaki",
     "previous_price": 60.0
   },
@@ -100914,7 +100914,7 @@
     "brand": "Kingz",
     "product": "Confidence Tee",
     "size": "XS / Black",
-    "price": 21.0,
+    "price": 28.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/confidence-tee",
     "previous_price": 21.0
@@ -100924,7 +100924,7 @@
     "brand": "Kingz",
     "product": "Confidence Tee",
     "size": "S / Black",
-    "price": 21.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/confidence-tee",
     "previous_price": 21.0
@@ -100934,7 +100934,7 @@
     "brand": "Kingz",
     "product": "Confidence Tee",
     "size": "M / Black",
-    "price": 21.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/confidence-tee",
     "previous_price": 21.0
@@ -100944,7 +100944,7 @@
     "brand": "Kingz",
     "product": "Confidence Tee",
     "size": "L / Black",
-    "price": 21.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/confidence-tee",
     "previous_price": 21.0
@@ -100954,7 +100954,7 @@
     "brand": "Kingz",
     "product": "Confidence Tee",
     "size": "XL / Black",
-    "price": 21.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/confidence-tee",
     "previous_price": 21.0
@@ -100964,7 +100964,7 @@
     "brand": "Kingz",
     "product": "Confidence Tee",
     "size": "XXL / Black",
-    "price": 21.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/confidence-tee",
     "previous_price": 21.0
@@ -101844,7 +101844,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "XS / Black",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -101854,7 +101854,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "XS / Desert Pink",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -101864,7 +101864,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "XS / Steel Blue",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -101874,7 +101874,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "XS / Sage Green",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -101884,7 +101884,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "S / Black",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -101894,7 +101894,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "S / Desert Pink",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -101904,7 +101904,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "S / Steel Blue",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -101914,7 +101914,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "S / Sage Green",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -101924,7 +101924,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "M / Black",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -101934,7 +101934,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "M / Desert Pink",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -101944,7 +101944,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "M / Steel Blue",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -101954,7 +101954,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "M / Sage Green",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -101964,7 +101964,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "L / Black",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -101974,7 +101974,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "L / Desert Pink",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -101984,7 +101984,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "L / Steel Blue",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -101994,7 +101994,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "L / Sage Green",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -102004,7 +102004,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "XL / Black",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -102014,7 +102014,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "XL / Desert Pink",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -102024,7 +102024,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "XL / Steel Blue",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -102034,7 +102034,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "XL / Sage Green",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -102044,7 +102044,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "XXL / Black",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -102054,7 +102054,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "XXL / Desert Pink",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -102064,7 +102064,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "XXL / Steel Blue",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -102074,7 +102074,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "XXL / Sage Green",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -102084,7 +102084,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "XXXL / Black",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -102094,7 +102094,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "XXXL / Desert Pink",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -102104,7 +102104,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "XXXL / Steel Blue",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -102114,7 +102114,7 @@
     "brand": "Kingz",
     "product": "Script Tee",
     "size": "XXXL / Sage Green",
-    "price": 19.0,
+    "price": 28.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/script-tee-2",
     "previous_price": 19.0
@@ -102124,7 +102124,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Womens Jiu Jitsu Gi - White - 2023 Edition",
     "size": "F0 / White",
-    "price": 80.0,
+    "price": 110.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-womens-jiu-jitsu-gi",
     "previous_price": 80.0
@@ -102134,7 +102134,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Womens Jiu Jitsu Gi - White - 2023 Edition",
     "size": "F1 / White",
-    "price": 80.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-womens-jiu-jitsu-gi",
     "previous_price": 80.0
@@ -102144,7 +102144,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Womens Jiu Jitsu Gi - White - 2023 Edition",
     "size": "F2 / White",
-    "price": 80.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-womens-jiu-jitsu-gi",
     "previous_price": 80.0
@@ -102154,7 +102154,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Womens Jiu Jitsu Gi - White - 2023 Edition",
     "size": "F3 / White",
-    "price": 80.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-womens-jiu-jitsu-gi",
     "previous_price": 80.0
@@ -102164,7 +102164,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Womens Jiu Jitsu Gi - White - 2023 Edition",
     "size": "F4 / White",
-    "price": 80.0,
+    "price": 110.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-womens-jiu-jitsu-gi",
     "previous_price": 80.0
@@ -102174,7 +102174,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Womens Jiu Jitsu Gi - White - 2023 Edition",
     "size": "F5 / White",
-    "price": 80.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-womens-jiu-jitsu-gi",
     "previous_price": 80.0
@@ -102184,7 +102184,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Womens Jiu Jitsu Gi - Black - 2023 Edition",
     "size": "F0 / Black",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-womens-jiu-jitsu-gi-black",
     "previous_price": 95.0
@@ -102194,7 +102194,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Womens Jiu Jitsu Gi - Black - 2023 Edition",
     "size": "F1 / Black",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-womens-jiu-jitsu-gi-black",
     "previous_price": 95.0
@@ -102204,7 +102204,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Womens Jiu Jitsu Gi - Black - 2023 Edition",
     "size": "F2 / Black",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-womens-jiu-jitsu-gi-black",
     "previous_price": 95.0
@@ -102214,7 +102214,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Womens Jiu Jitsu Gi - Black - 2023 Edition",
     "size": "F3 / Black",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-womens-jiu-jitsu-gi-black",
     "previous_price": 95.0
@@ -102224,7 +102224,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Womens Jiu Jitsu Gi - Black - 2023 Edition",
     "size": "F4 / Black",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-womens-jiu-jitsu-gi-black",
     "previous_price": 95.0
@@ -102234,7 +102234,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Womens Jiu Jitsu Gi - Black - 2023 Edition",
     "size": "F5 / Black",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-womens-jiu-jitsu-gi-black",
     "previous_price": 95.0
@@ -102244,7 +102244,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Black - 2023 Edition",
     "size": "A00 / Black",
-    "price": 95.0,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-black",
     "previous_price": 95.0
@@ -102254,7 +102254,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Black - 2023 Edition",
     "size": "A0 / Black",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-black",
     "previous_price": 95.0
@@ -102264,7 +102264,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Black - 2023 Edition",
     "size": "A0L / Black",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-black",
     "previous_price": 95.0
@@ -102274,7 +102274,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Black - 2023 Edition",
     "size": "A1 / Black",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-black",
     "previous_price": 95.0
@@ -102284,7 +102284,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Black - 2023 Edition",
     "size": "A1L / Black",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-black",
     "previous_price": 95.0
@@ -102294,7 +102294,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Black - 2023 Edition",
     "size": "A1H / Black",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-black",
     "previous_price": 95.0
@@ -102304,7 +102304,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Black - 2023 Edition",
     "size": "A2 / Black",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-black",
     "previous_price": 95.0
@@ -102314,7 +102314,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Black - 2023 Edition",
     "size": "A2L / Black",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-black",
     "previous_price": 95.0
@@ -102324,7 +102324,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Black - 2023 Edition",
     "size": "A2H / Black",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-black",
     "previous_price": 95.0
@@ -102334,7 +102334,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Black - 2023 Edition",
     "size": "A3 / Black",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-black",
     "previous_price": 95.0
@@ -102344,7 +102344,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Black - 2023 Edition",
     "size": "A3L / Black",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-black",
     "previous_price": 95.0
@@ -102354,7 +102354,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Black - 2023 Edition",
     "size": "A3H / Black",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-black",
     "previous_price": 95.0
@@ -102364,7 +102364,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Black - 2023 Edition",
     "size": "A4 / Black",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-black",
     "previous_price": 95.0
@@ -102374,7 +102374,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Black - 2023 Edition",
     "size": "A5 / Black",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-black",
     "previous_price": 95.0
@@ -102384,7 +102384,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - White - 2023 Edition",
     "size": "A00 / White",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-brazilian-jiu-jitsu-gi",
     "previous_price": 95.0
@@ -102394,7 +102394,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - White - 2023 Edition",
     "size": "A0 / White",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-brazilian-jiu-jitsu-gi",
     "previous_price": 95.0
@@ -102404,7 +102404,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - White - 2023 Edition",
     "size": "A0L / White",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-brazilian-jiu-jitsu-gi",
     "previous_price": 95.0
@@ -102414,7 +102414,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - White - 2023 Edition",
     "size": "A1 / White",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-brazilian-jiu-jitsu-gi",
     "previous_price": 95.0
@@ -102424,7 +102424,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - White - 2023 Edition",
     "size": "A1L / White",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-brazilian-jiu-jitsu-gi",
     "previous_price": 95.0
@@ -102434,7 +102434,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - White - 2023 Edition",
     "size": "A1H / White",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-brazilian-jiu-jitsu-gi",
     "previous_price": 95.0
@@ -102444,7 +102444,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - White - 2023 Edition",
     "size": "A2 / White",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-brazilian-jiu-jitsu-gi",
     "previous_price": 95.0
@@ -102454,7 +102454,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - White - 2023 Edition",
     "size": "A2L / White",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-brazilian-jiu-jitsu-gi",
     "previous_price": 95.0
@@ -102464,7 +102464,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - White - 2023 Edition",
     "size": "A2H / White",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-brazilian-jiu-jitsu-gi",
     "previous_price": 95.0
@@ -102474,7 +102474,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - White - 2023 Edition",
     "size": "A3 / White",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-brazilian-jiu-jitsu-gi",
     "previous_price": 95.0
@@ -102484,7 +102484,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - White - 2023 Edition",
     "size": "A3L / White",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-brazilian-jiu-jitsu-gi",
     "previous_price": 95.0
@@ -102494,7 +102494,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - White - 2023 Edition",
     "size": "A3H / White",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-brazilian-jiu-jitsu-gi",
     "previous_price": 95.0
@@ -102504,7 +102504,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - White - 2023 Edition",
     "size": "A4 / White",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-brazilian-jiu-jitsu-gi",
     "previous_price": 95.0
@@ -102514,7 +102514,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - White - 2023 Edition",
     "size": "A5 / White",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-balistico-4-0-brazilian-jiu-jitsu-gi",
     "previous_price": 95.0
@@ -102524,7 +102524,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Blue - 2023 Edition",
     "size": "A00 / Blue",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-blue",
     "previous_price": 95.0
@@ -102534,7 +102534,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Blue - 2023 Edition",
     "size": "A0 / Blue",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-blue",
     "previous_price": 95.0
@@ -102544,7 +102544,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Blue - 2023 Edition",
     "size": "A0L / Blue",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-blue",
     "previous_price": 95.0
@@ -102554,7 +102554,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Blue - 2023 Edition",
     "size": "A1 / Blue",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-blue",
     "previous_price": 95.0
@@ -102564,7 +102564,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Blue - 2023 Edition",
     "size": "A1L / Blue",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-blue",
     "previous_price": 95.0
@@ -102574,7 +102574,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Blue - 2023 Edition",
     "size": "A1H / Blue",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-blue",
     "previous_price": 95.0
@@ -102584,7 +102584,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Blue - 2023 Edition",
     "size": "A2 / Blue",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-blue",
     "previous_price": 95.0
@@ -102594,7 +102594,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Blue - 2023 Edition",
     "size": "A2L / Blue",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-blue",
     "previous_price": 95.0
@@ -102604,7 +102604,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Blue - 2023 Edition",
     "size": "A2H / Blue",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-blue",
     "previous_price": 95.0
@@ -102614,7 +102614,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Blue - 2023 Edition",
     "size": "A3 / Blue",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-blue",
     "previous_price": 95.0
@@ -102624,7 +102624,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Blue - 2023 Edition",
     "size": "A3L / Blue",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-blue",
     "previous_price": 95.0
@@ -102634,7 +102634,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Blue - 2023 Edition",
     "size": "A3H / Blue",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-blue",
     "previous_price": 95.0
@@ -102644,7 +102644,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Blue - 2023 Edition",
     "size": "A4 / Blue",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-blue",
     "previous_price": 95.0
@@ -102654,7 +102654,7 @@
     "brand": "Kingz",
     "product": "Balistico 4.0 Brazilian Jiu Jitsu Gi - Blue - 2023 Edition",
     "size": "A5 / Blue",
-    "price": 95.0,
+    "price": 110.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-blue",
     "previous_price": 95.0
@@ -104344,7 +104344,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A0 / Blue",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104354,7 +104354,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A0 / Purple",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104364,7 +104364,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A0 / Brown",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104374,7 +104374,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A0 / Black",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104384,7 +104384,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A1 / Blue",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104394,7 +104394,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A1 / Purple",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104404,7 +104404,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A1 / Brown",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104414,7 +104414,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A1 / Black",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104424,7 +104424,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A2 / Blue",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104434,7 +104434,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A2 / Purple",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104444,7 +104444,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A2 / Brown",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104454,7 +104454,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A2 / Black",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104464,7 +104464,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A3 / Blue",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104474,7 +104474,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A3 / Purple",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104484,7 +104484,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A3 / Brown",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104494,7 +104494,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A3 / Black",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104504,7 +104504,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A4 / Blue",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104514,7 +104514,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A4 / Purple",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104524,7 +104524,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A4 / Brown",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104534,7 +104534,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A4 / Black",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104544,7 +104544,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A5 / Blue",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104554,7 +104554,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A5 / Purple",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104564,7 +104564,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A5 / Brown",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104574,7 +104574,7 @@
     "brand": "Kingz",
     "product": "Gi Material Belt",
     "size": "A5 / Black",
-    "price": 18.0,
+    "price": 20.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-gi-material-belt",
     "previous_price": 18.0
@@ -104874,7 +104874,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Training Shorts - Red",
     "size": "XS",
-    "price": 30.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-training-shorts-red",
     "previous_price": 30.0
@@ -104884,7 +104884,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Training Shorts - Red",
     "size": "S",
-    "price": 30.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-training-shorts-red",
     "previous_price": 30.0
@@ -104894,7 +104894,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Training Shorts - Red",
     "size": "M",
-    "price": 30.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-training-shorts-red",
     "previous_price": 30.0
@@ -104904,7 +104904,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Training Shorts - Red",
     "size": "L",
-    "price": 30.0,
+    "price": 35.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-training-shorts-red",
     "previous_price": 30.0
@@ -104914,7 +104914,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Training Shorts - Red",
     "size": "XL",
-    "price": 30.0,
+    "price": 35.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-training-shorts-red",
     "previous_price": 30.0
@@ -104924,7 +104924,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Training Shorts - Smoke Blue",
     "size": "XS",
-    "price": 26.0,
+    "price": 35.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-training-shorts-grey",
     "previous_price": 26.0
@@ -104934,7 +104934,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Training Shorts - Smoke Blue",
     "size": "S",
-    "price": 26.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-training-shorts-grey",
     "previous_price": 26.0
@@ -104944,7 +104944,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Training Shorts - Smoke Blue",
     "size": "M",
-    "price": 26.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-training-shorts-grey",
     "previous_price": 26.0
@@ -104954,7 +104954,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Training Shorts - Smoke Blue",
     "size": "L",
-    "price": 26.0,
+    "price": 35.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-training-shorts-grey",
     "previous_price": 26.0
@@ -104964,7 +104964,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Training Shorts - Smoke Blue",
     "size": "XL",
-    "price": 26.0,
+    "price": 35.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-training-shorts-grey",
     "previous_price": 26.0
@@ -104974,7 +104974,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Training Shorts - Green",
     "size": "XS",
-    "price": 26.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-training-shorts-green",
     "previous_price": 26.0
@@ -104984,7 +104984,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Training Shorts - Green",
     "size": "S",
-    "price": 26.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-training-shorts-green",
     "previous_price": 26.0
@@ -104994,7 +104994,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Training Shorts - Green",
     "size": "M",
-    "price": 26.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-womens-training-shorts-green",
     "previous_price": 26.0
@@ -105004,7 +105004,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Training Shorts - Green",
     "size": "L",
-    "price": 26.0,
+    "price": 35.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-training-shorts-green",
     "previous_price": 26.0
@@ -105014,7 +105014,7 @@
     "brand": "Kingz",
     "product": "Kore Womens Training Shorts - Green",
     "size": "XL",
-    "price": 26.0,
+    "price": 35.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kore-womens-training-shorts-green",
     "previous_price": 26.0
@@ -105074,7 +105074,7 @@
     "brand": "Kingz",
     "product": "Classic 3.0 Womens Jiu Jitsu Gi - Blue",
     "size": "F0 / Blue",
-    "price": 65.0,
+    "price": 85.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/classic-2-0-womens-jiu-jitsu-gi-blue",
     "previous_price": 65.0
@@ -105084,7 +105084,7 @@
     "brand": "Kingz",
     "product": "Classic 3.0 Womens Jiu Jitsu Gi - Blue",
     "size": "F1 / Blue",
-    "price": 65.0,
+    "price": 85.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/classic-2-0-womens-jiu-jitsu-gi-blue",
     "previous_price": 65.0
@@ -105094,7 +105094,7 @@
     "brand": "Kingz",
     "product": "Classic 3.0 Womens Jiu Jitsu Gi - Blue",
     "size": "F2 / Blue",
-    "price": 65.0,
+    "price": 85.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/classic-2-0-womens-jiu-jitsu-gi-blue",
     "previous_price": 65.0
@@ -105104,7 +105104,7 @@
     "brand": "Kingz",
     "product": "Classic 3.0 Womens Jiu Jitsu Gi - Blue",
     "size": "F3 / Blue",
-    "price": 65.0,
+    "price": 85.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/classic-2-0-womens-jiu-jitsu-gi-blue",
     "previous_price": 65.0
@@ -105114,7 +105114,7 @@
     "brand": "Kingz",
     "product": "Classic 3.0 Womens Jiu Jitsu Gi - Blue",
     "size": "F4 / Blue",
-    "price": 65.0,
+    "price": 85.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/classic-2-0-womens-jiu-jitsu-gi-blue",
     "previous_price": 65.0
@@ -105124,7 +105124,7 @@
     "brand": "Kingz",
     "product": "Classic 3.0 Womens Jiu Jitsu Gi - Blue",
     "size": "F5 / Blue",
-    "price": 65.0,
+    "price": 85.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/classic-2-0-womens-jiu-jitsu-gi-blue",
     "previous_price": 65.0
@@ -105254,7 +105254,7 @@
     "brand": "Kingz",
     "product": "Kingz Comp 450 V6 Women's BJJ Gi - Black",
     "size": "F0 / Black",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/comp-450-v6-womens-gi-black",
     "previous_price": 80.0
@@ -105264,7 +105264,7 @@
     "brand": "Kingz",
     "product": "Kingz Comp 450 V6 Women's BJJ Gi - Black",
     "size": "F1 / Black",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/comp-450-v6-womens-gi-black",
     "previous_price": 80.0
@@ -105274,7 +105274,7 @@
     "brand": "Kingz",
     "product": "Kingz Comp 450 V6 Women's BJJ Gi - Black",
     "size": "F2 / Black",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/comp-450-v6-womens-gi-black",
     "previous_price": 80.0
@@ -105284,7 +105284,7 @@
     "brand": "Kingz",
     "product": "Kingz Comp 450 V6 Women's BJJ Gi - Black",
     "size": "F3 / Black",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/comp-450-v6-womens-gi-black",
     "previous_price": 80.0
@@ -105294,7 +105294,7 @@
     "brand": "Kingz",
     "product": "Kingz Comp 450 V6 Women's BJJ Gi - Black",
     "size": "F4 / Black",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/comp-450-v6-womens-gi-black",
     "previous_price": 80.0
@@ -105304,7 +105304,7 @@
     "brand": "Kingz",
     "product": "Kingz Comp 450 V6 Women's BJJ Gi - Black",
     "size": "F5 / Black",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/comp-450-v6-womens-gi-black",
     "previous_price": 80.0
@@ -105554,7 +105554,7 @@
     "brand": "Kingz",
     "product": "Kingz Comp 450 V6 Women's BJJ Gi - Blue",
     "size": "F0 / Blue",
-    "price": 70.0,
+    "price": 90.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/comp-450-v6-womens-gi-blue",
     "previous_price": 70.0
@@ -105564,7 +105564,7 @@
     "brand": "Kingz",
     "product": "Kingz Comp 450 V6 Women's BJJ Gi - Blue",
     "size": "F1 / Blue",
-    "price": 70.0,
+    "price": 90.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/comp-450-v6-womens-gi-blue",
     "previous_price": 70.0
@@ -105574,7 +105574,7 @@
     "brand": "Kingz",
     "product": "Kingz Comp 450 V6 Women's BJJ Gi - Blue",
     "size": "F2 / Blue",
-    "price": 70.0,
+    "price": 90.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/comp-450-v6-womens-gi-blue",
     "previous_price": 70.0
@@ -105584,7 +105584,7 @@
     "brand": "Kingz",
     "product": "Kingz Comp 450 V6 Women's BJJ Gi - Blue",
     "size": "F3 / Blue",
-    "price": 70.0,
+    "price": 90.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/comp-450-v6-womens-gi-blue",
     "previous_price": 70.0
@@ -105594,7 +105594,7 @@
     "brand": "Kingz",
     "product": "Kingz Comp 450 V6 Women's BJJ Gi - Blue",
     "size": "F4 / Blue",
-    "price": 70.0,
+    "price": 90.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/comp-450-v6-womens-gi-blue",
     "previous_price": 70.0
@@ -105604,7 +105604,7 @@
     "brand": "Kingz",
     "product": "Kingz Comp 450 V6 Women's BJJ Gi - Blue",
     "size": "F5 / Blue",
-    "price": 70.0,
+    "price": 90.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/comp-450-v6-womens-gi-blue",
     "previous_price": 70.0
@@ -105614,7 +105614,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - White",
     "size": "A00 / White",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-white",
     "previous_price": 85.0
@@ -105624,7 +105624,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - White",
     "size": "A0 / White",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-white",
     "previous_price": 85.0
@@ -105634,7 +105634,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - White",
     "size": "A1 / White",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-white",
     "previous_price": 85.0
@@ -105644,7 +105644,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - White",
     "size": "A1L / White",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-white",
     "previous_price": 85.0
@@ -105654,7 +105654,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - White",
     "size": "A2 / White",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-white",
     "previous_price": 85.0
@@ -105664,7 +105664,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - White",
     "size": "A2L / White",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-white",
     "previous_price": 85.0
@@ -105674,7 +105674,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - White",
     "size": "A2H / White",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-white",
     "previous_price": 85.0
@@ -105684,7 +105684,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - White",
     "size": "A3 / White",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-white",
     "previous_price": 85.0
@@ -105694,7 +105694,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - White",
     "size": "A3L / White",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-white",
     "previous_price": 85.0
@@ -105704,7 +105704,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - White",
     "size": "A3H / White",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-white",
     "previous_price": 85.0
@@ -105714,7 +105714,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - White",
     "size": "A4 / White",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-white",
     "previous_price": 85.0
@@ -105724,7 +105724,7 @@
     "brand": "Kingz",
     "product": "Kingz Sport 2.0 Men's BJJ Gi - White",
     "size": "A5 / White",
-    "price": 85.0,
+    "price": 100.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-white",
     "previous_price": 85.0
@@ -105974,7 +105974,7 @@
     "brand": "Kingz",
     "product": "Born To Rule Shorts",
     "size": "XS / Black",
-    "price": 27.0,
+    "price": 35.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-shorts",
     "previous_price": 27.0
@@ -105984,7 +105984,7 @@
     "brand": "Kingz",
     "product": "Born To Rule Shorts",
     "size": "XS / Blue",
-    "price": 27.0,
+    "price": 35.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-shorts",
     "previous_price": 27.0
@@ -105994,7 +105994,7 @@
     "brand": "Kingz",
     "product": "Born To Rule Shorts",
     "size": "XS / Maroon",
-    "price": 27.0,
+    "price": 35.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-shorts",
     "previous_price": 27.0
@@ -106004,7 +106004,7 @@
     "brand": "Kingz",
     "product": "Born To Rule Shorts",
     "size": "S / Black",
-    "price": 27.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-shorts",
     "previous_price": 27.0
@@ -106014,7 +106014,7 @@
     "brand": "Kingz",
     "product": "Born To Rule Shorts",
     "size": "S / Blue",
-    "price": 27.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-shorts",
     "previous_price": 27.0
@@ -106024,7 +106024,7 @@
     "brand": "Kingz",
     "product": "Born To Rule Shorts",
     "size": "S / Maroon",
-    "price": 27.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-shorts",
     "previous_price": 27.0
@@ -106034,7 +106034,7 @@
     "brand": "Kingz",
     "product": "Born To Rule Shorts",
     "size": "M / Black",
-    "price": 27.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-shorts",
     "previous_price": 27.0
@@ -106044,7 +106044,7 @@
     "brand": "Kingz",
     "product": "Born To Rule Shorts",
     "size": "M / Blue",
-    "price": 27.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-shorts",
     "previous_price": 27.0
@@ -106054,7 +106054,7 @@
     "brand": "Kingz",
     "product": "Born To Rule Shorts",
     "size": "M / Maroon",
-    "price": 27.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-shorts",
     "previous_price": 27.0
@@ -106064,7 +106064,7 @@
     "brand": "Kingz",
     "product": "Born To Rule Shorts",
     "size": "L / Black",
-    "price": 27.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-shorts",
     "previous_price": 27.0
@@ -106074,7 +106074,7 @@
     "brand": "Kingz",
     "product": "Born To Rule Shorts",
     "size": "L / Blue",
-    "price": 27.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-shorts",
     "previous_price": 27.0
@@ -106084,7 +106084,7 @@
     "brand": "Kingz",
     "product": "Born To Rule Shorts",
     "size": "L / Maroon",
-    "price": 27.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-shorts",
     "previous_price": 27.0
@@ -106094,7 +106094,7 @@
     "brand": "Kingz",
     "product": "Born To Rule Shorts",
     "size": "XL / Black",
-    "price": 27.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-shorts",
     "previous_price": 27.0
@@ -106104,7 +106104,7 @@
     "brand": "Kingz",
     "product": "Born To Rule Shorts",
     "size": "XL / Blue",
-    "price": 27.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-shorts",
     "previous_price": 27.0
@@ -106114,7 +106114,7 @@
     "brand": "Kingz",
     "product": "Born To Rule Shorts",
     "size": "XL / Maroon",
-    "price": 27.0,
+    "price": 35.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-shorts",
     "previous_price": 27.0
@@ -106124,7 +106124,7 @@
     "brand": "Kingz",
     "product": "Born To Rule Shorts",
     "size": "XXL / Black",
-    "price": 27.0,
+    "price": 55.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-shorts",
     "previous_price": 27.0
@@ -106134,7 +106134,7 @@
     "brand": "Kingz",
     "product": "Born To Rule Shorts",
     "size": "XXL / Blue",
-    "price": 27.0,
+    "price": 55.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-shorts",
     "previous_price": 27.0
@@ -106144,7 +106144,7 @@
     "brand": "Kingz",
     "product": "Born To Rule Shorts",
     "size": "XXL / Maroon",
-    "price": 27.0,
+    "price": 55.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-shorts",
     "previous_price": 27.0
@@ -106154,7 +106154,7 @@
     "brand": "Kingz",
     "product": "Comp 450 V6 Jiu Jitsu Gi - White",
     "size": "A00 / White",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-comp-450-v6-kimono-gi",
     "previous_price": 80.0
@@ -106164,7 +106164,7 @@
     "brand": "Kingz",
     "product": "Comp 450 V6 Jiu Jitsu Gi - White",
     "size": "A0 / White",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-comp-450-v6-kimono-gi",
     "previous_price": 80.0
@@ -106174,7 +106174,7 @@
     "brand": "Kingz",
     "product": "Comp 450 V6 Jiu Jitsu Gi - White",
     "size": "A1 / White",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-comp-450-v6-kimono-gi",
     "previous_price": 80.0
@@ -106184,7 +106184,7 @@
     "brand": "Kingz",
     "product": "Comp 450 V6 Jiu Jitsu Gi - White",
     "size": "A1L / White",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-comp-450-v6-kimono-gi",
     "previous_price": 80.0
@@ -106194,7 +106194,7 @@
     "brand": "Kingz",
     "product": "Comp 450 V6 Jiu Jitsu Gi - White",
     "size": "A2 / White",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-comp-450-v6-kimono-gi",
     "previous_price": 80.0
@@ -106204,7 +106204,7 @@
     "brand": "Kingz",
     "product": "Comp 450 V6 Jiu Jitsu Gi - White",
     "size": "A2L / White",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-comp-450-v6-kimono-gi",
     "previous_price": 80.0
@@ -106214,7 +106214,7 @@
     "brand": "Kingz",
     "product": "Comp 450 V6 Jiu Jitsu Gi - White",
     "size": "A2H / White",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-comp-450-v6-kimono-gi",
     "previous_price": 80.0
@@ -106224,7 +106224,7 @@
     "brand": "Kingz",
     "product": "Comp 450 V6 Jiu Jitsu Gi - White",
     "size": "A3 / White",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-comp-450-v6-kimono-gi",
     "previous_price": 80.0
@@ -106234,7 +106234,7 @@
     "brand": "Kingz",
     "product": "Comp 450 V6 Jiu Jitsu Gi - White",
     "size": "A3L / White",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-comp-450-v6-kimono-gi",
     "previous_price": 80.0
@@ -106244,7 +106244,7 @@
     "brand": "Kingz",
     "product": "Comp 450 V6 Jiu Jitsu Gi - White",
     "size": "A3H / White",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-comp-450-v6-kimono-gi",
     "previous_price": 80.0
@@ -106254,7 +106254,7 @@
     "brand": "Kingz",
     "product": "Comp 450 V6 Jiu Jitsu Gi - White",
     "size": "A4 / White",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-comp-450-v6-kimono-gi",
     "previous_price": 80.0
@@ -106264,7 +106264,7 @@
     "brand": "Kingz",
     "product": "Comp 450 V6 Jiu Jitsu Gi - White",
     "size": "A5 / White",
-    "price": 80.0,
+    "price": 90.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-comp-450-v6-kimono-gi",
     "previous_price": 80.0
@@ -111341,13 +111341,1433 @@
   },
   {
     "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Suparaito BJJ Gi Black Yellow",
+    "size": "A0",
+    "price": 159.95,
+    "in_stock": false,
+    "url": "https://fujisports.com/products/suparaito-bjj-gi-black-yellow",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Suparaito BJJ Gi Black Yellow",
+    "size": "A1",
+    "price": 159.95,
+    "in_stock": false,
+    "url": "https://fujisports.com/products/suparaito-bjj-gi-black-yellow",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Suparaito BJJ Gi Black Yellow",
+    "size": "A2",
+    "price": 159.95,
+    "in_stock": false,
+    "url": "https://fujisports.com/products/suparaito-bjj-gi-black-yellow",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Suparaito BJJ Gi Black Yellow",
+    "size": "A2H",
+    "price": 159.95,
+    "in_stock": false,
+    "url": "https://fujisports.com/products/suparaito-bjj-gi-black-yellow",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Suparaito BJJ Gi Black Yellow",
+    "size": "A2L",
+    "price": 159.95,
+    "in_stock": false,
+    "url": "https://fujisports.com/products/suparaito-bjj-gi-black-yellow",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Suparaito BJJ Gi Black Yellow",
+    "size": "A3",
+    "price": 159.95,
+    "in_stock": false,
+    "url": "https://fujisports.com/products/suparaito-bjj-gi-black-yellow",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Suparaito BJJ Gi Black Yellow",
+    "size": "A3H",
+    "price": 159.95,
+    "in_stock": false,
+    "url": "https://fujisports.com/products/suparaito-bjj-gi-black-yellow",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Suparaito BJJ Gi Black Yellow",
+    "size": "A3L",
+    "price": 159.95,
+    "in_stock": false,
+    "url": "https://fujisports.com/products/suparaito-bjj-gi-black-yellow",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Suparaito BJJ Gi Black Yellow",
+    "size": "A4",
+    "price": 159.95,
+    "in_stock": false,
+    "url": "https://fujisports.com/products/suparaito-bjj-gi-black-yellow",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Suparaito BJJ Gi Black Yellow",
+    "size": "A5",
+    "price": 159.95,
+    "in_stock": false,
+    "url": "https://fujisports.com/products/suparaito-bjj-gi-black-yellow",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Suparaito BJJ Gi White Green",
+    "size": "A0",
+    "price": 159.95,
+    "in_stock": false,
+    "url": "https://fujisports.com/products/suparaito-bjj-gi-white-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Suparaito BJJ Gi White Green",
+    "size": "A1",
+    "price": 159.95,
+    "in_stock": false,
+    "url": "https://fujisports.com/products/suparaito-bjj-gi-white-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Suparaito BJJ Gi White Green",
+    "size": "A2",
+    "price": 159.95,
+    "in_stock": false,
+    "url": "https://fujisports.com/products/suparaito-bjj-gi-white-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Suparaito BJJ Gi White Green",
+    "size": "A2H",
+    "price": 159.95,
+    "in_stock": false,
+    "url": "https://fujisports.com/products/suparaito-bjj-gi-white-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Suparaito BJJ Gi White Green",
+    "size": "A2L",
+    "price": 159.95,
+    "in_stock": false,
+    "url": "https://fujisports.com/products/suparaito-bjj-gi-white-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Suparaito BJJ Gi White Green",
+    "size": "A3",
+    "price": 159.95,
+    "in_stock": false,
+    "url": "https://fujisports.com/products/suparaito-bjj-gi-white-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Suparaito BJJ Gi White Green",
+    "size": "A3H",
+    "price": 159.95,
+    "in_stock": false,
+    "url": "https://fujisports.com/products/suparaito-bjj-gi-white-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Suparaito BJJ Gi White Green",
+    "size": "A3L",
+    "price": 159.95,
+    "in_stock": false,
+    "url": "https://fujisports.com/products/suparaito-bjj-gi-white-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Suparaito BJJ Gi White Green",
+    "size": "A4",
+    "price": 159.95,
+    "in_stock": false,
+    "url": "https://fujisports.com/products/suparaito-bjj-gi-white-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Suparaito BJJ Gi White Green",
+    "size": "A5",
+    "price": 159.95,
+    "in_stock": false,
+    "url": "https://fujisports.com/products/suparaito-bjj-gi-white-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Windbreaker Camo",
+    "size": "XS",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-windbreaker-camo",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Windbreaker Camo",
+    "size": "S",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-windbreaker-camo",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Windbreaker Camo",
+    "size": "M",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-windbreaker-camo",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Windbreaker Camo",
+    "size": "L",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-windbreaker-camo",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Windbreaker Camo",
+    "size": "XL",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-windbreaker-camo",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Windbreaker Camo",
+    "size": "2XL",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-windbreaker-camo",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Windbreaker Camo",
+    "size": "3XL",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-windbreaker-camo",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Windbreaker Grey",
+    "size": "XS",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-windbreaker-grey",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Windbreaker Grey",
+    "size": "S",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-windbreaker-grey",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Windbreaker Grey",
+    "size": "M",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-windbreaker-grey",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Windbreaker Grey",
+    "size": "L",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-windbreaker-grey",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Windbreaker Grey",
+    "size": "XL",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-windbreaker-grey",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Windbreaker Grey",
+    "size": "2XL",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-windbreaker-grey",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Windbreaker Grey",
+    "size": "3XL",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-windbreaker-grey",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Crewneck White",
+    "size": "XS",
+    "price": 54.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-crewneck-white",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Crewneck White",
+    "size": "S",
+    "price": 54.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-crewneck-white",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Crewneck White",
+    "size": "M",
+    "price": 54.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-crewneck-white",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Crewneck White",
+    "size": "L",
+    "price": 54.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-crewneck-white",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Crewneck White",
+    "size": "XL",
+    "price": 54.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-crewneck-white",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Crewneck White",
+    "size": "2XL",
+    "price": 54.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-crewneck-white",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Crewneck White",
+    "size": "3XL",
+    "price": 54.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-crewneck-white",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Crewneck Navy",
+    "size": "XS",
+    "price": 54.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-crewneck-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Crewneck Navy",
+    "size": "S",
+    "price": 54.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-crewneck-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Crewneck Navy",
+    "size": "M",
+    "price": 54.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-crewneck-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Crewneck Navy",
+    "size": "L",
+    "price": 54.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-crewneck-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Crewneck Navy",
+    "size": "XL",
+    "price": 54.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-crewneck-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Crewneck Navy",
+    "size": "2XL",
+    "price": 54.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-crewneck-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Crewneck Navy",
+    "size": "3XL",
+    "price": 54.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-crewneck-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Achieve Excellence Hoodie Grey",
+    "size": "XS",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/achieve-excellence-hoodie-grey",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Achieve Excellence Hoodie Grey",
+    "size": "S",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/achieve-excellence-hoodie-grey",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Achieve Excellence Hoodie Grey",
+    "size": "M",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/achieve-excellence-hoodie-grey",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Achieve Excellence Hoodie Grey",
+    "size": "L",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/achieve-excellence-hoodie-grey",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Achieve Excellence Hoodie Grey",
+    "size": "XL",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/achieve-excellence-hoodie-grey",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Achieve Excellence Hoodie Grey",
+    "size": "2XL",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/achieve-excellence-hoodie-grey",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Achieve Excellence Hoodie Grey",
+    "size": "3XL",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/achieve-excellence-hoodie-grey",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Achieve Excellence Hoodie Navy",
+    "size": "XS",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/achieve-excellence-hoodie-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Achieve Excellence Hoodie Navy",
+    "size": "S",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/achieve-excellence-hoodie-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Achieve Excellence Hoodie Navy",
+    "size": "M",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/achieve-excellence-hoodie-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Achieve Excellence Hoodie Navy",
+    "size": "L",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/achieve-excellence-hoodie-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Achieve Excellence Hoodie Navy",
+    "size": "XL",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/achieve-excellence-hoodie-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Achieve Excellence Hoodie Navy",
+    "size": "2XL",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/achieve-excellence-hoodie-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Achieve Excellence Hoodie Navy",
+    "size": "3XL",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/achieve-excellence-hoodie-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Hoodie Olive",
+    "size": "XS",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-hoodie-olive",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Hoodie Olive",
+    "size": "S",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-hoodie-olive",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Hoodie Olive",
+    "size": "M",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-hoodie-olive",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Hoodie Olive",
+    "size": "L",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-hoodie-olive",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Hoodie Olive",
+    "size": "XL",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-hoodie-olive",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Hoodie Olive",
+    "size": "2XL",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-hoodie-olive",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Hoodie Olive",
+    "size": "3XL",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-hoodie-olive",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Hoodie Heather Grey",
+    "size": "XS",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-hoodie-heather-grey",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Hoodie Heather Grey",
+    "size": "S",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-hoodie-heather-grey",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Hoodie Heather Grey",
+    "size": "M",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-hoodie-heather-grey",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Hoodie Heather Grey",
+    "size": "L",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-hoodie-heather-grey",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Hoodie Heather Grey",
+    "size": "XL",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-hoodie-heather-grey",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Hoodie Heather Grey",
+    "size": "2XL",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-hoodie-heather-grey",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Hoodie Heather Grey",
+    "size": "3XL",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-hoodie-heather-grey",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Hoodie Tan",
+    "size": "XS",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-hoodie-tan",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Hoodie Tan",
+    "size": "S",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-hoodie-tan",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Hoodie Tan",
+    "size": "M",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-hoodie-tan",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Hoodie Tan",
+    "size": "L",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-hoodie-tan",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Hoodie Tan",
+    "size": "XL",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-hoodie-tan",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Hoodie Tan",
+    "size": "2XL",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-hoodie-tan",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Hoodie Tan",
+    "size": "3XL",
+    "price": 59.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-hoodie-tan",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Tee Sand",
+    "size": "XS",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-tee-sand",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Tee Sand",
+    "size": "S",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-tee-sand",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Tee Sand",
+    "size": "M",
+    "price": 29.95,
+    "in_stock": false,
+    "url": "https://fujisports.com/products/oni-warrior-tee-sand",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Tee Sand",
+    "size": "L",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-tee-sand",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Tee Sand",
+    "size": "XL",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-tee-sand",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Tee Sand",
+    "size": "2XL",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-tee-sand",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Tee Sand",
+    "size": "3XL",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-tee-sand",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Tee Green",
+    "size": "XS",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-tee-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Tee Green",
+    "size": "S",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-tee-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Tee Green",
+    "size": "M",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-tee-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Tee Green",
+    "size": "L",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-tee-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Tee Green",
+    "size": "XL",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-tee-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Tee Green",
+    "size": "2XL",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-tee-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Tee Green",
+    "size": "3XL",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-tee-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Tee Black",
+    "size": "XS",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Tee Black",
+    "size": "S",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Tee Black",
+    "size": "M",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Tee Black",
+    "size": "L",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Tee Black",
+    "size": "XL",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Tee Black",
+    "size": "2XL",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Oni Warrior Tee Black",
+    "size": "3XL",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/oni-warrior-tee-black",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Womens Elevate Script Tee Plum",
+    "size": "WXS",
+    "price": 27.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/womens-elevate-script-tee-plum",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Womens Elevate Script Tee Plum",
+    "size": "WS",
+    "price": 27.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/womens-elevate-script-tee-plum",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Womens Elevate Script Tee Plum",
+    "size": "WM",
+    "price": 27.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/womens-elevate-script-tee-plum",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Womens Elevate Script Tee Plum",
+    "size": "WL",
+    "price": 27.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/womens-elevate-script-tee-plum",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Womens Elevate Script Tee Plum",
+    "size": "WXL",
+    "price": 27.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/womens-elevate-script-tee-plum",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Womens Elevate Script Tee Navy",
+    "size": "WXS",
+    "price": 27.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/womens-elevate-script-tee-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Womens Elevate Script Tee Navy",
+    "size": "WS",
+    "price": 27.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/womens-elevate-script-tee-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Womens Elevate Script Tee Navy",
+    "size": "WM",
+    "price": 27.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/womens-elevate-script-tee-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Womens Elevate Script Tee Navy",
+    "size": "WL",
+    "price": 27.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/womens-elevate-script-tee-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Womens Elevate Script Tee Navy",
+    "size": "WXL",
+    "price": 27.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/womens-elevate-script-tee-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Military Green",
+    "size": "XS",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-military-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Military Green",
+    "size": "S",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-military-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Military Green",
+    "size": "M",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-military-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Military Green",
+    "size": "L",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-military-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Military Green",
+    "size": "XL",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-military-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Military Green",
+    "size": "2XL",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-military-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Military Green",
+    "size": "3XL",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-military-green",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Navy",
+    "size": "XS",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Navy",
+    "size": "S",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Navy",
+    "size": "M",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Navy",
+    "size": "L",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Navy",
+    "size": "XL",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Navy",
+    "size": "2XL",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Navy",
+    "size": "3XL",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-navy",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Cream",
+    "size": "XS",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-cream",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Cream",
+    "size": "S",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-cream",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Cream",
+    "size": "M",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-cream",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Cream",
+    "size": "L",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-cream",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Cream",
+    "size": "XL",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-cream",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Cream",
+    "size": "2XL",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-cream",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Cream",
+    "size": "3XL",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-cream",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Brown",
+    "size": "XS",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-brown",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Brown",
+    "size": "S",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-brown",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Brown",
+    "size": "M",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-brown",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Brown",
+    "size": "L",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-brown",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Brown",
+    "size": "XL",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-brown",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Brown",
+    "size": "2XL",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-brown",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Elevate Script Tee Brown",
+    "size": "3XL",
+    "price": 29.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/elevate-script-tee-brown",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
     "brand": "SBG",
     "product": "Womens SBG Gold Gorilla Crop T-Shirt",
     "size": "WXS",
     "price": 30.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/womens-sbg-gold-gorilla-crop-t-shirt",
-    "previous_price": null
+    "previous_price": 30.0
   },
   {
     "shop": "Fuji Sports",
@@ -111357,7 +112777,7 @@
     "price": 30.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/womens-sbg-gold-gorilla-crop-t-shirt",
-    "previous_price": null
+    "previous_price": 30.0
   },
   {
     "shop": "Fuji Sports",
@@ -111367,7 +112787,7 @@
     "price": 30.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/womens-sbg-gold-gorilla-crop-t-shirt",
-    "previous_price": null
+    "previous_price": 30.0
   },
   {
     "shop": "Fuji Sports",
@@ -111375,9 +112795,9 @@
     "product": "Womens SBG Gold Gorilla Crop T-Shirt",
     "size": "WL",
     "price": 30.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/womens-sbg-gold-gorilla-crop-t-shirt",
-    "previous_price": null
+    "previous_price": 30.0
   },
   {
     "shop": "Fuji Sports",
@@ -111385,9 +112805,9 @@
     "product": "SBG Gold Gorilla Crewneck",
     "size": "XS",
     "price": 45.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/sbg-gold-gorilla-crewneck",
-    "previous_price": null
+    "previous_price": 45.0
   },
   {
     "shop": "Fuji Sports",
@@ -111397,7 +112817,7 @@
     "price": 45.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/sbg-gold-gorilla-crewneck",
-    "previous_price": null
+    "previous_price": 45.0
   },
   {
     "shop": "Fuji Sports",
@@ -111407,7 +112827,7 @@
     "price": 45.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/sbg-gold-gorilla-crewneck",
-    "previous_price": null
+    "previous_price": 45.0
   },
   {
     "shop": "Fuji Sports",
@@ -111417,7 +112837,7 @@
     "price": 45.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/sbg-gold-gorilla-crewneck",
-    "previous_price": null
+    "previous_price": 45.0
   },
   {
     "shop": "Fuji Sports",
@@ -111427,7 +112847,7 @@
     "price": 45.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/sbg-gold-gorilla-crewneck",
-    "previous_price": null
+    "previous_price": 45.0
   },
   {
     "shop": "Fuji Sports",
@@ -111435,9 +112855,9 @@
     "product": "SBG Gold Gorilla Crewneck",
     "size": "2XL",
     "price": 45.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/sbg-gold-gorilla-crewneck",
-    "previous_price": null
+    "previous_price": 45.0
   },
   {
     "shop": "Fuji Sports",
@@ -111447,7 +112867,7 @@
     "price": 36.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/sbg-gold-gorilla-cotton-t-shirt",
-    "previous_price": null
+    "previous_price": 36.0
   },
   {
     "shop": "Fuji Sports",
@@ -111457,7 +112877,7 @@
     "price": 36.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/sbg-gold-gorilla-cotton-t-shirt",
-    "previous_price": null
+    "previous_price": 36.0
   },
   {
     "shop": "Fuji Sports",
@@ -111467,7 +112887,7 @@
     "price": 36.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/sbg-gold-gorilla-cotton-t-shirt",
-    "previous_price": null
+    "previous_price": 36.0
   },
   {
     "shop": "Fuji Sports",
@@ -111477,7 +112897,7 @@
     "price": 36.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/sbg-gold-gorilla-cotton-t-shirt",
-    "previous_price": null
+    "previous_price": 36.0
   },
   {
     "shop": "Fuji Sports",
@@ -111487,7 +112907,7 @@
     "price": 36.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/sbg-gold-gorilla-cotton-t-shirt",
-    "previous_price": null
+    "previous_price": 36.0
   },
   {
     "shop": "Fuji Sports",
@@ -111495,9 +112915,9 @@
     "product": "SBG Gold Gorilla Cotton T-Shirt",
     "size": "2XL",
     "price": 36.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/sbg-gold-gorilla-cotton-t-shirt",
-    "previous_price": null
+    "previous_price": 36.0
   },
   {
     "shop": "Fuji Sports",
@@ -112455,7 +113875,7 @@
     "product": "Womens SBG Heraldry Suparaito BJJ GI Navy",
     "size": "W0",
     "price": 178.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/womens-sbg-heraldry-suparaito-bjj-gi-navy",
     "previous_price": 178.0
   },
@@ -112565,7 +113985,7 @@
     "product": "SBG Heraldry Suparaito BJJ GI Navy",
     "size": "A3L",
     "price": 178.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/sbg-heraldry-suparaito-bjj-gi-navy",
     "previous_price": 178.0
   },
@@ -113835,7 +115255,7 @@
     "product": "FIAS Combat Sambo Shorts Red",
     "size": "2XL",
     "price": 29.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/fias-combat-sambo-shorts-red",
     "previous_price": 29.95
   },
@@ -114685,7 +116105,7 @@
     "product": "Randori Never Lies Vintage Shirt Green",
     "size": "S",
     "price": 29.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/randori-never-lies-vintage-shirt-green",
     "previous_price": 29.95
   },
@@ -114755,7 +116175,7 @@
     "product": "Randori Never Lies Vintage Shirt Blue",
     "size": "S",
     "price": 29.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/randori-never-lies-vintage-shirt-blue",
     "previous_price": 29.95
   },
@@ -118295,7 +119715,7 @@
     "product": "Kids Baseline 2.0 Long Sleeve Rashguard Black",
     "size": "YS",
     "price": 44.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/kids-baseline-2-0-long-sleeve-rashguard-black",
     "previous_price": 44.95
   },
@@ -118601,66 +120021,6 @@
   },
   {
     "shop": "Fuji Sports",
-    "brand": "Ippon Gear",
-    "product": "Ippon Gear Black Belt",
-    "size": "2.5 - 240cm",
-    "price": 45.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/ippon-gear-legend-ijf-black-belt",
-    "previous_price": 45.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "Ippon Gear",
-    "product": "Ippon Gear Black Belt",
-    "size": "3.5 - 260cm",
-    "price": 45.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/ippon-gear-legend-ijf-black-belt",
-    "previous_price": 45.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "Ippon Gear",
-    "product": "Ippon Gear Black Belt",
-    "size": "4.5 - 280cm",
-    "price": 45.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/ippon-gear-legend-ijf-black-belt",
-    "previous_price": 45.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "Ippon Gear",
-    "product": "Ippon Gear Black Belt",
-    "size": "5.5 - 300cm",
-    "price": 45.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/ippon-gear-legend-ijf-black-belt",
-    "previous_price": 45.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "Ippon Gear",
-    "product": "Ippon Gear Black Belt",
-    "size": "6.5 - 320cm",
-    "price": 45.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/ippon-gear-legend-ijf-black-belt",
-    "previous_price": 45.95
-  },
-  {
-    "shop": "Fuji Sports",
-    "brand": "Ippon Gear",
-    "product": "Ippon Gear Black Belt",
-    "size": "7.5 - 340cm",
-    "price": 45.95,
-    "in_stock": true,
-    "url": "https://fujisports.com/products/ippon-gear-legend-ijf-black-belt",
-    "previous_price": 45.95
-  },
-  {
-    "shop": "Fuji Sports",
     "brand": "FUJI Gis",
     "product": "Raijin Focus Mitts",
     "size": "Default Title",
@@ -118775,7 +120135,7 @@
     "product": "Essential Judo Kimono White",
     "size": "5",
     "price": 59.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/essential-judo-kimono-white",
     "previous_price": 59.95
   },
@@ -119265,7 +120625,7 @@
     "product": "SBG Defend Youth T-Shirt Black",
     "size": "YS",
     "price": 30.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/sbg-defend-youth-t-shirt-black",
     "previous_price": 30.0
   },
@@ -119845,7 +121205,7 @@
     "product": "FUJI Authentic Tatami Sandals Green",
     "size": "10",
     "price": 29.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/fuji-authentic-tatami-sandals-green",
     "previous_price": 29.95
   },
@@ -125434,7 +126794,7 @@
     "brand": "NoDiscount",
     "product": "Everyday Porrada Suparaito BJJ Gi",
     "size": "A0",
-    "price": 175.0,
+    "price": 111.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/everyday-porrada-suparaito-bjj-gi",
     "previous_price": 175.0
@@ -125444,7 +126804,7 @@
     "brand": "NoDiscount",
     "product": "Everyday Porrada Suparaito BJJ Gi",
     "size": "A1",
-    "price": 175.0,
+    "price": 111.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/everyday-porrada-suparaito-bjj-gi",
     "previous_price": 175.0
@@ -125454,7 +126814,7 @@
     "brand": "NoDiscount",
     "product": "Everyday Porrada Suparaito BJJ Gi",
     "size": "A2",
-    "price": 175.0,
+    "price": 111.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/everyday-porrada-suparaito-bjj-gi",
     "previous_price": 175.0
@@ -125464,7 +126824,7 @@
     "brand": "NoDiscount",
     "product": "Everyday Porrada Suparaito BJJ Gi",
     "size": "A2L",
-    "price": 175.0,
+    "price": 111.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/everyday-porrada-suparaito-bjj-gi",
     "previous_price": 175.0
@@ -125474,7 +126834,7 @@
     "brand": "NoDiscount",
     "product": "Everyday Porrada Suparaito BJJ Gi",
     "size": "A3",
-    "price": 175.0,
+    "price": 111.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/everyday-porrada-suparaito-bjj-gi",
     "previous_price": 175.0
@@ -125484,7 +126844,7 @@
     "brand": "NoDiscount",
     "product": "Everyday Porrada Suparaito BJJ Gi",
     "size": "A3L",
-    "price": 175.0,
+    "price": 111.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/everyday-porrada-suparaito-bjj-gi",
     "previous_price": 175.0
@@ -125494,7 +126854,7 @@
     "brand": "NoDiscount",
     "product": "Everyday Porrada Suparaito BJJ Gi",
     "size": "A4",
-    "price": 175.0,
+    "price": 111.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/everyday-porrada-suparaito-bjj-gi",
     "previous_price": 175.0
@@ -125504,7 +126864,7 @@
     "brand": "NoDiscount",
     "product": "Everyday Porrada Suparaito BJJ Gi",
     "size": "A5",
-    "price": 175.0,
+    "price": 111.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/everyday-porrada-suparaito-bjj-gi",
     "previous_price": 175.0
@@ -127545,7 +128905,7 @@
     "product": "Renzo Gracie Long Sleeve Rashguard Oni Legend Edition",
     "size": "M",
     "price": 55.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/renzo-gracie-brooklyn-crown-rashguard-long-sleeve-black-copy",
     "previous_price": 55.0
   },
@@ -127555,7 +128915,7 @@
     "product": "Renzo Gracie Long Sleeve Rashguard Oni Legend Edition",
     "size": "L",
     "price": 55.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/renzo-gracie-brooklyn-crown-rashguard-long-sleeve-black-copy",
     "previous_price": 55.0
   },
@@ -132535,7 +133895,7 @@
     "product": "Rilion Gracie Belt Green",
     "size": "A1",
     "price": 24.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/rilion-gracie-belt-green",
     "previous_price": 24.0
   },
@@ -134705,7 +136065,7 @@
     "product": "Oni Legend Flex Lite Rashguard Black",
     "size": "3XL",
     "price": 62.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/oni-legend-flex-lite-rashguard-black",
     "previous_price": 62.95
   },
@@ -148005,7 +149365,7 @@
     "product": "Tora Flex Lite Long Sleeve Rashguard",
     "size": "XL",
     "price": 62.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/tora-flex-lite-long-sleeve-rashguard",
     "previous_price": 62.95
   },
@@ -148315,7 +149675,7 @@
     "product": "Bushido Flex Lite Shorts",
     "size": "M",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/bushido-flex-lite-shorts",
     "previous_price": 59.95
   },
@@ -148608,6 +149968,46 @@
     "in_stock": true,
     "url": "https://fujisports.com/products/renzo-gracie-classic-short-sleeve-rashguard",
     "previous_price": 55.0
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Furry Beast Keychains",
+    "size": "Puppy (Brown)",
+    "price": 7.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/fuji-furry-beast-keychains",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Furry Beast Keychains",
+    "size": "Puppy (Brown/Beige)",
+    "price": 7.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/fuji-furry-beast-keychains",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Furry Beast Keychains",
+    "size": "Bull",
+    "price": 7.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/fuji-furry-beast-keychains",
+    "previous_price": null
+  },
+  {
+    "shop": "Fuji Sports",
+    "brand": "FUJI Sports",
+    "product": "Furry Beast Keychains",
+    "size": "Bunny",
+    "price": 7.95,
+    "in_stock": true,
+    "url": "https://fujisports.com/products/fuji-furry-beast-keychains",
+    "previous_price": null
   },
   {
     "shop": "Fuji Sports",
@@ -150335,7 +151735,7 @@
     "product": "FUJI x Alliance BJJ Belt White",
     "size": "A0",
     "price": 16.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/fuji-x-alliance-bjj-belt-white",
     "previous_price": 16.0
   },
@@ -153255,7 +154655,7 @@
     "product": "Bushido Flex Lite Rashguard",
     "size": "XL",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/bushido-flex-lite-rashguard",
     "previous_price": 59.95
   },
@@ -153265,7 +154665,7 @@
     "product": "Bushido Flex Lite Rashguard",
     "size": "2XL",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/bushido-flex-lite-rashguard",
     "previous_price": 59.95
   },
@@ -153934,7 +155334,7 @@
     "brand": "NoDiscount",
     "product": "Everyday Porrada Comp Duffle",
     "size": "One Size",
-    "price": 99.95,
+    "price": 73.5,
     "in_stock": true,
     "url": "https://fujisports.com/products/everyday-porrada-comp-duffle",
     "previous_price": 99.95
@@ -153947,7 +155347,7 @@
     "price": 43.5,
     "in_stock": true,
     "url": "https://fujisports.com/products/always-summer-dojo-outfitters-lightweight-shorts",
-    "previous_price": 59.95
+    "previous_price": 43.5
   },
   {
     "shop": "Fuji Sports",
@@ -153957,7 +155357,7 @@
     "price": 43.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/always-summer-dojo-outfitters-lightweight-shorts",
-    "previous_price": 59.95
+    "previous_price": 43.5
   },
   {
     "shop": "Fuji Sports",
@@ -153967,7 +155367,7 @@
     "price": 43.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/always-summer-dojo-outfitters-lightweight-shorts",
-    "previous_price": 59.95
+    "previous_price": 43.5
   },
   {
     "shop": "Fuji Sports",
@@ -153977,7 +155377,7 @@
     "price": 43.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/always-summer-dojo-outfitters-lightweight-shorts",
-    "previous_price": 59.95
+    "previous_price": 43.5
   },
   {
     "shop": "Fuji Sports",
@@ -153987,7 +155387,7 @@
     "price": 43.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/always-summer-dojo-outfitters-lightweight-shorts",
-    "previous_price": 59.95
+    "previous_price": 43.5
   },
   {
     "shop": "Fuji Sports",
@@ -153997,7 +155397,7 @@
     "price": 43.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/always-summer-dojo-outfitters-lightweight-shorts",
-    "previous_price": 59.95
+    "previous_price": 43.5
   },
   {
     "shop": "Fuji Sports",
@@ -154007,7 +155407,7 @@
     "price": 43.5,
     "in_stock": true,
     "url": "https://fujisports.com/products/always-summer-dojo-outfitters-lightweight-shorts",
-    "previous_price": 59.95
+    "previous_price": 43.5
   },
   {
     "shop": "Fuji Sports",
@@ -156247,7 +157647,7 @@
     "price": 90.5,
     "in_stock": true,
     "url": "https://fujisports.com/products/dojo-outfitters-x-fuji-judo-gi-blue",
-    "previous_price": 170.95
+    "previous_price": 90.5
   },
   {
     "shop": "Fuji Sports",
@@ -156257,7 +157657,7 @@
     "price": 90.5,
     "in_stock": true,
     "url": "https://fujisports.com/products/dojo-outfitters-x-fuji-judo-gi-blue",
-    "previous_price": 170.95
+    "previous_price": 90.5
   },
   {
     "shop": "Fuji Sports",
@@ -156267,7 +157667,7 @@
     "price": 90.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/dojo-outfitters-x-fuji-judo-gi-blue",
-    "previous_price": 170.95
+    "previous_price": 90.5
   },
   {
     "shop": "Fuji Sports",
@@ -156277,7 +157677,7 @@
     "price": 90.5,
     "in_stock": true,
     "url": "https://fujisports.com/products/dojo-outfitters-x-fuji-judo-gi-blue",
-    "previous_price": 170.95
+    "previous_price": 90.5
   },
   {
     "shop": "Fuji Sports",
@@ -156287,7 +157687,7 @@
     "price": 90.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/dojo-outfitters-x-fuji-judo-gi-blue",
-    "previous_price": 170.95
+    "previous_price": 90.5
   },
   {
     "shop": "Fuji Sports",
@@ -156297,7 +157697,7 @@
     "price": 90.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/dojo-outfitters-x-fuji-judo-gi-blue",
-    "previous_price": 170.95
+    "previous_price": 90.5
   },
   {
     "shop": "Fuji Sports",
@@ -156307,7 +157707,7 @@
     "price": 90.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/dojo-outfitters-x-fuji-judo-gi-blue",
-    "previous_price": 170.95
+    "previous_price": 90.5
   },
   {
     "shop": "Fuji Sports",
@@ -156317,7 +157717,7 @@
     "price": 90.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/dojo-outfitters-x-fuji-judo-gi-blue",
-    "previous_price": 170.95
+    "previous_price": 90.5
   },
   {
     "shop": "Fuji Sports",
@@ -156327,7 +157727,7 @@
     "price": 90.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/dojo-outfitters-x-fuji-judo-gi-blue",
-    "previous_price": 170.95
+    "previous_price": 90.5
   },
   {
     "shop": "Fuji Sports",
@@ -156337,7 +157737,7 @@
     "price": 90.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/dojo-outfitters-x-fuji-judo-gi-blue",
-    "previous_price": 170.95
+    "previous_price": 90.5
   },
   {
     "shop": "Fuji Sports",
@@ -156347,7 +157747,7 @@
     "price": 90.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/dojo-outfitters-x-fuji-judo-gi-blue",
-    "previous_price": 170.95
+    "previous_price": 90.5
   },
   {
     "shop": "Fuji Sports",
@@ -156615,7 +158015,7 @@
     "product": "FUJI Ultimate Hybrid Gloves",
     "size": "12oz",
     "price": 29.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/fuji-ultimate-hybrid-gloves",
     "previous_price": 29.95
   },
@@ -156884,7 +158284,7 @@
     "brand": "FUJI Sports",
     "product": "Everyday Porrada Short Sleeve Rashguard",
     "size": "S",
-    "price": 59.95,
+    "price": 40.5,
     "in_stock": true,
     "url": "https://fujisports.com/products/everyday-porrada-short-sleeve-rashguard",
     "previous_price": 59.95
@@ -156894,7 +158294,7 @@
     "brand": "FUJI Sports",
     "product": "Everyday Porrada Short Sleeve Rashguard",
     "size": "M",
-    "price": 59.95,
+    "price": 40.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/everyday-porrada-short-sleeve-rashguard",
     "previous_price": 59.95
@@ -156904,7 +158304,7 @@
     "brand": "FUJI Sports",
     "product": "Everyday Porrada Short Sleeve Rashguard",
     "size": "L",
-    "price": 59.95,
+    "price": 40.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/everyday-porrada-short-sleeve-rashguard",
     "previous_price": 59.95
@@ -156914,7 +158314,7 @@
     "brand": "FUJI Sports",
     "product": "Everyday Porrada Short Sleeve Rashguard",
     "size": "XL",
-    "price": 59.95,
+    "price": 40.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/everyday-porrada-short-sleeve-rashguard",
     "previous_price": 59.95
@@ -156924,7 +158324,7 @@
     "brand": "FUJI Sports",
     "product": "Everyday Porrada Short Sleeve Rashguard",
     "size": "2XL",
-    "price": 59.95,
+    "price": 40.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/everyday-porrada-short-sleeve-rashguard",
     "previous_price": 59.95
@@ -156934,7 +158334,7 @@
     "brand": "NoDiscount",
     "product": "Everyday Porrada Flow-Tech BJJ Gi",
     "size": "A0",
-    "price": 175.0,
+    "price": 106.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/everyday-porrada-flow-tech-bjj-gi",
     "previous_price": 175.0
@@ -156944,7 +158344,7 @@
     "brand": "NoDiscount",
     "product": "Everyday Porrada Flow-Tech BJJ Gi",
     "size": "A1",
-    "price": 175.0,
+    "price": 106.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/everyday-porrada-flow-tech-bjj-gi",
     "previous_price": 175.0
@@ -156954,7 +158354,7 @@
     "brand": "NoDiscount",
     "product": "Everyday Porrada Flow-Tech BJJ Gi",
     "size": "A2",
-    "price": 175.0,
+    "price": 106.0,
     "in_stock": false,
     "url": "https://fujisports.com/products/everyday-porrada-flow-tech-bjj-gi",
     "previous_price": 175.0
@@ -156964,7 +158364,7 @@
     "brand": "NoDiscount",
     "product": "Everyday Porrada Flow-Tech BJJ Gi",
     "size": "A2L",
-    "price": 175.0,
+    "price": 106.0,
     "in_stock": false,
     "url": "https://fujisports.com/products/everyday-porrada-flow-tech-bjj-gi",
     "previous_price": 175.0
@@ -156974,7 +158374,7 @@
     "brand": "NoDiscount",
     "product": "Everyday Porrada Flow-Tech BJJ Gi",
     "size": "A3",
-    "price": 175.0,
+    "price": 106.0,
     "in_stock": false,
     "url": "https://fujisports.com/products/everyday-porrada-flow-tech-bjj-gi",
     "previous_price": 175.0
@@ -156984,7 +158384,7 @@
     "brand": "NoDiscount",
     "product": "Everyday Porrada Flow-Tech BJJ Gi",
     "size": "A3L",
-    "price": 175.0,
+    "price": 106.0,
     "in_stock": false,
     "url": "https://fujisports.com/products/everyday-porrada-flow-tech-bjj-gi",
     "previous_price": 175.0
@@ -156994,7 +158394,7 @@
     "brand": "NoDiscount",
     "product": "Everyday Porrada Flow-Tech BJJ Gi",
     "size": "A4",
-    "price": 175.0,
+    "price": 106.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/everyday-porrada-flow-tech-bjj-gi",
     "previous_price": 175.0
@@ -157004,7 +158404,7 @@
     "brand": "NoDiscount",
     "product": "Everyday Porrada Flow-Tech BJJ Gi",
     "size": "A5",
-    "price": 175.0,
+    "price": 106.0,
     "in_stock": true,
     "url": "https://fujisports.com/products/everyday-porrada-flow-tech-bjj-gi",
     "previous_price": 175.0
@@ -168037,7 +169437,7 @@
     "price": 90.5,
     "in_stock": true,
     "url": "https://fujisports.com/products/dojo-outfitters-judo-gi",
-    "previous_price": 170.95
+    "previous_price": 90.5
   },
   {
     "shop": "Fuji Sports",
@@ -168047,7 +169447,7 @@
     "price": 90.5,
     "in_stock": true,
     "url": "https://fujisports.com/products/dojo-outfitters-judo-gi",
-    "previous_price": 170.95
+    "previous_price": 90.5
   },
   {
     "shop": "Fuji Sports",
@@ -168057,7 +169457,7 @@
     "price": 90.5,
     "in_stock": true,
     "url": "https://fujisports.com/products/dojo-outfitters-judo-gi",
-    "previous_price": 170.95
+    "previous_price": 90.5
   },
   {
     "shop": "Fuji Sports",
@@ -168067,7 +169467,7 @@
     "price": 90.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/dojo-outfitters-judo-gi",
-    "previous_price": 170.95
+    "previous_price": 90.5
   },
   {
     "shop": "Fuji Sports",
@@ -168077,7 +169477,7 @@
     "price": 90.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/dojo-outfitters-judo-gi",
-    "previous_price": 170.95
+    "previous_price": 90.5
   },
   {
     "shop": "Fuji Sports",
@@ -168087,7 +169487,7 @@
     "price": 90.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/dojo-outfitters-judo-gi",
-    "previous_price": 170.95
+    "previous_price": 90.5
   },
   {
     "shop": "Fuji Sports",
@@ -168097,7 +169497,7 @@
     "price": 90.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/dojo-outfitters-judo-gi",
-    "previous_price": 170.95
+    "previous_price": 90.5
   },
   {
     "shop": "Fuji Sports",
@@ -168107,7 +169507,7 @@
     "price": 90.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/dojo-outfitters-judo-gi",
-    "previous_price": 170.95
+    "previous_price": 90.5
   },
   {
     "shop": "Fuji Sports",
@@ -168117,7 +169517,7 @@
     "price": 90.5,
     "in_stock": false,
     "url": "https://fujisports.com/products/dojo-outfitters-judo-gi",
-    "previous_price": 170.95
+    "previous_price": 90.5
   },
   {
     "shop": "Fuji Sports",
@@ -177155,7 +178555,7 @@
     "product": "Baseline Grappling Spats V2",
     "size": "M",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/baseline-grappling-spats-v2",
     "previous_price": 59.95
   },
@@ -177165,7 +178565,7 @@
     "product": "Baseline Grappling Spats V2",
     "size": "L",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/baseline-grappling-spats-v2",
     "previous_price": 59.95
   },
@@ -177175,7 +178575,7 @@
     "product": "Baseline Grappling Spats V2",
     "size": "XL",
     "price": 59.95,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://fujisports.com/products/baseline-grappling-spats-v2",
     "previous_price": 59.95
   },
@@ -181115,7 +182515,7 @@
     "product": "Hayabusa Quick Gel Handwraps - Zwart",
     "size": "S",
     "price": 23.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-quick-gel-handwraps-zwart",
     "previous_price": 23.99
   },
@@ -184975,7 +186375,7 @@
     "product": "Fairtex BGV1 Universal Bokshandschoenen - \"Tight-Fit\" Design - Thai Pride",
     "size": "12 oz",
     "price": 139.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-bgv1-universal-bokshandschoenen-tight-fit-design-thai-pride",
     "previous_price": 139.0
   },
@@ -185365,7 +186765,7 @@
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Geel",
     "size": "L",
     "price": 109.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-geel",
     "previous_price": 109.0
   },
@@ -185435,7 +186835,7 @@
     "product": "Fairtex SP5 Competition - Scheenbeschermers - Rood",
     "size": "M",
     "price": 109.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/fairtex-sp5-competition-scheenbeschermers-rood",
     "previous_price": 109.0
   },
@@ -187465,7 +188865,7 @@
     "product": "Hayabusa S4 Bokshandschoenen - Zwart/Goud",
     "size": "16 oz",
     "price": 79.9,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-s4-bokshandschoenen-zwart-goud",
     "previous_price": 79.9
   },
@@ -194575,7 +195975,7 @@
     "product": "Danger Thai Pro Scheenbeschermers - Echt Leer - Zwart",
     "size": "S",
     "price": 70.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/danger-thai-pro-scheenbeschermers-leer-zwart",
     "previous_price": 70.0
   },
@@ -200755,7 +202155,7 @@
     "product": "Booster Scheenbeschermers - Bangkok Series 1 - Zwart / Goud",
     "size": "M",
     "price": 74.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-scheenbeschermers-bangkok-series-1-zwart-wit",
     "previous_price": 74.95
   },
@@ -201135,7 +202535,7 @@
     "product": "Booster Bokschoenen - Rapid Strike Pro series 3 - Wit",
     "size": "43",
     "price": 139.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-3-wit",
     "previous_price": 139.95
   },
@@ -201655,7 +203055,7 @@
     "product": "Booster Pro Range BGL V9 Bokshandschoenen - Echt Leer - zwart/rood",
     "size": "16 oz",
     "price": 169.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-pro-range-bgl-v9-bokshandschoenen-echt-leer-zwart-rood",
     "previous_price": 169.95
   },
@@ -202065,7 +203465,7 @@
     "product": "Booster MMA Handschoenen Bangkok 1  - Zwart / Goud",
     "size": "S",
     "price": 54.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-mma-handschoenen-bangkok-1-zwart-goud",
     "previous_price": 54.99
   },
@@ -203522,12 +204922,22 @@
   {
     "shop": "OLB Sports",
     "brand": "XXL",
+    "product": "XXL Nutrition Bidon Zwart/Zwart",
+    "size": "One Size",
+    "price": 4.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-bidon-zwart-zwart/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "XXL",
     "product": "XXL Nutrition Venom Pre Work Out Shot Sour Berry 12 Pack",
     "size": "One Size",
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-venom-pre-work-out-shot-sour-berry-12-pack/",
-    "previous_price": null
+    "previous_price": 29.95
   },
   {
     "shop": "OLB Sports",
@@ -203537,7 +204947,7 @@
     "price": 2.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-venom-pre-work-out-shot-lemon-lime/",
-    "previous_price": null
+    "previous_price": 2.99
   },
   {
     "shop": "OLB Sports",
@@ -204787,7 +206197,7 @@
     "price": 17.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-creatine-monohydraat-orange-500gr/",
-    "previous_price": 16.99
+    "previous_price": 17.99
   },
   {
     "shop": "OLB Sports",
@@ -204797,7 +206207,7 @@
     "price": 17.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-creatine-monohydraat-lemon-500gr/",
-    "previous_price": 16.99
+    "previous_price": 17.99
   },
   {
     "shop": "OLB Sports",
@@ -206563,16 +207973,6 @@
     "shop": "OLB Sports",
     "brand": "Hayabusa",
     "product": "Hayabusa Pro Boksschoenen Garnet/Grey",
-    "size": "42",
-    "price": 139.0,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-garnet-grey/",
-    "previous_price": 139.0
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Hayabusa",
-    "product": "Hayabusa Pro Boksschoenen Garnet/Grey",
     "size": "44",
     "price": 139.0,
     "in_stock": true,
@@ -206863,16 +208263,6 @@
     "shop": "OLB Sports",
     "brand": "Hayabusa",
     "product": "Hayabusa Pro Boksschoenen Black",
-    "size": "44",
-    "price": 139.0,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/hayabusa-pro-boksschoenen-black/",
-    "previous_price": 139.0
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Hayabusa",
-    "product": "Hayabusa Pro Boksschoenen Black",
     "size": "45",
     "price": 139.0,
     "in_stock": true,
@@ -206928,6 +208318,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-scheenbeschermers-t3-striking-white-black/",
     "previous_price": 169.0
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Hayabusa",
+    "product": "Hayabusa Scheenbeschermers T3 Striking White/Black",
+    "size": "xl",
+    "price": 169.0,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/hayabusa-scheenbeschermers-t3-striking-white-black/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -207684,16 +209084,6 @@
     "brand": "Venum",
     "product": "Venum Fight Icon T-Shirt Black",
     "size": "xl",
-    "price": 29.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-fight-icon-t-shirt-black/",
-    "previous_price": 29.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Fight Icon T-Shirt Black",
-    "size": "xxl",
     "price": 29.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/venum-fight-icon-t-shirt-black/",
@@ -208543,16 +209933,6 @@
     "shop": "OLB Sports",
     "brand": "King",
     "product": "King Pro Boxing T-Shirt KPB Bloodline 1 Black/Red",
-    "size": "l",
-    "price": 29.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/king-pro-boxing-t-shirt-kpb-bloodline-1-black-red/",
-    "previous_price": 29.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "King",
-    "product": "King Pro Boxing T-Shirt KPB Bloodline 1 Black/Red",
     "size": "xl",
     "price": 29.95,
     "in_stock": true,
@@ -208737,7 +210117,7 @@
     "price": 16.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/shock-doctor-gebitsbeschermer-gel-max-neon-groen/",
-    "previous_price": null
+    "previous_price": 16.95
   },
   {
     "shop": "OLB Sports",
@@ -210453,6 +211833,16 @@
     "shop": "OLB Sports",
     "brand": "Twins",
     "product": "Twins Bokshandschoenen BGVL 6 Black",
+    "size": "12oz",
+    "price": 187.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/twins-bokshandschoenen-bgvl-6-black/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Twins",
+    "product": "Twins Bokshandschoenen BGVL 6 Black",
     "size": "14oz",
     "price": 187.95,
     "in_stock": true,
@@ -211252,16 +212642,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Booster",
-    "product": "Booster Bokshandschoenen Junior Marble Gold",
-    "size": "10oz",
-    "price": 43.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/booster-bokshandschoenen-junior-marble-gold/",
-    "previous_price": 43.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Booster",
     "product": "Booster Bokshandschoenen Kids BG Youth Elite V2 2 White/Gold",
     "size": "6oz",
     "price": 43.95,
@@ -211338,6 +212718,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoenen-war-black-green/",
     "previous_price": 79.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Booster",
+    "product": "Booster Bokshandschoenen BT Starter Pink",
+    "size": "10oz",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/booster-bokshandschoenen-bt-starter-pink/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -214863,16 +216253,6 @@
     "shop": "OLB Sports",
     "brand": "Adidas",
     "product": "Adidas Velcro Scheenbeschermers",
-    "size": "s",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/adidas-velcro-scheenbeschermers/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Adidas",
-    "product": "Adidas Velcro Scheenbeschermers",
     "size": "m",
     "price": 34.95,
     "in_stock": true,
@@ -214964,16 +216344,6 @@
     "brand": "Adidas",
     "product": "Adidas Bokshandschoenen Speed 50 Grey/Gold",
     "size": "14oz",
-    "price": 29.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/adidas-bokshandschoenen-speed-50-grey-gold/",
-    "previous_price": 29.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Adidas",
-    "product": "Adidas Bokshandschoenen Speed 50 Grey/Gold",
-    "size": "16oz",
     "price": 29.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-bokshandschoenen-speed-50-grey-gold/",
@@ -217391,16 +218761,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "RAW",
-    "product": "RAW Nutrition CBUM Essential Pre-Workout Raspberry Creamthickle",
-    "size": "One Size",
-    "price": 32.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/raw-nutrition-cbum-essential-pre-workout-raspberry-creamthickle/",
-    "previous_price": 32.95
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Kickboks Set Kunstleer",
     "size": "One Size",
@@ -218122,16 +219482,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Joya",
-    "product": "Joya Gear Lace Up Veter Bokshandschoenen Strap Black/Gold",
-    "size": "One Size",
-    "price": 24.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-lace-up-veter-bokshandschoenen-strap-black-gold/",
-    "previous_price": 24.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
     "product": "Joya Gear Lace Up Veter Bokshandschoenen Strap Black",
     "size": "One Size",
     "price": 24.95,
@@ -218821,6 +220171,16 @@
   },
   {
     "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Sporttas Butterfly Junior Goud",
+    "size": "One Size",
+    "price": 34.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-sporttas-butterfly-junior-goud/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
     "brand": "Super",
     "product": "Super Pro Bokshandschoenen Bruiser Zwart",
     "size": "12oz",
@@ -218837,7 +220197,7 @@
     "price": 15.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/veer-voor-bokszak-12cm/",
-    "previous_price": null
+    "previous_price": 15.95
   },
   {
     "shop": "OLB Sports",
@@ -218914,16 +220274,6 @@
     "brand": "Joya",
     "product": "Joya Gear Bokshandschoenen Performance Velcro Black/Gold V2",
     "size": "14oz",
-    "price": 184.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-performance-velcro-black-gold-v2/",
-    "previous_price": 184.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Gear Bokshandschoenen Performance Velcro Black/Gold V2",
-    "size": "16oz",
     "price": 184.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-performance-velcro-black-gold-v2/",
@@ -218992,22 +220342,22 @@
   {
     "shop": "OLB Sports",
     "brand": "Adidas",
-    "product": "Adidas Boksschoenen Box Hog 4 Black/White",
+    "product": "Adidas Boksschoenen Box Hog 4 Black/White/Red",
     "size": "42",
     "price": 119.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-black-white/",
-    "previous_price": 119.95
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
     "brand": "Adidas",
-    "product": "Adidas Boksschoenen Box Hog 4 Black/White",
+    "product": "Adidas Boksschoenen Box Hog 4 Black/White/Red",
     "size": "45-1-3",
     "price": 119.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/adidas-boksschoenen-box-hog-4-black-white/",
-    "previous_price": 119.95
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -219714,16 +221064,6 @@
     "brand": "1916",
     "product": "1916 Fight Gear Kickboksbroek Legend Black/Black",
     "size": "xl",
-    "price": 39.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/1916-fight-gear-kickboksbroek-legend-black-black/",
-    "previous_price": 39.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "1916",
-    "product": "1916 Fight Gear Kickboksbroek Legend Black/Black",
-    "size": "xxl",
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-kickboksbroek-legend-black-black/",
@@ -221922,16 +223262,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Joya",
-    "product": "Joya Gear Scheenbeschermers Performance  Black/Gold",
-    "size": "xl",
-    "price": 159.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-scheenbeschermers-performance-black-gold/",
-    "previous_price": 159.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
     "product": "Joya Gear Scheenbeschermers Performance  Black/Carbon",
     "size": "s",
     "price": 159.99,
@@ -223428,6 +224758,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-essential-white-gold/",
     "previous_price": 54.99
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Gear Bokshandschoenen Essential Green",
+    "size": "14oz",
+    "price": 54.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-essential-green/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -229212,16 +230552,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Opro",
-    "product": "Opro Gebitsbeschermer Silver Superior Fit Transparant",
-    "size": "junior",
-    "price": 16.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/opro-gebitsbeschermer-silver-superior-fit-transparant/",
-    "previous_price": 16.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Opro",
     "product": "Opro Gebitsbeschermer Silver Superior Fit Blauw/Blauw",
     "size": "junior",
     "price": 16.99,
@@ -230881,6 +232211,16 @@
   },
   {
     "shop": "OLB Sports",
+    "brand": "XXL",
+    "product": "XXL Nutrition Whey Isolate Zero Aardbei",
+    "size": "One Size",
+    "price": 54.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolate-zero-aardbei/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Shirt Camo V2 Goud",
     "size": "152",
@@ -231077,7 +232417,7 @@
     "price": 15.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/bokszak-ketting-met-karabijnhaken/",
-    "previous_price": null
+    "previous_price": 15.95
   },
   {
     "shop": "OLB Sports",
@@ -231087,7 +232427,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/shock-doctor-kruisbeschermer-ultra-pro/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -231721,16 +233061,6 @@
   },
   {
     "shop": "OLB Sports",
-    "brand": "Rich",
-    "product": "Rich Piana Pre Workout 5150 Kill It Tropical Rage",
-    "size": "One Size",
-    "price": 39.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/rich-piana-pre-workout-5150-kill-it-tropical-rage/",
-    "previous_price": 39.99
-  },
-  {
-    "shop": "OLB Sports",
     "brand": "XXL",
     "product": "XXL Nutrition Complex Carb Gainer Aardbei 2,5kg",
     "size": "One Size",
@@ -231958,6 +233288,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/fairtex-x-booster-scheenbeschermer-white/",
     "previous_price": 124.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "XXL",
+    "product": "XXL Nutrition Whey Isolate Zero Vanille",
+    "size": "One Size",
+    "price": 54.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolate-zero-vanille/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -232817,7 +234157,7 @@
     "price": 169.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-pro-85-protein-aardbei-5kg/",
-    "previous_price": null
+    "previous_price": 169.95
   },
   {
     "shop": "OLB Sports",
@@ -232878,6 +234218,26 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-legend-bandage-zwart-maroon/",
     "previous_price": 10.99
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "XXL",
+    "product": "XXL Nutrition Complex Carb Gainer Banaan 2,5kg",
+    "size": "One Size",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-complex-carb-gainer-banaan-25kg/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "XXL",
+    "product": "XXL Nutrition Complex Carb Gainer Chocolade 2,5kg",
+    "size": "One Size",
+    "price": 49.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-complex-carb-gainer-chocolade-25kg/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -233068,16 +234428,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-rashguard-stormking-2/",
     "previous_price": 29.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "XXL",
-    "product": "XXL Nutrition Pro 85 Protein Banaan 5kg",
-    "size": "One Size",
-    "price": 169.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/xxl-nutrition-pro-85-protein-banaan-5kg/",
-    "previous_price": 169.95
   },
   {
     "shop": "OLB Sports",
@@ -233758,6 +235108,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/energia-fight-wear-gi-black/",
     "previous_price": 119.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "1916",
+    "product": "1916 Fight Gear Old School Shirt Zwart",
+    "size": "m",
+    "price": 14.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/1916-fight-gear-old-school-shirt-zwart/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -235151,6 +236511,16 @@
   },
   {
     "shop": "OLB Sports",
+    "brand": "XXL",
+    "product": "XXL Nutrition Whey Isolaat Vanille 2.5kg",
+    "size": "One Size",
+    "price": 129.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolaat-vanille-2/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
     "brand": "Booster",
     "product": "Booster Scheenbeschermers BSG V9 Zwart/Grijs",
     "size": "l",
@@ -235457,17 +236827,7 @@
     "price": 15.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-creatine-monohydraat/",
-    "previous_price": 14.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Zware",
-    "product": "Zware Ophangbeugel Bokszak",
-    "size": "One Size",
-    "price": 129.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/zware-ophangbeugel-bokszak/",
-    "previous_price": 129.95
+    "previous_price": 15.99
   },
   {
     "shop": "OLB Sports",
@@ -235877,7 +237237,7 @@
     "price": 2.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-venom-pre-work-out-shot-sour-berry/",
-    "previous_price": 2.5
+    "previous_price": 2.99
   },
   {
     "shop": "OLB Sports",
@@ -235987,7 +237347,7 @@
     "price": 16.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/shock-doctor-gebitsbeschermer-gel-max-transparant/",
-    "previous_price": null
+    "previous_price": 16.95
   },
   {
     "shop": "OLB Sports",
@@ -235997,7 +237357,7 @@
     "price": 16.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/shock-doctor-gebitsbeschermer-gel-max-roze/",
-    "previous_price": null
+    "previous_price": 16.95
   },
   {
     "shop": "OLB Sports",
@@ -236007,7 +237367,7 @@
     "price": 16.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/shock-doctor-gebitsbeschermer-gel-max-roze/",
-    "previous_price": null
+    "previous_price": 16.95
   },
   {
     "shop": "OLB Sports",
@@ -236332,12 +237692,22 @@
   {
     "shop": "OLB Sports",
     "brand": "XXL",
-    "product": "XXL Nutrition Bidon",
+    "product": "XXL Nutrition Whey Isolaat Banaan 1kg",
+    "size": "One Size",
+    "price": 59.99,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/xxl-nutrition-whey-isolaat-banaan/",
+    "previous_price": null
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "XXL",
+    "product": "XXL Nutrition Bidon Zwart/Rood",
     "size": "One Size",
     "price": 4.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-bidon/",
-    "previous_price": 4.95
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
@@ -236528,16 +237898,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/essimo-judopak-koka/",
     "previous_price": 36.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Stanno",
-    "product": "Stanno Merano Tas Zwart",
-    "size": "One Size",
-    "price": 33.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/stanno-merano-tas/",
-    "previous_price": 33.99
   },
   {
     "shop": "OLB Sports",
@@ -237682,16 +239042,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Matsuru",
-    "product": "Matsuru Juvo Met Label",
-    "size": "170cm",
-    "price": 48.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/matsuru-juvo-met-label/",
-    "previous_price": 48.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Matsuru",
     "product": "Matsuru Judo Club Wit",
     "size": "160cm",
     "price": 81.95,
@@ -238518,6 +239868,16 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-binnenhandschoen-zwart/",
     "previous_price": 13.95
+  },
+  {
+    "shop": "OLB Sports",
+    "brand": "Joya",
+    "product": "Joya Hoofdbeschermer Zwart",
+    "size": "xl",
+    "price": 44.95,
+    "in_stock": true,
+    "url": "https://olbsports.nl/product/joya-hoofdbeschermer-zwart/",
+    "previous_price": null
   },
   {
     "shop": "OLB Sports",
