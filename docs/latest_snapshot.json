@@ -1365,7 +1365,7 @@
     "product": "Ground Force Aero 300 Gi - Black",
     "size": "A2H",
     "price": 110.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-aero-300-gi-black",
     "previous_price": 110.0
   },
@@ -17035,7 +17035,7 @@
     "product": "Ground Force Rank Rashguard Short Sleeve",
     "size": "XS / Blue",
     "price": 47.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://bjjfightgear.com/products/ground-force-rank-rashguard-short-sleeve",
     "previous_price": 47.0
   },
@@ -17045,7 +17045,7 @@
     "product": "Ground Force Rank Rashguard Short Sleeve",
     "size": "XS / Purple",
     "price": 47.0,
-    "in_stock": false,
+    "in_stock": true,
     "url": "https://bjjfightgear.com/products/ground-force-rank-rashguard-short-sleeve",
     "previous_price": 47.0
   },
@@ -20125,7 +20125,7 @@
     "product": "FUJI Baseline Ranked Rashguard Long Sleeve",
     "size": "M / White",
     "price": 54.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/fuji-baseline-ranked-rashguard",
     "previous_price": 54.95
   },
@@ -21895,7 +21895,7 @@
     "product": "Fuji All Around Kids BJJ Gi",
     "size": "C0 / Black",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/fuji-all-around-kids-bjj-gi",
     "previous_price": 69.95
   },
@@ -41685,7 +41685,7 @@
     "product": "Kimono BJJ (Gi) Kingz Balístico 4.0 - Negro",
     "size": "A2H",
     "price": 150.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-kingz-balistico-4-0-negro",
     "previous_price": 150.0
   },
@@ -41705,7 +41705,7 @@
     "product": "Kimono BJJ (Gi) Kingz Balístico 4.0 - Negro",
     "size": "A3H",
     "price": 150.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://www.stockbjj.com/products/kimono-bjj-gi-kingz-balistico-4-0-negro",
     "previous_price": 150.0
   },
@@ -83075,7 +83075,7 @@
     "product": "Kingz No Days Off Men's Crewneck",
     "size": "L / Black",
     "price": 55.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/no-days-off-crewneck",
     "previous_price": 55.0
   },
@@ -92015,7 +92015,7 @@
     "product": "Kingz Balistico 4.0 Men's BJJ Gi - Black",
     "size": "A3L / Black",
     "price": 150.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-black-2024-edition",
     "previous_price": 150.0
   },
@@ -122835,7 +122835,7 @@
     "product": "We Defy Neon Camo Hoodie Green",
     "size": "2XL",
     "price": 69.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/we-defy-neon-camo-hoodie-green",
     "previous_price": 69.95
   },
@@ -131605,7 +131605,7 @@
     "product": "Renzo Gracie BJJ Belt Brown",
     "size": "A3",
     "price": 16.5,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/renzo-gracie-bjj-belt-brown",
     "previous_price": 16.5
   },
@@ -149825,7 +149825,7 @@
     "product": "Battle Flex Lite Shorts Black",
     "size": "L",
     "price": 45.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/battle-flex-lite-shorts-black",
     "previous_price": 45.95
   },
@@ -183344,7 +183344,7 @@
     "brand": "Flow",
     "product": "Flow Progress Bokshandschoenen - mat Bruin runderleer",
     "size": "12 oz",
-    "price": 54.95,
+    "price": 34.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/flow-progress-bokshandschoenen-meerlaags-schuim-mat-bruin-runderleer",
     "previous_price": 54.95
@@ -183354,7 +183354,7 @@
     "brand": "Flow",
     "product": "Flow Progress Bokshandschoenen - mat Bruin runderleer",
     "size": "14 oz",
-    "price": 54.95,
+    "price": 34.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/flow-progress-bokshandschoenen-meerlaags-schuim-mat-bruin-runderleer",
     "previous_price": 54.95
@@ -183364,7 +183364,7 @@
     "brand": "Flow",
     "product": "Flow Progress Bokshandschoenen - mat Bruin runderleer",
     "size": "16 oz",
-    "price": 54.95,
+    "price": 34.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/flow-progress-bokshandschoenen-meerlaags-schuim-mat-bruin-runderleer",
     "previous_price": 54.95
@@ -183374,7 +183374,7 @@
     "brand": "Flow",
     "product": "Flow Progress Bokshandschoenen - mat Bruin/Zilver runderleer",
     "size": "12 oz",
-    "price": 54.95,
+    "price": 34.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/flow-progress-bokshandschoenen-meerlaags-schuim-mat-bruin-zilver-runderleer",
     "previous_price": 54.95
@@ -183384,7 +183384,7 @@
     "brand": "Flow",
     "product": "Flow Progress Bokshandschoenen - mat Bruin/Zilver runderleer",
     "size": "14 oz",
-    "price": 54.95,
+    "price": 34.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/flow-progress-bokshandschoenen-meerlaags-schuim-mat-bruin-zilver-runderleer",
     "previous_price": 54.95
@@ -183394,7 +183394,7 @@
     "brand": "Flow",
     "product": "Flow Progress Bokshandschoenen - mat Bruin/Zilver runderleer",
     "size": "16 oz",
-    "price": 54.95,
+    "price": 34.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/flow-progress-bokshandschoenen-meerlaags-schuim-mat-bruin-zilver-runderleer",
     "previous_price": 54.95
@@ -183404,7 +183404,7 @@
     "brand": "Flow",
     "product": "Flow Progress Bokshandschoenen - Zwart runderleer",
     "size": "8 oz",
-    "price": 54.95,
+    "price": 34.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/flow-progress-bokshandschoenen-meerlaags-schuim-zwart-runderleer",
     "previous_price": 54.95
@@ -183414,7 +183414,7 @@
     "brand": "Flow",
     "product": "Flow Progress Bokshandschoenen - Zwart runderleer",
     "size": "10 oz",
-    "price": 54.95,
+    "price": 34.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/flow-progress-bokshandschoenen-meerlaags-schuim-zwart-runderleer",
     "previous_price": 54.95
@@ -183424,7 +183424,7 @@
     "brand": "Flow",
     "product": "Flow Progress Bokshandschoenen - Zwart runderleer",
     "size": "12 oz",
-    "price": 54.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/flow-progress-bokshandschoenen-meerlaags-schuim-zwart-runderleer",
     "previous_price": 54.95
@@ -183434,7 +183434,7 @@
     "brand": "Flow",
     "product": "Flow Progress Bokshandschoenen - Zwart runderleer",
     "size": "14 oz",
-    "price": 54.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/flow-progress-bokshandschoenen-meerlaags-schuim-zwart-runderleer",
     "previous_price": 54.95
@@ -183444,7 +183444,7 @@
     "brand": "Flow",
     "product": "Flow Progress Bokshandschoenen - Zwart runderleer",
     "size": "16 oz",
-    "price": 54.95,
+    "price": 34.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/flow-progress-bokshandschoenen-meerlaags-schuim-zwart-runderleer",
     "previous_price": 54.95
@@ -183454,7 +183454,7 @@
     "brand": "Flow",
     "product": "Flow Progress Bokshandschoenen - Zwart/Goud runderleer",
     "size": "12 oz",
-    "price": 54.95,
+    "price": 34.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/flow-progress-bokshandschoenen-meerlaags-schuim-zwart-goud-runderleer",
     "previous_price": 54.95
@@ -183464,7 +183464,7 @@
     "brand": "Flow",
     "product": "Flow Progress Bokshandschoenen - Zwart/Goud runderleer",
     "size": "14 oz",
-    "price": 54.95,
+    "price": 34.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/flow-progress-bokshandschoenen-meerlaags-schuim-zwart-goud-runderleer",
     "previous_price": 54.95
@@ -183474,7 +183474,7 @@
     "brand": "Flow",
     "product": "Flow Progress Bokshandschoenen - Zwart/Goud runderleer",
     "size": "16 oz",
-    "price": 54.95,
+    "price": 34.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/flow-progress-bokshandschoenen-meerlaags-schuim-zwart-goud-runderleer",
     "previous_price": 54.95
@@ -189875,7 +189875,7 @@
     "product": "Hayabusa T3 Bokshandschoenen - Zwart / Goud",
     "size": "16 oz",
     "price": 179.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-bokshandschoenen-zwart-goud",
     "previous_price": 179.0
   },
@@ -199375,7 +199375,7 @@
     "product": "Hayabusa Perfect Stretch Handwraps - Blauw - 4,5 meter",
     "size": "Default Title",
     "price": 17.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-perfect-stretch-handwraps-blauw-4-5-meter",
     "previous_price": 17.99
   },
@@ -202405,7 +202405,7 @@
     "product": "Booster Bokshandschoenen - Thunder Series 3 - Rood / Wit",
     "size": "14 oz",
     "price": 99.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bokshandschoenen-thunder-series-3-rood-wit",
     "previous_price": 99.0
   },
@@ -206247,7 +206247,7 @@
     "price": 0.0,
     "in_stock": false,
     "url": "https://olbsports.nl/product/joya-kickboks-set-falcon-black/",
-    "previous_price": null
+    "previous_price": 0.0
   },
   {
     "shop": "OLB Sports",
@@ -209383,16 +209383,6 @@
     "shop": "OLB Sports",
     "brand": "Venum",
     "product": "Venum Fight Icon T-Shirt Black",
-    "size": "m",
-    "price": 29.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-fight-icon-t-shirt-black/",
-    "previous_price": 29.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Fight Icon T-Shirt Black",
     "size": "l",
     "price": 29.99,
     "in_stock": true,
@@ -209717,7 +209707,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-rose-gold/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209727,7 +209717,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-rose-gold/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209737,7 +209727,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-rose-gold/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209747,7 +209737,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-rose-gold/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209757,7 +209747,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-purple-black/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209767,7 +209757,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-purple-black/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209777,7 +209767,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-purple-black/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209787,7 +209777,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-purple-black/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209797,7 +209787,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-charcoal-black/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209807,7 +209797,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-charcoal-black/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209817,7 +209807,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-charcoal-black/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209827,7 +209817,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-charcoal-black/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209837,7 +209827,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-white-grey/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209847,7 +209837,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-white-grey/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209857,7 +209847,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-white-grey/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209867,7 +209857,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-white-grey/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209877,7 +209867,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-black-red/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209887,7 +209877,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-black-red/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209897,7 +209887,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-black-red/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209907,7 +209897,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-black-red/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209917,7 +209907,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-red-black/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209927,7 +209917,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-red-black/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209937,7 +209927,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-red-black/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -209947,7 +209937,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-red-black/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -210197,7 +210187,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/opro-gebitsbeschermer-gold-ultra-fit-roze/",
-    "previous_price": 24.95
+    "previous_price": 19.95
   },
   {
     "shop": "OLB Sports",
@@ -210207,7 +210197,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/opro-gebitsbeschermer-gold-ultra-fit-roze/",
-    "previous_price": 24.95
+    "previous_price": 19.95
   },
   {
     "shop": "OLB Sports",
@@ -211557,7 +211547,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-white-gold/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -211567,7 +211557,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-white-gold/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -211577,7 +211567,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-white-gold/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -211587,7 +211577,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-white-gold/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -211597,7 +211587,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-white-gold/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -211627,7 +211617,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-black-gold/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -211637,7 +211627,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-black-gold/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -211647,7 +211637,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-black-gold/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -211657,7 +211647,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-black-gold/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -211667,7 +211657,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-black-gold/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -211677,7 +211667,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-black/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -211687,7 +211677,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-black/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -211697,7 +211687,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-black/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -211707,7 +211697,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-black/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -211717,7 +211707,7 @@
     "price": 143.2,
     "in_stock": true,
     "url": "https://olbsports.nl/product/hayabusa-bokshandschoenen-t3-black/",
-    "previous_price": 179.0
+    "previous_price": 143.2
   },
   {
     "shop": "OLB Sports",
@@ -214067,7 +214057,7 @@
     "price": 9.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/nuvo-clean-sport-fresh-white-musk-150ml-white/",
-    "previous_price": 14.99
+    "previous_price": 9.95
   },
   {
     "shop": "OLB Sports",
@@ -214087,7 +214077,7 @@
     "price": 9.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/nuvo-clean-sport-fresh-pine-150ml-green/",
-    "previous_price": 14.99
+    "previous_price": 9.95
   },
   {
     "shop": "OLB Sports",
@@ -214097,7 +214087,7 @@
     "price": 9.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/nuvo-clean-sport-fresh-cottonfresh-150ml-pink/",
-    "previous_price": 14.99
+    "previous_price": 9.95
   },
   {
     "shop": "OLB Sports",
@@ -217027,7 +217017,7 @@
     "price": 9.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/nuvo-clean-sport-fresh-mint-150ml/",
-    "previous_price": 14.99
+    "previous_price": 9.95
   },
   {
     "shop": "OLB Sports",
@@ -220112,16 +220102,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Venum",
-    "product": "Venum VTC Flames Muay Thai Short Black/Gold",
-    "size": "xl",
-    "price": 49.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-vtc-flames-muay-thai-short-black-gold/",
-    "previous_price": 49.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
     "product": "Venum Classic Evo Muay Thai Short Neon Yellow/Black",
     "size": "m",
     "price": 49.95,
@@ -221283,16 +221263,6 @@
     "shop": "OLB Sports",
     "brand": "1916",
     "product": "1916 Fight Gear Bokshandschoenen Premium Elite  Black/Black",
-    "size": "12oz",
-    "price": 195.0,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/1916-fight-gear-bokshandschoenen-premium-elite-black-black/",
-    "previous_price": 195.0
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "1916",
-    "product": "1916 Fight Gear Bokshandschoenen Premium Elite  Black/Black",
     "size": "14oz",
     "price": 195.0,
     "in_stock": true,
@@ -221708,16 +221678,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-fight-gear-premium-elite-bokszak-170cm-white/",
     "previous_price": 350.0
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "1916",
-    "product": "1916 Fight Gear Premium Elite Bokszak 170cm Maroon",
-    "size": "One Size",
-    "price": 369.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/1916-fight-gear-premium-elite-bokszak-170cm-maroon/",
-    "previous_price": 369.95
   },
   {
     "shop": "OLB Sports",
@@ -222477,16 +222437,6 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-kickboksbroek-evolution-holographic-zwart-zwart/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Gear Kickboksbroek Evolution Holographic Zwart/Roze",
-    "size": "l",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-kickboksbroek-evolution-holographic-zwart-roze/",
     "previous_price": 34.95
   },
   {
@@ -223377,7 +223327,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/opro-gebitsbeschermer-gold-ultra-fit-transparant/",
-    "previous_price": 24.95
+    "previous_price": 19.95
   },
   {
     "shop": "OLB Sports",
@@ -223387,7 +223337,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/opro-gebitsbeschermer-gold-ultra-fit-transparant/",
-    "previous_price": 24.95
+    "previous_price": 19.95
   },
   {
     "shop": "OLB Sports",
@@ -223397,7 +223347,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/opro-gebitsbeschermer-beugel-gold-ultra-fit-transparant/",
-    "previous_price": 24.95
+    "previous_price": 19.95
   },
   {
     "shop": "OLB Sports",
@@ -224337,7 +224287,7 @@
     "price": 135.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-white/",
-    "previous_price": 169.95
+    "previous_price": 135.95
   },
   {
     "shop": "OLB Sports",
@@ -224347,7 +224297,7 @@
     "price": 135.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-white/",
-    "previous_price": 169.95
+    "previous_price": 135.95
   },
   {
     "shop": "OLB Sports",
@@ -224357,7 +224307,7 @@
     "price": 135.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-white/",
-    "previous_price": 169.95
+    "previous_price": 135.95
   },
   {
     "shop": "OLB Sports",
@@ -224367,7 +224317,7 @@
     "price": 135.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-white/",
-    "previous_price": 169.95
+    "previous_price": 135.95
   },
   {
     "shop": "OLB Sports",
@@ -225237,7 +225187,7 @@
     "price": 29.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-kickboksbroek-butterfly-goud/",
-    "previous_price": null
+    "previous_price": 29.95
   },
   {
     "shop": "OLB Sports",
@@ -226377,7 +226327,7 @@
     "price": 151.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bg-n-v2-white/",
-    "previous_price": 189.95
+    "previous_price": 151.95
   },
   {
     "shop": "OLB Sports",
@@ -226387,7 +226337,7 @@
     "price": 151.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bg-n-v2-white/",
-    "previous_price": 189.95
+    "previous_price": 151.95
   },
   {
     "shop": "OLB Sports",
@@ -226397,7 +226347,7 @@
     "price": 151.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bg-n-v2-white/",
-    "previous_price": 189.95
+    "previous_price": 151.95
   },
   {
     "shop": "OLB Sports",
@@ -226407,7 +226357,7 @@
     "price": 151.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bg-n-v2-white/",
-    "previous_price": 189.95
+    "previous_price": 151.95
   },
   {
     "shop": "OLB Sports",
@@ -226417,7 +226367,7 @@
     "price": 151.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bg-n-v2-black/",
-    "previous_price": 189.95
+    "previous_price": 151.95
   },
   {
     "shop": "OLB Sports",
@@ -226427,7 +226377,7 @@
     "price": 151.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bg-n-v2-black/",
-    "previous_price": 189.95
+    "previous_price": 151.95
   },
   {
     "shop": "OLB Sports",
@@ -226437,7 +226387,7 @@
     "price": 151.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bg-n-v2-black/",
-    "previous_price": 189.95
+    "previous_price": 151.95
   },
   {
     "shop": "OLB Sports",
@@ -226447,7 +226397,7 @@
     "price": 151.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bg-n-v2-black/",
-    "previous_price": 189.95
+    "previous_price": 151.95
   },
   {
     "shop": "OLB Sports",
@@ -226457,7 +226407,7 @@
     "price": 151.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-bokshandschoenen-bg-n-v2-black/",
-    "previous_price": 189.95
+    "previous_price": 151.95
   },
   {
     "shop": "OLB Sports",
@@ -227067,7 +227017,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/opro-gebitsbeschermer-gold-ultra-fit-jaws/",
-    "previous_price": 24.95
+    "previous_price": 19.95
   },
   {
     "shop": "OLB Sports",
@@ -229663,16 +229613,6 @@
     "shop": "OLB Sports",
     "brand": "Matsuru",
     "product": "Matsuru Budo Band Bruin",
-    "size": "260cm",
-    "price": 8.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/matsuru-budo-band-bruin/",
-    "previous_price": 8.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Matsuru",
-    "product": "Matsuru Budo Band Bruin",
     "size": "280cm",
     "price": 8.95,
     "in_stock": true,
@@ -230643,16 +230583,6 @@
     "shop": "OLB Sports",
     "brand": "1916",
     "product": "1916 Bokshandschoenen Youth Fighter Gold",
-    "size": "8oz",
-    "price": 43.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/1916-bokshandschoenen-youth-fighter-gold/",
-    "previous_price": 43.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "1916",
-    "product": "1916 Bokshandschoenen Youth Fighter Gold",
     "size": "12oz",
     "price": 43.95,
     "in_stock": true,
@@ -230697,7 +230627,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/opro-gebitsbeschermer-gold-ultra-fit-zwart-goud/",
-    "previous_price": 24.95
+    "previous_price": 19.95
   },
   {
     "shop": "OLB Sports",
@@ -230707,7 +230637,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/opro-gebitsbeschermer-gold-ultra-fit-zwart-goud/",
-    "previous_price": 24.95
+    "previous_price": 19.95
   },
   {
     "shop": "OLB Sports",
@@ -230717,7 +230647,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/opro-gebitsbeschermer-gold-ultra-fit-wit-goud/",
-    "previous_price": 24.95
+    "previous_price": 19.95
   },
   {
     "shop": "OLB Sports",
@@ -230727,7 +230657,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/opro-gebitsbeschermer-gold-ultra-fit-wit-goud/",
-    "previous_price": 24.95
+    "previous_price": 19.95
   },
   {
     "shop": "OLB Sports",
@@ -230737,7 +230667,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/opro-gebitsbeschermer-gold-ultra-fit-rood-wit/",
-    "previous_price": 24.95
+    "previous_price": 19.95
   },
   {
     "shop": "OLB Sports",
@@ -230747,7 +230677,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/opro-gebitsbeschermer-gold-ultra-fit-rood-wit/",
-    "previous_price": 24.95
+    "previous_price": 19.95
   },
   {
     "shop": "OLB Sports",
@@ -230757,7 +230687,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/opro-gebitsbeschermer-gold-ultra-fit-blauw-wit/",
-    "previous_price": 24.95
+    "previous_price": 19.95
   },
   {
     "shop": "OLB Sports",
@@ -230767,7 +230697,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/opro-gebitsbeschermer-gold-ultra-fit-blauw-wit/",
-    "previous_price": 24.95
+    "previous_price": 19.95
   },
   {
     "shop": "OLB Sports",
@@ -230777,7 +230707,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/opro-gebitsbeschermer-beugel-gold-ultra-fit-zwart-goud/",
-    "previous_price": 24.95
+    "previous_price": 19.95
   },
   {
     "shop": "OLB Sports",
@@ -230787,7 +230717,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/opro-gebitsbeschermer-beugel-gold-ultra-fit-wit-goud/",
-    "previous_price": 24.95
+    "previous_price": 19.95
   },
   {
     "shop": "OLB Sports",
@@ -230797,7 +230727,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/opro-gebitsbeschermer-beugel-gold-ultra-fit-rood-wit/",
-    "previous_price": 24.95
+    "previous_price": 19.95
   },
   {
     "shop": "OLB Sports",
@@ -230807,7 +230737,7 @@
     "price": 19.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/opro-gebitsbeschermer-beugel-gold-ultra-fit-blauw-wit/",
-    "previous_price": 24.95
+    "previous_price": 19.95
   },
   {
     "shop": "OLB Sports",
@@ -231074,16 +231004,6 @@
     "brand": "1916",
     "product": "1916 Bandage Roze",
     "size": "350cm",
-    "price": 9.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/1916-bandage-roze/",
-    "previous_price": 9.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "1916",
-    "product": "1916 Bandage Roze",
-    "size": "450cm",
     "price": 9.99,
     "in_stock": true,
     "url": "https://olbsports.nl/product/1916-bandage-roze/",
@@ -232272,16 +232192,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Energia",
-    "product": "Energia Fight Wear Fightshort Galaxy",
-    "size": "xl",
-    "price": 49.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/energia-fight-wear-fightshort-galaxy/",
-    "previous_price": 49.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Energia",
     "product": "Energia Fight Wear Rashguard Galaxy",
     "size": "m",
     "price": 59.95,
@@ -232687,7 +232597,7 @@
     "price": 57.0,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-sporttas-b-force-duffle-large-rood/",
-    "previous_price": null
+    "previous_price": 57.0
   },
   {
     "shop": "OLB Sports",
@@ -232824,16 +232734,6 @@
     "brand": "Joya",
     "product": "Joya Scheenbeschermer Camo V2 Zwart",
     "size": "xxs",
-    "price": 34.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-scheenbeschermer-camo-v2-zwart/",
-    "previous_price": 34.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Scheenbeschermer Camo V2 Zwart",
-    "size": "l",
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-scheenbeschermer-camo-v2-zwart/",
@@ -234087,7 +233987,7 @@
     "price": 135.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-military/",
-    "previous_price": 169.95
+    "previous_price": 135.95
   },
   {
     "shop": "OLB Sports",
@@ -234097,7 +233997,7 @@
     "price": 135.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-military/",
-    "previous_price": 169.95
+    "previous_price": 135.95
   },
   {
     "shop": "OLB Sports",
@@ -234107,7 +234007,7 @@
     "price": 135.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-black/",
-    "previous_price": 169.95
+    "previous_price": 135.95
   },
   {
     "shop": "OLB Sports",
@@ -234117,7 +234017,7 @@
     "price": 135.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-black/",
-    "previous_price": 169.95
+    "previous_price": 135.95
   },
   {
     "shop": "OLB Sports",
@@ -234127,7 +234027,7 @@
     "price": 135.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-black/",
-    "previous_price": 169.95
+    "previous_price": 135.95
   },
   {
     "shop": "OLB Sports",
@@ -234137,7 +234037,7 @@
     "price": 135.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/king-bokshandschoen-kpb-bgvl-3-black/",
-    "previous_price": 169.95
+    "previous_price": 135.95
   },
   {
     "shop": "OLB Sports",
@@ -234738,16 +234638,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-tok-staal/",
     "previous_price": 24.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Booster",
-    "product": "Booster BJJ Band Wit",
-    "size": "a2",
-    "price": 16.5,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/booster-bjj-band-wit/",
-    "previous_price": 16.5
   },
   {
     "shop": "OLB Sports",
@@ -236748,16 +236638,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bpm-1-pads/",
     "previous_price": 200.0
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "XXL",
-    "product": "XXL Bcaa Poeder Tropical 500gr",
-    "size": "One Size",
-    "price": 24.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/xxl-bcaa-poeder-tropical/",
-    "previous_price": 24.99
   },
   {
     "shop": "OLB Sports",
@@ -239317,7 +239197,7 @@
     "price": 12.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/fresh-k-o-glove-spray-300ml/",
-    "previous_price": 16.95
+    "previous_price": 12.95
   },
   {
     "shop": "OLB Sports",
