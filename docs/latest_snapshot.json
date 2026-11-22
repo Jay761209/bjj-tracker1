@@ -1325,7 +1325,7 @@
     "product": "Ground Force Aero 300 Gi - Black",
     "size": "A1",
     "price": 79.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/ground-force-aero-300-gi-black",
     "previous_price": 79.0
   },
@@ -20995,7 +20995,7 @@
     "product": "SISU GO Mouthguard",
     "size": "White",
     "price": 13.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://bjjfightgear.com/products/sisu-go-mouthguard",
     "previous_price": 13.0
   },
@@ -52585,7 +52585,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "M / XS / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -52645,7 +52645,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "M / L / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -52665,7 +52665,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "M / XL / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -52685,7 +52685,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "M / XXL / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -52705,7 +52705,7 @@
     "product": "Instinct No-Gi Kit",
     "size": "M / XXXL / Rose",
     "price": 82.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-no-gi-kit",
     "previous_price": 82.49
   },
@@ -53585,7 +53585,7 @@
     "product": "Instinct Rash Guard",
     "size": "Rose / M",
     "price": 41.24,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/instinct-rash-guard",
     "previous_price": 41.24
   },
@@ -72045,7 +72045,7 @@
     "product": "Subtle Gold Heavyweight Hoodie",
     "size": "Brown / M",
     "price": 59.99,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/subtle-hoodie",
     "previous_price": 59.99
   },
@@ -77255,7 +77255,7 @@
     "product": "Aeroweave Ultralight Women's Gi",
     "size": "F2 / Black",
     "price": 100.49,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://goldbjj.com/products/aeroweave-ultralight-womens-gi",
     "previous_price": 100.49
   },
@@ -79577,7 +79577,7 @@
     "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-womens-s-s-rashguard",
-    "previous_price": null
+    "previous_price": 25.0
   },
   {
     "shop": "Kingz Europe",
@@ -79587,7 +79587,7 @@
     "price": 25.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-womens-s-s-rashguard",
-    "previous_price": null
+    "previous_price": 25.0
   },
   {
     "shop": "Kingz Europe",
@@ -79597,7 +79597,7 @@
     "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-womens-s-s-rashguard",
-    "previous_price": null
+    "previous_price": 25.0
   },
   {
     "shop": "Kingz Europe",
@@ -79607,7 +79607,7 @@
     "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-womens-s-s-rashguard",
-    "previous_price": null
+    "previous_price": 25.0
   },
   {
     "shop": "Kingz Europe",
@@ -79617,7 +79617,7 @@
     "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-womens-s-s-rashguard",
-    "previous_price": null
+    "previous_price": 25.0
   },
   {
     "shop": "Kingz Europe",
@@ -79627,7 +79627,7 @@
     "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-womens-s-s-rashguard",
-    "previous_price": null
+    "previous_price": 25.0
   },
   {
     "shop": "Kingz Europe",
@@ -79637,7 +79637,7 @@
     "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-womens-s-s-rashguard",
-    "previous_price": null
+    "previous_price": 25.0
   },
   {
     "shop": "Kingz Europe",
@@ -79647,7 +79647,7 @@
     "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-womens-s-s-rashguard",
-    "previous_price": null
+    "previous_price": 25.0
   },
   {
     "shop": "Kingz Europe",
@@ -79657,7 +79657,7 @@
     "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-womens-s-s-rashguard",
-    "previous_price": null
+    "previous_price": 25.0
   },
   {
     "shop": "Kingz Europe",
@@ -79667,7 +79667,7 @@
     "price": 25.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-born-to-rule-womens-s-s-rashguard",
-    "previous_price": null
+    "previous_price": 25.0
   },
   {
     "shop": "Kingz Europe",
@@ -79677,7 +79677,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79687,7 +79687,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79697,7 +79697,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79707,7 +79707,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79717,7 +79717,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79727,7 +79727,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79737,7 +79737,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79747,7 +79747,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79757,7 +79757,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79767,7 +79767,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79777,7 +79777,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79787,7 +79787,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79797,7 +79797,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79807,7 +79807,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79817,7 +79817,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79827,7 +79827,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79837,7 +79837,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79847,7 +79847,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79857,7 +79857,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79867,7 +79867,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79877,7 +79877,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79887,7 +79887,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79897,7 +79897,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79907,7 +79907,7 @@
     "price": 130.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-youth-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 130.0
   },
   {
     "shop": "Kingz Europe",
@@ -79917,7 +79917,7 @@
     "price": 160.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -79927,7 +79927,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -79937,7 +79937,7 @@
     "price": 160.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -79947,7 +79947,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -79957,7 +79957,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -79967,7 +79967,7 @@
     "price": 160.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -79977,7 +79977,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -79987,7 +79987,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -79995,9 +79995,9 @@
     "product": "Born to Rule Jiu Jitsu Gi",
     "size": "Black / A2L",
     "price": 160.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80007,7 +80007,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80017,7 +80017,7 @@
     "price": 160.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80027,7 +80027,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80037,7 +80037,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80047,7 +80047,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80057,7 +80057,7 @@
     "price": 160.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80067,7 +80067,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80077,7 +80077,7 @@
     "price": 160.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80087,7 +80087,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80097,7 +80097,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80107,7 +80107,7 @@
     "price": 160.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80117,7 +80117,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80127,7 +80127,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80137,7 +80137,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80147,7 +80147,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80157,7 +80157,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80167,7 +80167,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80177,7 +80177,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80187,7 +80187,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80197,7 +80197,7 @@
     "price": 160.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80207,7 +80207,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80217,7 +80217,7 @@
     "price": 160.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80227,7 +80227,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80237,7 +80237,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80247,7 +80247,7 @@
     "price": 160.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80257,7 +80257,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80267,7 +80267,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80277,7 +80277,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80287,7 +80287,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80297,7 +80297,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80307,7 +80307,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80317,7 +80317,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80327,7 +80327,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80337,7 +80337,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-womens-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80347,7 +80347,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-womens-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80357,7 +80357,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-womens-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80367,7 +80367,7 @@
     "price": 160.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/born-to-rule-womens-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80377,7 +80377,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-womens-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80387,7 +80387,7 @@
     "price": 160.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/born-to-rule-womens-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80397,7 +80397,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-womens-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80407,7 +80407,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-womens-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80417,7 +80417,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-womens-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80427,7 +80427,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-womens-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80437,7 +80437,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-womens-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80447,7 +80447,7 @@
     "price": 160.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/born-to-rule-womens-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80457,7 +80457,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-womens-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80467,7 +80467,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-womens-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80477,7 +80477,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-womens-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80485,9 +80485,9 @@
     "product": "Born to Rule Women's Jiu Jitsu Gi",
     "size": "Green / F3",
     "price": 160.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/born-to-rule-womens-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80497,7 +80497,7 @@
     "price": 160.0,
     "in_stock": true,
     "url": "https://kingzeurope.com/products/born-to-rule-womens-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80507,7 +80507,7 @@
     "price": 160.0,
     "in_stock": false,
     "url": "https://kingzeurope.com/products/born-to-rule-womens-jiu-jitsu-gi",
-    "previous_price": null
+    "previous_price": 160.0
   },
   {
     "shop": "Kingz Europe",
@@ -80635,7 +80635,7 @@
     "product": "Kingz Legends Never Die Respect Youth BJJ Gi - Black",
     "size": "Black / M1",
     "price": 150.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-legends-never-die-respect-youth-gi-black",
     "previous_price": 150.0
   },
@@ -80765,7 +80765,7 @@
     "product": "Kingz Legends Never Die Respect Women's BJJ Gi - Black",
     "size": "Black / F3",
     "price": 180.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-legends-never-die-respect-womens-gi-black",
     "previous_price": 180.0
   },
@@ -81545,7 +81545,7 @@
     "product": "Kingz Athletic Tape - Black",
     "size": "Black",
     "price": 10.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/wrist-tape-black",
     "previous_price": 10.0
   },
@@ -81865,7 +81865,7 @@
     "product": "Kingz Comp V6 Youth BJJ Gi - White",
     "size": "White / M0",
     "price": 89.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/comp-v6-youth-jiu-jitsu-gi-white",
     "previous_price": 89.95
   },
@@ -82035,7 +82035,7 @@
     "product": "Kingz Jiu Jitsu Squad V2 Men's Hoodie",
     "size": "Black / XXL",
     "price": 70.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/jiu-jitsu-squad-v2-hoodie",
     "previous_price": 70.0
   },
@@ -82515,7 +82515,7 @@
     "product": "Kingz Kore V2 Men's Hoodie",
     "size": "Brown / XXL",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-v2-hoodie",
     "previous_price": 60.0
   },
@@ -82545,7 +82545,7 @@
     "product": "Kingz Kore V2 Men's Hoodie",
     "size": "Latte / M",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-v2-hoodie",
     "previous_price": 60.0
   },
@@ -88055,7 +88055,7 @@
     "product": "Casual Gi Pants",
     "size": "Denim / A3H",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-denim-gi-pant",
     "previous_price": 60.0
   },
@@ -91035,7 +91035,7 @@
     "product": "Kingz Vintage Futebol Men's Rashguard",
     "size": "S / Green /Vintage",
     "price": 50.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/vintage-futebol-rashguard",
     "previous_price": 50.0
   },
@@ -91135,7 +91135,7 @@
     "product": "Kingz Casual Rip Stop Men's Gi Pants - Brown",
     "size": "A2L / Brown",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-rip-stop-gi-pant-brown",
     "previous_price": 60.0
   },
@@ -91445,7 +91445,7 @@
     "product": "Kingz Nano 3.0 Terra Limited Edition Men's BJJ Gi",
     "size": "A4 / White",
     "price": 120.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/nano-3-0-terra-limited-edition-jiu-jitsu-gi",
     "previous_price": 120.0
   },
@@ -91865,7 +91865,7 @@
     "product": "Kingz Box Men's Hoodie",
     "size": "XL / Grey",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/box-hoodie",
     "previous_price": 60.0
   },
@@ -93735,7 +93735,7 @@
     "product": "Kingz Casual Rip Stop Men's Gi Pants - Grey",
     "size": "A1 / Grey",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-rip-stop-gi-pant-grey",
     "previous_price": 60.0
   },
@@ -93765,7 +93765,7 @@
     "product": "Kingz Casual Rip Stop Men's Gi Pants - Grey",
     "size": "A2L / Grey",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-rip-stop-gi-pant-grey",
     "previous_price": 60.0
   },
@@ -93855,7 +93855,7 @@
     "product": "Kingz Casual Rip Stop Men's Gi Pants - Sage",
     "size": "A1 / Sage",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-rip-stop-gi-pant-sage",
     "previous_price": 60.0
   },
@@ -94795,7 +94795,7 @@
     "product": "Kingz Casual Men's Gi Shorts - Camo",
     "size": "A1 / Camo",
     "price": 45.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-gi-shorts-camo",
     "previous_price": 45.0
   },
@@ -96545,7 +96545,7 @@
     "product": "Kingz Kore V2 Men's BJJ Gi - Black",
     "size": "A3 / Black",
     "price": 85.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-v2-jiu-jitsu-gi-black-2024-edition",
     "previous_price": 85.0
   },
@@ -96555,7 +96555,7 @@
     "product": "Kingz Kore V2 Men's BJJ Gi - Black",
     "size": "A3L / Black",
     "price": 85.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-v2-jiu-jitsu-gi-black-2024-edition",
     "previous_price": 85.0
   },
@@ -97925,7 +97925,7 @@
     "product": "Kingz Galaxy Men's Grappling Shorts",
     "size": "L / Black/Galaxy",
     "price": 55.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/galaxy-shorts",
     "previous_price": 55.0
   },
@@ -98915,7 +98915,7 @@
     "product": "Kingz The ONE V2 Men's BJJ Gi - Blue",
     "size": "A2H / Blue",
     "price": 105.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-the-one-v2-jiu-jitsu-gi-blue",
     "previous_price": 105.0
   },
@@ -100235,7 +100235,7 @@
     "product": "Kingz Kore V2 Men's BJJ Gi - White",
     "size": "A1L / White",
     "price": 85.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kore-v2-jiu-jitsu-gi-white-2024-edition",
     "previous_price": 85.0
   },
@@ -100595,7 +100595,7 @@
     "product": "Kingz Balistico 4.0 Men's BJJ Gi - White",
     "size": "A3 / White",
     "price": 150.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/balistico-4-0-brazilian-jiu-jitsu-gi-white-2024-edition",
     "previous_price": 150.0
   },
@@ -101035,7 +101035,7 @@
     "product": "Kingz Casual Men's Gi Pants - Light Denim",
     "size": "A3L / Light Denim",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-rip-stop-gi-pant-light-denim",
     "previous_price": 60.0
   },
@@ -101085,7 +101085,7 @@
     "product": "Kingz Casual Rip Stop Men's Gi Pants - Camo",
     "size": "Camo / A00",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-rip-stop-gi-pant-camo",
     "previous_price": 60.0
   },
@@ -101135,7 +101135,7 @@
     "product": "Kingz Casual Rip Stop Men's Gi Pants - Camo",
     "size": "Camo / A2H",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-rip-stop-gi-pant-camo",
     "previous_price": 60.0
   },
@@ -101425,7 +101425,7 @@
     "product": "Kingz Casual Men's Gi Pants - Denim",
     "size": "A3H / Denim",
     "price": 60.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/casual-rip-stop-gi-pant-denim",
     "previous_price": 60.0
   },
@@ -101805,7 +101805,7 @@
     "product": "Kingz Canvas Men's Jacket",
     "size": "Black / S",
     "price": 90.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/canvas-jacket",
     "previous_price": 90.0
   },
@@ -103525,7 +103525,7 @@
     "product": "Kingz Absolute Premium BJJ Belt",
     "size": "A3 / Purple",
     "price": 30.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-performance-belt",
     "previous_price": 30.0
   },
@@ -103565,7 +103565,7 @@
     "product": "Kingz Absolute Premium BJJ Belt",
     "size": "A4 / Blue",
     "price": 30.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/kingz-performance-belt",
     "previous_price": 30.0
   },
@@ -106225,7 +106225,7 @@
     "product": "Kingz Classic 3.0 Women's BJJ Gi - Black",
     "size": "F3 / Black",
     "price": 110.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/classic-2-0-womens-jiu-jitsu-gi-black",
     "previous_price": 110.0
   },
@@ -106415,7 +106415,7 @@
     "product": "Kingz Sport 2.0 Men's BJJ Gi - White",
     "size": "A4 / White",
     "price": 100.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kingzeurope.com/products/sport-jiu-jitsu-gi-white",
     "previous_price": 100.0
   },
@@ -118515,7 +118515,7 @@
     "product": "Pedro Sauer Official Jiu Jitsu Belt Black",
     "size": "A3",
     "price": 16.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/pedro-sauer-official-jiu-jitsu-belt-black",
     "previous_price": 16.0
   },
@@ -126425,7 +126425,7 @@
     "product": "Baseline 2.0 Slim Fit BJJ Gi Black Grey",
     "size": "A1L",
     "price": 79.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/baseline-2-0-slim-fit-bjj-gi-black-grey",
     "previous_price": 79.95
   },
@@ -134205,7 +134205,7 @@
     "product": "We Defy Core T-Shirt",
     "size": "L / Black",
     "price": 30.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/we-defy-core-t-shirt",
     "previous_price": 30.0
   },
@@ -137045,7 +137045,7 @@
     "product": "Oni Legend Crewneck Black",
     "size": "S",
     "price": 45.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/oni-legend-crewneck-black",
     "previous_price": 45.95
   },
@@ -138475,7 +138475,7 @@
     "product": "Mizuno Olympic Judo Gi White",
     "size": "3",
     "price": 249.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/mizuno-olympic-judo-gi-white",
     "previous_price": 249.95
   },
@@ -141435,7 +141435,7 @@
     "product": "We Defy Core T-Shirt Black",
     "size": "L",
     "price": 30.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/wedefy-core-t-shirt-black",
     "previous_price": 30.0
   },
@@ -155585,7 +155585,7 @@
     "product": "Bushido Flex Lite Rashguard",
     "size": "S",
     "price": 44.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/bushido-flex-lite-rashguard",
     "previous_price": 44.95
   },
@@ -170205,7 +170205,7 @@
     "product": "Euro Competition Judo Gi Blue",
     "size": "1.5",
     "price": 119.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://fujisports.com/products/euro-competition-judo-gi-blue",
     "previous_price": 119.95
   },
@@ -185085,7 +185085,7 @@
     "product": "Hayabusa Strike Boksschoenen - Wit",
     "size": "44",
     "price": 189.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-strike-boksschoenen-wit",
     "previous_price": 189.0
   },
@@ -189055,7 +189055,7 @@
     "product": "Flow - Challenge Bokshandschoenen - Echt Leer - Paars",
     "size": "12 oz",
     "price": 119.95,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/flow-challenge-bokshandschoenen-echt-leer-paars",
     "previous_price": 119.95
   },
@@ -190935,7 +190935,7 @@
     "product": "Hayabusa T3 LX Bokshandschoenen - Obsidian / Goud",
     "size": "16 oz",
     "price": 229.0,
-    "in_stock": true,
+    "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/hayabusa-t3-lx-bokshandschoenen-obsidian-goud",
     "previous_price": 229.0
   },
@@ -203214,7 +203214,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 1 - Zwart",
     "size": "38",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-1-zwart",
     "previous_price": 139.95
@@ -203224,7 +203224,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 1 - Zwart",
     "size": "39",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-1-zwart",
     "previous_price": 139.95
@@ -203234,7 +203234,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 1 - Zwart",
     "size": "40",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-1-zwart",
     "previous_price": 139.95
@@ -203244,7 +203244,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 1 - Zwart",
     "size": "41",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-1-zwart",
     "previous_price": 139.95
@@ -203254,7 +203254,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 1 - Zwart",
     "size": "42",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-1-zwart",
     "previous_price": 139.95
@@ -203264,7 +203264,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 1 - Zwart",
     "size": "43",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-1-zwart",
     "previous_price": 139.95
@@ -203274,7 +203274,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 1 - Zwart",
     "size": "44",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-1-zwart",
     "previous_price": 139.95
@@ -203284,7 +203284,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 1 - Zwart",
     "size": "45",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-1-zwart",
     "previous_price": 139.95
@@ -203294,7 +203294,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 1 - Zwart",
     "size": "46",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-1-zwart",
     "previous_price": 139.95
@@ -203304,7 +203304,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 2 - Grijs",
     "size": "38",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-2-grijs",
     "previous_price": 139.95
@@ -203314,7 +203314,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 2 - Grijs",
     "size": "39",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-2-grijs",
     "previous_price": 139.95
@@ -203324,7 +203324,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 2 - Grijs",
     "size": "40",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-2-grijs",
     "previous_price": 139.95
@@ -203334,7 +203334,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 2 - Grijs",
     "size": "41",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-2-grijs",
     "previous_price": 139.95
@@ -203344,7 +203344,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 2 - Grijs",
     "size": "42",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-2-grijs",
     "previous_price": 139.95
@@ -203354,7 +203354,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 2 - Grijs",
     "size": "43",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-2-grijs",
     "previous_price": 139.95
@@ -203364,7 +203364,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 2 - Grijs",
     "size": "44",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-2-grijs",
     "previous_price": 139.95
@@ -203374,7 +203374,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 2 - Grijs",
     "size": "45",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-2-grijs",
     "previous_price": 139.95
@@ -203384,7 +203384,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 2 - Grijs",
     "size": "46",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-2-grijs",
     "previous_price": 139.95
@@ -203394,7 +203394,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 3 - Wit",
     "size": "38",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-3-wit",
     "previous_price": 139.95
@@ -203404,7 +203404,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 3 - Wit",
     "size": "39",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-3-wit",
     "previous_price": 139.95
@@ -203414,7 +203414,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 3 - Wit",
     "size": "40",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-3-wit",
     "previous_price": 139.95
@@ -203424,7 +203424,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 3 - Wit",
     "size": "41",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-3-wit",
     "previous_price": 139.95
@@ -203434,7 +203434,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 3 - Wit",
     "size": "42",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-3-wit",
     "previous_price": 139.95
@@ -203444,7 +203444,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 3 - Wit",
     "size": "43",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-3-wit",
     "previous_price": 139.95
@@ -203454,7 +203454,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 3 - Wit",
     "size": "44",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-3-wit",
     "previous_price": 139.95
@@ -203464,7 +203464,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 3 - Wit",
     "size": "45",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": true,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-3-wit",
     "previous_price": 139.95
@@ -203474,7 +203474,7 @@
     "brand": "Booster",
     "product": "Booster Bokschoenen - Rapid Strike Pro series 3 - Wit",
     "size": "46",
-    "price": 139.95,
+    "price": 89.95,
     "in_stock": false,
     "url": "https://kickboxing-shop.nl/products/booster-bokschoenen-rapid-strike-pro-series-3-wit",
     "previous_price": 139.95
@@ -216183,16 +216183,6 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Gear Elite MMA Short Black",
-    "size": "xl",
-    "price": 49.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-elite-mma-short-black/",
-    "previous_price": 49.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Gear Elite MMA Short Black",
     "size": "xxl",
     "price": 49.95,
     "in_stock": true,
@@ -219404,16 +219394,6 @@
     "brand": "Twins",
     "product": "Twins Kickboksbroek TTBL Yant",
     "size": "l",
-    "price": 79.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/twins-kickboksbroek-ttbl-yant/",
-    "previous_price": 79.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Twins",
-    "product": "Twins Kickboksbroek TTBL Yant",
-    "size": "xl",
     "price": 79.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/twins-kickboksbroek-ttbl-yant/",
@@ -224157,7 +224137,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-scheenbeschermers-combat-series-kids-zwart/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -224187,7 +224167,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-kickboksbroek-combat-serie-kids-zwart/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -224207,7 +224187,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-kickboksbroek-combat-serie-kids-zwart/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -224247,7 +224227,7 @@
     "price": 24.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-combat-t-shirt-kids-zwart/",
-    "previous_price": null
+    "previous_price": 24.95
   },
   {
     "shop": "OLB Sports",
@@ -227037,7 +227017,7 @@
     "price": 24.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-combat-t-shirt-kids-roze/",
-    "previous_price": null
+    "previous_price": 24.95
   },
   {
     "shop": "OLB Sports",
@@ -227047,7 +227027,7 @@
     "price": 24.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-combat-t-shirt-kids-roze/",
-    "previous_price": null
+    "previous_price": 24.95
   },
   {
     "shop": "OLB Sports",
@@ -227057,7 +227037,7 @@
     "price": 24.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-combat-t-shirt-kids-roze/",
-    "previous_price": null
+    "previous_price": 24.95
   },
   {
     "shop": "OLB Sports",
@@ -227067,7 +227047,7 @@
     "price": 24.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-combat-t-shirt-kids-goud/",
-    "previous_price": null
+    "previous_price": 24.95
   },
   {
     "shop": "OLB Sports",
@@ -227107,7 +227087,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-kickboksbroek-combat-serie-kids-goud/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -227117,7 +227097,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-kickboksbroek-combat-serie-kids-goud/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -227127,7 +227107,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-kickboksbroek-combat-serie-kids-goud/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -227137,7 +227117,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-kickboksbroek-combat-serie-kids-goud/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -227147,7 +227127,7 @@
     "price": 34.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-kickboksbroek-combat-serie-kids-roze/",
-    "previous_price": null
+    "previous_price": 34.95
   },
   {
     "shop": "OLB Sports",
@@ -227237,7 +227217,7 @@
     "price": 43.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-bokshandschoenen-combat-serie-kids-roze/",
-    "previous_price": null
+    "previous_price": 43.95
   },
   {
     "shop": "OLB Sports",
@@ -227287,7 +227267,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-scheenbeschermers-combat-series-kids-goud/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -227317,7 +227297,7 @@
     "price": 39.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/booster-scheenbeschermers-combat-series-kids-roze/",
-    "previous_price": null
+    "previous_price": 39.95
   },
   {
     "shop": "OLB Sports",
@@ -229183,16 +229163,6 @@
     "shop": "OLB Sports",
     "brand": "Venum",
     "product": "Venum Bokshandschoen Contender 1.5  Black/Black",
-    "size": "12oz",
-    "price": 44.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/venum-bokshandschoen-contender-1-5-black-black/",
-    "previous_price": 44.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Venum",
-    "product": "Venum Bokshandschoen Contender 1.5  Black/Black",
     "size": "14oz",
     "price": 44.95,
     "in_stock": true,
@@ -229843,16 +229813,6 @@
     "shop": "OLB Sports",
     "brand": "Joya",
     "product": "Joya Gear Scheenbeschermers Strike Grey",
-    "size": "m",
-    "price": 114.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-scheenbeschermers-strike-grey/",
-    "previous_price": 114.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Gear Scheenbeschermers Strike Grey",
     "size": "l",
     "price": 114.95,
     "in_stock": true,
@@ -229914,16 +229874,6 @@
     "brand": "Joya",
     "product": "Joya Gear Bokshandschoenen Strike Grey",
     "size": "14oz",
-    "price": 139.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-strike-grey/",
-    "previous_price": 139.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Gear Bokshandschoenen Strike Grey",
-    "size": "16oz",
     "price": 139.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-gear-bokshandschoenen-strike-grey/",
@@ -230838,16 +230788,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-spats-predator-black-white/",
     "previous_price": 29.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Super",
-    "product": "Super Pro Scheenbeschermers Kids Bear",
-    "size": "xxxs",
-    "price": 19.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/super-pro-scheenbeschermers-kids-bear/",
-    "previous_price": 19.99
   },
   {
     "shop": "OLB Sports",
@@ -235548,26 +235488,6 @@
     "in_stock": true,
     "url": "https://olbsports.nl/product/xxl-nutrition-extreme-pump/",
     "previous_price": 26.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Mesh Binnenhandschoen",
-    "size": "m",
-    "price": 14.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-mesh-binnenhandschoen/",
-    "previous_price": 14.99
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Mesh Binnenhandschoen",
-    "size": "l",
-    "price": 14.99,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-mesh-binnenhandschoen/",
-    "previous_price": 14.99
   },
   {
     "shop": "OLB Sports",
@@ -240732,16 +240652,6 @@
   {
     "shop": "OLB Sports",
     "brand": "Joya",
-    "product": "Joya Trapkussen Special Edition Klein Zwart",
-    "size": "One Size",
-    "price": 59.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-trapkussen-special-edition-klein-zwart/",
-    "previous_price": 59.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
     "product": "Joya Velcro Zakhandschoen Zwart",
     "size": "s",
     "price": 39.95,
@@ -240864,16 +240774,6 @@
     "brand": "Joya",
     "product": "Joya Hoofdbeschermer Zwart",
     "size": "m",
-    "price": 44.95,
-    "in_stock": true,
-    "url": "https://olbsports.nl/product/joya-hoofdbeschermer-zwart/",
-    "previous_price": 44.95
-  },
-  {
-    "shop": "OLB Sports",
-    "brand": "Joya",
-    "product": "Joya Hoofdbeschermer Zwart",
-    "size": "xs",
     "price": 44.95,
     "in_stock": true,
     "url": "https://olbsports.nl/product/joya-hoofdbeschermer-zwart/",
