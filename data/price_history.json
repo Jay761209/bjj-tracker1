@@ -862,5 +862,11 @@
     "total_products": 24199,
     "price_drops": 0,
     "new_products": 38
+  },
+  {
+    "date": "2026-11-27",
+    "total_products": 24359,
+    "price_drops": 57,
+    "new_products": 194
   }
 ]
